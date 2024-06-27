@@ -3,8 +3,7 @@ title: "F. R. D. Goodyear"
 date: "2024-05-25"
 categories:
   - "f r d goodyear"
-  - "obituario"
-   - "traducción"
+  - "traducción"
 ---
 
 Jocelyn, H. D. Traducción en español de Eduardo Alemán.
