@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Literatura-Augusta on Mi nuevo blog que utiliza la tecnología Hugo</title>
+    <link>http://localhost:1313/categories/literatura-augusta/</link>
+    <description>Recent content in Literatura-Augusta on Mi nuevo blog que utiliza la tecnología Hugo</description>
+    <generator>Hugo -- 0.127.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/literatura-augusta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Literatura &#34;Augusta&#34; inglesa</title>
+      <link>http://localhost:1313/post/literatura-augusta-inglesa/</link>
+      <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/literatura-augusta-inglesa/</guid>
+      <description>La literatura augusta inglesa se refiere al periodo de la literatura británica que abarca los últimos años del siglo XVII y la primera mitad del siglo XVIII, particularmente durante los reinados de la reina Ana (1702-1714), Jorge I (1714-1727) y Jorge II (1727-1760). Este período también se conoce como la &amp;ldquo;Edad de la Razón&amp;rdquo; o &amp;ldquo;Edad de la Ilustración&amp;rdquo;, caracterizado por una fuerte inclinación hacia la razón, el orden y la claridad en las artes y la literatura.</description>
+    </item>
+  </channel>
+</rss>

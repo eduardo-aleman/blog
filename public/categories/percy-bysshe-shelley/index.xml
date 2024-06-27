@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Percy-Bysshe-Shelley on Mi nuevo blog que utiliza la tecnología Hugo</title>
+    <link>http://localhost:1313/categories/percy-bysshe-shelley/</link>
+    <description>Recent content in Percy-Bysshe-Shelley on Mi nuevo blog que utiliza la tecnología Hugo</description>
+    <generator>Hugo -- 0.127.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/percy-bysshe-shelley/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Percy Bysshe Shelley (Retrato)</title>
+      <link>http://localhost:1313/post/percy-bysshe-shelley-retrato/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/percy-bysshe-shelley-retrato/</guid>
+      <description>Retrato de Alfred Clint, 1819. Basado en el retrato de Amelia Curran, dominio público, vía Wikimedia Commons</description>
+    </item>
+    <item>
+      <title>Shelley y el Simposio de Platón (Artículo de J.A. Notopoulos)</title>
+      <link>http://localhost:1313/post/shelley-y-el-simposio-de-platon/</link>
+      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/shelley-y-el-simposio-de-platon/</guid>
+      <description>Original en inglés: Notopoulos, James A. “Shelley and the ‘Symposium’ of Plato.” The Classical Weekly, vol. 42, no. 7, 1949, pp. 98–102. JSTOR, https://doi.org/10.2307/4342513. Accessed 22 June 2024.
+Traducción en español de Eduardo Alemán.
+Shelley y el Simposio de Platón.1 James A. Notopoulos.
+Todos estamos familiarizados con el elemento de rebelión en el romanticismo inglés. Lo que los historiadores de la erudición clásica descuidan es la importancia del movimiento romántico en la historia de la tradición platónica.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Euripides on Mi nuevo blog que utiliza la tecnología Hugo</title>
+    <link>http://localhost:1313/categories/euripides/</link>
+    <description>Recent content in Euripides on Mi nuevo blog que utiliza la tecnología Hugo</description>
+    <generator>Hugo -- 0.127.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/euripides/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Qué es una diosa? (Nicole Loraux. Frag.)</title>
+      <link>http://localhost:1313/post/que-es-una-diosa/</link>
+      <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/que-es-una-diosa/</guid>
+      <description>«¿Que es una diosa?», Nicole Loraux. Historia de las mujeres en Occidente / Georges Duby (dir.), Michelle Perrot (dir.), Marco Aurelio Galmarini Rodríguez (trad.), Vol. 1, 1991 (La Antigüedad / Pauline Schmitt Pantel (dir.)), ISBN 84-306-9820-5, págs. 29-72.
+Fragmento.
+Una diosa, un mortal. Una escena de tragedia, al final del Hipólito (Hippólytos Stephanophoros), de Eurípides.
+El joven está a punto de morir, atacado por la maldición paterna. Adelantándose al triste cortejo que acompaña al cuerpo desarticulado del hijo de Teseo, Ártemis ya está allí y grita su indignación por tener que dejar morir a su protegido: “El hombre que más querido me era de todos los mortales”.</description>
+    </item>
+  </channel>
+</rss>

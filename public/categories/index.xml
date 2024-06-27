@@ -6,6 +6,49 @@
     <description>Recent content in Categories on Mi nuevo blog que utiliza la tecnología Hugo</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 14 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Escolastica</title>
+      <link>http://localhost:1313/categories/escolastica/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/escolastica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jaime-a-Weisheipl</title>
+      <link>http://localhost:1313/categories/jaime-a-weisheipl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/jaime-a-weisheipl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Medioevo</title>
+      <link>http://localhost:1313/categories/medioevo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/medioevo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tomas-De-Aquino</title>
+      <link>http://localhost:1313/categories/tomas-de-aquino/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/tomas-de-aquino/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Diccionario</title>
+      <link>http://localhost:1313/categories/diccionario/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/diccionario/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>F-R-D-Goodyear</title>
+      <link>http://localhost:1313/categories/f-r-d-goodyear/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/f-r-d-goodyear/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
