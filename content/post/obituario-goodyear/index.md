@@ -1,9 +1,8 @@
 ---
 title: "F. R. D. Goodyear"
 date: "2024-05-25"
-categories: 
-  - "diccionario"
-  - "f-r-d-goodyear"
+categories:
+  - "f r d goodyear"
 ---
 
 Jocelyn, H. D. Traducción al español de Eduardo Alemán.

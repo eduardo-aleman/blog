@@ -3,10 +3,10 @@ title: "La estructura de los Anales de Tácito (Ronald Syme)"
 date: "2024-05-22"
 categories: 
   - "anales"
-  - "antiguedad"
+  - "antigüedad"
   - "roma"
-  - "ronald-syme"
-  - "tacito"
+  - "ronald syme"
+  - "tácito"
 ---
 
 Ronald Syme, _Tacitus_, 1958, Capítulo 21. Traducción en español de Eduardo Alemán.

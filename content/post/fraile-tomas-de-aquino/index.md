@@ -2,10 +2,10 @@
 title: "Fray Tomás de Aquino (Jaime A. Weisheipl)"
 date: "2024-06-14"
 categories: 
-  - "escolastica"
-  - "jaime-a-weisheipl"
+  - "escolástica"
+  - "jaime a weisheipl"
   - "medioevo"
-  - "tomas-de-aquino"
+  - "tomás de aquino"
 ---
 
 Original en inglés: Weisheipl, James A.. Friar Thomas D'Aquino: his life, thought, and work. United Kingdom: Doubleday, 1974. [https://archive.org/details/friarthomasdaqui00jame](https://archive.org/details/friarthomasdaqui00jame) (consultado el 12 de junio, 2024)
