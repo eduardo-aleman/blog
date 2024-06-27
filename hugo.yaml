@@ -1,3 +1,4 @@
-baseURL: https://example.org/
+baseURL: https://ealeman.com/
 languageCode: en-us
-title: My New Hugo Site
+title: El nuevo blog
+theme: ["PaperMod"]
