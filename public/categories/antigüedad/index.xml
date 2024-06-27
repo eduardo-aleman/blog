@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>E N Tigerstedt on Mi nuevo blog</title>
-    <link>http://localhost:1313/categories/e-n-tigerstedt/</link>
-    <description>Recent content in E N Tigerstedt on Mi nuevo blog</description>
+    <title>Antigüedad on Mi nuevo blog</title>
+    <link>http://localhost:1313/categories/antig%C3%BCedad/</link>
+    <description>Recent content in Antigüedad on Mi nuevo blog</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>es</language>
     <lastBuildDate>Sat, 08 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/e-n-tigerstedt/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/antig%C3%BCedad/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Interpretando a Platón (Prefacio. E.N. Tigersted)</title>
       <link>http://localhost:1313/post/interpretando-a-platon/</link>
@@ -17,6 +17,14 @@
 Original en inglés:
 Tigerstedt, E. N. (1977). Interpreting Plato. Switzerland: Almqvist &amp;amp; Wiksell international.
 Para Harold Cherniss Prefacio El presente estudio es una continuación y, de cierta forma, la conclusión de dos estudios anteriores, Plato’s Idea of Poetical Inspiration y The Decline and Fall of the Neoplatonic Interpretation of Plato. Estaba listo para ser impreso en 1973, pero por razones ajenas a la voluntad del autor, no es hasta ahora que ha sido posible su publicación.</description>
+    </item>
+    <item>
+      <title>La estructura de los Anales de Tácito (Ronald Syme)</title>
+      <link>http://localhost:1313/post/xxi-la-estructura-de-los-anales/</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/xxi-la-estructura-de-los-anales/</guid>
+      <description>Ronald Syme, Tacitus, 1958, Capítulo 21. Traducción en español de Eduardo Alemán.
+Cornelio Tácito decidió comenzar con la muerte de Augusto. Lo que sobrevive de sus anales de los Césares desde Tiberio hasta Nerón (en su mayor parte no mucho más de la mitad) indica una estructura de tres grupos, cada uno de los cuales contiene seis libros. La primera héxada abarca el principado de Tiberio, en dos porciones iguales, marcada y explícitamente divididas.</description>
     </item>
   </channel>
 </rss>

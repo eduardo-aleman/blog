@@ -2,3 +2,16 @@ baseURL: https://ealeman.com/
 languageCode: es
 title: Mi nuevo blog
 theme: ["PaperMod"]
+menu:
+  main:
+    - identifier: categories
+      name: categorías
+      url: /categories/
+      weight: 10
+    - identifier: example
+      name: ealeman.com
+      url: https://ealeman.com
+      weight: 30
+Params:
+  ShowReadingTime: true
+  ShowToc: trueToc
