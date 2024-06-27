@@ -344,7 +344,7 @@ Así, en el otoño de 1252, Tomás se fue al Priorato de Saint-Jacques en París
 46. Véase C. H. Haskins, Studies in the History at Mediaeval Science (Cambridge: Harvard 1924), 250. 
 47. Walz, 20. 
 48. Ibid., 20, fn. 7. 
-49. RashdalI, Universities of Europe in the Middle Ages, ed. F. M. Powicke y A. B. Emden (Oxford 1936), II, 24, fn. 1; véase Origlia, [storia dello Studio di Napoli (Naples 1753), I,102. 
+49. RashdalI, Universities of Europe in the Middle Ages, ed. F. M. Powicke y A. B. Emden (Oxford 1936), II, 24, fn. 1; véase Origlia, storia dello Studio di Napoli (Naples 1753), I,102. 
 50. Cf. E. Kantorowicz, op. cit., 267-88. 
 51. Chart. U. P. I, 76-80, n. 20. 
 52. Véase Haskins, op. cit., 242-71. 
