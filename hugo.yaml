@@ -1,4 +1,4 @@
 baseURL: https://ealeman.com/
 languageCode: en-us
-title: Mi nuevo blog que utiliza la tecnología Hugo
+title: Mi nuevo blog
 theme: ["PaperMod"]
