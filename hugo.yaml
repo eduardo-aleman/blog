@@ -15,3 +15,11 @@ menu:
 Params:
   ShowReadingTime: true
   ShowToc: trueToc
+  homeInfoParams:
+    Title: Bienvenidos a mi nuevo blog
+    Content: Me da mucho gusto que estéis aquí. Este blog lo utilizo para publicar traducciones (textos largos), algunos pequeños ensayos (textos medianos) y fotografías.
+  socialIcons: # optional
+    - name: "github"
+      url: "https://github.com/lampsacus"
+    - name: ""
+      url: ""
