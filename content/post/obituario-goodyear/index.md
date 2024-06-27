@@ -3,9 +3,11 @@ title: "F. R. D. Goodyear"
 date: "2024-05-25"
 categories:
   - "f r d goodyear"
+  - "obituario"
+   - "traducción"
 ---
 
-Jocelyn, H. D. Traducción al español de Eduardo Alemán.
+Jocelyn, H. D. Traducción en español de Eduardo Alemán.
 
 Francis Richard David Goodyear tuvo una corta vida laboral. Nació el 2 de febrero de 1936 y murió el 24 de julio de 1987. El alcoholismo asoló sus últimos años. Enseñó en Queens' College, Cambridge, entre 1960 y 1966, en la Universidad de Londres entre 1966 y 1983, y en la Universidad de Witwatersrand (Johannesburgo) entre 1984 y el momento de su muerte. Sus primeras publicaciones le valieron una reputación inmediata entre los latinistas conocedores. El segundo de los cuatro volúmenes que planeó sobre el relato de Tácito sobre el reinado de Tiberio se completó en 1978 y 1979 durante un período de abstinencia autoimpuesta del alcohol. Mostró una nueva amplitud y poder. Lamentablemente, no tendremos más. 
 

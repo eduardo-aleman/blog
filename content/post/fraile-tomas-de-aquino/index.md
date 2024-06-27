@@ -6,6 +6,7 @@ categories:
   - "jaime a weisheipl"
   - "medioevo"
   - "tomás de aquino"
+  - "traducción"
 ---
 
 Original en inglés: Weisheipl, James A.. Friar Thomas D'Aquino: his life, thought, and work. United Kingdom: Doubleday, 1974. [https://archive.org/details/friarthomasdaqui00jame](https://archive.org/details/friarthomasdaqui00jame) (consultado el 12 de junio, 2024)

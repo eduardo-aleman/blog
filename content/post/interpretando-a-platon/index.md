@@ -6,6 +6,7 @@ categories:
   - "e n tigerstedt"
   - "grecia"
   - "platón"
+  - "traducción"
 ---
 
 Interpretando a Platón de Eugène Napoleon Tigerstedt. Prefacio. Traducción en español de Eduardo Alemán.

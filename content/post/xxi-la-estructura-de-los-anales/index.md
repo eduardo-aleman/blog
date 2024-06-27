@@ -7,6 +7,7 @@ categories:
   - "roma"
   - "ronald syme"
   - "tácito"
+  - "traducción"
 ---
 
 Ronald Syme, _Tacitus_, 1958, Capítulo 21. Traducción en español de Eduardo Alemán.
