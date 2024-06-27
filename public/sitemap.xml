@@ -50,6 +50,21 @@
     <loc>http://localhost:1313/post/obituario-goodyear/</loc>
     <lastmod>2024-05-25T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/categories/anales/</loc>
+    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/xxi-la-estructura-de-los-anales/</loc>
+    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/roma/</loc>
+    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/ronald-syme/</loc>
+    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/tacito/</loc>
+    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

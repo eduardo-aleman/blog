@@ -78,5 +78,33 @@
       <guid>http://localhost:1313/categories/f-r-d-goodyear/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Anales</title>
+      <link>http://localhost:1313/categories/anales/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/anales/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Roma</title>
+      <link>http://localhost:1313/categories/roma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/roma/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ronald-Syme</title>
+      <link>http://localhost:1313/categories/ronald-syme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/ronald-syme/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tacito</title>
+      <link>http://localhost:1313/categories/tacito/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/tacito/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
