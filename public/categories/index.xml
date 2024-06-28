@@ -6,8 +6,50 @@
     <description>Recent content in Categories on Mi nuevo blog</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 21 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Actualidad</title>
+      <link>http://localhost:1313/categories/actualidad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/actualidad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Biden</title>
+      <link>http://localhost:1313/categories/biden/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/biden/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ee Uu</title>
+      <link>http://localhost:1313/categories/ee-uu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/ee-uu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Elecciones</title>
+      <link>http://localhost:1313/categories/elecciones/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/elecciones/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Política</title>
+      <link>http://localhost:1313/categories/pol%C3%ADtica/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/pol%C3%ADtica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trump</title>
+      <link>http://localhost:1313/categories/trump/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/trump/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Cristianismo Primitivo</title>
       <link>http://localhost:1313/categories/cristianismo-primitivo/</link>
