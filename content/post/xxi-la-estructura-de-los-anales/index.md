@@ -10,7 +10,7 @@ categories:
   - "traducción"
 ---
 
-Ronald Syme, _Tacitus_, 1958, Capítulo 21. Traducción en español de Eduardo Alemán.
+Syme, Ronald, _Tacitus_, 1958, Capítulo 21. Traducción en español de Eduardo Alemán.
 
 Cornelio Tácito decidió comenzar con la muerte de Augusto. Lo que sobrevive de sus anales de los Césares desde Tiberio hasta Nerón (en su mayor parte no mucho más de la mitad) indica una estructura de tres grupos, cada uno de los cuales contiene seis libros. La primera héxada abarca el principado de Tiberio, en dos porciones iguales, marcada y explícitamente divididas. Que el reinado de un César haya sido dividido en dos partes, la primera marcada por la esperanza y la profesión de buen gobierno (y a menudo también su desempeño), la segunda en declive o corrupta y al borde de la inevitable discordia y calamidad, no fue simplemente una persuasión del vulgo o un esquema literario conveniente, tal como se muestra en el modo más crudo en las operaciones de un biógrafo: no pocas veces se correspondía con los hechos de un gobierno autocrático y, aunque no fuera del todo válido, bien podría ser confirmado más allá de toda duda por un asesinato, por una revolución, o por la negativa del Senado a consagrar al difunto emperador.
 

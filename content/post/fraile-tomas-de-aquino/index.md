@@ -9,14 +9,14 @@ categories:
   - "traducción"
 ---
 
-Original en inglés: Weisheipl, James A.. Friar Thomas D'Aquino: his life, thought, and work. United Kingdom: Doubleday, 1974. [https://archive.org/details/friarthomasdaqui00jame](https://archive.org/details/friarthomasdaqui00jame) (consultado el 12 de junio, 2024)
+Weisheipl, James A., _Friar Thomas D'Aquino: his life, thought, and work_, Preface, Chapter I. Traducción en español de Eduardo Alemán.
+
+Weisheipl, James A.. Friar Thomas D'Aquino: his life, thought, and work. United Kingdom: Doubleday, 1974. [https://archive.org/details/friarthomasdaqui00jame](https://archive.org/details/friarthomasdaqui00jame) (consultado el 12 de junio, 2024)
 
 Fray Tomás de Aquino.  
 Su vida, pensamiento, y obras.  
 Jaime A. Weisheipl, O.P. (Ordinis Praedicatorum).  
 Instituto Pontificio de Estudios Medievales de Toronto.
-
-Traducción en español de Eduardo Alemán.
 
 ### Prefacio
 

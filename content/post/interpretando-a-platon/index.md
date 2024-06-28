@@ -9,11 +9,9 @@ categories:
   - "traducción"
 ---
 
-Interpretando a Platón de Eugène Napoleon Tigerstedt. Prefacio. Traducción en español de Eduardo Alemán.
+Tigerstedt, E. N., 1977. Interpreting Plato, Preface. Traducción en español de Eduardo Alemán.
 
-Original en inglés:
-
-Tigerstedt, E. N. (1977). Interpreting Plato. Switzerland: Almqvist & Wiksell international.
+Fuente: Tigerstedt, E. N. (1977). Interpreting Plato. Switzerland: Almqvist & Wiksell international.
 
 ###### Para Harold Cherniss
 
