@@ -18,7 +18,7 @@ A continuación, las mentiras más flagrantes de Trump durante el debate preside
 
 Trump: “Hablan de un número relativamente pequeño de personas que fueron al Capitolio y en muchos casos fueron acompañadas por la policía”.
 
-Mentira vulgar. El ataque al Capitolio de los Estados Unidos, visto por millones de personas en la televisión, en vídeos y en fotografías reproducidas en periódicos, revistas y el Internet, fue un “el asalto más mortífero a la sede del poder estadounidense en más de 200 años…miles de personas descendieron al Capitolio en lo que se convirtió en una escena brutal de combate cuerpo a cuerpo con la policía.”
+Mentira vulgar. El ataque al Capitolio de los Estados Unidos, visto por millones de personas en la televisión, en vídeos y en fotografías reproducidas en periódicos, revistas y el Internet, fue “el asalto más mortífero a la sede del poder estadounidense en más de 200 años…miles de personas descendieron al Capitolio en lo que se convirtió en una escena brutal de combate cuerpo a cuerpo con la policía.”
 
 Continúa The Associated Press: “En un Memo interno del 7 de marzo de 2023, el jefe de la policía del Capitolio de Estados Unidos, J. Thomas Manger, dijo que la acusación de que “nuestros oficiales ayudaron a los alborotadores y actuaron como ‘guías turísticos’” es “escandalosa y falsa”. Un portavoz de la Policía del Capitolio confirmó la autenticidad del memorando a The Associated Press. Más de 1.400 personas han sido acusadas de delitos federales derivados del motín. Más de 850 personas se han declarado culpables de delitos y otras 200 han sido condenadas en juicio.”
 
