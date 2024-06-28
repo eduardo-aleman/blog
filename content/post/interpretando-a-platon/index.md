@@ -11,8 +11,6 @@ categories:
 
 Tigerstedt, E. N., 1977. Interpreting Plato, Preface. Traducción en español de Eduardo Alemán.
 
-Fuente: Tigerstedt, E. N. (1977). Interpreting Plato. Switzerland: Almqvist & Wiksell international.
-
 ###### Para Harold Cherniss
 
 ### Prefacio
@@ -117,3 +115,5 @@ Aparte de la cuestión de si la caracterización que hace Grote del Platón de l
 20. Op. cit., I, p. IX.
 21. Op. cit., II, pág. 394.
 22. Cfr. La crítica de Zeller (op. cit., II: i, p. 472).
+
+Fuente: Tigerstedt, E. N. (1977). Interpreting Plato. Switzerland: Almqvist & Wiksell international.

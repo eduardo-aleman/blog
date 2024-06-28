@@ -41,3 +41,6 @@ Jocelyn, H. D. “F. R. D. Goodyear.” _Gnomon_, vol. 60, no. 8, 1988, pp. 763
 Nota del traductor:
 
 Léxico griego de Thayer: **σεμνότης** σεμνότης, σεμνητος, ἡ (σεμνός), esa característica de una persona o cosa que da derecho a reverencia o respeto, dignidad, gravedad, majestad, santidad: ἡ τοῦ ἱεροῦ σεμνότης, 2 Macc. 3:12; en sentido ético, gravedad (así R. V. uniformemente (cf. Trench, p. 347)), honor, probidad, pureza: 1 Timoteo 2:2; 1 Timoteo 3:4; Tito 2:7. (Eurípides, Platón, Demóstenes, otros).
+
+Fuente: Jocelyn, H. D. “F. R. D. Goodyear.” Gnomon 60, no. 8 (1988): 763–65. http://www.jstor.org/stable/27690051.
+

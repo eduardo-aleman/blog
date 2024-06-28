@@ -11,8 +11,6 @@ categories:
 
 Weisheipl, James A., _Friar Thomas D'Aquino: his life, thought, and work_, Preface, Chapter I. Traducción en español de Eduardo Alemán.
 
-Weisheipl, James A.. Friar Thomas D'Aquino: his life, thought, and work. United Kingdom: Doubleday, 1974. [https://archive.org/details/friarthomasdaqui00jame](https://archive.org/details/friarthomasdaqui00jame) (consultado el 12 de junio, 2024)
-
 Fray Tomás de Aquino.  
 Su vida, pensamiento, y obras.  
 Jaime A. Weisheipl, O.P. (Ordinis Praedicatorum).  
@@ -355,3 +353,5 @@ Oxford in the early Fourteenth Century,» Mediaeval Studies 26
 54. Calo, Vita, c. 4. Fontes 20. 
 55. Gui, Legenda, c. 3. Fontes 169-70; Foster 26. 
 56. Tocco, Hystoria, c. 5. Fontes 70. Calo, Vita, c. 4. Fontes 20. 
+
+Fuente: Weisheipl, James A.. Friar Thomas D'Aquino: his life, thought, and work. United Kingdom: Doubleday, 1974. [https://archive.org/details/friarthomasdaqui00jame](https://archive.org/details/friarthomasdaqui00jame) (consultado el 12 de junio, 2024)
