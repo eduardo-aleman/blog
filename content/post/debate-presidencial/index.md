@@ -44,7 +44,7 @@ Trump refiriéndose al 6 de enero de 2021, el día en que una turba de sus parti
 
 “El actual impuesto federal sobre los ingresos no se instituyó hasta 1913, y las tasas impositivas han fluctuado significativamente en las décadas posteriores. Las tasas eran más bajas en la década de 1920, justo antes de la Gran Depresión. Trump sí redujo los impuestos durante su estancia en la Casa Blanca, pero las tasas no fueron las más bajas de la historia.
 
-Las regulaciones gubernamentales también han tenido altibajos a lo largo de la historia del país, pero hubo un aumento general de las regulaciones a medida que el país se modernizó y su población creció. Actualmente existen muchas más regulaciones que cubren el medio ambiente, el empleo, las transacciones financieras y otros aspectos de la vida diaria. Mientras que Trump ha cortado algunas regulaciones, no devolvió al país los días menos regulados de su pasado.”
+Las regulaciones gubernamentales también han tenido altibajos a lo largo de la historia del país, pero hubo un aumento general de las regulaciones a medida que el país se modernizó y su población creció. Actualmente existen muchas más regulaciones que cubren el medio ambiente, el empleo, las transacciones financieras y otros aspectos de la vida diaria. Mientras que Trump ha cortado algunas regulaciones, no devolvió al país a los días menos regulados de su pasado.”
 
 ### Sobre la insulina
 
