@@ -2,11 +2,12 @@
 title: "El Ión de Platón: La traducción de Shelley (John Lauritsen)"
 date: "2024-06-16"
 categories: 
-  - "antiguedad"
+  - "antigüedad"
   - "grecia"
   - "john-lauritsen"
   - "percy-bysshe-shelley"
-  - "platon"
+  - "platón"
+  - "traducción"
 ---
 
 A continuación la traducción que he hecho del prefacio y las notas de John Lauritsen en su edición del Ión de Platón traducido por Shelley. He traducido además el diálogo tomando como base esta traducción de Shelley. Puedes encontrar mi traducción [aquí](https://docs.google.com/spreadsheets/d/e/2PACX-1vTqpCd0tBmvNoIRtVYB9va2Tb3v-884feECkHbTK64yG6ssh1mvH_WMok_cITCBiEV9b4Q44W5uLFA5/pubhtml?gid=0&single=true). La primera columna es en griego, la segunda es en inglés (la de Shelley), y la última es la mía en español.

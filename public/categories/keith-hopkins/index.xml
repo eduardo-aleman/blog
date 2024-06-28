@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Keith Hopkins on Mi nuevo blog</title>
+    <link>http://localhost:1313/categories/keith-hopkins/</link>
+    <description>Recent content in Keith Hopkins on Mi nuevo blog</description>
+    <generator>Hugo -- 0.127.0</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 21 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/keith-hopkins/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El número* cristiano y sus implicaciones (Keith Hopkins)</title>
+      <link>http://localhost:1313/post/el-numero-cristiano-y-sus-implicaciones/</link>
+      <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/el-numero-cristiano-y-sus-implicaciones/</guid>
+      <description>Hopkins, Keith. Christian Number and Its Implications. Traducción en español de Eduardo Alemán.
+* Nota del traductor: como se percatará al comenzar a leer este artículo, el concepto &amp;ldquo;número cristiano&amp;rdquo; se refiere al número de cristianos en los primero siglos de nuestra era.
+1. Introducción
+Este artículo* es un experimento tanto en método como en sustancia. En esencia, quiero mostrar que, con toda probabilidad, hubo muy pocos cristianos en el mundo romano, al menos hasta finales del siglo II.</description>
+    </item>
+  </channel>
+</rss>
