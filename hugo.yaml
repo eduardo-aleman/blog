@@ -17,7 +17,7 @@ Params:
   ShowToc: trueToc
   homeInfoParams:
     Title: Bienvenidos a mi nuevo blog
-    Content: Me da mucho gusto que estéis aquí. Este blog lo utilizo para publicar traducciones (textos largos), algunos pequeños ensayos (textos menos largos) y opiniones (textos cortos, medianos o largo, según la importancia que le doy al asunto).
+    Content: Me da mucho gusto que estéis aquí. Este blog lo utilizo para publicar traducciones (textos largos), algunos pequeños ensayos (textos menos largos) y opiniones (textos cortos, medianos o largos, según la importancia que le doy al asunto).
   socialIcons: # optional
     - name: "twitter"
       url: "https://x.com/JEduardoAleman"
