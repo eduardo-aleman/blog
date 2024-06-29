@@ -9,7 +9,7 @@ categories:
   - "traducción"
 ---
 
-Tigerstedt, E. N., 1977. Interpreting Plato, Preface. Traducción en español de Eduardo Alemán.
+Tigerstedt, E. N., [Interpreting Plato](https://amzn.to/3RPLjjX), 1977, Prefacio, Capítulo 1. Traducción en español de Eduardo Alemán.
 
 ###### Para Harold Cherniss
 

@@ -9,7 +9,7 @@ categories:
   - "traducción"
 ---
 
-Weisheipl, James A., [_Thomas D'Aquino: his life, thought, and work_](https://amzn.to/4cZBWGD"), Preface, Chapter I. Traducción en español de Eduardo Alemán.
+Weisheipl, James A., [_Thomas D'Aquino: his life, thought, and work_](https://amzn.to/4cZBWGD), Preface, Chapter I. Traducción en español de Eduardo Alemán.
 
 Fray Tomás de Aquino.  
 Su vida, pensamiento, y obras.  

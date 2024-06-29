@@ -9,7 +9,7 @@ categories:
   - "h c teitler"
 ---
 
-[El último emperador pagano. Juliano el Apóstata y la guerra contra el cristianismo](https://amzn.to/3KnMMJU). H. C. Teitler. Traducción en español de Eduardo Alemán. Fragmento.
+Teitler, H. C., [The Last Pagan Emperor: Julian the Apostate and the War against Christianity](https://amzn.to/3KnMMJU), 2017, Introducción. Traducción en español de Eduardo Alemán. Fragmento.
 
 ### Introducción
 

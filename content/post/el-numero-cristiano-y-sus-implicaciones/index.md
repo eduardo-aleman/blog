@@ -7,11 +7,11 @@ categories:
   - "traducción"
 ---
 
-Hopkins, Keith. _Christian Number and Its Implications_. Traducción en español de Eduardo Alemán.
+Hopkins, Keith. _El número cristiano y sus implicaciones_, [Sociological Studies in Roman History (Cambridge Classical Studies)](https://amzn.to/4cnFDFU), Chapter 12, 2023. Traducción en español de Eduardo Alemán.
 
 \* Nota del traductor: como se percatará al comenzar a leer este artículo, el concepto "número cristiano" se refiere al número de cristianos en los primero siglos de nuestra era.
 
-### 1\. Introducción
+### Introducción
 
 Este artículo\* es un experimento tanto en método como en sustancia. En esencia, quiero mostrar que, con toda probabilidad, hubo muy pocos cristianos en el mundo romano, al menos hasta finales del siglo II. Luego exploro las implicaciones de un número pequeño, tanto en términos absolutos como en proporción a la población total del imperio. 1
 
@@ -281,4 +281,4 @@ Complementariamente, la retórica de la sencillez y el llamamiento a los tontos 
 
 54	Por supuesto, Justino, Tertuliano, Clemente y Orígenes están vistiendo los argumentos cristianos con ropas cada vez más educadas, pero el llamamiento a la sencillez, la pobreza y la caridad permanece y persiste como figura retórica y como estímulo a la acción. Véase Brown 1992. 
 
-Fuente: Hopkins, Keith. “Christian Number and Its Implications.” *Sociological Studies in Roman History*. Ed. Christopher Kelly. Cambridge: Cambridge University Press, 2017. 398–431. Print. Cambridge Classical Studies.
+Fuente: Hopkins, Keith. “Christian Number and Its Implications.” Chapter in *Sociological Studies in Roman History*. Ed. Christopher Kelly. Cambridge: Cambridge University Press, 2017. 398–431. Print. Cambridge Classical Studies.
