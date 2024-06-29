@@ -7,7 +7,7 @@ categories:
   - "traducción"
 ---
 
-Hopkins, Keith. _El número cristiano y sus implicaciones_, [Sociological Studies in Roman History (Cambridge Classical Studies)](https://amzn.to/4cnFDFU), Capítulo 12, 2023. Traducción en español de Eduardo Alemán.
+Hopkins, Keith. _El número cristiano y sus implicaciones_, [Sociological Studies in Roman History (Cambridge Classical Studies)](https://amzn.to/4cnFDFU), 2023, Capítulo 12. Traducción en español de Eduardo Alemán.
 
 \* Nota del traductor: como se percatará al comenzar a leer este artículo, el concepto "número cristiano" se refiere al número de cristianos en los primero siglos de nuestra era.
 
