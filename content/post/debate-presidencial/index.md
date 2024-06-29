@@ -52,7 +52,7 @@ Biden: “Una inyección de insulina cuesta 15 dólares, en lugar de 400 dólare
 
 “Los hechos: No, eso no es exactamente correcto. Los costos de bolsillo de la insulina para los estadounidenses mayores con Medicare se limitaron a $35 en la Ley de Reducción de la Inflación de 2022 que el presidente Joe Biden promulgó. El límite entró en vigor el año pasado, cuando muchos fabricantes de medicamentos anunciaron que reducirían el precio del medicamento a 35 dólares para la mayoría de los usuarios con seguro privado. Pero Biden suele exagerar que muchas personas solían pagar hasta 400 dólares mensuales. Las personas con diabetes que tienen Medicare o seguro privado pagaban alrededor de $450 al año antes de la ley, informó el Departamento de Salud y Servicios Humanos en un estudio publicado en diciembre de 2022".
 
-### Sobre los cambios climáticos y a conservación del medio ambiente
+### Sobre los cambios climáticos y la conservación del medio ambiente
 
 Trump, haciendo alarde de su historial medioambiental, dijo que “durante mis cuatro años, obtuve las mejores cifras medioambientales de la historia” y que apoya un aire y un agua “inmaculados”.
 
