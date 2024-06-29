@@ -6,14 +6,50 @@
     <description>Recent content in Diccionario on Mi nuevo blog</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 18 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/diccionario/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Anáfora</title>
       <link>http://localhost:1313/post/anafora/</link>
-      <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/anafora/</guid>
       <description>La anáfora es una figura retórica que consiste en la repetición deliberada de una palabra o frase al comienzo de varias cláusulas, oraciones o versos consecutivos. Esta repetición tiene el efecto de enfatizar una idea, crear un ritmo o resaltar una emoción. La anáfora es una herramienta poderosa en la poesía, la prosa y los discursos para captar la atención del lector o del oyente y para subrayar un tema o un sentimiento específico.</description>
+    </item>
+    <item>
+      <title>Palimpsesto</title>
+      <link>http://localhost:1313/post/palimpsesto/</link>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/palimpsesto/</guid>
+      <description>Un palimpsesto es un manuscrito en el que el texto original ha sido borrado o eliminado para que el material de escritura (generalmente pergamino, papiro o vitela) pueda ser reutilizado para escribir un nuevo texto. Esta práctica era común en la antigüedad y en la Edad Media debido a la escasez y al alto costo de los materiales de escritura. A pesar de los intentos de borrar el texto original, a menudo quedaban rastros que pueden ser recuperados y estudiados con técnicas modernas.</description>
+    </item>
+    <item>
+      <title>Ablativo</title>
+      <link>http://localhost:1313/post/ablativo/</link>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/ablativo/</guid>
+      <description>El ablativo es un caso gramatical presente en varios idiomas antiguos y algunos modernos, como el latín, el sánscrito, y el ruso, aunque con diferentes funciones y usos específicos en cada lengua.
+En latín En latín, el ablativo tiene múltiples funciones y se utiliza en varias construcciones gramaticales. Aquí hay algunas de sus principales funciones:
+Ablativo de separación: Indica separación o alejamiento.
+Ejemplo: &amp;ldquo;Urbe discedit&amp;rdquo; (Él se aleja de la ciudad).</description>
+    </item>
+    <item>
+      <title>Acusativo</title>
+      <link>http://localhost:1313/post/acusativo/</link>
+      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/acusativo/</guid>
+      <description>Caso Acusativo en Latín En latín, el caso acusativo tiene varias funciones importantes:
+Objeto Directo: Marca el objeto directo de la acción del verbo.
+Ejemplo: &amp;ldquo;Puella librum legit&amp;rdquo; (La niña lee el libro). Movimiento hacia un Lugar: Indica dirección o destino hacia un lugar.
+Ejemplo: &amp;ldquo;Romam it&amp;rdquo; (Va a Roma). Duración de Tiempo: Indica cuánto tiempo dura una acción.
+Ejemplo: &amp;ldquo;Multos annos vixit&amp;rdquo; (Vivió muchos años). Extensión en el Espacio: Describe la extensión de algo en términos espaciales.</description>
+    </item>
+    <item>
+      <title>Aoristo</title>
+      <link>http://localhost:1313/post/aoristo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/aoristo/</guid>
+      <description>El aoristo es un tiempo verbal en griego antiguo que expresa acciones puntuales, completadas o simples sin especificar si la acción fue prolongada o repetitiva. Es uno de los tiempos verbales más importantes en el griego antiguo y tiene varios aspectos que son fundamentales para comprender su uso y conjugación.
+Aspectos del Aoristo Aoristo Simple (o Puntual): Este aspecto se utiliza para describir una acción que ocurrió en un momento específico en el pasado, sin referencia a su duración o repetición.</description>
     </item>
   </channel>
 </rss>

@@ -4,8 +4,8 @@ date: "2024-06-16"
 categories: 
   - "antigüedad"
   - "grecia"
-  - "john-lauritsen"
-  - "percy-bysshe-shelley"
+  - "john lauritsen"
+  - "percy bysshe shelley"
   - "platón"
   - "traducción"
 ---

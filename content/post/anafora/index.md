@@ -1,6 +1,6 @@
 ---
 title: "Anáfora"
-date: "2024-06-18"
+date: "2024-03-02"
 categories: 
   - "diccionario"
 ---

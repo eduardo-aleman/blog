@@ -72,13 +72,6 @@
       <description></description>
     </item>
     <item>
-      <title>Diccionario</title>
-      <link>http://localhost:1313/categories/diccionario/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/diccionario/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Antigüedad</title>
       <link>http://localhost:1313/categories/antig%C3%BCedad/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -93,14 +86,14 @@
       <description></description>
     </item>
     <item>
-      <title>John-Lauritsen</title>
+      <title>John Lauritsen</title>
       <link>http://localhost:1313/categories/john-lauritsen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/john-lauritsen/</guid>
       <description></description>
     </item>
     <item>
-      <title>Percy-Bysshe-Shelley</title>
+      <title>Percy Bysshe Shelley</title>
       <link>http://localhost:1313/categories/percy-bysshe-shelley/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/percy-bysshe-shelley/</guid>
@@ -184,17 +177,31 @@
       <description></description>
     </item>
     <item>
-      <title>Constantinopla</title>
-      <link>http://localhost:1313/categories/constantinopla/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/constantinopla/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Emperadores</title>
       <link>http://localhost:1313/categories/emperadores/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/emperadores/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>H C Teitler</title>
+      <link>http://localhost:1313/categories/h-c-teitler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/h-c-teitler/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Juliano</title>
+      <link>http://localhost:1313/categories/juliano/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/juliano/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Constantinopla</title>
+      <link>http://localhost:1313/categories/constantinopla/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/constantinopla/</guid>
       <description></description>
     </item>
     <item>
@@ -209,6 +216,13 @@
       <link>http://localhost:1313/categories/procopio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/procopio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Diccionario</title>
+      <link>http://localhost:1313/categories/diccionario/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/diccionario/</guid>
       <description></description>
     </item>
   </channel>
