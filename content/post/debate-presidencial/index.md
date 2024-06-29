@@ -121,6 +121,7 @@ De manera similar, las tasas hipotecarias promedio a 30 años cayeron al 2,65% d
 ### Sobre las muertes militares
 
 Biden: “La verdad es que soy el único presidente de este siglo que no tiene, en esta década, tropas muriendo en ningún lugar del mundo como él”.
+
 Mentira: “Al menos 16 miembros del servicio han muerto en acciones hostiles desde que Biden asumió el cargo en enero de 2021. El 26 de agosto de 2021, 13 murieron durante un atentado suicida con bomba en el aeropuerto internacional Hamid Karzai en Kabul, Afganistán, mientras las tropas estadounidenses se retiró del país. Un dron enemigo mató a tres Miembros del servicio estadounidense en una base en el desierto de Jordania el 28 de enero de este año.”
 
 ### Acerca del expediente presidencial
@@ -132,6 +133,7 @@ Biden: “159, o 58, no saben un número exacto, historiadores presidenciales, t
 ### Acerca de las protestas por el asesinato de George Floyd
 
 Trump, sobre las protestas en Minneapolis tras el asesinato de George Floyd: “Si no hubiera traído a la Guardia Nacional, esa ciudad habría sido destruida”.
+
 Mentira: “Trump no llamó a la Guardia Nacional a Minneapolis durante los disturbios que siguieron a la muerte de George Floyd. El gobernador de Minnesota, Tim Walz, desplegó la Guardia Nacional en la ciudad.”
 
 
