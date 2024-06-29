@@ -1,6 +1,6 @@
 ---
 title: "Palimpsesto"
-date: "2023-04-11"
+date: "2024-04-11"
 categories: 
   - "diccionario"
 ---
