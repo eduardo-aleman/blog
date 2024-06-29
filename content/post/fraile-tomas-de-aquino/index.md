@@ -9,7 +9,7 @@ categories:
   - "traducción"
 ---
 
-Weisheipl, James A., _Friar Thomas D'Aquino: his life, thought, and work_, Preface, Chapter I. Traducción en español de Eduardo Alemán.
+Weisheipl, James A., [_Thomas D'Aquino: his life, thought, and work_](https://amzn.to/4cZBWGD"), Preface, Chapter I. Traducción en español de Eduardo Alemán.
 
 Fray Tomás de Aquino.  
 Su vida, pensamiento, y obras.  
@@ -30,9 +30,9 @@ La vida de Fray Tomás de Aquino se extiende a mediados de los cincuenta años d
 
 _Alcanzando en breve la perfección, llenó largos años._
 
-_Su alma era del agrado del Señor,_ 
+_Su alma era del agrado del Señor,_
 
-_por eso se apresuró a sacarle de entre la maldad._ 
+_por eso se apresuró a sacarle de entre la maldad._
 
 Incluso los hombres que no son tomistas deben detenerse y maravillarse ante la vida de este santo que dirigió todas sus energías a la búsqueda de la verdad.
 
