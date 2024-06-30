@@ -11,6 +11,9 @@
     <loc>http://localhost:1313/categories/biden/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -18,9 +21,6 @@
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/elecciones/</loc>
-    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/pol%C3%ADtica/</loc>

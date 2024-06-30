@@ -1,6 +1,6 @@
 baseURL: https://ealeman.com/
 languageCode: es
-title: Mi nuevo blog
+title: Blog/Bitácora
 theme: ["PaperMod"]
 menu:
   main:
