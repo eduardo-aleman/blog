@@ -1,5 +1,5 @@
 ---
-title: "Fray Tomás de Aquino (Jaime A. Weisheipl)"
+title: "El Tucídides esencial. Introducción. (Paul Woodruff)"
 date: "2024-06-30"
 categories: 
   - "antigüedad"
