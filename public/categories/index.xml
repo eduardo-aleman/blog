@@ -6,8 +6,50 @@
     <description>Recent content in Categories on Blog/Bitácora</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Antigüedad</title>
+      <link>http://localhost:1313/categories/antig%C3%BCedad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/antig%C3%BCedad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Grecia</title>
+      <link>http://localhost:1313/categories/grecia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/grecia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Guerra Del Peloponeso</title>
+      <link>http://localhost:1313/categories/guerra-del-peloponeso/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/guerra-del-peloponeso/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Paul Woodruff</title>
+      <link>http://localhost:1313/categories/paul-woodruff/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/paul-woodruff/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Traducción</title>
+      <link>http://localhost:1313/categories/traducci%C3%B3n/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/traducci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tucídides</title>
+      <link>http://localhost:1313/categories/tuc%C3%ADdides/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/tuc%C3%ADdides/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Actualidad</title>
       <link>http://localhost:1313/categories/actualidad/</link>
@@ -62,27 +104,6 @@
       <link>http://localhost:1313/categories/keith-hopkins/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/keith-hopkins/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Traducción</title>
-      <link>http://localhost:1313/categories/traducci%C3%B3n/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/traducci%C3%B3n/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Antigüedad</title>
-      <link>http://localhost:1313/categories/antig%C3%BCedad/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/antig%C3%BCedad/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Grecia</title>
-      <link>http://localhost:1313/categories/grecia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/grecia/</guid>
       <description></description>
     </item>
     <item>

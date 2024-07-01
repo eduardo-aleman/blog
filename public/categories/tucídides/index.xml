@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tucídides on Blog/Bitácora</title>
+    <link>http://localhost:1313/categories/tuc%C3%ADdides/</link>
+    <description>Recent content in Tucídides on Blog/Bitácora</description>
+    <generator>Hugo -- 0.127.0</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 30 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/tuc%C3%ADdides/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fray Tomás de Aquino (Jaime A. Weisheipl)</title>
+      <link>http://localhost:1313/post/guerra-del-peloponeso-tucidides/</link>
+      <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/guerra-del-peloponeso-tucidides/</guid>
+      <description>Woodruff, Paul., The Essential Thucydides: On Justice, Power, and Human Nature: Selections from The History of the Peloponnesian War Second Edition, Expanded and Revised, 2021, Introducción. Traducción en español de Eduardo Alemán.
+El Tucídides esencial: sobre la justicia, el poder y la naturaleza humana
+Selecciones de La historia de la guerra del Peloponeso
+Introducción El autor ¿Quién es como Tucídides? Nos recuerda a los eruditos modernos de la historia cuando elimina los mitos de las viejas historias (1,20, 6,54), pero pocos historiadores son tan hábiles en la selección y organización del material o tan silenciosos ante las contradictorias fuentes.</description>
+    </item>
+  </channel>
+</rss>
