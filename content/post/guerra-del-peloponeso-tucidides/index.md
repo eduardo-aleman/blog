@@ -1,6 +1,6 @@
 ---
 title: "El Tucídides esencial (Paul Woodruff)"
-date: "2024-06-30"
+date: "2024-07-01"
 categories: 
   - "antigüedad"
   - "grecia"
