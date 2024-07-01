@@ -153,3 +153,43 @@ Después de la disolución de las tiranías en Grecia, no pasó mucho tiempo ant
 \[19\] Los lacedemonios dirigieron a sus aliados sin exigirles ningún pago, pero se aseguraron de que estuvieran gobernados por una oligarquía, que sólo servía a sus intereses. Sin embargo, con el tiempo, los atenienses tomaron en sus manos los barcos de todos sus aliados excepto Quíos y Lesbos, y ordenaron a cada uno de ellos que hiciera ciertos pagos monetarios. Y así resultó que la preparación militar de cada bando por sí sola fue mayor al comienzo de esta guerra que cuando la alianza \[contra Persia\] estaba intacta y floreciente.
 
 \[20\] Tal era, entonces, el estado de Grecia en el pasado tal como lo encontré, aunque determinadas evidencias pueden ser difíciles de creer.
+
+Sobre el método histórico
+-------------------------
+
+La gente recibe informes sobre el pasado de todos por igual, sin ponerlos a prueba, incluso informes sobre su propio país. La mayoría de los atenienses, por ejemplo, piensan que Hiparco era un tirano cuando fue asesinado por Harmodio y Aristogeiton, y no saben que era Hipias quien estaba en el poder, ya que era el hijo mayor de Pisístrato, y Hiparco y Tesalo eran sus hermanos. De hecho, el mismo día y en el mismo momento del hecho, Harmodio y Aristogeiton sospecharon que algunos de sus cómplices le habían contado a Hipias el complot. Así que lo evitaron como si hubieran sido advertidos, pero aún así querían hacer algo atrevido antes de ser capturados. Cuando se encontraron por casualidad con Hiparco en el Leocorium, donde organizaba la Procesión Panatenaica, lo mataron.32
+
+32\. Una versión más larga de esta historia se encuentra en **6,54**–59.
+
+Otros griegos tienen opiniones equivocadas sobre muchos temas que son actuales y no se olvidan con el paso del tiempo, por ejemplo, que los reyes lacedemonios tienen dos votos cada uno, en lugar de uno, y que tienen allí una unidad militar llamada "Pitanato", que nunca existió.33 Esto muestra hasta qué punto la búsqueda de la verdad pone a prueba la paciencia de la mayoría de las personas, que prefieren creer en lo primero que les llegue a las manos. \[21\] Pero si la evidencia citada lleva al lector a pensar que las cosas eran en su mayor parte como las he descrito, no se equivocaría, como lo haría si creyera lo que los poetas han cantado sobre ellas, que han embellecido mucho, o lo que los prosistas han hilado, que pretende más deleitar el oído que ser verdad. Verá, sus relatos no se pueden probar y muchos no son creíbles, ya que con el tiempo han alcanzado el estatus de mito. Pero el lector debe creer que he investigado estos asuntos adecuadamente, considerando su antigüedad, utilizando la mejor evidencia disponible. La gente siempre piensa que la guerra más grande es la que están librando en este momento, y cuando eso termina, quedan más impresionados con las guerras de la antigüedad; pero, aun así, esta guerra demostrará, a todos los que observen los hechos, que fue mayor que las demás.
+
+33\. “Otros griegos tienen opiniones equivocadas”: esto puede referirse simplemente a creencias populares de la época; pero también puede ser una crítica implícita a Heródoto, quien dijo que los reyes espartanos tenían dos votos cada uno en 7,57, y quien se refirió a la unidad Pitanato en 9,53.
+
+\[22\] Las palabras que ciertas personas dijeron en sus discursos, ya sea justo antes o durante la guerra, fueron difíciles de registrar con exactitud, ya fueran discursos que yo mismo escuché o aquellos que me fueron reportados de segunda mano. He escrito lo que pensé que la situación exigía de cada orador, manteniéndome lo más cerca posible del sentido general de lo que realmente se dijo.
+
+Y en cuanto a las acciones reales de la guerra, no me pareció correcto exponer ni lo que oí de la gente que encontré por casualidad ni lo que simplemente creía que era cierto. Incluso en los eventos en los que yo mismo estuve presente, busqué información detallada de otras fuentes en la medida de lo posible. Fue un trabajo duro descubrir qué pasó, porque los que estuvieron presentes en cada evento dieron informes diferentes, dependiendo de qué lado estaban y qué tan bien recordaban.34
+
+Esta historia tal vez no sea la más agradable de escuchar, ya que no contiene mitología.35 Pero aquellos que quieran investigar la verdad de lo que se hizo en el pasado, que, dada la condición humana, se repetirá en el futuro, ya sea de la misma manera o casi igual, esos lectores encontrarán esta _Historia_ suficientemente valiosa, ya que fue compuesta para la eternidad, y no para ser escuchada para obtener un premio durante una competencia.
+
+34\. Ver también **5**.**26**, 5,68, y **7**.**44** sobre los métodos de Tucídides y las dificultades que encontró al aplicarlos. Nótese el contraste entre palabra y acción en los dos primeros párrafos de **1.22**; ese contraste se hará a menudo en los discursos que informa Tucídides.
+
+35\. “Sin mitología”: Tucídides escribe la historia sin hacer referencia a ninguna intervención de los dioses. En esto sigue el nuevo conocimiento enseñado por los sofistas y otros, quienes ofrecieron explicaciones naturalistas en lugar de explicaciones sobrenaturales. Tucídides explica los acontecimientos humanos en términos de la naturaleza humana y la condición humana.
+
+Orígenes de la guerra
+---------------------
+
+### La explicación de Tucídides de la guerra
+
+\[23\] El acontecimiento anterior de mayor envergadura fue la guerra contra los persas, e incluso ésta se decidió rápidamente mediante dos batallas en el mar y dos en tierra.36 Pero la Guerra del Peloponeso duró mucho tiempo y trajo más sufrimiento a Grecia que nunca antes se había visto: tantas ciudades capturadas y despobladas (algunas por extranjeros, otras por los propios griegos en guerra entre sí, algunas de estas inclusos fueron reasentadas con nuevos habitantes); nunca tanta gente había sido expulsada de sus países o asesinada, ya sea por la guerra misma o como resultado de conflictos civiles.
+
+Los cuentos que se hacen sobre épocas anteriores, pero que son escasamente confirmados en la realidad, de repente dejaron de ser increíbles: cuentos de terremotos que ocurrieron en la mayor parte de la Tierra en ese momento, bastante violentos, eclipses de sol, que fueron más frecuentes de lo que se registra en los relatos de épocas anteriores, (grandes sequías en algunos lugares seguidas de hambrunas) y, algo que causó enormes daños y pérdidas de vidas, la peste.
+
+Todas estas dificultades les sobrevinieron durante esta guerra, que comenzó cuando los atenienses y el Peloponeso rompieron la Paz de Treinta Años que habían acordado entre ellos después de la conquista de Eubea. Primero escribiré una relación de las disputas que explican la ruptura de la paz, para que nadie se pregunte jamás cómo pudo surgir una guerra tan enorme entre los griegos. Creo que la razón más cierta de la disputa, aunque menos evidente según lo que entonces se dijo, fue el crecimiento del poder ateniense, que infundió miedo a los lacedemonios y los obligó a la guerra,37 mientras que las explicaciones que ambos bandos dieron en público para el rompimiento de la paz y comenzar la guerra son los siguientes.
+
+36\. Las batallas navales de Salamina (480) y Micala (479) o posiblemente Artemisio (480), y las batallas terrestres de Termópilas (480) y Platea (479).
+
+37\. “Los obligó a la guerra”: los estudiosos difieren sobre cómo tomar esto. La comparación con pasajes paralelos sugiere que Tucídides no significa que la guerra fuera simplemente inevitable, sino que la gente de ambos bandos se _sintió_ obligada a ello por un miedo mutuo. Compulsión (_anankē_) es una necesidad subjetiva. Sobre la interpretación de _anankē_ consulte la Introducción, xli–xliii.
+
+### Conflicto entre Corcira y Corinto
+
+_La isla de Corcira había sido una colonia de Corinto, pero entró en conflicto con Corinto por Epidamno, una ciudad que ambos bandos reclamaban como su colonia. Corcira intentó resolver el problema de manera amistosa, recurriendo al arbitraje, pero Corinto no estuvo de acuerdo. En una gran batalla naval, Corcira humilló a Corinto (1,24-30)._
