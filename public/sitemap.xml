@@ -11,13 +11,16 @@
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/guerra-del-peloponeso-tucidides/</loc>
-    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/grecia/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/guerra-del-peloponeso/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/guerra-del-peloponeso-libro-1-tucidides/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/libro-1/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/paul-woodruff/</loc>
@@ -32,10 +35,7 @@
     <loc>http://localhost:1313/categories/tuc%C3%ADdides/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/guerra-del-peloponeso-libro-1-tucidides/</loc>
-    <lastmod>2024-06-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/libro-1/</loc>
+    <loc>http://localhost:1313/post/guerra-del-peloponeso-tucidides/</loc>
     <lastmod>2024-06-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/debate-presidencial/</loc>
