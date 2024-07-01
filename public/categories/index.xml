@@ -30,6 +30,13 @@
       <description></description>
     </item>
     <item>
+      <title>Libro 1</title>
+      <link>http://localhost:1313/categories/libro-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/libro-1/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Paul Woodruff</title>
       <link>http://localhost:1313/categories/paul-woodruff/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
