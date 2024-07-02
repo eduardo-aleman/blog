@@ -1,10 +1,27 @@
 baseURL: https://ealeman.com/
-languageCode: es-es
-locale:
-  date_format: '2 jan 2006'
-  time_format: '3:04 PM'
-  address_format: es-es
-title: Blog/Bitácora
+defaultContentLanguage: es
+defaultContentLanguageInSubdir: false
+languages:
+  es:
+    contentDir: 
+    disabled: false
+    languageCode: es-es
+    languageDirection: ltr
+    languageName: Spanish
+    params:
+      subtitle: Traducciones, ensayos y opiniones
+    title: Blog/Bitácora
+    weight: 1
+  en:
+    contentDir: content/en
+    disabled: false
+    languageCode: en-US
+    languageDirection: ltr
+    languageName: English
+    params:
+      subtitle: Translations, Essays, and Opinions
+    title: Blog
+    weight: 2
 theme: ["PaperMod"]
 menu:
   main:
@@ -24,7 +41,7 @@ Params:
   ShowToc: trueToc
   homeInfoParams:
     Title: Bienvenidos a mi nuevo blog
-    Content: Me da mucho gusto que estéis aquí. Este blog lo utilizo para publicar traducciones (textos largos), algunos pequeños ensayos y opiniones (textos cortos, medianos o largos, según la importancia que le doy al asunto). I'm glad you're here, whoever you are. I use this blog to publish translations (long texts), some short essays, and opinions (short, medium or long texts, depending on the importance I give to the matter).
+    Content: Me da mucho gusto que estéis aquí. Este blog lo utilizo para publicar traducciones (textos largos), algunos pequeños ensayos y opiniones (textos cortos, medianos o largos, según la importancia que le doy al asunto).
   socialIcons: # optional
     - name: "twitter"
       url: "https://x.com/JEduardoAleman"
