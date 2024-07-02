@@ -186,7 +186,7 @@ Todas estas dificultades sobrevinieron durante esta guerra, que comenzó cuando 
 
 36\. Las batallas navales de Salamina (480) y Micala (479) o posiblemente Artemisio (480), y las batallas terrestres de Termópilas (480) y Platea (479).
 
-37\. “Los obligó a la guerra”: los estudiosos difieren sobre cómo tomar esto. La comparación con pasajes paralelos sugiere que Tucídides no significa que la guerra fuera simplemente inevitable, sino que la gente en ambos bandos se _sintió_ obligada a razón de un miedo mutuo. Compulsión (_anankē_) es una necesidad subjetiva. Sobre la interpretación de _anankē_ consulte la Introducción, xli–xliii.
+37\. “Los obligó a la guerra”: los estudiosos difieren sobre cómo tomar esto. La comparación con pasajes paralelos sugiere que Tucídides no significa que la guerra fuera simplemente inevitable, sino que la gente en ambos bandos se _sintió_ obligada a razón de un miedo mutuo. La compulsión (_anankē_) es una necesidad subjetiva. Sobre la interpretación de _anankē_ consulte la Introducción, xli–xliii.
 
 ### Conflicto entre Corcira y Corinto
 
