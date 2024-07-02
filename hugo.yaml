@@ -15,6 +15,7 @@ menu:
 Params:
   ShowReadingTime: true
   hideFooter: true
+  ShowShareButtons: true
   ShowToc: trueToc
   homeInfoParams:
     Title: Bienvenidos a mi nuevo blog
