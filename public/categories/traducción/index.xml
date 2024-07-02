@@ -5,17 +5,9 @@
     <link>http://localhost:1313/categories/traducci%C3%B3n/</link>
     <description>Recent content in Traducción on Blog/Bitácora</description>
     <generator>Hugo -- 0.127.0</generator>
-    <language>es</language>
-    <lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <language>es-es</language>
+    <lastBuildDate>Sun, 30 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/traducci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Historia de la guerra del Peloponeso (Tucídides)</title>
-      <link>http://localhost:1313/post/guerra-del-peloponeso-libro-1-tucidides/</link>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/guerra-del-peloponeso-libro-1-tucidides/</guid>
-      <description>Woodruff, Paul., The Essential Thucydides: On Justice, Power, and Human Nature: Selections from The History of the Peloponnesian War Second Edition, Expanded and Revised, 2021, Libro 1. Traducción en español de Eduardo Alemán.
-Libro 1 Historia temprana, método y causa de la guerra Tucídides comienza con un breve prefacio seguido de una investigación de los inicios de la civilización griega. Esta sección, conocida como “la Arqueología”, es importante principalmente como ilustración del método histórico.</description>
-    </item>
     <item>
       <title>El Tucídides esencial (Paul Woodruff)</title>
       <link>http://localhost:1313/post/guerra-del-peloponeso-tucidides/</link>
@@ -78,6 +70,14 @@ Francis Richard David Goodyear tuvo una corta vida laboral. Nació el 2 de febre
       <guid>http://localhost:1313/post/xxi-la-estructura-de-los-anales/</guid>
       <description>Syme, Ronald, Tacitus, 1958, Capítulo 21. Traducción en español de Eduardo Alemán.
 Cornelio Tácito decidió comenzar con la muerte de Augusto. Lo que sobrevive de sus anales de los Césares desde Tiberio hasta Nerón (en su mayor parte no mucho más de la mitad) indica una estructura de tres grupos, cada uno de los cuales contiene seis libros. La primera héxada abarca el principado de Tiberio, en dos porciones iguales, marcada y explícitamente divididas.</description>
+    </item>
+    <item>
+      <title>Historia de la guerra del Peloponeso (Tucídides)</title>
+      <link>http://localhost:1313/post/guerra-del-peloponeso-libro-1-tucidides/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/guerra-del-peloponeso-libro-1-tucidides/</guid>
+      <description>Woodruff, Paul., The Essential Thucydides: On Justice, Power, and Human Nature: Selections from The History of the Peloponnesian War Second Edition, Expanded and Revised, 2021, Libro 1. Traducción en español de Eduardo Alemán.
+Libro 1 Historia temprana, método y causa de la guerra Tucídides comienza con un breve prefacio seguido de una investigación de los inicios de la civilización griega. Esta sección, conocida como “la Arqueología”, es importante principalmente como ilustración del método histórico.</description>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,6 @@
 ---
 title: "Historia de la guerra del Peloponeso (Tucídides)"
-date: "2024-07-01"
+date: "01-07-2024"
 categories: 
   - "antigüedad"
   - "grecia"

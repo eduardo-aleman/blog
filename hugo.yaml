@@ -1,5 +1,9 @@
 baseURL: https://ealeman.com/
-languageCode: es
+languageCode: es-es
+locale:
+  date_format: '2 jan 2006'
+  time_format: '3:04 PM'
+  address_format: es-es
 title: Blog/Bitácora
 theme: ["PaperMod"]
 menu:
@@ -8,7 +12,7 @@ menu:
       name: categorías
       url: /categories/
       weight: 10
-    - identifier: example
+    - identifier: website
       name: ealeman.com
       url: https://ealeman.com
       weight: 30
@@ -16,6 +20,7 @@ Params:
   ShowReadingTime: true
   hideFooter: true
   ShowShareButtons: true
+  DateFormat: 
   ShowToc: trueToc
   homeInfoParams:
     Title: Bienvenidos a mi nuevo blog
