@@ -176,7 +176,7 @@ Esta historia tal vez no sea la más agradable de escuchar, ya que no contiene m
 Orígenes de la guerra
 ---------------------
 
-### La explicación de Tucídides para la guerra
+### La explicación de Tucídides de la guerra
 
 \[23\] El acontecimiento anterior de mayor envergadura fue la guerra contra los persas, e incluso ésta se decidió rápidamente mediante dos batallas en el mar y dos en tierra.36 Pero la Guerra del Peloponeso duró mucho tiempo y trajo más sufrimiento a Grecia que nunca antes hubo de verse: nunca tantas ciudades habían sido capturadas y despobladas (algunas por extranjeros, otras por los propios griegos en guerra entre sí -algunas de estas incluso fueron repobladas con nuevos habitantes); nunca tanta gente había sido expulsada de sus países o asesinada, ya sea durante la guerra en sí o como resultado de conflictos civiles.
 
