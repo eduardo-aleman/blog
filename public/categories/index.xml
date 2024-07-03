@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Blog de Eduardo Alemán</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>es-es</language>
-    <lastBuildDate>Tue, 02 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Antigüedad</title>
@@ -16,10 +16,31 @@
       <description></description>
     </item>
     <item>
+      <title>E N Tigerstedt</title>
+      <link>http://localhost:1313/categories/e-n-tigerstedt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/e-n-tigerstedt/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Grecia</title>
       <link>http://localhost:1313/categories/grecia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/grecia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Platón</title>
+      <link>http://localhost:1313/categories/plat%C3%B3n/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/plat%C3%B3n/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Traducción</title>
+      <link>http://localhost:1313/categories/traducci%C3%B3n/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/traducci%C3%B3n/</guid>
       <description></description>
     </item>
     <item>
@@ -41,13 +62,6 @@
       <link>http://localhost:1313/categories/paul-woodruff/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/paul-woodruff/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Traducción</title>
-      <link>http://localhost:1313/categories/traducci%C3%B3n/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/traducci%C3%B3n/</guid>
       <description></description>
     </item>
     <item>
@@ -128,13 +142,6 @@
       <description></description>
     </item>
     <item>
-      <title>Platón</title>
-      <link>http://localhost:1313/categories/plat%C3%B3n/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/plat%C3%B3n/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Escolástica</title>
       <link>http://localhost:1313/categories/escol%C3%A1stica/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -160,13 +167,6 @@
       <link>http://localhost:1313/categories/tom%C3%A1s-de-aquino/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/tom%C3%A1s-de-aquino/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>E N Tigerstedt</title>
-      <link>http://localhost:1313/categories/e-n-tigerstedt/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/e-n-tigerstedt/</guid>
       <description></description>
     </item>
     <item>

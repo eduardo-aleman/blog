@@ -3,19 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/categories/antig%C3%BCedad/</loc>
-    <lastmod>2024-07-02T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-07-02T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-07-02T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/e-n-tigerstedt/</loc>
+    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/entradas/</loc>
-    <lastmod>2024-07-02T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/grecia/</loc>
-    <lastmod>2024-07-02T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/entradas/interpretando-a-plat%C3%B3n/</loc>
+    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/plat%C3%B3n/</loc>
+    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/traducci%C3%B3n/</loc>
+    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/guerra-del-peloponeso/</loc>
     <lastmod>2024-07-02T00:00:00+00:00</lastmod>
@@ -27,9 +39,6 @@
     <lastmod>2024-07-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/paul-woodruff/</loc>
-    <lastmod>2024-07-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/traducci%C3%B3n/</loc>
     <lastmod>2024-07-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/tuc%C3%ADdides/</loc>
@@ -77,9 +86,6 @@
     <loc>http://localhost:1313/categories/percy-bysshe-shelley/</loc>
     <lastmod>2024-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/plat%C3%B3n/</loc>
-    <lastmod>2024-06-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/escol%C3%A1stica/</loc>
     <lastmod>2024-06-14T00:00:00+00:00</lastmod>
   </url><url>
@@ -94,12 +100,6 @@
   </url><url>
     <loc>http://localhost:1313/categories/tom%C3%A1s-de-aquino/</loc>
     <lastmod>2024-06-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/e-n-tigerstedt/</loc>
-    <lastmod>2024-06-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/entradas/interpretando-a-plat%C3%B3n/</loc>
-    <lastmod>2024-06-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/f-r-d-goodyear/</loc>
     <lastmod>2024-05-25T00:00:00+00:00</lastmod>

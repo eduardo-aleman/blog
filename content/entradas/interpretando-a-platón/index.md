@@ -1,6 +1,6 @@
 ---
 title: "Interpretando a Platón (E.N. Tigerstedt)"
-date: "2024-06-08"
+date: "2024-07-03"
 categories: 
   - "antigüedad"
   - "e n tigerstedt"
