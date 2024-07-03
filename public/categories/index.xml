@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Blog/Bitácora</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>es-es</language>
-    <lastBuildDate>Sun, 30 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Antigüedad</title>
@@ -27,6 +27,13 @@
       <link>http://localhost:1313/categories/guerra-del-peloponeso/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/guerra-del-peloponeso/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Libro 1</title>
+      <link>http://localhost:1313/categories/libro-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/libro-1/</guid>
       <description></description>
     </item>
     <item>
@@ -258,13 +265,6 @@
       <link>http://localhost:1313/categories/papiros/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/papiros/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Libro 1</title>
-      <link>http://localhost:1313/categories/libro-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/libro-1/</guid>
       <description></description>
     </item>
   </channel>

@@ -6,8 +6,16 @@
     <description>Recent content in Antigüedad on Blog/Bitácora</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>es-es</language>
-    <lastBuildDate>Sun, 30 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/antig%C3%BCedad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Historia de la guerra del Peloponeso (Tucídides)</title>
+      <link>http://localhost:1313/post/guerra-del-peloponeso-libro-1-tucidides/</link>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/guerra-del-peloponeso-libro-1-tucidides/</guid>
+      <description>Woodruff, Paul., The Essential Thucydides: On Justice, Power, and Human Nature: Selections from The History of the Peloponnesian War Second Edition, Expanded and Revised, 2021, Libro 1. Traducción en español de Eduardo Alemán.
+Libro 1 Historia temprana, método y causa de la guerra Tucídides comienza con un breve prefacio seguido de una investigación de los inicios de la civilización griega. Esta sección, conocida como “la Arqueología”, es importante principalmente como ilustración del método histórico.</description>
+    </item>
     <item>
       <title>El Tucídides esencial (Paul Woodruff)</title>
       <link>http://localhost:1313/post/guerra-del-peloponeso-tucidides/</link>
@@ -66,14 +74,6 @@ Introducción Flavio Claudio Juliano, más conocido como Juliano el Apóstata, m
       <description>Oxford Papyrology (2022). P.Oxy. XV 1809. Plato, Phaedo. University of Oxford. Online resource. https://doi.org/10.25446/oxford.21133039.v1
 Los Papiros de Oxirrinco son una colección monumental de manuscritos antiguos descubiertos en un sitio arqueológico en Oxirrinco (hoy El-Bahnasa), Egipto. Este descubrimiento, realizado a fines del siglo XIX, ha proporcionado una visión invaluable de la vida cotidiana, la literatura, la administración y la cultura del antiguo mundo grecorromano y bizantino.
 Historia del Descubrimiento El hallazgo de los Papiros de Oxirrinco comenzó en 1896 cuando los arqueólogos británicos Bernard P.</description>
-    </item>
-    <item>
-      <title>Historia de la guerra del Peloponeso (Tucídides)</title>
-      <link>http://localhost:1313/post/guerra-del-peloponeso-libro-1-tucidides/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/guerra-del-peloponeso-libro-1-tucidides/</guid>
-      <description>Woodruff, Paul., The Essential Thucydides: On Justice, Power, and Human Nature: Selections from The History of the Peloponnesian War Second Edition, Expanded and Revised, 2021, Libro 1. Traducción en español de Eduardo Alemán.
-Libro 1 Historia temprana, método y causa de la guerra Tucídides comienza con un breve prefacio seguido de una investigación de los inicios de la civilización griega. Esta sección, conocida como “la Arqueología”, es importante principalmente como ilustración del método histórico.</description>
     </item>
   </channel>
 </rss>

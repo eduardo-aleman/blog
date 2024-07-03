@@ -6,8 +6,16 @@
     <description>Recent content in Posts on Blog/Bitácora</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>es-es</language>
-    <lastBuildDate>Sun, 30 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Historia de la guerra del Peloponeso (Tucídides)</title>
+      <link>http://localhost:1313/post/guerra-del-peloponeso-libro-1-tucidides/</link>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/guerra-del-peloponeso-libro-1-tucidides/</guid>
+      <description>Woodruff, Paul., The Essential Thucydides: On Justice, Power, and Human Nature: Selections from The History of the Peloponnesian War Second Edition, Expanded and Revised, 2021, Libro 1. Traducción en español de Eduardo Alemán.
+Libro 1 Historia temprana, método y causa de la guerra Tucídides comienza con un breve prefacio seguido de una investigación de los inicios de la civilización griega. Esta sección, conocida como “la Arqueología”, es importante principalmente como ilustración del método histórico.</description>
+    </item>
     <item>
       <title>El Tucídides esencial (Paul Woodruff)</title>
       <link>http://localhost:1313/post/guerra-del-peloponeso-tucidides/</link>
@@ -178,6 +186,14 @@ Originalidad: Contiene información nueva y original, no interpretada ni analiza
 Contenido: Suele incluir resultados de experimentos, datos brutos, testimonios, documentos históricos, y obras creativas originales.</description>
     </item>
     <item>
+      <title>Edición crítica</title>
+      <link>http://localhost:1313/post/edici%C3%B3n-critica/</link>
+      <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/edici%C3%B3n-critica/</guid>
+      <description>Una edición crítica es un trabajo académico que busca establecer una versión lo más cercana posible al texto original o a la intención del autor. Este proceso implica una cuidadosa investigación y análisis de diferentes fuentes y variantes del texto. Los editores críticos trabajan con manuscritos, impresiones antiguas, y otras ediciones relevantes, comparándolos y contrastándolos para identificar errores, omisiones o interpolaciones introducidas a lo largo del tiempo.
+Objetivos de una edición crítica: Reconstrucción del Texto Original: Uno de los objetivos principales es reconstruir la versión del texto que el autor pretendía publicar.</description>
+    </item>
+    <item>
       <title>Fuentes primarias</title>
       <link>http://localhost:1313/post/fuentes-primarias/</link>
       <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
@@ -224,14 +240,6 @@ Historia del Descubrimiento El hallazgo de los Papiros de Oxirrinco comenzó en 
       <guid>http://localhost:1313/post/aoristo/</guid>
       <description>El aoristo es un tiempo verbal en griego antiguo que expresa acciones puntuales, completadas o simples sin especificar si la acción fue prolongada o repetitiva. Es uno de los tiempos verbales más importantes en el griego antiguo y tiene varios aspectos que son fundamentales para comprender su uso y conjugación.
 Aspectos del Aoristo Aoristo Simple (o Puntual): Este aspecto se utiliza para describir una acción que ocurrió en un momento específico en el pasado, sin referencia a su duración o repetición.</description>
-    </item>
-    <item>
-      <title>Historia de la guerra del Peloponeso (Tucídides)</title>
-      <link>http://localhost:1313/post/guerra-del-peloponeso-libro-1-tucidides/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/guerra-del-peloponeso-libro-1-tucidides/</guid>
-      <description>Woodruff, Paul., The Essential Thucydides: On Justice, Power, and Human Nature: Selections from The History of the Peloponnesian War Second Edition, Expanded and Revised, 2021, Libro 1. Traducción en español de Eduardo Alemán.
-Libro 1 Historia temprana, método y causa de la guerra Tucídides comienza con un breve prefacio seguido de una investigación de los inicios de la civilización griega. Esta sección, conocida como “la Arqueología”, es importante principalmente como ilustración del método histórico.</description>
     </item>
   </channel>
 </rss>
