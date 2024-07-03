@@ -6,7 +6,7 @@ cover:
   # can also paste direct link from external site
   # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
   alt: "Imagen de la guerra generada por OpenArt AI"
-  caption: "Imagen de la guerra generada por OpenArt AI"
+  caption: "Imagen de la guerra generada por OpenArt AI: trirremes, remeros y flechas ardiendo"
   relative: true # To use relative path for cover image, used in hugo Page-bundles
 categories: 
   - "antigüedad"
