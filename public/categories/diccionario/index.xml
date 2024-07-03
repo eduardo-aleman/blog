@@ -17,9 +17,9 @@
     </item>
     <item>
       <title>Anáfora</title>
-      <link>http://localhost:1313/post/anafora/</link>
+      <link>http://localhost:1313/post/an%C3%A1fora/</link>
       <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/anafora/</guid>
+      <guid>http://localhost:1313/post/an%C3%A1fora/</guid>
       <description>La anáfora es una figura retórica que consiste en la repetición deliberada de una palabra o frase al comienzo de varias cláusulas, oraciones o versos consecutivos. Esta repetición tiene el efecto de enfatizar una idea, crear un ritmo o resaltar una emoción. La anáfora es una herramienta poderosa en la poesía, la prosa y los discursos para captar la atención del lector o del oyente y para subrayar un tema o un sentimiento específico.</description>
     </item>
     <item>
@@ -40,9 +40,9 @@ Las fuentes secundarias se definen como aquellas obras que no presentan informac
     </item>
     <item>
       <title>Aliteración</title>
-      <link>http://localhost:1313/post/aliteracion/</link>
+      <link>http://localhost:1313/post/aliteraci%C3%B3n/</link>
       <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/aliteracion/</guid>
+      <guid>http://localhost:1313/post/aliteraci%C3%B3n/</guid>
       <description>La aliteración es una figura retórica que consiste en la repetición de sonidos similares, especialmente consonánticos, en un verso o una frase para crear un efecto musical o enfatizar un significado. Se usa ampliamente en la poesía y la prosa para añadir ritmo, cohesión y un sentido de unidad sonora.
 Ejemplos de Aliteración En poesía:
 &amp;ldquo;Tres tristes tigres tragaban trigo en un trigal.&amp;rdquo; Aquí, la repetición del sonido &amp;ldquo;tr&amp;rdquo; crea un efecto rítmico y musical.</description>
@@ -65,9 +65,9 @@ Alternancia Fonológica La alternancia fonológica implica cambios en los sonido
     </item>
     <item>
       <title>Códices</title>
-      <link>http://localhost:1313/post/codices/</link>
+      <link>http://localhost:1313/post/c%C3%B3dices/</link>
       <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/codices/</guid>
+      <guid>http://localhost:1313/post/c%C3%B3dices/</guid>
       <description>Los códices son manuscritos antiguos que se caracterizan por estar escritos en forma de libro, es decir, con páginas unidas por un lado. A diferencia de los rollos, que eran comunes en las culturas antiguas, los códices permiten una lectura más fácil y un acceso más rápido a diferentes partes del texto.
 Características Principales de los Códices Formato de Libro: Los códices tienen hojas individuales, a menudo hechas de pergamino (piel de animal) o papel, que están unidas por un borde, generalmente cosidas.</description>
     </item>
@@ -81,9 +81,9 @@ Historia y Contexto El Nacimiento de la Imprenta La invención de la imprenta po
     </item>
     <item>
       <title>Bibliografía</title>
-      <link>http://localhost:1313/post/bibliografia/</link>
+      <link>http://localhost:1313/post/bibliograf%C3%ADa/</link>
       <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/bibliografia/</guid>
+      <guid>http://localhost:1313/post/bibliograf%C3%ADa/</guid>
       <description>La bibliografía se clasifica generalmente en dos categorías: primaria y secundaria. Ambas son esenciales en la investigación académica y tienen propósitos distintos. Aquí se detallan las diferencias clave entre ellas:
 Bibliografía Primaria Definición:
 La bibliografía primaria se refiere a los materiales originales e inéditos que sirven como fuente directa de información o evidencia en una investigación.
@@ -93,9 +93,9 @@ Contenido: Suele incluir resultados de experimentos, datos brutos, testimonios, 
     </item>
     <item>
       <title>Edición crítica</title>
-      <link>http://localhost:1313/post/edici%C3%B3n-critica/</link>
+      <link>http://localhost:1313/post/edici%C3%B3n-cr%C3%ADtica/</link>
       <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/edici%C3%B3n-critica/</guid>
+      <guid>http://localhost:1313/post/edici%C3%B3n-cr%C3%ADtica/</guid>
       <description>Una edición crítica es un trabajo académico que busca establecer una versión lo más cercana posible al texto original o a la intención del autor. Este proceso implica una cuidadosa investigación y análisis de diferentes fuentes y variantes del texto. Los editores críticos trabajan con manuscritos, impresiones antiguas, y otras ediciones relevantes, comparándolos y contrastándolos para identificar errores, omisiones o interpolaciones introducidas a lo largo del tiempo.
 Objetivos de una edición crítica: Reconstrucción del Texto Original: Uno de los objetivos principales es reconstruir la versión del texto que el autor pretendía publicar.</description>
     </item>
