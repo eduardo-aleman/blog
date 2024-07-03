@@ -1,6 +1,13 @@
 ---
 title: "Historia de la guerra del Peloponeso (Tucídides)"
 date: "2024-07-02"
+cover:
+  image: "images/openart-guerra-del-peloponeso-tucidides.webp"
+  # can also paste direct link from external site
+  # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
+  alt: "Imagen de la guerra generada por OpenArt AI"
+  caption: "Imagen de la guerra generada por OpenArt AI"
+  relative: true # To use relative path for cover image, used in hugo Page-bundles
 categories: 
   - "antigüedad"
   - "grecia"
