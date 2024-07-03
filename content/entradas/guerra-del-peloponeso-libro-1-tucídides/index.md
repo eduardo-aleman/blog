@@ -1,13 +1,13 @@
 ---
 title: "Historia de la guerra del Peloponeso (Tucídides)"
 date: "2024-07-02"
-cover:
-  image: "images/openart-guerra-del-peloponeso-tucidides.webp"
+# cover:
+#  image: "images/openart-guerra-del-peloponeso-tucidides.webp"
   # can also paste direct link from external site
   # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
-  alt: "Imagen de la guerra generada por OpenArt AI"
-  caption: "Imagen de la guerra generada por OpenArt AI: trirremes, remeros y flechas ardiendo"
-  relative: true # To use relative path for cover image, used in hugo Page-bundles
+#  alt: "Imagen de la guerra generada por OpenArt AI"
+#  caption: "Imagen de la guerra generada por OpenArt AI: trirremes, remeros y flechas ardiendo"
+#  relative: true # To use relative path for cover image, used in hugo Page-bundles
 categories: 
   - "antigüedad"
   - "grecia"
@@ -19,7 +19,6 @@ categories:
 ---
 
 Woodruff, Paul., [_The Essential Thucydides: On Justice, Power, and Human Nature: Selections from The History of the Peloponnesian War Second Edition, Expanded and Revised_](https://amzn.to/3L8odRU), 2021, Libro 1. Traducción en español de Eduardo Alemán.
-
 
 Libro 1
 =======
