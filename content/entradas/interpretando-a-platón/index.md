@@ -166,10 +166,8 @@ Esto es tanto más necesario cuanto que no hay acuerdo entre los estudiosos sobr
 
 16\. Véanse las reveladoras observaciones de Ast (_op. cit._, págs. 9 y siguientes) sobre "el verdadero espíritu platónico", cuya presencia o ausencia en un Diálogo determina su autenticidad. Gracias a este principio, Ast pudo rechazar, por ejemplo, _La Apología_, ya que la intención misma de justificar a Sócrates contra sus detractores es "antiplatónica" (_op. cit._, págs. 10 y siguientes). Un buen ejemplo moderno de este método de argumentación es la forma en que G. Müller declara _La República_ VII 540 Dff. espuria, porque su contenido -la creación de la ciudad ideal mediante el exilio de todos los adultos, para que los niños puedan ser educados libremente por los filósofos gobernantes- presupone que la ciudad ideal pueda realizarse en este mundo, algo que, según Müller , es absolutamente antiplatónico (_Studien_, págs. 149 y siguientes). Es demasiado obvio que los inverosímiles argumentos estilísticos y lingüísticos aducidos como pruebas contra la autenticidad del pasaje en cuestión no son las verdaderas razones por las que Müller lo rechaza. Lo hace porque es contrario a su concepción de Platón como un estudioso puramente extramundano, enemigo de la política (_op. cit._, págs. 141 y siguientes). De manera similar, Müller atetiza _La República_ 465 C-471 C, porque en este pasaje Platón hace una distinción fundamental entre griegos y bárbaros, que Müller se niega a aceptar como platónica (_Die Philosophie_ etc., p. 274 n. 48). Consigue así ampliar la brecha entre _La República_ y _Las Leyes_ donde se subraya la distinción recién mencionada y confirmar sus sospechas sobre la autenticidad de esta última obra. 
 
-17\. Cfr. Introducción de Heinz Kimmerle a la Hermeneutik de _Schleiermacher_ (Abhandlungen
+17\. Cfr. Introducción de Heinz Kimmerle a la Hermeneutik de _Schleiermacher_ (Abhandlungen der Heidelberger Akademie der Wissenschaften, philos.-hist. Klasse, 1959: 2), págs. 17 y sigs. 
 
-der Heidelberger Akademie der Wissenschaften, philos.-hist. Klasse, 1959: 2), págs. 17 y sigs. 
-
-18\. Una caracterización y crítica pertinentes de la escuela atetizante se encuentran en L. Stefanini, _Platone_ (2ª ed., Padua, 1949), págs. XVIII y sigs.
+18\. Una caracterización y crítica pertinentes de la escuela atetizante se encuentran en L. Stefanini _Platone_ (2ª ed., Padua, 1949), págs. XVIII y sigs.
 
 Fuente: Tigerstedt, E. N. (1977). Interpreting Plato. Switzerland: Almqvist & Wiksell international.
