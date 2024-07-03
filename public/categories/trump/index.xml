@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/categories/trump/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Acerca del debate presidencial</title>
-      <link>http://localhost:1313/post/debate-presidencial/</link>
+      <link>http://localhost:1313/entradas/debate-presidencial/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/debate-presidencial/</guid>
+      <guid>http://localhost:1313/entradas/debate-presidencial/</guid>
       <description>El patético debate presidencial de ayer, 27 de junio, demostró lo que ya se sabía: el expresidente Trump, criminal convicto, es un mentiroso patológico, mientras que, el presidente Biden, un anciano desmadejado, ya no está en disposición de entablar un debate, menos aún de dirigir el país. Los votantes se preguntan, ¿cómo hemos llegado hasta aquí? Sin respuesta, o se continúa la elongación de un fenómeno ya común en la política estadounidense, el tribalismo económico y racial, o se incrementa la enajenación, o se desemboca en la desesperación y la violencia.</description>
     </item>
   </channel>
