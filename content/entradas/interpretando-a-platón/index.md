@@ -87,10 +87,6 @@ En el ámbito a menudo confuso de la erudición platónica, un sentido común ta
 
 Aparte de la cuestión de si la caracterización que hace Grote del Platón de las _Leyes_ es pertinente, parece obvio que su negativa a mirar debajo de la superficie, a buscar alguna unidad en Platón, lo ha llevado a un callejón sin salida. 22 El suyo es un consejo desesperado, que no funciona y que es refutado silenciosamente por la existencia misma de su propio libro. No se pueden escribir tres grandes volúmenes sobre un camaleón. Y la repentina transformación de Platón en un dogmático rígido no es convincente. La obra de Grote siempre seguirá siendo un antídoto saludable y necesario contra los interminables intentos de sistematización y armonización que pasan por alto o explican contradicciones, ambigüedades o lagunas obvias en Platón. Pero no puede convencernos de que la interpretación de Platón no constituye ningún problema, porque esa tesis es refutada por los mismos intentos de probarla, de los cuales el más radical y, en cierto sentido, el más exitoso es la eliminación de los textos desagradables.
 
-### Capítulo 2: El recurso del bisturí
-
-\[...\]
-
 #### Notas
 
 1. No sabemos casi nada sobre Simmias, véase Zeller, op. cit., II: I, págs. 24 y sigs. Extenso artículo de H. Hobein, RE, IIA: i (1927), cols. 144-155, está lleno de conjeturas vagas. Todas las obras de Simmias se han perdido y muchas de ellas parecen haber sido consideradas espurias. Sería arriesgado dar fe de la historicidad de su aparición en el lecho de muerte tanto de Sócrates como de Platón. Véase además la Introducción de Léon Robin a su edición del Fedón en el Budé-Platón (IV: i, París, 1926, págs. xiiiff.).
@@ -115,5 +111,65 @@ Aparte de la cuestión de si la caracterización que hace Grote del Platón de l
 20. Op. cit., I, p. IX.
 21. Op. cit., II, pág. 394.
 22. Cfr. La crítica de Zeller (op. cit., II: i, p. 472).
+
+### **Capítulo 2: El recurso del bisturí**
+
+"Por tanto, si tu mano o tu pie te fuere ocasión de caer, córtalo y échalo de ti", podemos leer en la Biblia, 1 y desde la antigüedad clásica los estudiosos de la obra platónica han sido tan solo demasiado diligentes en el seguimiento de esta exhortación. 2 Si el texto platónico aparecía opuesto a sus interpretaciones, era simplemente declarado espurio. Este método de atetizar textos recalcitrantes puede aducir al hecho obvio que el _Corpus Platonicum_ contiene obras que incluso en la antigüedad clásica fueron consideradas no platónicas. Pero los atetizadores modernos fueron mucho más lejos, y en el medio del siglo XIX no hubo texto platónico que escapara de sus bisturíes, particularmente en Alemania, donde los estudiosos siempre han demostrado una inclinación hacia los extremos, hoy no menos que cien años atrás. 3
+
+Sin embargo, en los finales del siglo XIX y principios del siglo XX, hubo una fuerte reacción en contra de los atetizadores. El nuevo método "estilométrico" de análisis lingüístico de los escritos platónicos parecía arrojar resultados indiscutibles tanto en lo que respecta a la autenticidad de estos como a su cronología. Hace cincuenta años, uno de los líderes de esta reacción, nada menos que Wilamowitz, declaró en su estilo perentorio, que los principales problemas de autenticidad y cronología estaban resueltos. 4 Parecía que lo más difícil de todo, el _consensus philologorum_, finalmente se había conseguido. Treinta años después de Wilamowitz, otro eminente platonista alemán se pronunció acerca de esta unanimidad: "die man einen Triumph der literarischen Methode nennen kann". 5 Lamentablemente, este estado de bonanza ya no existe. 
+
+De hecho, la reivindicación de Wilamowitz de algunas de las _Cartas_ de Platón, especialmente la _Siete_, nunca fue aceptada por muchos estudiosos, en particular los estadounidenses. 6 Pero ahora las dudas asaltaron incluso obras cuya autenticidad durante mucho tiempo se había considerado probada más allá de toda duda razonable. _Las_ _Leyes_, que durante el siglo XIX habían sido rechazadas por muchos estudiosos, incluso por Zeller en su juventud, 7 nuevamente se volvieron sospechosas. 8 Recientemente, un estudioso alemán declaró de manera sucinta que _Las_ _Leyes_ no son obras platónicas, esto sin aportar prueba alguna. El mismo estudioso considera el _Fedro_ como la última obra de Platón, hipótesis que habría escandalizado a Wilamowitz. 9 El _consenso_ por lo tanto ya no tiene ninguna validez general. La desintegración del Corpus Platonicum ha comenzado nuevamente. 10 Una vez más nos vemos arrojados a un mar de dudas y especulaciones.
+
+Este retorno a puntos de vista y métodos de una época anterior, que durante muchos años parecían totalmente superados, no se debe a ningún argumento filológico nuevo. 11 Y el progreso de los estudios platonicienses ha hecho imposible repetir simplemente los viejos argumentos contra la autenticidad de tal o cual obra. Los nuevos _chorizontes_ tampoco se mueven por motivos filológicos. Su verdadero incentivo es la incompatibilidad de una u otra obra platónica con la noción general que tienen de Platón y su filosofía. Así, por ejemplo, un estudioso alemán moderno sospecha, o más bien rechaza, _Las_ _Leyes_, porque no corresponde a su concepción de Platón como "ein Ideenschauer". 12 Para decirlo de manera concreta, el Platón de _Las_ _Leyes_ no es el Platón de _La_ _República_, por lo que la primera obra debe ser espuria. 13 De la misma manera había argumentado Zeller cuando, en su juventud, como ya hemos dicho, rechazó _Las Leyes_. Más tarde cambió de opinión y, en el _Die Philosophie der Griechen, Las Leyes_ son debidamente reconocidas como auténticas. Pero para entonces ya había construido su sistema de filosofía platónica, en el que _Las Leyes_ no encajaban, por lo que se vio obligado a recurrir al curioso recurso de añadir una especie de apéndice a su estudio de la filosofía de Platón, llamado "Die Spätere Form der platonischen Lehre". 14
+
+El procedimiento de Zeller es muy revelador. Era un erudito demasiado crítico para poder persuadirse de una manera definitiva de que una obra tan bien autentificada como _Las Leyes_ era espuria simplemente porque era contraria a la opinión que se había formado sobre la filosofía de Platón. Así y todo no pudo liberarse de esta opinión preconcebida. De modo que recurrió a un compromiso que no satisfizo a nadie, ni siquiera a él mismo. 15
+
+Los escrúpulos de Zeller no han sido compartidos por la mayoría de los atetizadores antiguos y contemporáneos, y la firme creencia en la visión propia que tienen de Platón excluye cualquier duda. Sabiendo de antemano lo que Platón pensó y dijo, no vacilan en estigmatizar como no platónico cualquier texto que se oponga a su interpretación. 16 Eliminada por las tijeras de la crítica de todas las excrecencias posteriores y restaurada a su pureza prístina, la filosofía de Platón emerge como un todo lúcido y coherente. Por un golpe de magia, las contradicciones, lagunas, ambigüedades y oscuridades que obsesionan a las mentes más débiles desaparecen. El problema que tanto nos molestaba ya no existe.
+
+Es fácil comprender por qué muchos estudiosos, tanto en el pasado como en el presente, se han sentido tentados a adoptar esta forma aparentemente fácil de librarse de la dificultad de interpretar las declaraciones de Platón tal como están escritas. Como veremos ampliamente, todas estas soluciones "radicales" de nuestro problema tienden a negar su existencia misma. No se esgrime una solución al problema, más bien se echa a un lado. 
+
+El principal argumento contra tal "solución" es, por supuesto, como se ha señalado en innumerables ocasiones, su arbitrariedad. Bien puede ser que ningún intérprete pueda escapar de lo que Schleiermacher llamó el "círculo hermenéutico", 17 que toda interpretación de un texto o de un autor debe comenzar con alguna visión preconcebida de ellos. Pero durante el acto de interpretación, el estudioso siempre debe ser capaz y estar dispuesto a ajustar o incluso cambiar su punto de vista inicial, a medida que se profundiza su conocimiento y percepción del tema. Tomar una decisión de antemano es cerrar deliberadamente los ojos a la evidencia. Al igual que los antiguos astrónomos, el intérprete de Platón no debe olvidar su deber más importante: "salvar los fenómenos".
+
+Esto es tanto más necesario cuanto que no hay acuerdo entre los estudiosos sobre la verdadera naturaleza de la filosofía platónica. Si un estudioso comienza con alguna opinión preconcebida al respecto, puede estar seguro de que otros estudiosos le contradirán vehementemente. Ellos también atetizarán, pero de una manera muy diferente. Como lo demuestra la historia de la erudición platónica, el bisturí del crítico puede utilizarse con resultados muy distintos. El camino de la atétesis no es un camino sino muchos que divergen ampliamente. Como suele ocurrir, el resultado de un dogmatismo individual es un escepticismo general. 18
+
+#### Notas del capítulo 2
+
+1\. _Mateo_ 18:8, cf. _Marcos_ 9:43-45-
+
+2\. Respecto a los antiguos atetistas de las obras de Platón, véase Zeller, _op. cit_., II: 16, págs. 441 n.l, Leisegang, "Platón", col. 2365, y Ulrich von Wilamowitz-Moellendorff, _Platon_, II (2ª ed., Berlín, 1920), pág. 325 y sigs.
+
+3\. Véase Zeller, _op. cit_. II: 16, págs. 475 y siguientes, cf. La protesta indignada de Wilamowitz (_op. ci_t., II², p. 7). El primer representante mayoritario de la escuela atetizante fue _Leben und Schriften de Platón_ (Leipzig, 1817) de Friedrich Ast, véase el capítulo sobre las obras dudosas y espurias de Platón (págs. 376 y siguientes).
+
+4\. _Op. cit._, II², pág. 9.
+
+5\. Ernst Hoffmann, _Platon_ (Zúrich, 1950), p. 126.
+
+6\. Especialmente Paul Shorey y Harold Cherniss, cf. el libro póstumo de L. Edelstein, _Plato’s Seventh Letter_ (Leyden, 1966), que es muy representativo de la reacción actual contra Wilamowitz.
+
+7\. En _Platonische Studien_ (1839), véase Zeller, op. cit., II: 16, págs. 976 y sigs.
+
+8\. Véase, por ejemplo, la declaración de Olof Gigon de que _Las Leyes_ no deben usarse sin reservas, porque su doctrina es un platonismo "en descomposición" (_Entretiens sur l'Antiquité classique_, III, _Recherches sur la tradition platonicienne_, Verona, 1957, p. 20).
+
+9\. Walter Bröcker, _Platos Gespräche_ (Frankfurt, 1964), pág. 10.
+
+10\. Aunque sólo sea por curiosidad, puedo mencionar el extraño libro de Josef Zürcher, _Das Corpus Academicum_ (Paderborn, 1954), que pretende que el _Corpus Platonicum_ existente es en realidad un _Corpus Academicum_, compilado por Polemo, el erudito de la Academia entre el 315 y el 270 a.C., y publicado por su sucesor Arcesilao. El _Corpus_ contiene cierta cantidad de materia platónica real, pero mezclada con material mucho más posterior. Zürcher parece no haber convencido a nadie de sus fantasías; sin embargo, son sintomáticas de la situación actual de los estudios platoniciences.
+
+11\. La duda radical de Günther Jachmann sobre la fiabilidad de nuestro actual texto de Platón (_Der Platontext,_ Nachrichten von der Akademie der Wissenschaften en Göttingen, Philolog.hist. Klasse, N. F., Fachgruppe I: 4:7, 1940-41, pr 1942) no ha convencido a otros estudiosos, cf. Revisión de H. Langerbeck (_Gn,_ 22, 1950, págs. 375-380), Ernst Bickel, "Das platonische Schriften-korpus der 9 Tetralogien und die Interpolation in Platontext" y "Geschichte und Recensio des Platontextes" (_Rh_ _M_, 92, 1943, págs. 94-96; 97-159), y Hartmut Erbse en _Geschichte der Textüberlieferung der antiken und mittelalterlichen Literatur_, I (Zürich, 1961), págs. En cualquier caso, los estudiosos de los que hablo no se inspiran en Jachmann.
+
+12\. Así, Gerhard Müller, "Die Philosophie im pseudo-platonischen 7. Brief" (_Archiv für Philosophie_, 3, 1949), p. 276.
+
+13\. Véase G. Müller, _Studien zu den platonischen Nomoi_ (Zetemata, 3 München, 1951), cf. Reseña de H. Cherniss (Gn, 25, 1953, págs. 367-379). En el "Nachwort zur zweiten Auflage" (_op. it_., 1968, pp. 191-210), Müller intenta refutar a Cherniss, al mismo tiempo que intenta sembrar sospechas sobre el texto de la _Política_ de Aristóteles, II, donde a _Las Leyes_ se llaman dos veces explícitamente platónicas (1264 b 27, 1271 c 2). Según Müller, estos testimonios no se deben al propio Aristóteles sino a algún alumno ignorante suyo o a un editor posterior. Obviamente sin saberlo, Müller repite un argumento del Fr. Ast. _op. cit._, pág. 390 n.
+
+14\. Zeller, _op. cit_., II: 16, págs. 946 y sigs.
+
+15\. Zeller mantuvo hasta el final su opinión sobre el carácter no platónico de _Las Leyes_ y encontró en ella muchas interpolaciones, véase _op. cit_., II: 16, págs. 978 y sigs.
+
+16\. Véanse las reveladoras observaciones de Ast (_op. cit._, págs. 9 y siguientes) sobre "el verdadero espíritu platónico", cuya presencia o ausencia en un Diálogo determina su autenticidad. Gracias a este principio, Ast pudo rechazar, por ejemplo, _La Apología_, ya que la intención misma de justificar a Sócrates contra sus detractores es "antiplatónica" (_op. cit._, págs. 10 y siguientes). Un buen ejemplo moderno de este método de argumentación es la forma en que G. Müller declara _La República_ VII 540 Dff. espuria, porque su contenido -la creación de la ciudad ideal mediante el exilio de todos los adultos, para que los niños puedan ser educados libremente por los filósofos gobernantes- presupone que la ciudad ideal pueda realizarse en este mundo, algo que, según Müller , es absolutamente antiplatónico (_Studien_, págs. 149 y siguientes). Es demasiado obvio que los inverosímiles argumentos estilísticos y lingüísticos aducidos como pruebas contra la autenticidad del pasaje en cuestión no son las verdaderas razones por las que Müller lo rechaza. Lo hace porque es contrario a su concepción de Platón como un estudioso puramente extramundano, enemigo de la política (_op. cit._, págs. 141 y siguientes). De manera similar, Müller atetiza _La República_ 465 C-471 C, porque en este pasaje Platón hace una distinción fundamental entre griegos y bárbaros, que Müller se niega a aceptar como platónica (_Die Philosophie_ etc., p. 274 n. 48). Consigue así ampliar la brecha entre _La República_ y _Las Leyes_ donde se subraya la distinción recién mencionada y confirmar sus sospechas sobre la autenticidad de esta última obra. 
+
+17\. Cfr. Introducción de Heinz Kimmerle a la Hermeneutik de _Schleiermacher_ (Abhandlungen
+
+der Heidelberger Akademie der Wissenschaften, philos.-hist. Klasse, 1959: 2), págs. 17 y sigs. 
+
+18\. Una caracterización y crítica pertinentes de la escuela atetizante se encuentran en L. Stefanini, _Platone_ (2ª ed., Padua, 1949), págs. XVIII y sigs.
 
 Fuente: Tigerstedt, E. N. (1977). Interpreting Plato. Switzerland: Almqvist & Wiksell international.
