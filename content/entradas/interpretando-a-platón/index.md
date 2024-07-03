@@ -1,5 +1,5 @@
 ---
-title: "Interpretando a Platón (Prefacio. E.N. Tigersted)"
+title: "Interpretando a Platón (Prefacio. E.N. Tigerstedt)"
 date: "2024-06-08"
 categories: 
   - "antigüedad"
