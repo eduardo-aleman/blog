@@ -49,3 +49,4 @@ Params:
       url: "https://www.facebook.com/jeduardoaleman/"
     - name: "github"
       url: "https://github.com/lampsacus"
+  ShowBreadCrumbs: true
