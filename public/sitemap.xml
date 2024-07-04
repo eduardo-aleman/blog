@@ -122,6 +122,9 @@
     <loc>http://localhost:1313/categories/t%C3%A1cito/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/categories/constantinopla/</loc>
+    <lastmod>2024-04-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/entradas/el-%C3%BAltimo-emperador-pagano/</loc>
     <lastmod>2024-04-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -134,23 +137,20 @@
     <loc>http://localhost:1313/categories/juliano/</loc>
     <lastmod>2024-04-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/categories/justiniano/</loc>
+    <lastmod>2024-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/procopio/</loc>
+    <lastmod>2024-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/entradas/procopio-y-el-siglo-sexto/</loc>
+    <lastmod>2024-04-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/diccionario/</loc>
     <lastmod>2024-04-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/entradas/diccionario/palimpsesto/</loc>
     <lastmod>2024-04-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/constantinopla/</loc>
-    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/justiniano/</loc>
-    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/procopio/</loc>
-    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/entradas/procopio-y-el-siglo-sexto/</loc>
-    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/entradas/diccionario/an%C3%A1fora/</loc>
     <lastmod>2024-03-02T00:00:00+00:00</lastmod>

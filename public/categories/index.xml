@@ -205,6 +205,13 @@
       <description></description>
     </item>
     <item>
+      <title>Constantinopla</title>
+      <link>http://localhost:1313/categories/constantinopla/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/constantinopla/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Emperadores</title>
       <link>http://localhost:1313/categories/emperadores/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -226,20 +233,6 @@
       <description></description>
     </item>
     <item>
-      <title>Diccionario</title>
-      <link>http://localhost:1313/categories/diccionario/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/diccionario/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Constantinopla</title>
-      <link>http://localhost:1313/categories/constantinopla/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/constantinopla/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Justiniano</title>
       <link>http://localhost:1313/categories/justiniano/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -251,6 +244,13 @@
       <link>http://localhost:1313/categories/procopio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/procopio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Diccionario</title>
+      <link>http://localhost:1313/categories/diccionario/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/diccionario/</guid>
       <description></description>
     </item>
     <item>
