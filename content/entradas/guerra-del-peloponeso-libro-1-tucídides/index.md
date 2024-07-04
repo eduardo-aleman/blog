@@ -176,7 +176,7 @@ Otros griegos tienen opiniones equivocadas sobre muchos temas que son de actuali
 
 Y en cuanto a las acciones reales de la guerra, no me pareció correcto exponer ni lo que oí de la gente que encontré por casualidad ni lo que simplemente creía que era cierto. Incluso en los eventos en los que yo mismo estuve presente, busqué información detallada de otras fuentes en la medida de lo posible. Fue un trabajo duro descubrir qué pasó en realidad, porque los que estuvieron presentes en cada evento dieron informes diferentes, dependiendo de qué lado estaban y qué tan bien recordaban.34
 
-Esta historia tal vez no sea la más agradable de escuchar, ya que no contiene mitología.35 Pero aquellos que quieran investigar la verdad de lo que se hizo en el pasado, que, dada la condición humana, se repetirá en el futuro, ya sea de la misma manera o casi igual, esos lectores encontrarán esta _Historia_ suficientemente valiosa, ya que fue compuesta para la eternidad, y no para ser escuchada para obtener un premio durante una competencia.
+Esta historia tal vez no sea la más agradable de escuchar, ya que no contiene mitología.35 Pero aquellos que quieran investigar la verdad de lo que pasó en el pasado, que, dada la condición humana, se repetirá en el futuro, ya sea de la misma manera o casi igual, esos lectores encontrarán esta _Historia_ suficientemente valiosa, ya que fue compuesta para la eternidad, y no para ser escuchada en un torneo para obtener un premio.
 
 34\. Ver también **5**,**26**, **5,68**, y **7,44** sobre los métodos de Tucídides y las dificultades que encontró al aplicarlos. Nótese el contraste entre palabra y acción en los dos primeros párrafos de **1,22**; ese contraste se hará a menudo en los discursos que informa Tucídides.
 
