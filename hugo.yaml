@@ -25,7 +25,7 @@ languages:
 theme: ["PaperMod"]
 menu:
   main:
-    - identifier: categorías
+    - identifier: categories
       name: categorías
       url: /categories/
       weight: 10
