@@ -2,12 +2,12 @@
 title: "Historia de la guerra del Peloponeso (Tucídides)"
 date: "2024-07-02"
 # cover:
-#  image: "images/openart-guerra-del-peloponeso-tucidides.webp"
+#    image: "./images/trireme-civilización-griega-antigua.webp"
   # can also paste direct link from external site
   # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
-#  alt: "Imagen de la guerra generada por OpenArt AI"
-#  caption: "Imagen de la guerra generada por OpenArt AI: trirremes, remeros y flechas ardiendo"
-#  relative: true # To use relative path for cover image, used in hugo Page-bundles
+ #   alt: "Imagen de un trirreme griego generada usando inteligencia artificial en OpenArt"
+ #   caption: "Imagen de un trirreme griego generada usando inteligencia artificial en OpenArt"
+ #   relative: true # To use relative path for cover image, used in hugo Page-bundles
 categories: 
   - "antigüedad"
   - "grecia"
