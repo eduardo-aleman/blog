@@ -29,6 +29,10 @@ menu:
       name: categorías
       url: /categories/
       weight: 10
+    - identifier: archives
+      name: archivos
+      url: /archivos/
+      weight: 20
     - identifier: website
       name: ealeman.com
       url: https://ealeman.com
