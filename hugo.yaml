@@ -25,18 +25,22 @@ languages:
 theme: ["PaperMod"]
 menu:
   main:
+    - identifier: search
+      name: buscar
+      url: /buscar/
+      weight: 10
     - identifier: categories
       name: categorías
       url: /categories/
-      weight: 10
+      weight: 20
     - identifier: archives
       name: archivos
       url: /archivos/
-      weight: 20
+      weight: 30
     - identifier: website
       name: ealeman.com
       url: https://ealeman.com
-      weight: 30
+      weight: 40
 Params:
   ShowReadingTime: true
   hideFooter: true
@@ -54,3 +58,8 @@ Params:
     - name: "github"
       url: "https://github.com/lampsacus"
   ShowBreadCrumbs: true
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
