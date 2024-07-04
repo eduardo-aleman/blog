@@ -2,11 +2,11 @@
 title: "Historia de la guerra del Peloponeso (Tucídides)"
 date: "2024-07-02"
 cover:
-  image: "trireme-civilización-griega-antigua.webp"
+  image: "Espolón_de_Athlit.webp"
   # can also paste direct link from external site
   # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
-  alt: "Imagen de un trirreme generada usando inteligencia artificial"
-  caption: "Imagen de un trirreme generada usando inteligencia artificial"
+  alt: "El Espolón de Atlit, en exhibición en el Museo Marítimo Nacional de Israel, foto de Oren Rozen, via Wikimedia Commons."
+  caption: "El Espolón de Athlit, en exhibición en el Museo Marítimo Nacional de Israel, Oren Rozen, CC BY-SA 3.0, via Wikimedia Commons.*"
   relative: false # To use relative path for cover image, used in hugo Page-bundles
 categories: 
   - "antigüedad"
@@ -19,6 +19,9 @@ categories:
 ---
 
 Woodruff, Paul., [_The Essential Thucydides: On Justice, Power, and Human Nature: Selections from The History of the Peloponnesian War Second Edition, Expanded and Revised_](https://amzn.to/3L8odRU), 2021, Libro 1. Traducción en español de Eduardo Alemán.
+
+\* Los trirremes griegos llevaban el espolón al frente de la proa a nivel del mar para embestir a los navíos enemigos. Este ejemplar romano, descubierto en la bahía de Atlit, mide 2,26 m de largo, 0,95 m de alto y pesa 465 kg. Fue fundido como una sola pieza en bronce a partir de un modelo de cera perdida. Es muy probable que, durante la guerra del peloponeso, los trirremes griegos utilizados en el mar contra la flota de Esparta tuvieran un espolón de bronce con un tamaño y peso semejante.
+
 
 Libro 1
 =======
