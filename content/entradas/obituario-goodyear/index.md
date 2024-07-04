@@ -1,5 +1,5 @@
 ---
-title: "F. R. D. Goodyear Obituario (Henry D. Jocelyn)"
+title: "F. R. D. Goodyear, Obituario (Henry D. Jocelyn)"
 date: "2024-05-25"
 categories:
   - "f r d goodyear"
