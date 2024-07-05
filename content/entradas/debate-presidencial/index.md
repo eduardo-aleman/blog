@@ -1,6 +1,11 @@
 ---
 title: "Acerca del debate presidencial"
 date: "2024-06-28"
+cover:
+  image: "joe_biden_president.webp" 
+  alt: "Presidente de los Estados Unidos, Joe Biden."
+  caption: "Presidente de los Estados Unidos, Joe Biden."
+  relative: false
 categories: 
   - "actualidad"
   - "elecciones"
