@@ -1,6 +1,11 @@
 ---
 title: "F. R. D. Goodyear, Obituario (Henry D. Jocelyn)"
 date: "2024-02-23"
+cover:
+  image: "Goodyear_Tacitus.webp" 
+  alt: "Portada del libro de F. R. D. Goodyear, 'Tacitus. (Greece and Rome, New Surveys in the Classics, 4.)', Oxford: Clarendon Press, 1970."
+  caption: "Portada del libro de F. R. D. Goodyear, 'Tacitus. (Greece and Rome, New Surveys in the Classics, 4.)', Oxford: Clarendon Press, 1970."
+  relative: false
 categories:
   - "f r d goodyear"
   - "traducción"
