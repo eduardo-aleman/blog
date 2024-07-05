@@ -2,10 +2,10 @@
 title: "Interpretando a Platón (E.N. Tigerstedt)"
 date: "2024-07-03"
 cover:
-  image: "Platón-Sócrates-IA.webp"
-  alt: "Mosaico de Platón y Sócrates según el generador de inteligencia artificial DALL-E 3."
-  caption: "Mosaico de Platón y Sócrates según el generador de inteligencia artificial DALL-E 3."
-  relative: false # To use relative path for cover image, used in hugo Page-bundles
+  image: "Busto_de_Platón_Museo_Getty_CC.webp" 
+  alt: "Autor romano desconocido. Cabeza de Platón (trabajada para insertarla en una estatua), mediados del siglo III d.C. Mármol blanco. Objeto: 37,5 × 16 × 18,9 cm (14 3/4 × 6 5/16 × 7 7/16 pulg.) Museo J. Paul Getty, Colección Villa, Malibú, California, 73.AA.16."
+  caption: "Autor romano desconocido. Cabeza de Platón (trabajada para insertarla en una estatua), mediados del siglo III d.C. Mármol blanco. Objeto: 37,5 × 16 × 18,9 cm (14 3/4 × 6 5/16 × 7 7/16 pulg.) Museo J. Paul Getty, Colección Villa, Malibú, California, 73.AA.16."
+  relative: false
 categories: 
   - "antigüedad"
   - "e n tigerstedt"
