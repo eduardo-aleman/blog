@@ -140,6 +140,12 @@
     <loc>http://localhost:1313/entradas/procopio-y-el-siglo-sexto/</loc>
     <lastmod>2024-04-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/categories/f-r-d-goodyear/</loc>
+    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/entradas/obituario-goodyear/</loc>
+    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/diccionario/</loc>
     <lastmod>2024-04-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -148,12 +154,6 @@
   </url><url>
     <loc>http://localhost:1313/entradas/diccionario/an%C3%A1fora/</loc>
     <lastmod>2024-03-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/f-r-d-goodyear/</loc>
-    <lastmod>2024-02-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/entradas/obituario-goodyear/</loc>
-    <lastmod>2024-02-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/entradas/diccionario/fuentes-secundarias/</loc>
     <lastmod>2023-06-25T00:00:00+00:00</lastmod>
