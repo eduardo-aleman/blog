@@ -1,6 +1,11 @@
 ---
 title: "El último emperador pagano (H. C. Teitler)"
 date: "2024-04-16"
+cover:
+  image: "Juliano_Sólido_Bizantino.webp" 
+  alt: "Juliano, sólido bizantino."
+  caption: "Juliano, sólido bizantino, Classical Numismatic Group, Inc., CC BY-SA 2.5, a través de Wikimedia Commons."
+  relative: false
 categories: 
   - "antigüedad"
   - "emperadores"
