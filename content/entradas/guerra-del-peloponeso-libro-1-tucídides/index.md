@@ -6,7 +6,7 @@ cover:
   # can also paste direct link from external site
   # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
   alt: "El Espolón de Atlit, en exhibición en el Museo Marítimo Nacional de Israel, foto de Oren Rozen, via Wikimedia Commons."
-  caption: "El Espolón de Athlit, en exhibición en el Museo Marítimo Nacional de Israel, Oren Rozen, CC BY-SA 3.0, via Wikimedia Commons.*"
+  caption: "El Espolón de Atlit, en exhibición en el Museo Marítimo Nacional de Israel, Oren Rozen, CC BY-SA 3.0, via Wikimedia Commons.*"
   relative: false # To use relative path for cover image, used in hugo Page-bundles
 categories: 
   - "antigüedad"
