@@ -1,6 +1,6 @@
 ---
 title: "F. R. D. Goodyear, Obituario (Henry D. Jocelyn)"
-date: "2024-05-25"
+date: "2024-02-23"
 categories:
   - "f r d goodyear"
   - "traducción"
