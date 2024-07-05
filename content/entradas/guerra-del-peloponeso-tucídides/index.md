@@ -1,6 +1,13 @@
 ---
 title: "El Tucídides esencial (Paul Woodruff)"
 date: "2024-06-30"
+cover:
+  image: "Tucídides_Getty.webp"
+  # can also paste direct link from external site
+  # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
+  alt: "Busto de Tucídides en el museo Getty."
+  caption: "Busto de Tucídides en el museo Getty. Mitad del siglo II d.C. Mármol de Asia Menor, de grano fino."
+  relative: false # To use relative path for cover image, used in hugo Page-bundles
 categories: 
   - "antigüedad"
   - "grecia"

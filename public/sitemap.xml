@@ -2,19 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/cristianismo-primitivo/</loc>
+    <lastmod>2024-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/entradas/el-n%C3%BAmero-cristiano-y-sus-implicaciones/</loc>
+    <lastmod>2024-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/entradas/</loc>
+    <lastmod>2024-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/keith-hopkins/</loc>
+    <lastmod>2024-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/traducci%C3%B3n/</loc>
+    <lastmod>2024-07-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/antig%C3%BCedad/</loc>
     <lastmod>2024-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/e-n-tigerstedt/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/entradas/</loc>
     <lastmod>2024-07-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/grecia/</loc>
@@ -24,9 +36,6 @@
     <lastmod>2024-07-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/plat%C3%B3n/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/traducci%C3%B3n/</loc>
     <lastmod>2024-07-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/guerra-del-peloponeso/</loc>
@@ -67,15 +76,6 @@
   </url><url>
     <loc>http://localhost:1313/categories/trump/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/cristianismo-primitivo/</loc>
-    <lastmod>2024-06-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/entradas/el-n%C3%BAmero-cristiano-y-sus-implicaciones/</loc>
-    <lastmod>2024-06-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/keith-hopkins/</loc>
-    <lastmod>2024-06-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/entradas/el-i%C3%B3n-de-plat%C3%B3n-la-traducci%C3%B3n-de-shelley/</loc>
     <lastmod>2024-06-16T00:00:00+00:00</lastmod>
