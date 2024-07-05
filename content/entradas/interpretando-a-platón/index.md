@@ -3,8 +3,8 @@ title: "Interpretando a Platón (E.N. Tigerstedt)"
 date: "2024-07-03"
 cover:
   image: "Platón-Sócrates-IA.webp"
-  alt: "Mosaico de Platón y Sócrates según el generador de inteligencia artificial DALL-E 3"
-  caption: "Mosaico de Platón y Sócrates según el generador de inteligencia artificial DALL-E 3"
+  alt: "Mosaico de Platón y Sócrates según el generador de inteligencia artificial DALL-E 3."
+  caption: "Mosaico de Platón y Sócrates según el generador de inteligencia artificial DALL-E 3."
   relative: false # To use relative path for cover image, used in hugo Page-bundles
 categories: 
   - "antigüedad"
