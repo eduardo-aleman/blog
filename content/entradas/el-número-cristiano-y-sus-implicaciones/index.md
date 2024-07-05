@@ -5,8 +5,8 @@ cover:
   image: "pan_peces_catacumbas_roma_siglo_iii.webp"
   # can also paste direct link from external site
   # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
-  alt: "Pan y peces con formas eucarísticas, detalle del panel 27,1 (editado) de la Catacumba de San Calixto, Roma, siglo III"
-  caption: "Pan y peces con formas eucarísticas, detalle del panel 27,1 de la Catacumba de San Calixto, Roma, siglo III. Lámina 28 del libro de Joseph Wilpert, _Die Malereien der Katakomben Roms_. Freiburg i.Br., 1903. Disponible en el sitio de Heidelberger historische Bestände – digital."
+  alt: "Pan y peces con formas eucarísticas, detalle del panel 27,1 de la Catacumba de San Calixto, Roma, siglo III."
+  caption: "Pan y peces con formas eucarísticas, detalle del panel 27,1 de la Catacumba de San Calixto, Roma, siglo III. Imágenes extraídas de la lámina 28 del libro de Joseph Wilpert, _Die Malereien der Katakomben Roms_. Freiburg i.Br., 1903. Disponible en el sitio de Heidelberger historische Bestände – digital."
   relative: false # To use relative path for cover image, used in hugo Page-bundles
 categories:
   - "keith hopkins"
