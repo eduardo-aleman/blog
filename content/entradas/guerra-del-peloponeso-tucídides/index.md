@@ -2,11 +2,11 @@
 title: "El Tucídides esencial (Paul Woodruff)"
 date: "2024-06-30"
 cover:
-  image: "Tucídides_Getty.webp"
+  image: "Herodoto_Tucídides_Herma.webp"
   # can also paste direct link from external site
   # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
-  alt: "Busto de Tucídides en el museo Getty."
-  caption: "Busto de Tucídides en el museo Getty. Mitad del siglo II d.C. Mármol de Asia Menor, de grano fino."
+  alt: "Herma doble de Tucídides en el Museo Arqueológico Nacional de Nápoles."
+  caption: "Herma doble de Tucídides en el Museo Arqueológico Nacional de Nápoles, parte de la colección Farnesio. Es el trabajo original de de un escultor neoático del siglo II a. e. c. desconocido que hubo de inspirarse en esculturas de más antigüedad. Los nombres de los dos historiadores están inscritos en la parte de abajo. Esta doble herma fue encontrada en el siglo XVI y fue cortada en dos pedazos por orden de los Farnesios para luego reencontrase en Nápoles tras la orden de Carlos de Borbón, de mudar una gran parte de la colección de escultura a la ciudad de Nápoles. Foto de Yair-haklai, CC BY-SA 4.0, vía Wikimedia Commons."
   relative: false # To use relative path for cover image, used in hugo Page-bundles
 categories: 
   - "antigüedad"
