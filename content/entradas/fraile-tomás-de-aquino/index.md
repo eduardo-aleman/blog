@@ -1,6 +1,11 @@
 ---
 title: "Fray Tomás de Aquino (Jaime A. Weisheipl)"
 date: "2024-06-14"
+cover:
+  image: "Tomás_Aquino_Triunfo.webp" 
+  alt: "Triunfo de Santo Tomás de Aquino, Doctor Angélico, con santos y ángeles, Basílica de Santa María Novella, fresco, 1366/67. Andrea di Bonaiuto, dominio público, vía Wikimedia Commons."
+  caption: "Triunfo de Santo Tomás de Aquino, Doctor Angélico, con santos y ángeles, Basílica de Santa María Novella, fresco, 1366/67. Andrea di Bonaiuto, dominio público, vía Wikimedia Commons."
+  relative: false
 categories: 
   - "escolástica"
   - "jaime a weisheipl"
