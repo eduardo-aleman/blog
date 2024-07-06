@@ -269,9 +269,9 @@ Pero si fueran tan buenos como dicen ser, esa independencia suya de sus vecinos 
 
 50\. Esto puede referirse al Decreto de Mégara de 432, que cerró los mercados y puertos de Atenas y su imperio al comercio de Mégara, una acción ruinosa. Alternativamente, esto puede referirse mucho antes a la separación de Mégara de su alianza corintia con la ayuda de los atenienses, quienes construyeron largos muros desde Mégara hasta su puerto (1,103).
 
-\[43\] Ahora hemos caído en las mismas circunstancias que vosotros cuando proclamamos en Esparta que uno puede castigar a los propios aliados; 51 por eso ahora insistimos en que observes la misma regla y no, después de cosechar el beneficio de nuestra decisión. —Haznos daño con el tuyo. Danos un retorno igual; debes reconocer que este es precisamente el momento en que quien ayuda es más claramente un amigo, y quien se mantiene al margen es un enemigo. Y a este pueblo de Córcira, no los aceptemos como aliados en contra de nuestra voluntad, y no los defiendamos en su injusticia. Haga lo que le decimos y hará lo correcto y, al mismo tiempo, adoptará el plan que mejor sirva a sus propios intereses.
+\[43\] Ahora hemos caído en las mismas circunstancias que vosotros cuando proclamamos en Esparta que uno puede castigar a los propios aliados;51 por eso ahora insistimos en que observes la misma regla y no, después de cosechar el beneficio de nuestra decisión. —Haznos daño con el tuyo. Danos un retorno igual; debes reconocer que este es precisamente el momento en que quien ayuda es más claramente un amigo, y quien se mantiene al margen es un enemigo. Y a este pueblo de Córcira, no los aceptemos como aliados en contra de nuestra voluntad, y no los defiendamos en su injusticia. Haga lo que le decimos y hará lo correcto y, al mismo tiempo, adoptará el plan que mejor sirva a sus propios intereses.
 
-51\. “Uno puede castigar a sus propios aliados”: Corinto votó en contra de intervenir cuando Atenas sofocó la rebelión del aliado ateniense Samos (**1,40** y 1.115-17).
+51\. “Uno puede castigar a sus propios aliados”: Corinto votó en contra de intervenir cuando Atenas sofocó la rebelión del aliado ateniense Samos (**1,40** y 1,115-17).
 
 ### \[44\] Tal fue el discurso de los corintios.
 
@@ -279,5 +279,9 @@ Los atenienses los escucharon y se reunieron dos veces en asamblea. En el primer
 
 \[45\] Con tal estrategia, Atenas aceptó la propuesta de Córcira, y poco después de que los corintios se marcharan, enviaron diez barcos para ayudar a defender Córcira.52 Sus órdenes eran evitar la batalla naval con los corintios a menos que navegaran contra Córcira o intentaran desembarcar tropas en suelo corcirense. Esto debían evitarlo si pudieran. Atenas dio estas órdenes para no disolver el tratado.
 
-52\. “Estaban al mando de Lacedemonio, hijo de Cimón, Diótimo, hijo de Estrómbico, y Proteas, hijo de Epicles”
+52\. “Estaban al mando de Lacedemonio, hijo de Cimón, Diótimo, hijo de Estrómbico, y Proteas, hijo de Epicles”.
+
+
+
+
 
