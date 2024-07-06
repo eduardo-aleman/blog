@@ -178,7 +178,7 @@ Y en cuanto a las acciones reales de la guerra, no me pareció correcto exponer 
 
 Esta historia tal vez no sea la más agradable de escuchar, ya que no contiene mitología.35 Pero aquellos que quieran investigar la verdad de lo que pasó en el pasado, que, dada la condición humana, se repetirá en el futuro, ya sea de la misma manera o casi igual, esos lectores encontrarán esta _Historia_ suficientemente valiosa, ya que fue compuesta para la eternidad, y no para ser escuchada en un torneo para obtener un premio.
 
-34\. Ver también **5**,**26**, **5,68**, y **7,44** sobre los métodos de Tucídides y las dificultades que encontró al aplicarlos. Nótese el contraste entre palabra y acción en los dos primeros párrafos de **1,22**; ese contraste se hará a menudo en los discursos que informa Tucídides.
+34\. Ver también **5,26**, **5,68**, y **7,44** sobre los métodos de Tucídides y las dificultades que encontró al aplicarlos. Nótese el contraste entre palabra y acción en los dos primeros párrafos de **1,22**; ese contraste se hará a menudo en los discursos que informa Tucídides.
 
 35\. “No contiene mitología”: Tucídides escribe la historia sin hacer referencia a ninguna intervención de los dioses. En esto sigue el nuevo conocimiento enseñado por los sofistas y otros, quienes ofrecieron explicaciones naturalistas en lugar de explicaciones sobrenaturales. Tucídides explica los acontecimientos humanos en términos de la naturaleza humana y la condición humana.
 
