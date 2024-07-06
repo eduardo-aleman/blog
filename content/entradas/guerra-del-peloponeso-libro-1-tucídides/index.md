@@ -274,3 +274,10 @@ Pero si fueran tan buenos como dicen ser, esa independencia suya de sus vecinos 
 51\. “Uno puede castigar a sus propios aliados”: Corinto votó en contra de intervenir cuando Atenas sofocó la rebelión del aliado ateniense Samos (**1,40** y 1.115-17).
 
 ### \[44\] Tal fue el discurso de los corintios.
+
+Los atenienses los escucharon y se reunieron dos veces en asamblea. En el primer encuentro no fueron menos favorables a los corintios, pero en el segundo cambiaron de opinión: no formar una alianza completa con Córcira y tener amigos y enemigos en común (porque si Córcira les ordenaba navegar juntos contra Corinto, ellos violaría su tratado con el Peloponeso), en cambio formar una alianza defensiva, para defenderse mutuamente en caso de que alguien atacara Córcira o Atenas o sus aliados. Vieron que se avecinaba la guerra con el Peloponeso y quisieron impedir que Córcira, con tan grande armada, cayera en manos de Corinto. Consideraron que era mejor dejar que las dos ciudades se desgastaran mutuamente, de modo que si Atenas tuviera que hacer la guerra, sus enemigos en Corinto y en otros lugares serían más débiles en el mar.
+
+\[45\] Con tal estrategia, Atenas aceptó la propuesta de Córcira, y poco después de que los corintios se marcharan, enviaron diez barcos para ayudar a defender Córcira.52 Sus órdenes eran evitar la batalla naval con los corintios a menos que navegaran contra Córcira o intentaran desembarcar tropas en suelo corcirense. Esto debían evitarlo si pudieran. Atenas dio estas órdenes para no disolver el tratado.
+
+52\. “Estaban al mando de Lacedemonio, hijo de Cimón, Diótimo, hijo de Estrómbico, y Proteas, hijo de Epicles”
+
