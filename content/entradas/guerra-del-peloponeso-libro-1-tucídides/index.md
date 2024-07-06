@@ -281,7 +281,14 @@ Los atenienses los escucharon y se reunieron dos veces en asamblea. En el primer
 
 52\. “Estaban al mando de Lacedemonio, hijo de Cimón, Diótimo, hijo de Estrómbico, y Proteas, hijo de Epicles”.
 
+Luego, Corinto lanzó una segunda flota para atacar Córcira; Después del éxito en la lucha del primer día, quedaron consternados al ver una importante flota ateniense unirse a los corcirenses. Vieron esto como una violación. de los treinta Años de paz.
 
+\[53\] Entonces los corintios decidieron enviar algunos hombres a las naves atenienses en una barco rápido, sin varita de heraldo,53 para sondearlos. Fueron enviados a decir, en efecto: “Nos cometéis una injusticia, atenienses, al iniciar una guerra y disolver el tratado. Simplemente nos estamos vengando de nuestros propios enemigos, y vosotros habéis tomado las armas y os interponéis en nuestro camino. Si planeáis impedir que naveguemos hacia Córcira o cualquier otro lugar que deseemos, y pretendéis disolver el tratado, entonces aprésanos primero y trátanos como enemigos”. Así hablaron los corintios.
+
+Los corcirenses de la flota que pudieron oír esto inmediatamente gritaron: "¡Agárralos y mátalos!" Pero los atenienses respondieron: “No vamos a iniciar una guerra, peloponesios, tampoco vamos a disolver el tratado. Vinimos en apoyo del pueblo de Córcira, que son nuestros aliados. Así que si deseáis navegar a cualquier otro lugar, no os detendremos. Pero si navegáis hacia Córcira o cualquier otra parte de su país, haremos todo lo posible para detenerlos”.
+Luego, los corintios regresaron a casa, después de levantar un trofeo por su victoria. Los corcirenses también levantaron un trofeo, ya que ambos equipos tenían ahora algunos reclamos de victoria. Los corintios se llevaron consigo a 250 ciudadanos de Córcira que habían hecho prisioneros, junto con 800 esclavos capturados, que serían vendidos.
+
+### Debate en Esparta
 
 
 
