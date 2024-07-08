@@ -307,7 +307,7 @@ _La gente de la isla de Egina presentó una acusación adicional, de forma menos
 
 _Invitados por Corinto, los representantes de las ciudades de la Liga del Peloponeso se reunieron en Esparta para tratar de convencer a los lacedemonios de entrar en guerra con Atenas con el argumento de que Atenas había violado el Tratado de Paz por Treinta Años. Esto había estado en vigor desde el año 446, al menos en teoría. El tratado había obligado a Atenas a renunciar a algunas de sus conquistas en ese momento. El tratado enumeraba a los aliados de ambos lados y prohibía a cada lado reclutar a los aliados del otro. Al parecer, también especificó que futuros desacuerdos se deberían resolver mediante arbitraje._
 
-_Esparta abrió su asamblea a una serie de quejas de sus aliados contra Atenas, de las cuales Corinto dio la última. Tucídides presenta sólo un breve esbozo de los primeros discursos, pero nos da su versión completa del discurso corintio, seguida de una respuesta de los atenienses. Después, los espartanos debatieron la cuestión entre ellos: un rey llamado Arquídamo pidió precaución, pero un funcionario conocido como_ éforo _triunfó con un llamado a la guerra._55
+_Esparta abrió su asamblea a una serie de quejas de sus aliados contra Atenas, de las cuales Corinto dio la última. Tucídides presenta sólo un breve esbozo de los primeros discursos, pero nos da su versión completa del discurso corintio, seguida de una respuesta de los atenienses. Después, los espartanos debatieron la cuestión entre ellos: un rey llamado Arquídamo pidió precaución, pero un funcionario conocido como_ éforo _triunfó con un llamado a la guerra._ 55
 
 _Estos cuatro discursos constituyen el famoso Debate de Esparta.56 Los cuatro están cuidadosamente compuestos en relación entre sí, de modo que la estructura del debate premia un estudio cuidadoso. Una característica notable del debate es que, si bien los enemigos de Atenas tienen mucho que decir contra esta, también comentan extensamente sobre la fortaleza militar y cultural de Atenas. Desde el principio se nos hace ver que los atenienses no podían perder esta guerra a menos que cometiesen errores terribles o tuvieran una mala suerte extraordinaria. Al representar los discursos de esta manera, Tucídides nos está preparando para la trágica caída de Atenas, que en realidad se deberá a una serie de errores militares agravados por extralimitaciones y mala suerte._
 
@@ -335,7 +335,7 @@ Y ahora estamos en la mejor posición para hablar, ya que tenemos las peores que
 
 59\. Abusados: la forma verbal de _hibris_, que puede incluir insultos y violaciones.
 
-60\. Subyugados: el griego significa literalmente "esclavizado". Consulte el Glosario en “subyugación”.
+60\. Subyugado: el texto griego significa literalmente "esclavizado". Consulte el Glosario en “subyugación”.
 
 61\. Córcira (la actual Corfú) tenía una armada de 120 trirremes, la segunda más grande de Grecia. De hecho, Corinto fue el agresor en su disputa con Córcira, y Atenas simplemente había respondido a los llamados de ayuda contra Corinto (ver 1,24 ss. y p. 15). Potidea tenía una importancia estratégica para los intereses de Atenas en la parte del norte de Grecia conocida como Tracia, que era una fuente de oro y madera para los barcos. Antigua colonia corintia, había sido miembro tributario de la alianza ateniense hasta su rebelión contra Atenas en 432.
 
