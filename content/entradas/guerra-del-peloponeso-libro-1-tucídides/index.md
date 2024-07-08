@@ -297,7 +297,7 @@ _Luego, los corintios regresaron a casa, después de levantar un trofeo por su v
 
 _Las acusaciones inmediatas que los peloponesios imputan contra los atenienses fueron tres: (1) su asedio de Potidea, (2) su decisión de ayudar a defender la isla de Córcira contra Corinto y (3) su decreto que restringía el comercio con Mégara._
 
-_1\. Potidea era una ciudad en el norte de Grecia a lo largo de la costa. Había sido fundada como colonia de Corinto, pero era miembro de pago de la Liga de Delos, que se había convertido, de hecho, en un imperio de Atenas. Temiendo que Corinto pusiera a Potidea en su contra, los atenienses exigieron que Potidea rompiera los lazos con Corinto. Cuando Potidea se negó, Atenas sitió la ciudad, lo que supuso un enorme esfuerzo militar (1,56-65,_ _**2,58**__).54 Para el fin del asedio, ver_ _**2,70**__._
+_1\. Potidea era una ciudad en el norte de Grecia a lo largo de la costa. Había sido fundada como colonia de Corinto, pero era miembro de pago de la Liga de Delos, que se había convertido, de hecho, en un imperio de Atenas. Temiendo que Corinto pusiera a Potidea en su contra, los atenienses exigieron que Potidea rompiera los lazos con Corinto. Cuando Potidea se negó, Atenas sitió la ciudad, lo que supuso un enorme esfuerzo militar (1,56-65, **2,58**).54 Para el fin del asedio, ver **2,70**_
 
 _2\._ Córcira _La actual Corfú, era una colonia de Corinto que estaba en guerra con su ciudad madre, con la ayuda de Atenas._
 
@@ -309,7 +309,7 @@ _Invitados por Corinto, los representantes de las ciudades de la Liga del Pelopo
 
 _Esparta abrió su asamblea a una serie de quejas de sus aliados contra Atenas, de las cuales Corinto dio la última. Tucídides presenta sólo un breve esbozo de los primeros discursos, pero nos da su versión completa del discurso corintio, seguida de una respuesta de los atenienses. Después, los espartanos debatieron la cuestión entre ellos: un rey llamado Arquídamo pidió precaución, pero un funcionario conocido como_ éforo _triunfó con un llamado a la guerra._55
 
-_Estos cuatro discursos constituyen el famoso Debate de Esparta._56 _Los cuatro están cuidadosamente compuestos en relación entre sí, de modo que la estructura del debate premia un estudio cuidadoso. Una característica notable del debate es que, si bien los enemigos de Atenas tienen mucho que decir contra esta, también comentan extensamente sobre la fortaleza militar y cultural de Atenas. Desde el principio se nos hace ver que los atenienses no podían perder esta guerra a menos que cometiesen errores terribles o tuvieran una mala suerte extraordinaria. Al representar los discursos de esta manera, Tucídides nos está preparando para la trágica caída de Atenas, que en realidad se deberá a una serie de errores militares agravados por extralimitaciones y mala suerte._
+_Estos cuatro discursos constituyen el famoso Debate de Esparta.56 Los cuatro están cuidadosamente compuestos en relación entre sí, de modo que la estructura del debate premia un estudio cuidadoso. Una característica notable del debate es que, si bien los enemigos de Atenas tienen mucho que decir contra esta, también comentan extensamente sobre la fortaleza militar y cultural de Atenas. Desde el principio se nos hace ver que los atenienses no podían perder esta guerra a menos que cometiesen errores terribles o tuvieran una mala suerte extraordinaria. Al representar los discursos de esta manera, Tucídides nos está preparando para la trágica caída de Atenas, que en realidad se deberá a una serie de errores militares agravados por extralimitaciones y mala suerte._
 
 54\. Sócrates sirvió como hoplita en la agotadora campaña de Potidea. Para una descripción de su comportamiento allí, véase Platón, _Simposio_ 219e-220e.
 
@@ -333,9 +333,9 @@ Los lacedemonios, por su parte, invitaron a sus otros aliados y a cualquiera que
 
 Y ahora estamos en la mejor posición para hablar, ya que tenemos las peores quejas: Atenas nos ha abusado59 y vosotros nos han descuidado. Ahora bien, si los atenienses hubieran cometido sus injusticias contra Grecia en secreto, no lo sabríais y tendríamos que informaros. Pero tal como están las cosas, ¿quién necesita un largo discurso? Se puede ver que han subyugado60 a algunos de nosotros, mientras conspiran contra otros (especialmente nuestros aliados), y desde hace mucho tiempo se han movilizado para cualquier guerra. De lo contrario, no nos habrían arrebatado Córcira por la fuerza ni sitiado Potidea, cuando una de ellas es muy útil para atacar nuestros intereses en Tracia, y la otra podría habernos proporcionado a los peloponesios una armada muy importante.61
 
-59\. Abusado: la forma verbal de _hibris_, que puede incluir insultos y violaciones.
+59\. Abusados: la forma verbal de _hibris_, que puede incluir insultos y violaciones.
 
-60\. Subyugado: el griego significa literalmente "esclavizado". Consulte el Glosario en “subyugación”.
+60\. Subyugados: el griego significa literalmente "esclavizado". Consulte el Glosario en “subyugación”.
 
 61\. Córcira (la actual Corfú) tenía una armada de 120 trirremes, la segunda más grande de Grecia. De hecho, Corinto fue el agresor en su disputa con Córcira, y Atenas simplemente había respondido a los llamados de ayuda contra Corinto (ver 1,24 ss. y p. 15). Potidea tenía una importancia estratégica para los intereses de Atenas en la parte del norte de Grecia conocida como Tracia, que era una fuente de oro y madera para los barcos. Antigua colonia corintia, había sido miembro tributario de la alianza ateniense hasta su rebelión contra Atenas en 432.
 
