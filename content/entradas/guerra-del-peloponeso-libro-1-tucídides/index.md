@@ -293,5 +293,29 @@ _Luego, los corintios regresaron a casa, después de levantar un trofeo por su v
 
 ### Debate en Esparta
 
+#### Los argumentos a favor de hacer la guerra a Atenas (432 a. C.)
+
+_Las acusaciones inmediatas que los peloponesios imputan contra los atenienses fueron tres: (1) su asedio de Potidea, (2) su decisión de ayudar a defender la isla de Córcira contra Corinto y (3) su decreto que restringía el comercio con Mégara._
+
+_1\. Potidea era una ciudad en el norte de Grecia a lo largo de la costa. Había sido fundada como colonia de Corinto, pero era miembro de pago de la Liga de Delos, que se había convertido, de hecho, en un imperio de Atenas. Temiendo que Corinto pusiera a Potidea en su contra, los atenienses exigieron que Potidea rompiera los lazos con Corinto. Cuando Potidea se negó, Atenas sitió la ciudad, lo que supuso un enorme esfuerzo militar (1,56-65,_ _**2,58**__).54 Para el fin del asedio, ver_ _**2,70**__._
+
+_2\._ Córcira _La actual Corfú, era una colonia de Corinto que estaba en guerra con su ciudad madre, con la ayuda de Atenas._
+
+_3\._ Mégara _era vecina inmediata de Atenas en dirección a Corinto; el decreto ateniense que prohibía el comercio entre Mégara y Atenas o cualquiera de los aliados atenienses causó grandes dificultades en la ciudad, y esto causó mucho resentimiento entre los peloponesios._
+
+_La gente de la isla de Egina presentó una acusación adicional, de forma menos oficial. Se quejaron de que Atenas había violado su autonomía, garantizada en el Tratado de Paz por Treinta Años._
+
+_Invitados por Corinto, los representantes de las ciudades de la Liga del Peloponeso se reunieron en Esparta para tratar de convencer a los lacedemonios de entrar en guerra con Atenas con el argumento de que Atenas había violado el Tratado de Paz por Treinta Años. Esto había estado en vigor desde el año 446, al menos en teoría. El tratado había obligado a Atenas a renunciar a algunas de sus conquistas en ese momento. El tratado enumeraba a los aliados de ambos lados y prohibía a cada lado reclutar a los aliados del otro. Al parecer, también especificó que futuros desacuerdos se deberían resolver mediante arbitraje._
+
+_Esparta abrió su asamblea a una serie de quejas de sus aliados contra Atenas, de las cuales Corinto dio la última. Tucídides presenta sólo un breve esbozo de los primeros discursos, pero nos da su versión completa del discurso corintio, seguida de una respuesta de los atenienses. Después, los espartanos debatieron la cuestión entre ellos: un rey llamado Arquídamo pidió precaución, pero un funcionario conocido como_ éforo _triunfó con un llamado a la guerra._55
+
+_Estos cuatro discursos constituyen el famoso Debate de Esparta._56 _Los cuatro están cuidadosamente compuestos en relación entre sí, de modo que la estructura del debate premia un estudio cuidadoso. Una característica notable del debate es que, si bien los enemigos de Atenas tienen mucho que decir contra esta, también comentan extensamente sobre la fortaleza militar y cultural de Atenas. Desde el principio se nos hace ver que los atenienses no podían perder esta guerra a menos que cometiesen errores terribles o tuvieran una mala suerte extraordinaria. Al representar los discursos de esta manera, Tucídides nos está preparando para la trágica caída de Atenas, que en realidad se deberá a una serie de errores militares agravados por extralimitaciones y mala suerte._
+
+54\. Sócrates sirvió como hoplita en la agotadora campaña de Potidea. Para una descripción de su comportamiento allí, véase Platón, _Simposio_ 219e-220e.
+
+55\. Sobre la constitución espartana, véase Introducción, xviii-xix.
+
+56\. Los estudiosos no están de acuerdo sobre el estatus histórico de tales discursos en Tucídides. Ver **1,22** e Introducción, xxx–xxxiv.
+
 
 
