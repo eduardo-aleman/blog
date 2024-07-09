@@ -23,16 +23,16 @@ Woodruff, Paul., [_The Essential Thucydides: On Justice, Power, and Human Nature
 \* Los trirremes griegos llevaban el espolón en el frente de la proa para embestir a los navíos enemigos. Este ejemplar romano, descubierto en la bahía de Atlit, en Israel, mide 2,26 m de largo, 0,95 m de alto y pesa 465 kg. Fue fundido como una sola pieza en bronce a partir de un modelo de cera. Es muy probable que, durante la guerra del Peloponeso, los trirremes griegos utilizados en los enfrentamientos navales con la flota de Esparta y sus aliados tuviesen un espolón de bronce con un tamaño y peso semejante.
 
 
-**Libro 1**
-===========
+# Libro 1
 
-**Historia temprana, método y causa de la guerra**
---------------------------------------------------
+
+## Historia temprana, método y causa de la guerra
+
 
 _Tucídides comienza con un breve prefacio seguido de una investigación de los inicios de la civilización griega. Esta sección, conocida como “la Arqueología”, es importante principalmente como ilustración del método histórico. En esta Tucídides resalta, entre otros factores, la importancia de la economía en la historia y el valor del poder marítimo._
 
-**Prefacio de Tucídides**
--------------------------
+### Prefacio de Tucídides
+
 
 \[1\] Tucídides,1 un ateniense, escribió la guerra entre los peloponesios y los atenienses mientras estos luchaban entre sí. Comenzó a escribir tan pronto como comenzó la guerra, creyendo que iba a ser una gran guerra y que, más que todas las anteriores, ésta merecería ser digna de ser registrada para la posteridad. Hizo esta predicción porque ambos bandos entraron a la guerra en su apogeo económico y militar, y también porque observó que el resto del mundo griego tomó bando, algunos de inmediato, otros después.
 
@@ -40,8 +40,8 @@ Esta fue sin duda la mayor movilización militar que jamás hubo entre los grieg
 
 1\. Tucídides suele referirse a sí mismo en tercera persona. Proporciona un segundo prefacio en **5,26**.
 
-**La Arqueología**
-------------------
+### La Arqueología
+
 
 _Ahora Tucídides reconstruye la prehistoria de Grecia para respaldar su tesis de que ninguna demostración de poder antigua podría compararse con las de la Guerra del Peloponeso. Hace un uso astuto de todas las pruebas de que dispone: los poemas homéricos, las tradiciones de las familias aristocráticas, las listas de reyes, la arqueología e incluso la situación actual de otros pueblos primitivos. Utiliza estos recursos de manera crítica y se guía en cada etapa por su concepción de eikós—lo que razonablemente podría esperarse dadas las circunstancias._
 
@@ -161,8 +161,7 @@ Después de la disolución de las tiranías en Grecia, no pasó mucho tiempo ant
 
 \[20\] Tal era, entonces, el estado de Grecia en el pasado tal como lo encontré, aunque determinadas evidencias pueden ser difíciles de creer.
 
-**Sobre el método histórico**
------------------------------
+### Sobre el método histórico
 
 La gente recibe informes sobre el pasado de todos de una misma manera, es decir sin ponerlos a prueba, incluso los informes sobre su propio país. La mayoría de los atenienses, por ejemplo, piensan que Hiparco era un tirano cuando fue asesinado por Harmodio y Aristogeiton, y no saben que era Hipias quien estaba en el poder, ya que era este el hijo mayor de Pisístrato, e Hiparco y Tesalo eran sus hermanos. De hecho, ese mismo día y en el mismo momento del hecho, Harmodio y Aristogeiton sospecharon que algunos de sus cómplices le habían contado a Hipias el complot. Así que lo evitaron como si hubiesen sido advertidos, pero aún así querían hacer algo atrevido antes de ser capturados. Cuando se encontraron por casualidad con Hiparco en Leocorión, donde organizaba la Procesión Panatenaica, lo asesinaron.32
 
