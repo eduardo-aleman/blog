@@ -469,7 +469,7 @@ Hecho esto, los aliados regresaron a casa, mientras que los atenienses se quedar
 
 ### Los cincuenta años de historia
 
-_Tucídides ahora recuerda los cincuenta años que siguieron a la guerra persa y condujeron a la crisis actual. En un breve resumen (conocido como “Pentecontecia” o “Cuento de los cincuenta años”), habla del ascenso de Atenas y de la creciente fricción entre esta y los peloponesios (1,89-117). Los dos capítulos siguientes son lectura esencial sobre la fundación del imperio:_
+_Tucídides ahora recuerda los cincuenta años que siguieron a la guerra persa y condujeron a la crisis actual. En un breve resumen (conocido como “Pentecontecia” o “Historia de los cincuenta años”), habla del ascenso de Atenas y de la creciente fricción entre esta y los peloponesios (1,89-117). Los dos capítulos siguientes son lectura esencial sobre la fundación del imperio:_
 
 \[96\] Así que los atenienses tomaron el liderazgo de esta manera, con el apoyo voluntario de los aliados, debido a su odio hacia Pausanias.88 Una vez establecidos como líderes, asignaron algunas ciudades para proporcionar dinero cuando fuera necesario, y otras para suministrar navíos para usar contra el enemigo extranjero. Una razón que dieron \[para requerir dinero o barcos\] fue poder vengarse de sus pérdidas desperdiciando la tierra del rey \[persa\]. En este punto los atenienses establecieron por primera vez el cargo de Tesoreros de Grecia (_hellenotamiai_) para recaudar los ingresos del extranjero, como llamaban a las contribuciones monetarias.89 La primera recaudación fue de 460 talentos.90 El tesoro estaba en el lugar sagrado de Delos, donde también se efectuaban las reuniones.91
 
