@@ -365,7 +365,7 @@ Se afanan en llenar todos sus días con trabajo duro y peligro. Lo que tienen no
 
 \[72\] Así hablaron los corintios. Los embajadores atenienses se encontraban ya en Esparta por otros asuntos, y cuando oyeron los discursos contra ellos decidieron presentarse ante los lacedemonios, no para defenderse de las acusaciones formuladas por las ciudades, sino para persuadir a los lacedemonios a considerar toda la cuestión con más amplitud y detalle en lugar de tomar una decisión rápida. Además, deseaban señalar lo poderosa que era su ciudad, refrescando la memoria de los mayores y al mismo tiempo instruyendo a los jóvenes sobre el pasado. Creían que su discurso inclinaría a los lacedemonios más hacia la paz que hacia la guerra. Entonces fue cuando ellos pidieron permiso para hablar ante la asamblea. Al ser invitados a hacerlo, se acercaron y hablaron de la siguiente manera:
 
-#### _Discurso de los atenienses_66
+#### _Discurso de los atenienses_ 66
 
 66\. El discurso ateniense no responde a acusaciones específicas de los corintios como el asunto de Potidea. En cambio, responde a lo que Tucídides llamó anteriormente “la verdadera razón de la disputa” (**1,23**): el crecimiento del Imperio ateniense, que también fue un tema general del discurso corintio (**1,69**). Así, al dar forma al debate que representa, Tucídides relega a un segundo plano “las explicaciones que ambas partes dieron en público”. Está menos interesado en las palabras pronunciadas en Esparta que en la verdadera cuestión subyacente; Tucídides representa esto tal como él lo ve, como un debate sobre el imperio.
 
@@ -445,7 +445,7 @@ Debemos reconocer que las quejas pueden resolverse, ya sean de ciudades o de par
 
 Archidamus habló en ese sentido. Entonces Estenelaidas, que era uno de los éforos de aquel año, fue el último en levantarse y habló así:
 
-#### _Discurso de Estenelaidas_84
+#### _Discurso de Estenelaidas_ 84
 
 84\. Un discurso verdaderamente lacónico. Los espartanos eran famosos por su brevedad al hablar y nuestra palabra "lacónico" se deriva del nombre de su tierra natal. Sthenelaidas no desempeña ningún otro papel en la _Historia_.
 
