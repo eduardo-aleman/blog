@@ -185,7 +185,7 @@ Esta historia tal vez no sea la más agradable de escuchar, ya que no contiene m
 **Orígenes de la guerra**
 -------------------------
 
-### **La explicación de Tucídides de la guerra**
+### La explicación de Tucídides de la guerra
 
 \[23\] El acontecimiento anterior de mayor envergadura fue la guerra contra los persas, e incluso ésta se decidió rápidamente mediante dos batallas en el mar y dos en tierra.36 Pero la Guerra del Peloponeso duró mucho tiempo y trajo más sufrimiento a Grecia que nunca antes hubo de verse: nunca tantas ciudades habían sido capturadas y despobladas (algunas por extranjeros, otras por los propios griegos en guerra entre sí -algunas de estas incluso fueron repobladas con nuevos habitantes); nunca tanta gente había sido expulsada de sus países o asesinada, ya sea durante la guerra en sí o como resultado de conflictos civiles.
 
@@ -197,7 +197,7 @@ Todas estas dificultades sobrevinieron durante esta guerra, que comenzó cuando 
 
 37\. “Los obligó a la guerra”: los estudiosos difieren sobre cómo tomar esto. La comparación con pasajes paralelos sugiere que Tucídides no significa que la guerra fuera simplemente inevitable, sino que la gente en ambos bandos se _sintió_ obligada a razón de un miedo mutuo. La compulsión (_anankē_) es una necesidad subjetiva. Sobre la interpretación de _anankē_ consulte la Introducción, xli–xliii.
 
-### **Conflicto entre Córcira y Corinto**
+### Conflicto entre Córcira y Corinto
 
 _La isla de Córcira había sido una colonia de Corinto, pero entró en conflicto con Corinto por Epidamno, una ciudad que ambos bandos reclamaban como su colonia. Córcira intentó resolver el problema de manera amistosa, recurriendo al arbitraje, pero Corinto no estuvo de acuerdo. En una gran batalla naval, Córcira humilló a Corinto (1,24-30)._
 
@@ -207,7 +207,7 @@ Cuando los corintios se enteraron, enviaron su propia delegación a Atenas para 
 
 38\. “De la siguiente manera”: _toiade._ Tucídides casi siempre introduce discursos con un lenguaje de este tipo, indicando que está presentando las ideas principales detrás de los discursos, pero no las palabras exactas. Sobre la interpretación de los discursos, véase la Introducción, xxx–xxxiv.
 
-### **Discurso de los corcirenses**
+#### Discurso de los corcirenses
 
 \[32\] La justicia39 requiere esto: cuando un pueblo acude a sus vecinos en busca de ayuda, como lo hacemos nosotros, y los vecinos no les deben nada por servicios o asistencia militar en el pasado, entonces quienes piden deben demostrar, primero, que lo que piden será beneficioso para los que proveen—o al menos no será costoso—y, en segundo lugar, que los receptores estarán eternamente agradecidos. Si no establecen claramente ninguno de estos puntos, entonces no tienen derecho a enfadarse si no tienen éxito. Al enviarnos aquí con una solicitud de alianza, el pueblo de Córcira confía en que le daremos a vosotros garantías firmes con respecto a estos puntos.
 
@@ -236,8 +236,6 @@ De hecho, tendremos cargos mucho más graves contra vosotros si no llegamos a pe
 42\. Desde el comienzo de **1,36**, esto es todo una oración en griego, con solo un verbo principal, que aquí se traduce como “reconocer”. He cambiado la construcción del impersonal “él” al “vosotros”, que es más acorde con el estilo inglés. Note las paradojas de Tucídides: vuestro miedo asustaría a vuestro enemigo, mientras que vuestra confianza le daría confianza a estos. Cameron (53) llama a esto “una oración que es algo en serio”.
 
 Eso dijeron los embajadores de Córcira. Después de ellos, los corintios hablaron así:
-
-### **Eso dijeron los embajadores de Córcira. Después de ellos, los corintios hablaron así:**
 
 \[37\] La ​​necesidad43 nos obliga a dar esta respuesta ante el caso que ha presentado Córcira, no sólo pidieron una alianza, afirmaron que les habíamos hecho una injusticia y que los habíamos llevado a la guerra sin motivo alguno, por lo que primero debemos responder a estos dos puntos y luego explicar por qué deberíais considerar que nuestra propuesta os ofrece más seguridad y por qué tenéis una buena razón para rechazar su súplica. Dicen que la cordura los mantenía alejados de las alianzas, pero idearon esta práctica por malicia, no por virtud. No querían aliados en la injusticia ni testigos que los avergonzaran si alguna vez pedían ayuda. Al mismo tiempo, su ciudad es autosuficiente en términos de ubicación, de modo que son sus propios jueces cuando dañan a alguien (más de lo que lo serían bajo un tratado) porque rara vez navegan en dirección de sus vecinos, pero a menudo reciben a otros que son obligados a pasar por su puerto. Y esta elegante neutralidad suya es simplemente una pantalla, no para compartir la injusticia con otros, sino para que puedan ellos violar la justicia por sí mismos, ejercer la violencia dondequiera que prevalezcan y, donde nadie los vea, robar más de lo que les corresponde y ser sinvergüenzas en su adquisición.
 
@@ -273,7 +271,7 @@ Pero si fueran tan buenos como dicen ser, esa independencia suya de sus vecinos 
 
 51\. “Uno puede castigar a sus propios aliados”: Corinto votó en contra de intervenir cuando Atenas sofocó la rebelión del aliado ateniense Samos (**1,40** y 1,115-17).
 
-### **\[44\] Tal fue el discurso de los corintios.**
+\[44\] Tal fue el discurso de los corintios.
 
 Los atenienses los escucharon y se reunieron dos veces en asamblea. En el primer encuentro no fueron menos favorables a los corintios, pero en el segundo cambiaron de opinión: no formar una alianza completa con Córcira y tener amigos y enemigos en común (porque si Córcira les ordenaba navegar juntos contra Corinto, ellos violaría su tratado con el Peloponeso), en cambio formar una alianza defensiva, para defenderse mutuamente en caso de que alguien atacara Córcira o Atenas o sus aliados. Vieron que se avecinaba la guerra con el Peloponeso y quisieron impedir que Córcira, con tan grande armada, cayera en manos de Corinto. Consideraron que era mejor dejar que las dos ciudades se desgastaran mutuamente, de modo que si Atenas tuviera que hacer la guerra, sus enemigos en Corinto y en otros lugares serían más débiles en el mar.
 
@@ -291,9 +289,9 @@ Los corcirenses de la flota que pudieron oír esto inmediatamente gritaron: “�
 
 _Luego, los corintios regresaron a casa, después de levantar un trofeo por su victoria. Los corcirenses también levantaron un trofeo, ya que ambos equipos tenían ahora algunos reclamos de victoria. Los corintios se llevaron consigo a 250 ciudadanos de Córcira que habían hecho prisioneros, junto con 800 esclavos capturados, que serían vendidos._
 
-### **Debate en Esparta**
+### Debate en Esparta
 
-#### **Los argumentos a favor de hacer la guerra a Atenas (432 a. C.)**
+#### Los argumentos a favor de hacer la guerra a Atenas (432 a. C.)
 
 _Las acusaciones inmediatas que los peloponesios imputan contra los atenienses fueron tres: (1) su asedio de Potidea, (2) su decisión de ayudar a defender la isla de Córcira contra Corinto y (3) su decreto que restringía el comercio con Mégara._
 
@@ -325,7 +323,7 @@ _Estos cuatro discursos constituyen el famoso Debate de Esparta.56 Los cuatro es
 
 Los lacedemonios, por su parte, invitaron a sus otros aliados y a cualquiera que tuviera alguna queja de injusticia contra Atenas. Después de convocar su asamblea ordinaria, convocaron a pronunciar discursos. Cada grupo presentó sus propias acusaciones. Los megarianos plantearon varias cuestiones, especialmente que iba en contra del tratado que Atenas les cerrara los puertos en todo el Imperio ateniense y les prohibiera la entrada al mercado de Atenas. Los últimos fueron los corintios, que habían dado a los demás la oportunidad de provocar la ira de los lacedemonios. Hablaron de la siguiente manera:
 
-#### **Discurso de los corintios**
+#### _Discurso de los corintios_
 
 \[68\] Vosotros, lacedemonios, tenéis tanta confianza en vuestra constitución y en vuestra sociedad que sospecháis demasiado de nosotros, los de fuera, cuando tenemos una queja que presentar. Esta confianza os llena de autocontrol,58 pero también os vuelve bastante ignorantes en asuntos exteriores. Muchas veces os hemos advertido del daño que Atenas estaba a punto de causarnos, y cada vez habéis ignorado por completo nuestras indicaciones. Sospecháis que hablamos solamente por nuestros intereses personales, y por eso no habéis convocado a la Liga antes de que nos lastimaran, sino que esperasteis hasta que realmente nos sucediera algo.
 
@@ -415,7 +413,7 @@ Por eso, si nos vencieran y tendrían que administrar el imperio vosotros mismos
 
 \[79\] Así hablaron los atenienses. Después de que los lacedemonios escucharon las quejas de sus aliados contra Atenas, así como el discurso ateniense, sacaron a todos los demás de la asamblea y discutieron la situación entre ellos. La opinión de la mayoría se redujo a esto: que los atenienses eran culpables de injusticia y que debían ir a la guerra de inmediato. Pero su rey, Arquídamo, que tenía fama de inteligente y prudente, se adelantó y habló en este tono:
 
-#### Discurso de Arquídamo
+#### _Discurso de Arquídamo_
 
 \[80\] He visto demasiadas guerras, lacedemonios, (y también vosotros, si tenéis mi edad) para que cualquiera de nosotros desee el negocio movido por esa creencia ignorante, a la que sucumbe la gente común, de que la guerra es algo seguro y bueno. Si lo pensáis con claridad, veríais que esta guerra que estamos discutiendo no sería pequeña. Nuestra fuerza sería comparable si tuviéramos que luchar contra otros peloponesios, que son nuestros vecinos, donde podríamos llegar rápidamente a cualquier lugar. Pero estos hombres viven en una tierra lejana y, además, están magníficamente entrenados en el mar y tienen todo tipo de excelentes recursos: riqueza pública y privada, barcos, caballos, infantería, la mayor población de cualquier ciudad de Grecia y muchos contribuyentes aliados también. ¿Cómo podríamos emprender a la ligera una guerra con hombres como estos? Sin estar preparados como estamos, ¿de dónde podríamos sacar la confianza para lanzarnos a la guerra? ¿De nuestros barcos? Somos más débiles en esto y llevaría tiempo construir y entrenar una armada que esté a la altura de la de ellos. ¿De nuestro dinero? En esto somos aún más débiles, ya que no tenemos tesoro público y no podemos recaudar dinero fácilmente de nuestros ciudadanos.
 
