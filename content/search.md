@@ -4,5 +4,5 @@ layout: "search" # necessary for search
 # url: "/archive"
 # description: "Description for Search"
 summary: "search"
-placeholder: "por ejemplo, Juliano el Apóstata"
+placeholder: "por ejemplo, Platón"
 ---
