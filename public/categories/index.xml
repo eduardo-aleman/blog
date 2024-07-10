@@ -6,29 +6,8 @@
     <description>Recent content in Categories on Blog de Eduardo Alemán</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>es-es</language>
-    <lastBuildDate>Thu, 04 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Cristianismo Primitivo</title>
-      <link>http://localhost:1313/categories/cristianismo-primitivo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/cristianismo-primitivo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Keith Hopkins</title>
-      <link>http://localhost:1313/categories/keith-hopkins/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/keith-hopkins/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Traducción</title>
-      <link>http://localhost:1313/categories/traducci%C3%B3n/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/traducci%C3%B3n/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Antigüedad</title>
       <link>http://localhost:1313/categories/antig%C3%BCedad/</link>
@@ -37,24 +16,10 @@
       <description></description>
     </item>
     <item>
-      <title>E N Tigerstedt</title>
-      <link>http://localhost:1313/categories/e-n-tigerstedt/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/e-n-tigerstedt/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Grecia</title>
       <link>http://localhost:1313/categories/grecia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/grecia/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Platón</title>
-      <link>http://localhost:1313/categories/plat%C3%B3n/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/plat%C3%B3n/</guid>
       <description></description>
     </item>
     <item>
@@ -79,10 +44,45 @@
       <description></description>
     </item>
     <item>
+      <title>Traducción</title>
+      <link>http://localhost:1313/categories/traducci%C3%B3n/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/traducci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Tucídides</title>
       <link>http://localhost:1313/categories/tuc%C3%ADdides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/tuc%C3%ADdides/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cristianismo Primitivo</title>
+      <link>http://localhost:1313/categories/cristianismo-primitivo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/cristianismo-primitivo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Keith Hopkins</title>
+      <link>http://localhost:1313/categories/keith-hopkins/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/keith-hopkins/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>E N Tigerstedt</title>
+      <link>http://localhost:1313/categories/e-n-tigerstedt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/e-n-tigerstedt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Platón</title>
+      <link>http://localhost:1313/categories/plat%C3%B3n/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/plat%C3%B3n/</guid>
       <description></description>
     </item>
     <item>

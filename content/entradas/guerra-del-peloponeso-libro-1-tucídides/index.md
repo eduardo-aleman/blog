@@ -1,6 +1,6 @@
 ---
-title: "Historia de la guerra del Peloponeso, Libro 1 (Tucídides)"
-date: "2024-07-02"
+title: "Historia de la guerra del Peloponeso. Libro 1 (Tucídides)."
+date: "2024-07-09"
 cover:
   image: "Espolón_de_Athlit.webp"
   # can also paste direct link from external site
