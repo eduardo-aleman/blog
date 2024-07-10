@@ -496,7 +496,7 @@ _Tucídides resume los cincuenta años de historia y vuelve a su tema principal:
 
 ### El discurso de guerra de Pericles
 
-_Después de que su Liga decidió la guerra, los lacedemonios enviaron una delegación a Atenas “para presentar cargos contra ellos, de modo que, si los atenienses los ignoraban, tuvieran la mejor razón para ir a la guerra” (1,126). Exigieron que los atenienses levantaran el sitio de Potidea, liberaran a Egina y rescindieran el decreto que bloqueaba el comercio con Mégara. Solo en estas condiciones, dijeron, sería posible la paz. Los atenienses se negaron, exponiendo sus razones para continuar como tal y como estaban. Luego llegó la última delegación de Esparta con este mensaje: “A los lacedemonios les gustaría que hubiera paz, y habrá paz, pero sólo si dejáis que los griegos tengan su autonomía” (1,139)._96
+_Después de que su Liga decidió la guerra, los lacedemonios enviaron una delegación a Atenas “para presentar cargos contra ellos, de modo que, si los atenienses los ignoraban, tuvieran la mejor razón para ir a la guerra” (1,126). Exigieron que los atenienses levantaran el sitio de Potidea, liberaran a Egina y rescindieran el decreto que bloqueaba el comercio con Mégara. Solo en estas condiciones, dijeron, sería posible la paz. Los atenienses se negaron, exponiendo sus razones para continuar como tal y como estaban. Luego llegó la última delegación de Esparta con este mensaje: “A los lacedemonios les gustaría que hubiera paz, y habrá paz, pero sólo si dejáis que los griegos tengan su autonomía” (1,139)._ 96
 
 96\. Autonomía: _autonomia_; independencia, realmente “tener tus propias leyes”. En general, los miembros del Imperio ateniense conservaban las leyes locales. Sobre el término, ver Glosario.
 
