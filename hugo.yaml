@@ -1,4 +1,5 @@
 baseURL: https://ealeman.com/
+description: Blog en español de Eduardo Alemán.
 defaultContentLanguage: es
 defaultContentLanguageInSubdir: false
 languages:
