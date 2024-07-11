@@ -319,7 +319,7 @@ _Estos cuatro discursos constituyen el famoso Debate de Esparta.56 Los cuatro es
 
 57\. Egina, una isla cercana a Atenas, se había rebelado en 457 y quedó bajo firme control ateniense. No sabemos con precisión qué tipo de autonomía se había prometido al pueblo de Egina, ni cómo sentían que se había infringido. Este pasaje probablemente se refiere al Tratado de Paz por Treinta Años; véase 2,27 con las notas de Hornblower sobre ambos pasajes. Sobre el concepto de autonomía, ver Glosario.
 
-Los lacedemonios, por su parte, invitaron a sus otros aliados y a cualquiera que tuviera alguna queja de injusticia contra Atenas. Después de convocar su asamblea ordinaria, convocaron a pronunciar discursos. Cada grupo presentó sus propias acusaciones. Los megarianos plantearon varias cuestiones, especialmente que iba en contra del tratado que Atenas les cerrara los puertos en todo el Imperio ateniense y les prohibiera la entrada al mercado de Atenas. Los últimos fueron los corintios, que habían dado a los demás la oportunidad de provocar la ira de los lacedemonios. Hablaron de la siguiente manera:
+Los lacedemonios, por su parte, invitaron a sus otros aliados y a cualquiera que tuviera alguna queja de injusticia contra Atenas. Después de convocar su asamblea ordinaria, convocaron a pronunciar discursos. Cada grupo presentó sus propias acusaciones. Los megarenses plantearon varias cuestiones, especialmente que iba en contra del tratado que Atenas les cerrara los puertos en todo el Imperio ateniense y les prohibiera la entrada al mercado de Atenas. Los últimos fueron los corintios, que habían dado a los demás la oportunidad de provocar la ira de los lacedemonios. Hablaron de la siguiente manera:
 
 #### _Discurso de los corintios_
 
@@ -499,7 +499,7 @@ _Después de que su Liga decidió la guerra, los lacedemonios enviaron una deleg
 
 96\. Autonomía: _autonomia_; independencia, realmente “tener tus propias leyes”. En general, los miembros del Imperio ateniense conservaban las leyes locales. Sobre el término, ver Glosario.
 
-Entonces los atenienses convocaron una asamblea para considerar sus opciones y decidieron tomar una decisión y responder de una vez por todas. Mucha gente se adelantó para hablar de cada lado; algunos pensaron que deberían ir a la guerra, otros que deberían rescindir el Decreto Megariano para que no obstaculizara la paz. Entonces Pericles, que era en aquella época el más destacado ateniense y el más hábil en palabra y acción97, les aconsejó lo siguiente:
+Entonces los atenienses convocaron una asamblea para considerar sus opciones y decidieron tomar una decisión y responder de una vez por todas. Mucha gente se adelantó para hablar de cada lado; algunos pensaron que deberían ir a la guerra, otros que deberían rescindir el Decreto Megarense para que no obstaculizara la paz. Entonces Pericles, que era en aquella época el más destacado ateniense y el más hábil en palabra y acción97, les aconsejó lo siguiente:
 
 97\. “Más hábil en palabra y acción”: el sofista Protágoras prometió hacer a sus alumnos “más hábiles en palabra y acción” (Platón, _Protágoras_ 318e). Pericles estaba profundamente involucrado en el nuevo aprendizaje y había pasado mucho tiempo con Protágoras.
 
