@@ -164,6 +164,15 @@
     <loc>http://localhost:1313/entradas/diccionario/c%C3%B3dices/</loc>
     <lastmod>2024-03-05T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/categories/oxirrinco/</loc>
+    <lastmod>2024-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/papiros/</loc>
+    <lastmod>2024-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/entradas/diccionario/papiros-de-oxirrinco/</loc>
+    <lastmod>2024-03-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/entradas/diccionario/an%C3%A1fora/</loc>
     <lastmod>2024-03-02T00:00:00+00:00</lastmod>
   </url><url>
@@ -172,6 +181,9 @@
   </url><url>
     <loc>http://localhost:1313/entradas/diccionario/apex/</loc>
     <lastmod>2024-02-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/entradas/diccionario/aoristo/</loc>
+    <lastmod>2024-02-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/entradas/diccionario/alternancia/</loc>
     <lastmod>2024-02-06T00:00:00+00:00</lastmod>
@@ -190,18 +202,6 @@
   </url><url>
     <loc>http://localhost:1313/entradas/diccionario/acusativo/</loc>
     <lastmod>2024-01-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/oxirrinco/</loc>
-    <lastmod>2023-03-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/papiros/</loc>
-    <lastmod>2023-03-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/entradas/diccionario/papiros-de-oxirrinco/</loc>
-    <lastmod>2023-03-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/entradas/diccionario/aoristo/</loc>
-    <lastmod>2023-02-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archivos/</loc>
   </url><url>

@@ -1,6 +1,6 @@
 ---
 title: "Papiros de Oxirrinco"
-date: "2023-03-04"
+date: "2024-03-04"
 categories: 
   - "antigüedad"
   - "grecia"

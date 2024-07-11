@@ -144,6 +144,15 @@ Historia y Contexto El Nacimiento de la Imprenta La invención de la imprenta po
 Características Principales de los Códices Formato de Libro: Los códices tienen hojas individuales, a menudo hechas de pergamino (piel de animal) o papel, que están unidas por un borde, generalmente cosidas.</description>
     </item>
     <item>
+      <title>Papiros de Oxirrinco</title>
+      <link>http://localhost:1313/entradas/diccionario/papiros-de-oxirrinco/</link>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/entradas/diccionario/papiros-de-oxirrinco/</guid>
+      <description>Oxford Papyrology (2022). P.Oxy. XV 1809. Plato, Phaedo. University of Oxford. Online resource. https://doi.org/10.25446/oxford.21133039.v1
+Los Papiros de Oxirrinco son una colección monumental de manuscritos antiguos descubiertos en un sitio arqueológico en Oxirrinco (hoy El-Bahnasa), Egipto. Este descubrimiento, realizado a fines del siglo XIX, ha proporcionado una visión invaluable de la vida cotidiana, la literatura, la administración y la cultura del antiguo mundo grecorromano y bizantino.
+Historia del Descubrimiento El hallazgo de los Papiros de Oxirrinco comenzó en 1896 cuando los arqueólogos británicos Bernard P.</description>
+    </item>
+    <item>
       <title>Anáfora</title>
       <link>http://localhost:1313/entradas/diccionario/an%C3%A1fora/</link>
       <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
@@ -168,6 +177,14 @@ Contenido: Suele incluir resultados de experimentos, datos brutos, testimonios, 
       <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/entradas/diccionario/apex/</guid>
       <description>El apex o ápice is un signo diacrítico parecido a la tilde española ( ´ ) o el apóstrofo inglés ( ʼ ). En griego antiguo, el apex o acento agudo indicaba la elevación en el tono de voz (acento tónico) con que debía pronunciarse una vocal. En Latín, se empleaba a veces sobre las vocales largas.</description>
+    </item>
+    <item>
+      <title>Aoristo</title>
+      <link>http://localhost:1313/entradas/diccionario/aoristo/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/entradas/diccionario/aoristo/</guid>
+      <description>El aoristo es un tiempo verbal en griego antiguo que expresa acciones puntuales, completadas o simples sin especificar si la acción fue prolongada o repetitiva. Es uno de los tiempos verbales más importantes en el griego antiguo y tiene varios aspectos que son fundamentales para comprender su uso y conjugación.
+Aspectos del Aoristo Aoristo Simple (o Puntual): Este aspecto se utiliza para describir una acción que ocurrió en un momento específico en el pasado, sin referencia a su duración o repetición.</description>
     </item>
     <item>
       <title>Alternancia</title>
@@ -223,23 +240,6 @@ Objeto Directo: Marca el objeto directo de la acción del verbo.
 Ejemplo: &amp;ldquo;Puella librum legit&amp;rdquo; (La niña lee el libro). Movimiento hacia un Lugar: Indica dirección o destino hacia un lugar.
 Ejemplo: &amp;ldquo;Romam it&amp;rdquo; (Va a Roma). Duración de Tiempo: Indica cuánto tiempo dura una acción.
 Ejemplo: &amp;ldquo;Multos annos vixit&amp;rdquo; (Vivió muchos años). Extensión en el Espacio: Describe la extensión de algo en términos espaciales.</description>
-    </item>
-    <item>
-      <title>Papiros de Oxirrinco</title>
-      <link>http://localhost:1313/entradas/diccionario/papiros-de-oxirrinco/</link>
-      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/diccionario/papiros-de-oxirrinco/</guid>
-      <description>Oxford Papyrology (2022). P.Oxy. XV 1809. Plato, Phaedo. University of Oxford. Online resource. https://doi.org/10.25446/oxford.21133039.v1
-Los Papiros de Oxirrinco son una colección monumental de manuscritos antiguos descubiertos en un sitio arqueológico en Oxirrinco (hoy El-Bahnasa), Egipto. Este descubrimiento, realizado a fines del siglo XIX, ha proporcionado una visión invaluable de la vida cotidiana, la literatura, la administración y la cultura del antiguo mundo grecorromano y bizantino.
-Historia del Descubrimiento El hallazgo de los Papiros de Oxirrinco comenzó en 1896 cuando los arqueólogos británicos Bernard P.</description>
-    </item>
-    <item>
-      <title>Aoristo</title>
-      <link>http://localhost:1313/entradas/diccionario/aoristo/</link>
-      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/diccionario/aoristo/</guid>
-      <description>El aoristo es un tiempo verbal en griego antiguo que expresa acciones puntuales, completadas o simples sin especificar si la acción fue prolongada o repetitiva. Es uno de los tiempos verbales más importantes en el griego antiguo y tiene varios aspectos que son fundamentales para comprender su uso y conjugación.
-Aspectos del Aoristo Aoristo Simple (o Puntual): Este aspecto se utiliza para describir una acción que ocurrió en un momento específico en el pasado, sin referencia a su duración o repetición.</description>
     </item>
   </channel>
 </rss>
