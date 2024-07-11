@@ -293,7 +293,7 @@ _Luego, los corintios regresaron a casa, después de levantar un trofeo por su v
 
 _Las acusaciones inmediatas que los peloponesios imputan contra los atenienses fueron tres: (1) su asedio de Potidea, (2) su decisión de ayudar a defender la isla de Córcira contra Corinto y (3) su decreto que restringía el comercio con Mégara._
 
-_1\. Potidea era una ciudad en el norte de Grecia a lo largo de la costa. Había sido fundada como colonia de Corinto, pero era miembro de pago de la Liga de Delos, que se había convertido, de hecho, en un imperio de Atenas. Temiendo que Corinto pusiera a Potidea en su contra, los atenienses exigieron que Potidea rompiera los lazos con Corinto. Cuando Potidea se negó, Atenas sitió la ciudad, lo que supuso un enorme esfuerzo militar (1,56-65,_ _**2,58**__).54 Para el fin del asedio, ver_ _**2,70**_
+_1\. Potidea era una ciudad en el norte de Grecia a lo largo de la costa. Había sido fundada como colonia de Corinto, pero era miembro de pago de la Liga de Delos, que se había convertido, de hecho, en un imperio de Atenas. Temiendo que Corinto pusiera a Potidea en su contra, los atenienses exigieron que Potidea rompiera los lazos con Corinto. Cuando Potidea se negó, Atenas sitió la ciudad, lo que supuso un enorme esfuerzo militar (1,56-65, **2,58**).54 Para el fin del asedio, ver **2,70**._
 
 _2._ Córcira _La actual Corfú, era una colonia de Corinto que estaba en guerra con su ciudad madre, con la ayuda de Atenas._
 
