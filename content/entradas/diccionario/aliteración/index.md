@@ -1,6 +1,6 @@
 ---
 title: "Aliteración"
-date: "2023-06-18"
+date: "2024-01-28"
 categories: 
   - "diccionario"
 ---

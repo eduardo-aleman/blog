@@ -1,6 +1,6 @@
 ---
 title: "Acusativo"
-date: "2023-03-08"
+date: "2024-01-08"
 categories: 
   - "diccionario"
 ---

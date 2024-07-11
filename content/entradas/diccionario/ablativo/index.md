@@ -1,6 +1,6 @@
 ---
 title: "Ablativo"
-date: "2023-03-12"
+date: "2024-01-12"
 categories: 
   - "diccionario"
 ---

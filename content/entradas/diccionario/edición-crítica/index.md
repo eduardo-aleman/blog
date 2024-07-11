@@ -1,6 +1,6 @@
 ---
 title: "Edición crítica"
-date: "2023-05-19"
+date: "2024-03-27"
 categories: 
   - "diccionario"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Alternancia"
-date: "2023-06-18"
+date: "2024-02-06"
 categories: 
   - "diccionario"
 ---

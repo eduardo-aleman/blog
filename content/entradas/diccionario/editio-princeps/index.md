@@ -1,6 +1,6 @@
 ---
 title: "Editio princeps"
-date: "2023-05-25"
+date: "2024-03-12"
 categories: 
   - "diccionario"
 ---

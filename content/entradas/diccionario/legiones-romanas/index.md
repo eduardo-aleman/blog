@@ -1,6 +1,6 @@
 ---
 title: "Legiones romanas"
-date: "2023-05-26"
+date: "2024-01-26"
 categories: 
   - "antigüedad"
   - "diccionario"

@@ -1,6 +1,6 @@
 ---
 title: "Bibliografía"
-date: "2023-05-19"
+date: "2024-02-22"
 categories: 
   - "diccionario"
 ---
