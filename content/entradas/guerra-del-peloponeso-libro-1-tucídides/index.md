@@ -337,7 +337,7 @@ Y ahora estamos en la mejor posición para hablar, ya que tenemos las peores que
 
 \[69\] Y de todo esto sois vosotros mismos responsables, porque les permitisteis primeramente fortificar su ciudad después de las guerras persas y luego construir las largas murallas.62 Desde aquel día hasta hoy habéis estado privando de la libertad, y no sólo la de los pueblos que ellos han subyugado, sino también de vuestros aliados. Si tenéis el poder de poner fin a la subyugación y, sin embargo, miráis hacia otro lado mientras ocurre, entonces la habéis hecho vosotros mismos, con mayor verdad que si hubierais sido los mismos subyugadores, ¡y mucho más si os adjudicáis el honor y la virtud de ser los libertadores de Grecia!63
 
-62\. Las largas murallas que protegían el camino de Atenas a su puerto, El Pireo, se construyeron en el año 458.
+62\. Las largas murallas que protegían el camino de Atenas a su puerto del Pireo (Muros Largos), se construyeron en el año 458.
 
 63\. Ver **2,8** y 8,46, acerca de la afirmación espartana de ser los libertadores de Grecia.
 
