@@ -20,7 +20,7 @@ categories:
 
 Woodruff, Paul., [_The Essential Thucydides: On Justice, Power, and Human Nature: Selections from The History of the Peloponnesian War Second Edition, Expanded and Revised_](https://amzn.to/3L8odRU), 2021, Libro 1. Traducción en español de Eduardo Alemán.
 
-\* Los (o las) trirremes griegos llevaban el espolón en el frente de la proa para embestir a los navíos enemigos. Este espolón romano, descubierto en la bahía de Atlit, en Israel, mide 2,26 m de largo, 0,95 m de alto y pesa 465 kg. Fue fundido como una sola pieza en bronce a partir de un modelo de cera. Es muy probable que, durante la guerra del Peloponeso, los trirremes griegos utilizados en los enfrentamientos navales contra la flota de Esparta y sus aliados llevasen un espolón de una forma semejante, pero con un peso y un tamaño mucho más reducido. Los trirremes tendrían unos 36 metros de largo.
+\* Los (o las) trirremes griegos llevaban el espolón en el frente de la proa para embestir a los navíos enemigos. Este espolón romano, descubierto en la bahía de Atlit, en Israel, mide 2,26 m de largo, 0,95 m de alto y pesa 465 kg. Fue fundido como una sola pieza en bronce a partir de un modelo de cera. Es muy probable que, durante la guerra del Peloponeso, los trirremes griegos utilizados en los enfrentamientos navales contra la flota de Esparta y sus aliados llevasen un espolón de una forma semejante, pero con un peso y un tamaño mucho más reducido. Los trirremes tendrían unos 36 metros de largo y menos de 6 metros de ancho.
 
 
 # Libro 1
