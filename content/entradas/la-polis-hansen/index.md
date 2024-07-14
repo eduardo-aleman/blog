@@ -1,8 +1,8 @@
 ---
 title: "La Polis: Una introducción a la antigua ciudad-estado griega (Herman Hansen De Mogen)."
-date: "2024-07-09"
+date: "2024-07-14"
 cover:
-  image: "Hefestión.webp"
+  image: "Hefestión.webp"
   # can also paste direct link from external site
   # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
   alt: "El Hefestión visto desde el ágora en Atenas, Grecia. Foto de Eduardo Alemán."
@@ -20,7 +20,7 @@ categories:
 
 Hansen, Mogens Herman, [_Polis: An Introduction to the Ancient Greek City-State_](https://amzn.to/3zHpZqA), 2006, Introducción, Capítulo 1. Traducción en español de Eduardo Alemán.
 
-## PARA JOHN CROOK
+## Para John Crook
 
 Este libro es una versión ampliada y revisada de mi libro en danés: _Polis: den oldgræsk bystatskultur_ (Copenhague, 2004). Cuando se publicó, envié copias a colegas y amigos, incluido, por supuesto, John Crook. Le gustó y se ofreció a producir una versión en inglés. Ofrecida la oportunidad, acepté la propuesta con gratitud; recuerdo los momentos felices que pasamos juntos en el invierno y la primavera de 1990 trabajando en la traducción de _La democracia ateniense en la época de Demóstenes_. Tuvimos una repetición de eso en agosto de 2002 al traducir mi ensayo sobre _The Triumph of Time: Reflections of a Historian about Time in History_. Esta primavera lo hicimos por tercera vez y aquí está el resultado. Permítanme aprovechar esta oportunidad para agradecer a John Crook por su amistad y todo lo que he aprendido de él durante más de treinta años y, por supuesto, por los agradables días que pasamos juntos en Cambridge trabajando en la traducción y transmitiéndola a mi fiel seguidor: Ollie el segundo.
 
