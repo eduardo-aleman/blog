@@ -11,6 +11,12 @@
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2024-07-09T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/categories/ciudad-estado/</loc>
+    <lastmod>2024-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/cultura-de-ciudad-estado/</loc>
+    <lastmod>2024-07-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/entradas/</loc>
     <lastmod>2024-07-09T00:00:00+00:00</lastmod>
   </url><url>
@@ -20,13 +26,22 @@
     <loc>http://localhost:1313/categories/guerra-del-peloponeso/</loc>
     <lastmod>2024-07-09T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/categories/herman-hansen-de-mogen/</loc>
+    <lastmod>2024-07-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/entradas/guerra-del-peloponeso-libro-1-tuc%C3%ADdides/</loc>
+    <lastmod>2024-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/entradas/la-polis-hansen/</loc>
     <lastmod>2024-07-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/libro-1/</loc>
     <lastmod>2024-07-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/paul-woodruff/</loc>
+    <lastmod>2024-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/polis/</loc>
     <lastmod>2024-07-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/traducci%C3%B3n/</loc>

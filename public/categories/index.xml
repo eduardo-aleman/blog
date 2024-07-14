@@ -16,6 +16,20 @@
       <description></description>
     </item>
     <item>
+      <title>Ciudad-Estado</title>
+      <link>http://localhost:1313/categories/ciudad-estado/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/ciudad-estado/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cultura De Ciudad-Estado</title>
+      <link>http://localhost:1313/categories/cultura-de-ciudad-estado/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/cultura-de-ciudad-estado/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Grecia</title>
       <link>http://localhost:1313/categories/grecia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -30,6 +44,13 @@
       <description></description>
     </item>
     <item>
+      <title>Herman Hansen De Mogen</title>
+      <link>http://localhost:1313/categories/herman-hansen-de-mogen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/herman-hansen-de-mogen/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Libro 1</title>
       <link>http://localhost:1313/categories/libro-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -41,6 +62,13 @@
       <link>http://localhost:1313/categories/paul-woodruff/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/paul-woodruff/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Polis</title>
+      <link>http://localhost:1313/categories/polis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/polis/</guid>
       <description></description>
     </item>
     <item>
