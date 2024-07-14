@@ -143,7 +143,7 @@ En tercer lugar, una de las bases de la economía moderna es la urbanización. E
     
 3.  Este concepto heurístico de Estado se utiliza en antropología, sociología, arqueología e historia, y se aplica en todo el mundo a civilizaciones de todos los períodos. En la jurisprudencia y las ciencias políticas se encuentra comúnmente un concepto histórico mucho más estrecho de Estado: el Estado no es sólo un gobierno facultado para hacer cumplir un sistema legal dentro de un territorio sobre una población; también es un _abstracción_, es decir, un poder público continuo por encima tanto del gobernante como de los gobernados, y una comunidad debe tener un _soberano_ gobierno y debe estar en posesión de _plena soberanía exterior_ para ser un estado. De esta forma surgió en Europa el concepto de Estado. Se remonta a mediados del siglo XVII y floreció en los siglos XIX y XX. Sólo podrá utilizarse en todo el mundo después de mediados del siglo XX. Sobre la diferencia entre estos dos conceptos de Estado, véase 30 CSC: 12-14. Sobre los diversos elementos del concepto de Estado, véase Hansen (1998) 35-51.
     
-4.  Southall(1998)16 describe a Çatal Höyük como ciudad-estado, lo cual me parece poco probable (_30 CSC_: 15, 605), véase Mithen (2003) 95.
+4.  Southall (1998), 16, describe a Çatal Höyük como ciudad-estado, lo cual me parece poco probable (_30 CSC_: 15, 605), véase Mithen (2003) 95.
     
 5.  Arnold (1997) 211–30.
     
