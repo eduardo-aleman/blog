@@ -58,6 +58,8 @@ Biden volcó la conversación a las propias palabras de Trump: “No soy el que 
 
 Biden insistió: “Mire, yo no estoy metido en esa retórica. Ahora mi oponente está involucrado en esa retórica. Habla de que habrá un baño de sangre si pierde, habla de cómo va a perdonar, aunque, en realidad, supongo que suspenderá las sentencias de todos los que fueron arrestados y condenados a ir a prisión por lo que pasó en el Capitolio.”
 
-Mientras tanto el Servicio Secreto está siendo cuestionado. ¿Cómo es posible que el disparador haya accedido la azotea de un edificio tan solo unos 140 metros de distancia sin ser detectado? Durante más de medio siglo, desde el asesinato del presidente John F. Kennedy, el Servicio Secreto ha inspeccionado y asegurado de manera rutinaria todas las estructuras cercanas a los principales eventos políticos nacionales para evitar que los disparos alcancen al presidente o a cualquier otra persona bajo la protección de la agencia.
+## El Servicio Secreto
+
+Mientras tanto el Servicio Secreto sigue bajo escrutinio. ¿Cómo es posible que el disparador haya accedido la azotea de un edificio tan solo unos 140 metros de distancia sin ser detectado? Durante más de medio siglo, desde el asesinato del presidente John F. Kennedy, el Servicio Secreto ha inspeccionado y asegurado de manera rutinaria todas las estructuras cercanas a los principales eventos políticos nacionales para evitar que los disparos alcancen al presidente o a cualquier otra persona bajo la protección de la agencia.
 
 Continuará…
