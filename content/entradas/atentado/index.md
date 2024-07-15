@@ -42,6 +42,6 @@ El 28 de julio de 2019, en Gilroy, California, Santino William Legan de 19 años
 
 El 4 de agosto de 2019, Connor Betts, de 24 años, entró en un bar en Dayton, Ohio, y utilizando un arma de estilo AR-15 disparó 41 balas en menos de 30 segundos, privando de la vida a 9 personas e hiriendo a 17. Unos segundos más tarde moría por disparos de la policía.
 
-El 24 de mayo de 2022, Salvador Ramos penetró en su antigua escuela primaria, AR-15 en mano, asesinando 19 estudiantes y 2 maestras, e hiriendo 17 estudiantes más. Salvador tenía 18 años.
+El 24 de mayo de 2022, Salvador Ramos penetró en su antigua escuela primaria, AR-15 en mano, asesinando 19 estudiantes y 2 maestras, e hiriendo 17 estudiantes más. Al salir del armario de un salón de clases disparando, fue eliminado por agentes tácticos de la Patrulla Fronteriza que habían ingresaron a la habitación detrás de un escudo balístico. Salvador tenía 18 años.
 
 Continuará…
