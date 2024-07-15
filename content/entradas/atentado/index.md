@@ -16,8 +16,9 @@ categories:
   - "atentado"
 ---
 
-El atentado contra Donald Trump es otra seria indicación de las profundas heridas en la sociedad norteamericana actual. 
-Primero los hechos:
+El atentado contra Donald Trump es otra seria indicación de las profundas heridas en la sociedad norteamericana actual. Heridas que además se ensanchan con este intento de asesinato.
+
+## Primero los hechos:
 
 El día de ayer, 13 de junio, Thomas Matthew Crooks, de 20 años, se situó en la azotea de un edificio apenas 128 metros de distancia del lugar donde el expresidente Donald Trump se dirigía a un público de presuntos admiradores. Thomas, armado con un rifle semiautomático tipo AR-15, disparó ocho balas hacia el estrado donde Donald Trump pronunciaba su discurso. Una bala traspasó la parte de arriba de la oreja derecha del expresidente; otra impactó en la cabeza de Corey Comperatore, 50, provocando su muerte; mientras que otras alcanzaron a ocasionar heridas graves a David Dutch, 57, y James Copenhaver, 74, quienes aún se encuentran hospitalizados en estado crítico. Poco después, francotiradores acabaron con la vida de Thomas.
 
