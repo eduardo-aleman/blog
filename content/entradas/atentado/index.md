@@ -28,4 +28,10 @@ El presidente Biden instó a los estadounidenses hace unos minutos a “bajar la
 
 En cuanto a los motivos de Thomas Matthew Crooks, no se sabe nada todavía. El FBI está investigando. Los periódicos dicen de Thomas que estaba registrado como republicano, pero había hecho una donación de $15 al partido demócrata hace dos años atrás. No tenía antecedentes penales. Sus padres son consejeros de salud mental. Thomas se crió en un ambiente de clase media. Se graduó de la secundaria y se hizo técnico cibernético en un colegio comunitario. Trabajaba como asistente dietético en un centro de rehabilitación de su localidad. Nadie ha dado por el momento ninguna indicación de que había visto en Thomas algún tipo de comportamiento inusual. Una amiga de la secundaria dice que era inteligente aunque de ideas un poco conservadoras. El Clairton Sportsmen’s Club, una instalación boscosa al sur de Pittsburgh que cuenta con un campo de tiro de aproximadamente 182 metros, confirmó que Thomas había sido miembro. En este lugar puede ser que se haya entrenado en el disparo de la AR-15.
 
+## Juventud, armas, violencia
+
+Que el perpetrador del crimen tenía 20 años me hace pensar primeramente en la corteza frontal del cerebro humano, la cual se encarga de la toma de decisiones y el autocontrol: esta no se desarrolla completamente hasta cumplirse los 25-30 años. Que un joven de tan solo 20 años tenga acceso a un arma tan letal como la AR-15 es entonces un asunto a debatir. Además, los asesinatos por armas de fuego en los EEUU son, por lo general, perpetrados por hombres menores de 35 años. Entre estos el grupo de 18-20 años de edad está sobrerepresentado. Es cierto que la mayoría de los jovenes no cometen crímenes violentos, aún cuando tienen acceso a armas de fuego. Pero no se debe desestimar la idea de que un joven de esa edad tiene una capacidad biológica menos avanzada para tomar decisiones correctas y para autocontrolarse. 
+
+Áñadase el contexto de hostilidad política y de violencia en general en nuestra sociedad. Empecemos por la retórica.
+
 Continuará…
