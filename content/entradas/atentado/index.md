@@ -12,7 +12,7 @@ categories:
   - "trump"
   - "biden"
   - "política"
-  - "ee uu"a
+  - "ee uu"
   - "atentado"
 ---
 
