@@ -48,12 +48,10 @@ El 24 de mayo de 2022, Salvador Ramos penetró en su antigua escuela primaria, A
 
 15 de julio de 2024
 
-Hostilidad política 
-
 Los republicanos redoblan su retórica acusatoria contra Biden. La senadora Marsha Blackburn, republicana de Tennessee, comenzó el mismo sábado en la noche, haciendo referencia a un comentario de Biden publicado en las redes sociales. "Hace apenas unos días, Biden dijo 'es hora de poner a Trump en la diana'. Hoy hubo un intento de asesinato contra el presidente Trump", escribió en X. 
 
 El senador por Ohio y autor del libro de memorias _Hillbilly Elegy_, James David Vance, escribe esta mañana en X lo siguiente, “la premisa central de la campaña de Biden es que el presidente Donald Trump es un fascista autoritario al que hay que detener a toda costa. Esa retórica condujo directamente al intento de asesinato del presidente Trump". Al mediodía, J.D. Vance, es la elección de Trump como candidato a la vicepresidencia.
 
-El presidente Biden ha terminado disculpándose en una entrevista por haber usado esa frase que obviamente se refería a la necesidad de enfocar su campaña electoral en Donald Trump y sus planes antidemocráticos.
+El presidente Biden ha terminado disculpándose esta tarde durante una entrevista con Lester Holt de NBC por haber usado la frase "en la diana", en inglés “a bull’s-eye”, que obviamente se refería a la necesidad de enfocar su campaña electoral en Donald Trump y sus planes antidemocráticos. Biden le preguntó a Lester Holt: “¿cómo se habla de la amenaza a la democracia, que es real, cuando un presidente dice las cosas como dice?” y “¿simplemente no dices nada porque podría incitar a alguien?”. Preguntas muy importantes, si es que alguien escucha.
 
 Continuará…
