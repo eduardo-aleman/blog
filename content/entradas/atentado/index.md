@@ -28,7 +28,7 @@ El presidente Biden acaba de instar a los estadounidenses a “bajar la temperat
 
 En cuanto a los motivos políticos de Thomas Matthew Crooks, no se sabe nada todavía. El FBI está investigando. Los periódicos dicen de Thomas que estaba registrado como republicano, pero había hecho una donación de $15 al partido demócrata hace dos años atrás. No tenía antecedentes penales. Sus padres son consejeros de salud mental. Thomas se crió en un barrio de clase media. Se graduó de la secundaria y también de un colegio comunitario. Trabajaba como asistente dietético en un centro de rehabilitación de su localidad. Nadie ha dado por el momento ninguna indicación de que había observado en Thomas algún tipo de comportamiento inusual. Una amiga de la secundaria dice que era inteligente aunque de ideas un poco conservadoras. El Clairton Sportsmen’s Club, una instalación boscosa al sur de Pittsburgh que cuenta con un campo de tiro de aproximadamente 182 metros, confirmó que Thomas había sido miembro. En este lugar pudo ser que se haya entrenado en el disparo de la AR-15.
 
-## Juventud, armas, hostilidad política, violencia
+## Juventud, armas, violencia
 
 La corteza frontal del cerebro humano se encarga de la toma de decisiones y el autocontrol. Esta no se desarrolla por completo hasta cumplirse los 25-30 años. Los rifles semiautomáticos como el tipo de AR-15 utilizado en el intento de asesinato contra Donald Trump ayer exhiben gran modularidad por lo que pueden ser adaptados fácilmente para diferentes propósitos. Pueden llevar un cargador de alta capacidad capaz de contener un número de cartuchos de munición superior al normal. Juventud y uso de un rifle semiautomático capáz de descargar un cartucho con docenas de balas en questión de segundos es, como mínimo, un binomio a debatir.
 
@@ -42,6 +42,8 @@ El 28 de julio de 2019, en Gilroy, California, Santino William Legan de 19 años
 
 El 4 de agosto de 2019, Connor Betts, de 24 años, entró en un bar en Dayton, Ohio, y utilizando un arma de estilo AR-15 disparó 41 balas en menos de 30 segundos, privando de la vida a 9 personas e hiriendo a 17. Unos segundos más tarde moría por disparos de la policía.
 
-El 24 de mayo de 2022, Salvador Ramos penetró en su antigua escuela primaria, AR-15 en mano, asesinando 19 estudiantes y 2 maestras, e hiriendo 17 estudiantes más. Al salir del armario de un salón de clases disparando, fue eliminado por agentes tácticos de la Patrulla Fronteriza que habían ingresaron a la habitación detrás de un escudo balístico. Salvador tenía 18 años.
+El 24 de mayo de 2022, Salvador Ramos penetró en su antigua escuela primaria, AR-15 en mano, asesinando 19 estudiantes y 2 maestras, e hiriendo 17 estudiantes más. Al salir del armario de un salón de clases disparando, fue eliminado por agentes tácticos de la Patrulla Fronteriza que habían ingresaron a la habitación detrás de un escudo balístico. Salvador tenía 18 años. Con la excepción de las dos maestras asesinadas, el resto de las víctimas oscilaba entre los 9 y 11 años de edad.
+
+## Hostilidad política, divisiones sociales
 
 Continuará…
