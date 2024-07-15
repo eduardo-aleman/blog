@@ -46,6 +46,8 @@ El 24 de mayo de 2022, Salvador Ramos penetró en su antigua escuela primaria, A
 
 ## Hostilidad política, divisiones sociales
 
-Los republicanos redoblan hoy su retórica acusatoria contra Biden. La senadora Marsha Blackburn, republicana de Tennessee, el mismo sábado en la noche, hizo referencia a un comentario de Biden publicado en las redes sociales. "Hace apenas unos días, Biden dijo 'es hora de poner a Trump en la diana'. Hoy hubo un intento de asesinato contra el presidente Trump", escribió en X. El senador por Ohio y autor del libro de memorias _Hillbilly Elegy_, James David Vance, escribió hoy, lunes, 15 de julio de 2024, en X lo siguiente, “la premisa central de la campaña de Biden es que el presidente Donald Trump es un fascista autoritario al que hay que detener a toda costa. Esa retórica condujo directamente al intento de asesinato del presidente Trump". J.D. Vance es la elección de Trump para la vicepresidencia.
+15 de julio de 2024
+
+Los republicanos redoblan hoy su retórica acusatoria contra Biden. La senadora Marsha Blackburn, republicana de Tennessee, el mismo sábado en la noche, hizo referencia a un comentario de Biden publicado en las redes sociales. "Hace apenas unos días, Biden dijo 'es hora de poner a Trump en la diana'. Hoy hubo un intento de asesinato contra el presidente Trump", escribió en X. El senador por Ohio y autor del libro de memorias _Hillbilly Elegy_, James David Vance, escribe hoy en X lo siguiente, “la premisa central de la campaña de Biden es que el presidente Donald Trump es un fascista autoritario al que hay que detener a toda costa. Esa retórica condujo directamente al intento de asesinato del presidente Trump". J.D. Vance es la elección de Trump para la vicepresidencia.
 
 Continuará…
