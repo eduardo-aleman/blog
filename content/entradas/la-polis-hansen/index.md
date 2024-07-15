@@ -1,6 +1,6 @@
 ---
 title: "La Polis: Una introducción a la antigua ciudad-estado griega (Herman Hansen De Mogen)."
-date: "2024-07-14"
+date: "2024-07-12"
 cover:
   image: "Hefestión.webp"
   # can also paste direct link from external site
