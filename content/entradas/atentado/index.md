@@ -3,8 +3,8 @@ title: "Intento de asesinato contra Donald Trump"
 date: "2024-07-14"
 cover:
   image: "Trump_atentado.webp" 
-  alt: "Trump aparece sangrando por la oreja derecha y siendo evacuado por un equipo de seguridad."
-  caption: "Trump aparece sangrando por la oreja derecha y siendo evacuado por un equipo de seguridad."
+  alt: "Trump aparece sangrando por la oreja derecha y está siendo evacuado por un equipo de seguridad."
+  caption: "Trump aparece sangrando por la oreja derecha y está siendo evacuado por un equipo de seguridad."
   relative: false
 categories: 
   - "actualidad"
@@ -12,7 +12,7 @@ categories:
   - "trump"
   - "biden"
   - "política"
-  - "ee uu"
+  - "ee uu"a
   - "atentado"
 ---
 
