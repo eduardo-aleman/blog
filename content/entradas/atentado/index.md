@@ -24,7 +24,7 @@ El día de ayer, 13 de junio, Thomas Matthew Crooks, de 20 años, se situó en l
 
 El hecho ocurrió en el lugar de una feria rural, la Butler Farm Show, en Butler, Pennsylvania. El expresidente se encuentra en la actualidad fuera de peligro y en buen ánimo: hoy pronunció  que planeaba asistir a la Convención Nacional Republicana que comienza en Milwaukee el próximo martes y prometió también permanecer "desafiante ante la maldad".
 
-El presidente Biden instó a los estadounidenses hace unos minutos a “bajar la temperatura en nuestra política” y dijo que “el desacuerdo es inevitable en la democracia estadounidense. Es parte de la naturaleza humana... Pero la política nunca debe ser un campo de batalla literal. Y, Dios no lo quiera, un campo de exterminio”.
+El presidente Biden instó a los estadounidenses hace unos minutos a “bajar la temperatura en nuestra política” y dijo que “el desacuerdo es inevitable en la democracia estadounidense. Es parte de la naturaleza humana... Pero la política nunca debe ser un campo de batalla literal. Y, Dios no lo quiera, un campo de exterminio”. “Debemos unirnos como una nación”, dijo Biden. "Debemos unirnos como una nación para demostrar quiénes somos".
 
 En cuanto a los motivos de Thomas Matthew Crooks, no se sabe mucho todavía.
 
