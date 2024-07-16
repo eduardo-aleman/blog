@@ -16,7 +16,7 @@ categories:
   - "atentado"
 ---
 
-El atentado contra Donald Trump es otra seria indicación de las profundas heridas en la sociedad norteamericana actual. Heridas que además se ensanchan con este intento de asesinato.
+El atentado contra Donald Trump es otra indicación seria de las profundas heridas en la sociedad norteamericana actual. Heridas que además se ensanchan con este intento de asesinato.
 
 ## Los hechos
 
