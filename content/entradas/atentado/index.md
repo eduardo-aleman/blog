@@ -62,4 +62,4 @@ Biden insistió: “Mire, yo no estoy metido en esa retórica. Ahora mi oponente
 
 Mientras tanto el Servicio Secreto sigue bajo escrutinio. ¿Cómo es posible que el disparador haya accedido la azotea de un edificio tan solo unos 140 metros de distancia sin ser detectado? Durante más de medio siglo, desde el asesinato del presidente John F. Kennedy, el Servicio Secreto ha inspeccionado y asegurado de manera rutinaria todas las estructuras cercanas a los principales eventos políticos nacionales para evitar que los disparos alcancen al presidente o a cualquier otra persona bajo la protección de la agencia.
 
-Continuará…
+El New York Times publica hoy que, según el Servicio Secreto, el edificio donde el pistolero se subió a la azotea tenía oficiales de la policia local adentro. El edificio en sí es un almacén con un techo inclinado, por lo que se decidió no poner francotiradores. La policía local niega los oficiales estaban adentro, indicando que se encontraban en el almacén adyacente. El New York Times resalta que tal discrepancia es un eslabón en la explicación de los hechos que aún no ha sido resuelto.
