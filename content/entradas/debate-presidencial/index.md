@@ -100,7 +100,7 @@ Se espera algo de delincuencia dada la gran población de inmigrantes. Se estima
 
 ### Sobre Charlottesville
 
-"Biden, refiriéndose a Trump después de la letal manifestación nacionalista blanca en Charlottesville, Virginia, en 2017: "El que dijo que creo que son buenas personas en ambos lados”.
+"Biden, refiriéndose a Trump después de la letal manifestación nacionalista blanca en Charlottesville, Virginia, en 2017: "Él fue el que dijo que creo que son buenas personas en ambos lados”.
 
 The facts: Trump usó esas palabras para describir a los asistentes a la manifestación mortal, que fue planeado por nacionalistas blancos. Pero como han señalado los partidarios de Trump, él también dijo ese día que no estaba hablando de los neonazis y nacionalistas blancos que asistieron.
 
