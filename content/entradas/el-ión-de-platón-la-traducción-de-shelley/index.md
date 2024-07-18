@@ -4,7 +4,7 @@ date: "2024-06-16"
 cover:
   image: "John_Lauritsen_1969.webp"
   alt: "John Lauritsen: uno de los miembros más antiguos del Frente de Liberación Gay y coautor del libro 'El primer movimiento por los derechos de los homosexuales: (1864-1935)'."
-  caption: "John Lauritsen: uno de los miembros más antiguos del Frente de Liberación Gay y coautor del libro 'El primer movimiento por los derechos de los homosexuales: (1864-1935)'. Foto tomada de [LGBTQ History Project] (https://www.lgbtqhp.org/post/john-lauritsen)."
+  caption: "John Lauritsen: uno de los miembros más antiguos del Frente de Liberación Gay y coautor del libro 'El primer movimiento por los derechos de los homosexuales: (1864-1935)'. Foto tomada de [LGBTQ History Project](https://www.lgbtqhp.org/post/john-lauritsen)."
   relative: false
 categories: 
   - "antigüedad"
