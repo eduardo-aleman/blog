@@ -21,13 +21,17 @@ El discurso de clausura de la Convención Nacional Republicana por parte de Dona
 
 Los de Trump son diferentes: los demócratas, especialmente Biden y Pelosi; la “invasión” de inmigrantes “ilegales” que están “robando” y “matando”; los hombres que participan en los “deportes de mujeres”; la decadencia de las ciudades liberales, incluyendo el supuesto incremento de la actividad criminal en estas; la Segunda Enmienda de la Constitución; la “protección de niños inocentes”; la “ridiculez” de la ciencia y las iniciativas de conservación y desarrollo sostenible; la aparente necesidad de incrementar la excavación de pozos petroleros, “drill, baby, drill!”, y otros tropos de corte fascista y anti-ambientalista.
 
-El expresidente se mostró a la vez unificador y revanchista, esperanzador y apocalíptico, humorístico y mesíanico, mientras que constantemente exaltaba ese sentimiento muy común del discurso político, el nacionalismo. 
+El expresidente además se mostró a la vez unificador y revanchista, esperanzador y apocalíptico, humorístico y mesíanico, mientras que constantemente exaltaba ese sentimiento muy común del discurso político, el nacionalismo. 
 
 Tampoco faltó Dios en su discurso. “Estoy ante ustedes en esta arena sólo por la gracia de Dios todopoderoso. Y viendo los informes de los últimos días, muchos dicen que fue un momento providencial. Probablemente lo fue.”
 
 Abundaron las promesas. Prometió sacar al país de la crisis inflacionaria y salvar la democracia. También prometió salvar a la especie humana. “Nuestro planeta está al borde de la Tercera Guerra Mundial, y ésta será una guerra como ninguna otra”.
 
-Al discurso lo precedió la tradicional estética roja y blanca republicana de las baladas patrióticas al estilo de Frank Sinatra, el lenguaje infantilizado, la invocación y el rezo al Cristo Redemptor, la siempre flagrante ostentación de poder y dinero, y los sombreros cowboy. A todo esto se le unió como novedad la WrestleMania y Kid Rock. En fin, un embrollo, un _performance_ de mal gusto, y un hombre demasiado cruel, peligroso, y ahora mesiánico, como para ser ignorado.
+Al discurso lo precedió la tradicional estética roja y blanca republicana de las baladas patrióticas al estilo de Frank Sinatra, el lenguaje infantilizado, la invocación y el rezo al Cristo Redemptor, la siempre flagrante ostentación de poder y dinero, y los sombreros cowboy. A todo esto se le unió como novedad la WrestleMania y Kid Rock. 
+
+Orador tras orador elogiaron a Trump como “un héroe”, “un tipo duro”, “un campeón”, “un gladiador” y un “tipo rudo estadounidense”. El reverendo Franklin Graham anunció: “El sábado pasado en Butler, Pensilvania, el presidente Trump tuvo una experiencia cercana a la muerte. No hay duda. Pero Dios le perdonó la vida”. 
+
+EEn fin, un embrollo, un _performance_ de mal gusto, un discurso patético y un hombre demasiado cruel, peligroso, ¡ahora mesiánico!, como para ser ignorado.
 
 
 
