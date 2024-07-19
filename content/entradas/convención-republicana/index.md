@@ -29,9 +29,9 @@ Abundaron las promesas. Prometió sacar al país de la crisis inflacionaria y sa
 
 Al discurso lo precedió la tradicional estética roja y blanca republicana de las baladas patrióticas al estilo de Frank Sinatra, el lenguaje infantilizado, la invocación y el rezo al Cristo Redemptor, la siempre flagrante ostentación de poder y dinero, y los sombreros cowboy. A todo esto se le unió como novedad la WrestleMania y Kid Rock. 
 
-Orador tras orador elogiaron a Trump como “un héroe”, “un tipo duro”, “un campeón”, “un gladiador” y un “tipo rudo estadounidense”. El reverendo Franklin Graham anunció: “El sábado pasado en Butler, Pensilvania, el presidente Trump tuvo una experiencia cercana a la muerte. No hay duda. Pero Dios le perdonó la vida”. 
+Orador tras orador elogió a Trump: “un héroe”, “un tipo duro”, “un campeón”, “un gladiador” y un “tipo rudo estadounidense”. El reverendo Franklin Graham pronunció: “El sábado pasado en Butler, Pensilvania, el presidente Trump tuvo una experiencia cercana a la muerte. No hay duda. Pero Dios le perdonó la vida”. 
 
-EEn fin, un embrollo, un _performance_ de mal gusto, un discurso patético y un hombre demasiado cruel, peligroso, ¡ahora mesiánico!, como para ser ignorado.
+En fin, un embrollo, un _performance_ de mal gusto, un discurso patético y un hombre demasiado cruel, peligroso, ¡ahora mesiánico!, como para ser ignorado.
 
 
 
