@@ -19,9 +19,11 @@ Personalmente, nunca me han gustado los discursos. Eso viene de mi niñez en Cub
 
 El discurso de clausura de la Convención Nacional Republicana por parte de Donald Trump me recordó a Castro, sus largos discursos y mi niñez en Cuba. Castro, por supuesto, era mucho mejor orador que Trump, pero sus discursos, al igual que los de Trump, consistían en una panoplia de ataques implacables. El  imperialismo, la “mafia” de cubanos exiliados en Miami, la CIA y la disidencia interna, “lacayos del imperio”, eran su blanco favorito. 
 
-Los de Trump son diferentes: los demócratas, especialmente Biden y Pelosi; la “invasión” de inmigrantes “ilegales” que están “robando” y “matando”; los hombres que participan en los “deportes de mujeres”; la decadencia de las ciudades liberales, incluyendo el supuesto incremento de la actividad criminal en estas; la Segunda Enmienda de la Constitución; la “protección de niños inocentes”; la “ridiculez” de la ciencia y las iniciativas de conservación y desarrollo sostenible; la aparente necesidad de incrementar la excavación de pozos petroleros, “drill, baby, drill!”, y otros tropos de corte fascista y anti-ambientalista.
+Los de Trump son diferentes: los demócratas, especialmente Biden y Pelosi; la “invasión” de inmigrantes “ilegales” que están “robando” y “matando”; los hombres que participan en los “deportes de mujeres”; la decadencia de las ciudades liberales, incluyendo el supuesto incremento de la actividad criminal en estas; la Segunda Enmienda de la Constitución; la “protección de niños inocentes”; la “ridiculez” de la ciencia y las iniciativas de conservación y desarrollo sostenible; la aparente necesidad de incrementar la excavación de pozos petroleros, “drill, baby, drill!”. 
 
-El expresidente además se mostró a la vez unificador y revanchista, esperanzador y apocalíptico, humorístico y mesíanico, mientras que constantemente exaltaba ese sentimiento muy común del discurso político, el nacionalismo. 
+Estos últimos, tropos de corte fascista (dígase Musolini) y anti-ambientalista.
+
+El expresidente se mostró a la vez unificador y revanchista, esperanzador y apocalíptico, humorístico y mesíanico, mientras que constantemente exaltaba ese sentimiento muy común del discurso político, el nacionalismo. 
 
 Tampoco faltó Dios en su discurso. “Estoy ante ustedes en esta arena sólo por la gracia de Dios todopoderoso. Y viendo los informes de los últimos días, muchos dicen que fue un momento providencial. Probablemente lo fue.”
 
