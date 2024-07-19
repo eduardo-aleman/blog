@@ -4,7 +4,7 @@ date: "2024-07-14"
 cover:
   image: "Trump_atentado.webp" 
   alt: "Trump aparece sangrando por la oreja derecha y está siendo evacuado por un equipo de seguridad."
-  caption: "Trump aparece sangrando por la oreja derecha y está siendo evacuado por un equipo de seguridad."
+  caption: "Trump aparece sangrando por la oreja derecha y está siendo evacuado por un equipo de seguridad. Toma de pantalla."
   relative: false
 categories: 
   - "actualidad"
