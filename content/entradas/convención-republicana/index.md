@@ -33,7 +33,7 @@ Al discurso lo precedió la tradicional estética roja y blanca republicana de l
 
 Orador tras orador elogió a Trump: “un héroe”, “un tipo duro”, “un campeón”, “un gladiador” y un “tipo rudo estadounidense”. El reverendo Franklin Graham pronunció: “El sábado pasado en Butler, Pensilvania, el presidente Trump tuvo una experiencia cercana a la muerte. No hay duda. Pero Dios le perdonó la vida”. 
 
-En fin, un embrollo, un _performance_ de mal gusto, un discurso patético y un hombre demasiado cruel, peligroso, ¡ahora mesiánico!, como para ser ignorado. Si con él no pueden los demócratas, no será la culpa de Trump, sino de ellos mismos.
+En fin, un embrollo, un _performance_ de mal gusto, un discurso bipolar patético y un hombre demasiado cruel, peligroso, ¡ahora mesiánico!, como para ser ignorado. Si con él no pueden los demócratas, no será la culpa de Trump, sino de ellos mismos.
 
 
 
