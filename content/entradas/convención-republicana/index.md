@@ -15,7 +15,7 @@ categories:
   - "ee uu"
 ---
 
-Personalmente, nunca me han gustado los discursos. Eso viene de mi niñez en Cuba. Entonces los discursos de Fidel Castro aparecían en la televisión y podían durar dos y tres horas. Eran los años 80 del siglo pasado y en un hogar común, o al menos en mi casa, había solo un televisor. El país completo tenía dos canales nacionales. Ambos cubrían en su totalidad cada paso y cada discurso del Comandante. 
+Nunca me han gustado los discursos. Eso viene de mi niñez en Cuba. Entonces los discursos de Fidel Castro aparecían en la televisión y podían durar dos y tres horas. Eran los años 80 del siglo pasado y en un hogar común, o al menos en mi casa, había solo un televisor. El país completo tenía dos canales nacionales. Ambos cubrían en su totalidad cada paso y cada discurso del Comandante. 
 
 El discurso de clausura de la Convención Nacional Republicana por parte de Donald Trump me recordó a Castro y sus largos discursos durante mi niñez en Cuba. Castro, por supuesto, era mucho mejor orador que Trump, pero sus discursos, al igual que los de Trump, consistían en una panoplia de ataques implacables. El  imperialismo, la “mafia” de cubanos exiliados en Miami, la CIA y la disidencia interna, “lacayos del imperio”, eran su blanco favorito. 
 
