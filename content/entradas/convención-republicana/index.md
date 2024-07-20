@@ -17,11 +17,11 @@ categories:
 
 Nunca me han gustado los discursos. Eso viene de mi niñez en Cuba. Entonces los discursos de Fidel Castro aparecían en la televisión y podían durar dos y tres horas. Eran los años 80 del siglo pasado y en un hogar común, o al menos en mi casa, había solo un televisor. El país completo tenía dos canales nacionales. Ambos cubrían en su totalidad cada paso y cada discurso del Comandante. 
 
-El discurso de clausura de la Convención Nacional Republicana por parte de Donald Trump me recordó a Castro y sus largos discursos durante mi niñez en Cuba. Castro, por supuesto, era mucho mejor orador que Trump, pero sus discursos, al igual que los de Trump, consistían en una panoplia de ataques implacables. El  imperialismo, la “mafia” de cubanos exiliados en Miami, la CIA y la disidencia interna, “lacayos del imperio”, eran su blanco favorito. 
+El discurso de clausura de la Convención Nacional Republicana, el más largo de la historia, por parte de Donald Trump me recordó a Castro y sus largas alocuciones durante mi niñez en Cuba. Castro, por supuesto, era mucho mejor orador que Trump, pero sus discursos, al igual que los de Trump, consistían en una panoplia de ataques implacables. El  imperialismo, la “mafia” de cubanos exiliados en Miami, la CIA y la disidencia interna, “lacayos del imperio”, eran su blanco favorito. 
 
-Los de Trump son diferentes: los demócratas, especialmente Biden y Pelosi; la “invasión” de inmigrantes “ilegales” que están “robando” y “matando”; los hombres que participan en los “deportes de mujeres”; la decadencia de las ciudades liberales, incluyendo el supuesto incremento de la actividad criminal en estas; la Segunda Enmienda de la Constitución; la “protección de niños inocentes”; la “ridiculez” de la ciencia y las iniciativas de conservación y desarrollo sostenible; la aparente necesidad de incrementar la excavación de pozos petroleros, “drill, baby, drill!”. 
+Los temas de Trump son diferentes: los demócratas, especialmente Biden y Pelosi; la “invasión” de inmigrantes “ilegales” que están “robando” y “matando”; los hombres que participan en los “deportes de mujeres”; la decadencia de las ciudades liberales, incluyendo el supuesto incremento de la actividad criminal en estas; la Segunda Enmienda de la Constitución; la “protección de niños inocentes”; la “ridiculez” de la ciencia y las iniciativas de conservación y desarrollo sostenible; la aparente necesidad de incrementar la excavación de pozos petroleros, “drill, baby, drill!”. 
 
-Estos últimos, tropos de corte fascista (dígase Musolini) y anti-ambientalista.
+Tropos de corte fascista (dígase Musolini, véase a Umberto Eco) y, para más mal, anti-ambientalista.
 
 El expresidente se mostró a la vez unificador y revanchista, esperanzador y apocalíptico, humorístico y mesíanico, mientras que constantemente exaltaba ese sentimiento muy común del discurso político, el nacionalismo. 
 
