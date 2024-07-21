@@ -17,7 +17,7 @@ categories:
 
 El presidente Biden acaba de renunciar a la nominación como candidato presidencial en la próximas elecciones. 
 
-![Alt text](Biden_renuncia_post_X.webp "Carta de renuncia a la candidatura.")
+![Carta donde Biden anuncia que no se postulará para un segundo término como presidente de los EEUU.](Biden_renuncia_post_X.webp "Carta donde Biden anuncia que no se postulará para un segundo término como presidente de los EEUU.")
 
 
 ### Biden apoya la candidatura de Kamala Harris para la presidencia
