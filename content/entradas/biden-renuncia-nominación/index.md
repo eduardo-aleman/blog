@@ -22,7 +22,7 @@ El presidente Biden acaba de renunciar a la nominación como candidato presidenc
 
 ### Biden apoya la candidatura de Kamala Harris para la presidencia
 
-Compañeros demócratas, he decidido no aceptar la nominación y centrar todas mis energías en mis deberes como Presidente durante el resto de mi mandato. Mi primera decisión como candidato del partido en 2020 fue elegir a Kamala Harris como mi vicepresidente. Y ha sido la mejor decisión que he tomado. Hoy quiero ofrecer todo mi apoyo y respaldo para que Kamala sea la candidata de nuestro partido este año. Demócratas: es hora de unirse y vencer a Trump. Hagámoslo.
+"Compañeros demócratas, he decidido no aceptar la nominación y centrar todas mis energías en mis deberes como Presidente durante el resto de mi mandato. Mi primera decisión como candidato del partido en 2020 fue elegir a Kamala Harris como mi vicepresidente. Y ha sido la mejor decisión que he tomado. Hoy quiero ofrecer todo mi apoyo y respaldo para que Kamala sea la candidata de nuestro partido este año. Demócratas: es hora de unirse y vencer a Trump. Hagámoslo."
 
 
 
