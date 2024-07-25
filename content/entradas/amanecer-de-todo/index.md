@@ -20,7 +20,7 @@ La idea central de “El amanecer de todo” es que la especie humana (distinta 
 
 Desafortunadamente la mayor parte de esta historia social, que comenzó aproximadamente hace 200.000 años, se halla inexorablemente fuera de nuestro alcance. Los autores, David Graeber y David Wengrow, el primero antropólogo y el segundo arqueólogo, nos recuerdan este hecho indiscutible. 
 
-Sin embargo, los autores no se resignan, y en cientos de páginas exponen un verdadero gabinete de curiosidades como soporte de la idea central del libro.Solamente en el primer capítulo, los autores nos presentan con: 
+Sin embargo, los autores no se resignan, y en cientos de páginas exponen un verdadero gabinete de curiosidades (material en su mayoría desconocido por sus lectores) como soporte de la idea central del libro.Solamente en el primer capítulo, los autores nos presentan con: 
 
 *   Las ideas acerca del “estado natural” de la especie humana que aparecen en el siglo XVII en las páginas del Leviatán de Hobbes y posteriormente en el influyente ensayo de Rousseau, Origen de la desigualdad entre los hombres;
     
