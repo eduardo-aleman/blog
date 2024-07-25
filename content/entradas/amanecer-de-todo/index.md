@@ -45,7 +45,7 @@ Sin embargo no se dejan intimidar los autores por la inescrutabilidad del pasado
 
 Todo esto, nuevamente, en el primer capítulo. 
 
-La implicación que tiene la idea central del libro es de suma importancia. Si es verdad que por la mayor parte de su historia la especie humana experimentó con ordenamientos sociales de varios tipos y formas, ¿por qué la mayoría de los seres humanos vivimos en la actualidad estancados en una forma de organización social tan específica y opresiva como lo es el Estado moderno? ¿Acaso estamos destinados los seres humanos a vivir bajo el dominio del Estado, con toda la violencia que eso implica, por culpa de nuestra naturaleza? ¿O es la consecuencia de la inexorable “lógica de la historia”?
+La implicación que tiene la idea central del libro es de suma importancia. Si es verdad que por la mayor parte de su historia la especie humana experimentó con ordenamientos sociales de varios tipos y formas, ¿por qué la inmensa mayoría de los seres humanos vivimos en la actualidad estancados en una forma de organización social tan específica y opresiva como lo es el Estado moderno? ¿Acaso estamos destinados los seres humanos a vivir bajo el dominio del Estado, con toda la violencia que eso implica, por culpa de nuestra naturaleza? ¿O es la consecuencia de la inexorable “lógica de la historia”?
 
 Los autores nos invitan a reflexionar sobre estas preguntas y otras más. Aquí va una cita:
 
