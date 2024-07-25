@@ -24,7 +24,7 @@ Sin embargo no se dejan intimidar los autores por la inescrutabilidad del pasado
 
 *   Las ideas acerca del “estado natural” de la especie humana que aparecen en el siglo XVII en las páginas del Leviatán de Hobbes y posteriormente en el influyente ensayo de Rousseau, Origen de la desigualdad entre los hombres;
     
-*   De acuerdo con Hobbes, la naturaleza humana está caracterizada por el egoísmo y la guerra del uno contra el otro, mientras que Rousseau consideraba que el ser humano es de naturaleza noble, y que en sus inicios, vivía alejado de los demás por miedo, y fue eventualmente degenerando por culpa de la propiedad privada;
+*   De acuerdo con Hobbes, la naturaleza humana está caracterizada por el egoísmo y la guerra del uno contra el otro, mientras que Rousseau consideraba que el ser humano es de naturaleza noble, y que en sus inicios vivía alejado de los demás por miedo, y fue eventualmente degenerando como resultado de la propiedad privada;
     
 *   Desde el punto de vista político, ambas ideas conducen al derrotismo y la justificación del status quo;
     
