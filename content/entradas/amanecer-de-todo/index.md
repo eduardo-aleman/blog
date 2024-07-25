@@ -4,7 +4,7 @@ date: "2024-07-25"
 cover:
   image: "the_dawn_of_everything.webp" 
   alt: "Portada de El amanecer de todo: Una nueva historia de la humanidad."
-  caption: "Portada de El amanecer de todo: Una nueva historia de la humanidad."
+  caption: "Portada de la primera edición en inglés de El amanecer de todo: Una nueva historia de la humanidad."
   relative: false
 categories: 
   - "david graeber"
@@ -18,9 +18,15 @@ categories:
 
 La idea central de “El amanecer de todo” es que la especie humana (distinta de otros homínidos) ha estado experimentando con diferentes formas de organizar la sociedad desde un principio. El _homo sapiens_, tal y como lo predicó Aristóteles, es un animal político. Es decir, nuestra especie, a través de los siglos, ha tenido que escoger, negociar, imaginar y poner en práctica distintas formas de convivencia social, lo cual a su vez a definido su _ethos_.
 
-Desafortunadamente la mayor parte de esta historia, que comenzó aproximadamente hace 200.000 años en varias partes a lo largo del continente africano, se halla inexorablemente fuera de nuestro alcance. Los autores, David Graeber y David Wengrow, el primero antropólogo y el segundo arqueólogo, aunque hacen referencia a estudios sobre estos orígenes, enfocans el lente en los últimos 30.000 años.
+Desafortunadamente la mayor parte de esta historia, que comenzó aproximadamente hace 200.000 años en varias partes a lo largo del continente africano, se halla inexorablemente fuera de nuestro alcance. Los autores, David Graeber y David Wengrow, el primero antropólogo (lamentablemente fallecido en septiembre de 2020 meses antes de publicarse el libro) y el segundo arqueólogo, aunque hacen referencia a estudios sobre estos orígenes, enfocan el lente en los últimos 30.000 años.
 
-Es en estos últimos años donde el récord arqueológico se hace cada vez más evidente. En cientos de páginas los autores revisan este récord y exponen magistral y coherentemente una narrativa que constituye un verdadero monumento a la agencia humana. El libro, lleno de referencias, sumarios de descubrimientos e investigaciones, se abre al lector como un gabinete de curiosidades (el material en su mayoría desconocido por los lectores no especializados), maravillando e informando. Los argumentos, sólidos y en su mayoría bien elaborados, reaparecen en cada capítulo. A continuación un resumen de cada capítulo.
+Proviene de este tiempo un generoso récord arqueológico que se multiplica cada vez más. En cientos de páginas los autores revisan este récord y exponen magistral y coherentemente una narrativa que termina constituyendo un verdadero monumento a la agencia humana. El libro, lleno de referencias, sumarios de descubrimientos e investigaciones, se abre al lector como un gabinete de curiosidades (el material en su mayoría desconocido por los lectores no especializados), maravillando e instruyendo al mismo tiempo. Los argumentos, sólidos y en su mayoría bien elaborados, reaparecen en forma espiral en cada capítulo. Esto no es solo un recurso mnemónico, sino que también es deliberadamente estético, dejando en el lector una impresión más profunda de la magnitud de la narrativa y de su importancia. 
+
+A continuación hago un resumen de las ideas principales de cada capítulo. Pero antes una nota acerca de la implicación que tiene la idea central del libro. 
+
+Si es verdad que por la mayor parte de su historia la especie humana experimentó con ordenamientos sociales de varios tipos y formas, ¿por qué la inmensa mayoría de los seres humanos vivimos en la actualidad estancados en una forma de organización social tan específica y opresiva como lo es el Estado moderno? ¿Acaso estamos destinados los seres humanos a vivir bajo el dominio del Estado, con toda la violencia que eso implica, por culpa de nuestra naturaleza? ¿O es la consecuencia de la inexorable “lógica de la historia”?
+
+Los autores nos invitan a reflexionar sobre estas preguntas y otras más de gran importancia. El libro por lo tanto además de elucidar el pasado prehistórico, se proyecta al futuro.
 
 Del primer capítulo: 
 
@@ -44,12 +50,7 @@ Del primer capítulo: 
     
 *   La relación entre la historia de la desigualdad y la historia de la civilización, las cuales, aunque importantes, no son el tema del libro. 
     
-
-Todo esto, nuevamente, en el primer capítulo.
-
-La implicación que tiene la idea central del libro es de suma importancia. Si es verdad que por la mayor parte de su historia la especie humana experimentó con ordenamientos sociales de varios tipos y formas, ¿por qué la inmensa mayoría de los seres humanos vivimos en la actualidad estancados en una forma de organización social tan específica y opresiva como lo es el Estado moderno? ¿Acaso estamos destinados los seres humanos a vivir bajo el dominio del Estado, con toda la violencia que eso implica, por culpa de nuestra naturaleza? ¿O es la consecuencia de la inexorable “lógica de la historia”?
-
-Los autores nos invitan a reflexionar sobre estas preguntas y otras más. Aquí va una cita:
+Todo esto, nuevamente, en el primer capítulo. Aquí va una cita extraida de este:
 
  “Si, como muchos sugieren, el futuro de nuestra especie depende ahora de nuestra capacidad de crear algo diferente (por ejemplo, un sistema en el que la riqueza no pueda transformarse libremente en poder, o en el que a algunas personas no se les diga que sus necesidades no son importantes, o que sus vidas no tienen valor intrínseco), entonces lo que en última instancia importa es cómo podemos redescubrir las libertades que nos hacen humanos en primer lugar. Ya en 1936, el prehistoriador V. Gordon Childe escribió un libro titulado “El hombre se hace a sí mismo”. Más allá del lenguaje sexista, este es el espíritu que queremos invocar. Somos proyectos de autocreación colectiva. ¿Qué pasaría si abordáramos la historia humana de esa manera? ¿Qué pasaría si tratáramos a los seres humanos, desde el principio, como criaturas imaginativas, inteligentes y juguetonas que merecen ser entendidas como tales? ¿Qué pasaría si, en lugar de contar una historia sobre cómo nuestra especie se cayó de algún estado idílico de igualdad, nos preguntamos cómo llegamos a quedar atrapados en grilletes conceptuales tan estrechos que ya no podemos ni siquiera imaginar la posibilidad de reinventarnos?”
 
