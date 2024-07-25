@@ -18,9 +18,9 @@ categories:
 
 La idea central de “El amanecer de todo” es que la especie humana (distinta de otros homínidos) ha estado experimentando con diferentes formas de organizar la sociedad desde un principio. En este sentido, el _homo sapiens_, tal y como ya lo dijo Aristóteles, es por definición un ser político. Es decir, una especie que, a través de los siglos, ha tenido que negociar, imaginar y poner en práctica formas de convivencia.
 
-Desafortunadamente la mayor parte de esta historia social, que comenzó aproximadamente hace 200.000 años, se halla inexorablemente fuera de nuestro alcance. Los autores, David Graeber y David Wengrow, el primero un antropólogo y el segundo arqueólogo, nos recuerdan a menudo este hecho infalible. 
+Desafortunadamente la mayor parte de esta historia social, que comenzó aproximadamente hace 200.000 años, se halla inexorablemente fuera de nuestro alcance. Los autores, David Graeber y David Wengrow, el primero antropólogo y el segundo arqueólogo, nos recuerdan este hecho indiscutible. 
 
-Sin embargo, los autores no se resignan, y en cientos de páginas exponen un gabinete de curiosidades comenzando como soporte de la idea central de su libro. Solo en el primer capítulo, los autores nos presentan con: 
+Sin embargo, los autores no se resignan, y en cientos de páginas exponen un verdadero gabinete de curiosidades como soporte de la idea central del libro.Solamente en el primer capítulo, los autores nos presentan con: 
 
 *   Las ideas acerca del “estado natural” de la especie humana que aparecen en el siglo XVII en las páginas del Leviatán de Hobbes y posteriormente en el influyente ensayo de Rousseau, Origen de la desigualdad entre los hombres;
     
