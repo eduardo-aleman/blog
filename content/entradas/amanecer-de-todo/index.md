@@ -18,13 +18,15 @@ categories:
 
 La idea central de “El amanecer de todo” es que la especie humana (distinta de otros homínidos) ha estado experimentando con diferentes formas de organizar la sociedad desde un principio. El _homo sapiens_, tal y como lo predicó Aristóteles, es un animal político. Es decir, nuestra especie, a través de los siglos, ha tenido que negociar, imaginar y poner en práctica formas de convivencia social, lo cual a su vez a definido su carácter distintivo.
 
-Desafortunadamente la mayor parte de esta historia social, que comenzó aproximadamente hace 200.000 años en África, se halla inexorablemente fuera de nuestro alcance. Los autores, David Graeber y David Wengrow, el primero antropólogo y el segundo arqueólogo, nos recuerdan este hecho ineludible. 
+Desafortunadamente la mayor parte de esta historia social, que comenzó aproximadamente hace 200.000 años en África, se halla inexorablemente fuera de nuestro alcance. Los autores, David Graeber y David Wengrow, el primero antropólogo y el segundo arqueólogo, nos recuerdan este hecho ineludible, enfocando su estudio en los últimos 30.000 años.
 
-Sin embargo no se dejan intimidar los autores por la inescrutabilidad del pasado remoto, y en cientos de páginas exponen magistral y coherentemente un verdadero monumento a la agencia humana, lleno de referencias, argumentos, sumarios de descubrimientos e investigaciones, que como un gabinete de curiosidades (el material en su mayoría desconocido por los lectores no especializados) maravilla al lector mientras que sirve como soporte sólido a la idea central del libro. Solamente del primer capítulo: 
+No los detiene la inescrutabilidad del pasado remoto, y en cientos de páginas exponen magistral y coherentemente un verdadero monumento a la agencia humana. El libro, lleno de referencias, sumarios de descubrimientos e investigaciones, se abre al lector como un gabinete de curiosidades (el material, sobre todo el arequeológico, en su mayoría desconocido por los lectores no especializados), maravillando e informando. Los argumentos son sólidos y en su mayoría bien elaborados. 
+
+Del primer capítulo: 
 
 *   Las ideas acerca del “estado natural” de la especie humana que aparecen en el siglo XVII en las páginas del Leviatán de Hobbes y posteriormente en el influyente ensayo de Rousseau, Origen de la desigualdad entre los hombres;
     
-*   De acuerdo con Hobbes, la naturaleza humana está caracterizada por el egoísmo y la guerra del uno contra el otro, mientras que Rousseau consideraba que el ser humano es de naturaleza noble, y que en sus inicios vivía alejado de los demás por miedo, y fue eventualmente degenerando como resultado de la propiedad privada;
+*   De acuerdo con Hobbes, la naturaleza humana está caracterizada por el egoísmo y la guerra del uno contra el otro, mientras que Rousseau consideraba que el ser humano es de naturaleza noble, aunque eventualmente se fue degenerando por culpa de la propiedad privada;
     
 *   Desde el punto de vista político, ambas ideas conducen al derrotismo y la justificación del status quo;
     
