@@ -16,11 +16,11 @@ categories:
   - "anarquismo"
 ---
 
-La idea central de “El amanecer de todo” es que la especie humana (distinta de otros homínidos) ha estado experimentando con diferentes formas de organizar la sociedad desde un principio. En este sentido, el _homo sapiens_, tal y como ya lo dijo Aristóteles, es por definición un ser político. Es decir, una especie que, a través de los siglos, ha tenido que negociar, imaginar y poner en práctica formas de convivencia.
+La idea central de “El amanecer de todo” es que la especie humana (distinta de otros homínidos) ha estado experimentando con diferentes formas de organizar la sociedad desde un principio. El _homo sapiens_, tal y como lo predicó Aristóteles, es por lo tanto un ser político. Es decir, nuestra especie, a través de los siglos, ha tenido que negociar, imaginar y poner en práctica formas de convivencia.
 
-Desafortunadamente la mayor parte de esta historia social, que comenzó aproximadamente hace 200.000 años, se halla inexorablemente fuera de nuestro alcance. Los autores, David Graeber y David Wengrow, el primero antropólogo y el segundo arqueólogo, nos recuerdan este hecho indiscutible. 
+Desafortunadamente la mayor parte de esta historia social, que comenzó aproximadamente hace 200.000 años en África, se halla inexorablemente fuera de nuestro alcance. Los autores, David Graeber y David Wengrow, el primero antropólogo y el segundo arqueólogo, nos recuerdan este hecho indiscutible. 
 
-Ellos no se resignan y en cientos de páginas exponen un verdadero gabinete de curiosidades (material en su mayoría desconocido por los lectores no especializados) como soporte de la idea central del libro. Solamente del primer capítulo: 
+Sin embargo no se dejan intimidar los autores por la inescrutabilidad del pasado remoto, y en cientos de páginas exponen magistral y coherentemente un verdadero monumento a la agencia humana, lleno de referencias, argumentos, sumarios de descubrimientos e investigaciones, que como un gabinete de curiosidades (el material en su mayoría desconocido por los lectores no especializados) maravilla al lector mientras que sirve como soporte sólido a la idea central del libro. Solamente del primer capítulo: 
 
 *   Las ideas acerca del “estado natural” de la especie humana que aparecen en el siglo XVII en las páginas del Leviatán de Hobbes y posteriormente en el influyente ensayo de Rousseau, Origen de la desigualdad entre los hombres;
     
