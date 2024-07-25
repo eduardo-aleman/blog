@@ -50,7 +50,7 @@ Del primer capítulo: 
     
 *   La relación entre la historia de la desigualdad y la historia de la civilización, las cuales, aunque importantes, no son el tema del libro. 
     
-Todo esto, nuevamente, en el primer capítulo. Aquí va una cita extraida de este:
+Todo esto, nuevamente, en el primer capítulo. Aquí va una cita extraída de este:
 
  “Si, como muchos sugieren, el futuro de nuestra especie depende ahora de nuestra capacidad de crear algo diferente (por ejemplo, un sistema en el que la riqueza no pueda transformarse libremente en poder, o en el que a algunas personas no se les diga que sus necesidades no son importantes, o que sus vidas no tienen valor intrínseco), entonces lo que en última instancia importa es cómo podemos redescubrir las libertades que nos hacen humanos en primer lugar. Ya en 1936, el prehistoriador V. Gordon Childe escribió un libro titulado “El hombre se hace a sí mismo”. Más allá del lenguaje sexista, este es el espíritu que queremos invocar. Somos proyectos de autocreación colectiva. ¿Qué pasaría si abordáramos la historia humana de esa manera? ¿Qué pasaría si tratáramos a los seres humanos, desde el principio, como criaturas imaginativas, inteligentes y juguetonas que merecen ser entendidas como tales? ¿Qué pasaría si, en lugar de contar una historia sobre cómo nuestra especie se cayó de algún estado idílico de igualdad, nos preguntamos cómo llegamos a quedar atrapados en grilletes conceptuales tan estrechos que ya no podemos ni siquiera imaginar la posibilidad de reinventarnos?”
 
