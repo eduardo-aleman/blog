@@ -16,7 +16,7 @@ categories:
   - "anarquismo"
 ---
 
-La idea central de “El amanecer de todo” es que la especie humana (distinta de otros homínidos) ha estado experimentando con diferentes formas de organizar la sociedad desde un principio. El _homo sapiens_, tal y como lo predicó Aristóteles, es por lo tanto un animal político. Es decir, nuestra especie, a través de los siglos, ha tenido que negociar, imaginar y poner en práctica formas de convivencia social, lo cual a su vez a definido su carácter distintivo.
+La idea central de “El amanecer de todo” es que la especie humana (distinta de otros homínidos) ha estado experimentando con diferentes formas de organizar la sociedad desde un principio. El _homo sapiens_, tal y como lo predicó Aristóteles, es un animal político. Es decir, nuestra especie, a través de los siglos, ha tenido que negociar, imaginar y poner en práctica formas de convivencia social, lo cual a su vez a definido su carácter distintivo.
 
 Desafortunadamente la mayor parte de esta historia social, que comenzó aproximadamente hace 200.000 años en África, se halla inexorablemente fuera de nuestro alcance. Los autores, David Graeber y David Wengrow, el primero antropólogo y el segundo arqueólogo, nos recuerdan este hecho ineludible. 
 
