@@ -16,36 +16,36 @@ categories:
   - "anarquismo"
 ---
 
-La idea central de “El amanecer de todo” es que la especie humana (distinta de otros homínidos) ha estado experimentando con diferentes formas de organizar la sociedad desde un principio. El _homo sapiens_, tal y como lo predicó Aristóteles, es un animal político. Es decir, nuestra especie, a través de los siglos, ha tenido que negociar, imaginar y poner en práctica formas de convivencia social, lo cual a su vez a definido su carácter distintivo.
+La idea central de “El amanecer de todo” es que la especie humana (distinta de otros homínidos) ha estado experimentando con diferentes formas de organizar la sociedad desde un principio. El _homo sapiens_, tal y como lo predicó Aristóteles, es un animal político. Es decir, nuestra especie, a través de los siglos, ha tenido que escoger, negociar, imaginar y poner en práctica distintas formas de convivencia social, lo cual a su vez a definido su _ethos_.
 
-Desafortunadamente la mayor parte de esta historia social, que comenzó aproximadamente hace 200.000 años en África, se halla inexorablemente fuera de nuestro alcance. Los autores, David Graeber y David Wengrow, el primero antropólogo y el segundo arqueólogo, nos recuerdan este hecho ineludible, enfocando su estudio en los últimos 30.000 años.
+Desafortunadamente la mayor parte de esta historia, que comenzó aproximadamente hace 200.000 años en varias partes a lo largo del continente africano, se halla inexorablemente fuera de nuestro alcance. Los autores, David Graeber y David Wengrow, el primero antropólogo y el segundo arqueólogo, aunque hacen referencia a estudios sobre estos orígenes, enfocans el lente en los últimos 30.000 años.
 
-No los detiene la inescrutabilidad del pasado remoto, y en cientos de páginas exponen magistral y coherentemente un verdadero monumento a la agencia humana. El libro, lleno de referencias, sumarios de descubrimientos e investigaciones, se abre al lector como un gabinete de curiosidades (el material, sobre todo el arequeológico, en su mayoría desconocido por los lectores no especializados), maravillando e informando. Los argumentos son sólidos y en su mayoría bien elaborados. 
+Es en estos últimos años donde el récord arqueológico se hace cada vez más evidente. En cientos de páginas los autores revisan este récord y exponen magistral y coherentemente una narrativa que constituye un verdadero monumento a la agencia humana. El libro, lleno de referencias, sumarios de descubrimientos e investigaciones, se abre al lector como un gabinete de curiosidades (el material en su mayoría desconocido por los lectores no especializados), maravillando e informando. Los argumentos, sólidos y en su mayoría bien elaborados, reaparecen en cada capítulo. A continuación un resumen de cada capítulo.
 
 Del primer capítulo: 
 
-*   Las ideas acerca del “estado natural” de la especie humana que aparecen en el siglo XVII en las páginas del Leviatán de Hobbes y posteriormente en el influyente ensayo de Rousseau, Origen de la desigualdad entre los hombres;
+*   La exploración de las ideas acerca del llamado “estado natural” de la especie humana que aparecen en el siglo XVII en las páginas del Leviatán de Hobbes y posteriormente en el influyente ensayo de Rousseau, Origen de la desigualdad entre los hombres;
     
 *   De acuerdo con Hobbes, la naturaleza humana está caracterizada por el egoísmo y la guerra del uno contra el otro, mientras que Rousseau consideraba que el ser humano es de naturaleza noble, aunque eventualmente se fue degenerando por culpa de la propiedad privada;
     
-*   Desde el punto de vista político, ambas ideas conducen al derrotismo y la justificación del status quo;
+*   Desde el punto de vista político, segun los autores, ambas ideas constituyen mitos y conducen al derrotismo y la justificación del status quo;
     
-*   La “crítica indígena” de la sociedad europea reflejada en libros hoy olvidados de la primera mitad del siglo XVII, como lo son las crónicas de los padres jesuitas franceses en las que ponian de manifiesto la inteligencia de los indígenas de la Nueva Francia y el valor que estos le daban a la libertad individual, o las memorias del empobrecido aristócrata Lahontan quien expone el pensamiento liberal de Kondiaronk, un eminente filósofo, orador y líder de la confederación Wendat en norteamérica que denuncia la desigualdad social y la violencia europeas, o las “Cartas de una peruana” de Madame de Graffigny donde el personaje principal es una heroína inca muy crítica del patriarcado y las absurdas costumbres de la sociedad francesa;
+*   La “crítica indígena” de la sociedad europea reflejada en libros hoy redescubiertos de la primera mitad del siglo XVII, como lo son las crónicas de los padres jesuitas franceses donde se ponía de manifiesto la inteligencia de los indígenas de la Nueva Francia y el valor que estos le daban a la libertad individual, o las memorias del empobrecido aristócrata Lahontan quien expone el pensamiento liberal de Kondiaronk, un eminente filósofo, orador y líder de la confederación Wendat en norteamérica que denuncia la desigualdad social y la violencia de la civilización europea, o las “Cartas de una peruana” de Madame de Graffigny donde el personaje principal es una heroína inca muy crítica del patriarcado y las absurdas costumbres de la sociedad francesa;
     
-*   Obras como estas fueron leídas en los salones parisinos de la época e influyeron en el pensamiento de los filósofos de la Ilustración, como Rosseau y Voltaire, y por tanto ejercieron una influencia monumental en los movimientos revolucionarios que se sucedieron, es decir la guerra de independencia estadounidense y la revolución francesa;
+*   Obras como estas fueron leídas en los salones parisinos de la época e influyeron enormemente en el pensamiento de los filósofos de la Ilustración, como Rosseau y Voltaire, y por ende en el desarrollo de las ideas que motivaron los movimientos revolucionarios más trascendentales de la época, es decir la guerra de independencia estadounidense y la revolución francesa;
     
-*   El subsecuente efecto reaccionario por parte de la aristocracia francesa representado en la respuesta a Madame de Graffigny del primer ministro de estado de la corte de Luis XIV, Turgot, quién calificó la libertad y el igualitarismo de los “salvajes” como resultado de su inferioridad y pobreza, mientras que justificaba la desigualdad como una lamentable necesidad en una sociedad “compleja”;
+*   El subsecuente efecto reaccionario por parte de la aristocracia francesa representado en la respuesta a Madame de Graffigny del primer ministro de estado de la corte de Luis XIV, Turgot, quién calificó la libertad y el igualitarismo de los “salvajes” como signo de inferioridad y pobreza, mientras que al mismo tiempo justificaba la desigualdad como una lamentable necesidad en una sociedad de mayor “complejidad”;
     
 *   La influencia de las ideas de Rousseau en la Orden de los Illuminati de Baviera y su crítica de la propiedad privada;
     
 *   La influencia de Rousseau en la formación del movimiento izquierdista internacional;
     
-*   La teoría de la conspiración del historiador francés Gilbert Chinard en la mitad del siglo pasado, quién, declaró que personajes como Lahontan y Rousseau eran anarquistas, el último influenciado por el primero, y todos continuadores de la obra de los jesuitas, a quienes culpan de tratar de revolucionarios incendiarios que pretenden hacer retroceder a la sociedad al estado de los indígenas salvajes;
+*   La teoría de la conspiración del historiador francés Gilbert Chinard en la mitad del siglo pasado, quién, declaró que personajes como Lahontan y Rousseau eran anarquistas, el último influenciado por el primero, y todos continuadores de la obra de los jesuitas, a quienes culpan de sutiles provocadores incendiarios que pretenden hacer retroceder la sociedad al estado salvajismo de los indígenas ;
     
-*   Y la relación entre la historia de la desigualdad y la historia de la civilización, las cuales, aunque importantes, no son el tema del libro. 
+*   La relación entre la historia de la desigualdad y la historia de la civilización, las cuales, aunque importantes, no son el tema del libro. 
     
 
-Todo esto, nuevamente, en el primer capítulo. 
+Todo esto, nuevamente, en el primer capítulo.
 
 La implicación que tiene la idea central del libro es de suma importancia. Si es verdad que por la mayor parte de su historia la especie humana experimentó con ordenamientos sociales de varios tipos y formas, ¿por qué la inmensa mayoría de los seres humanos vivimos en la actualidad estancados en una forma de organización social tan específica y opresiva como lo es el Estado moderno? ¿Acaso estamos destinados los seres humanos a vivir bajo el dominio del Estado, con toda la violencia que eso implica, por culpa de nuestra naturaleza? ¿O es la consecuencia de la inexorable “lógica de la historia”?
 
