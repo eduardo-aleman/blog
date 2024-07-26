@@ -16,6 +16,8 @@ categories:
   - "anarquismo"
 ---
 
+### Resumen
+
 La idea central de “El amanecer de todo” es que la especie humana ha estado experimentando con diferentes formas de organizar la sociedad desde un principio. El _homo sapiens_, tal y como lo predicó Aristóteles, es un animal político. A través de los siglos, el ser humano tuvo que escoger, negociar, imaginar y poner en práctica distintas formas de convivencia social, lo cual a su vez a definido su _ethos_.
 
 La prehistoria del ser humano moderno comenzó aproximadamente hace 200.000 años a lo largo y ancho del continente africano (no solamente en la sabana). Los autores del libro, David Graeber y David Wengrow, el primero un antropólogo (lamentablemente fallecido en septiembre de 2020 meses antes de publicarse el libro) y el segundo arqueólogo, enfocan el lente en los últimos 30.000 años.
@@ -28,7 +30,7 @@ Si es verdad que por la mayor parte de su historia la especie humana experiment�
 
 Los autores nos invitan a reflexionar sobre esta y otras preguntas de gran importancia. El libro por lo tanto además de elucidar el pasado prehistórico, se proyecta al futuro.
 
-Del primer capítulo: 
+###  Capítulo 1 
 
 *   La exploración de las ideas acerca del llamado “estado natural” de la especie humana que aparecen en el siglo XVII en las páginas del Leviatán de Hobbes y posteriormente en el influyente ensayo de Rousseau, Origen de la desigualdad entre los hombres;
     
@@ -53,5 +55,27 @@ Del primer capítulo: 
 Todo esto, nuevamente, en el primer capítulo. Aquí va una cita extraída de este:
 
  “Si, como muchos sugieren, el futuro de nuestra especie depende ahora de nuestra capacidad de crear algo diferente (por ejemplo, un sistema en el que la riqueza no pueda transformarse libremente en poder, o en el que a algunas personas no se les diga que sus necesidades no son importantes, o que sus vidas no tienen valor intrínseco), entonces lo que en última instancia importa es cómo podemos redescubrir las libertades que nos hacen humanos en primer lugar. Ya en 1936, el prehistoriador V. Gordon Childe escribió un libro titulado “El hombre se hace a sí mismo”. Más allá del lenguaje sexista, este es el espíritu que queremos invocar. Somos proyectos de autocreación colectiva. ¿Qué pasaría si abordáramos la historia humana de esa manera? ¿Qué pasaría si tratáramos a los seres humanos, desde el principio, como criaturas imaginativas, inteligentes y juguetonas que merecen ser entendidas como tales? ¿Qué pasaría si, en lugar de contar una historia sobre cómo nuestra especie se cayó de algún estado idílico de igualdad, nos preguntamos cómo llegamos a quedar atrapados en grilletes conceptuales tan estrechos que ya no podemos ni siquiera imaginar la posibilidad de reinventarnos?”
+
+### Capítulo 2 
+
+Los autores profundizan sobre la crítica indígena y su impacto en el pensamiento europeo del siglo XVIII. Este impacto ha sido ignorado por los historiadores de la Ilustración. La falta de libertad en las cortes europeas puesta en evidencia por los indígenas norteamericanos en su mordaz crítica fue un primer paso. Los europeos coincidían con los indígenas que estos últimos eran más libres. La cuestión era si la libertad individual que estos gozaban era deseable o no. Recuérdese el escepticismo de Turgot en el primer capítulo.
+
+Al concepto de libertad individual le siguieron otros como la igualdad y la desigualdad. “De hecho, los términos “igualdad” y “desigualdad” sólo comenzaron a entrar en circulación a principios del siglo XVII, bajo la influencia de la teoría del derecho natural. Y la teoría del derecho natural, a su vez, surgió en gran medida en el curso de los debates sobre las implicaciones morales y jurídicas de los descubrimientos de Europa en el Nuevo Mundo”.
+
+Los relatos de los misioneros jesuitas, como ya se ha explicado, fueron muy apreciados por hombres y mujeres de la aristocracia como Rousseau y Madame de Graffigny. Las mujeres de la incipiente burguesía podían también por primera vez leer en las crónicas sobre temas como la libertad sexual. Esto seguramente les hubiese sido de gran interés.
+
+“La 'Era de la Razón' fue una época de debate. La Ilustración tuvo sus raíces en la conversación; tuvo lugar principalmente en cafés y salones. Muchos textos clásicos de la Ilustración adoptaron la forma de diálogos; la mayoría cultivaba un estilo sencillo, transparente y conversacional claramente inspirado en el salón [...] Apelar a la «razón» era ante todo un estilo de argumentación. Los ideales de la Revolución Francesa –libertad, igualdad y fraternidad– tomaron la forma que tomaron en el curso de una larga serie de debates y conversaciones. Todo lo que vamos a sugerir aquí es que esas conversaciones se remontan a más tiempo de lo que suponen los historiadores de la Ilustración”.
+
+Los jesuitas y otros interlocutores de las poblaciones indígenas norteamericanas atestan el valor que le dan estas últimas a la autonomía y la libertad individual. La vida social en las comunidades indígenas de norteamérica estaba organizada de tal manera que ninguno de sus miembros podría ser sometido a la voluntad de otro. Aunque los jesuitas no aceptaron esos principios libertarios, otros, colonos y lectores de crónicas, llegaron a comprender el valor, la importancia y la utilidad de estos principios.
+
+El sentimiento de superioridad en la sociedad europea del siglo XVII respaldado por la arrogancia de la iglesia estaba siendo socavado. “De hecho, fue necesario un enorme esfuerzo para salvar ese mismo sentido de superioridad europea que los pensadores de la Ilustración habían pretendido trastornar, perturbar y descentrar. Ciertamente, durante el siglo siguiente y más, tales ideas se convirtieron en una estrategia notablemente exitosa para lograrlo. Pero también crearon una maraña de contradicciones.”
+
+Rousseau se embulle de toda esta atmósfera intelectual que se vivía en los salones parisinos de la época. Debates como los de Madame de Graffigny y Turgot marcaron su pensamiento. “Al unir la crítica indígena y la doctrina del progreso originalmente desarrollada para contrarrestarla, Rousseau de hecho escribió el documento fundacional de la izquierda como un proyecto intelectual”.
+
+Pero Rousseau nos lega “un elemento tóxico”, el "mito del salvaje estúpido". Este estereotipo sirvió para justificar el imperialismo y el colonialismo que se abrió paso a partir del siglo XIX. Estos pueblos antes eran libres y practicaban la política a su manera. 
+
+Igualmente los pueblos del pasado prehistórico. Se reiteran tres ideas fundamentales: “La evidencia acumulada en la arqueología, la antropología y campos relacionados sugiere que –al igual que los amerindios y los franceses del siglo XVII– los pueblos de los tiempos prehistóricos tenían ideas muy específicas sobre lo que era importante en sus sociedades; que éstas variaron considerablemente; y que describir tales sociedades como uniformemente “igualitarias” no nos dice casi nada sobre ellas”.
+
+“Este no es, entonces, un libro sobre los orígenes de la desigualdad. Pero pretende responder muchas de las mismas preguntas de forma diferente. No hay duda de que algo ha ido terriblemente mal en el mundo. Un porcentaje muy pequeño de su población controla el destino de casi todos los demás, y lo hace de una manera cada vez más desastrosa. Para entender cómo surgió esta situación, debemos rastrear el problema hasta lo que primero hizo posible el surgimiento de reyes, sacerdotes, supervisores y jueces. Pero ya no podemos darnos el lujo de suponer que ya sabemos de antemano cuáles serán las respuestas precisas. Siguiendo la guía de críticos indígenas como Kandiaronk, debemos abordar la evidencia del pasado humano con nuevos ojos”.
 
 Continuará.
