@@ -70,17 +70,11 @@ La figura 12.1 establece una línea de crecimiento constante implícita por simp
 
 Tabla 12.1. Algunos números intersticiales de cristianos, del 40 al 178.
 
-<figure>
+![Tabla 12.1. Números cristianos implícitos en intervalos sucesivos entre el año 50 y el 350 d.C.](./tab12.1.jpg)
 
-<table><tbody><tr><td>e. c. 40</td><td>1,000</td><td>e. c. 200</td><td>210,000</td></tr><tr><td>e. c. 50</td><td>1,400</td><td>e. c. 246</td><td>1,000,000</td></tr><tr><td>e. c. 100</td><td>7,400</td><td>e. c.250</td><td>1,100,000</td></tr><tr><td>e. c. 109</td><td>10,000</td><td>e. c. 300</td><td>6,000,000</td></tr><tr><td>e. c. 150</td><td>40,000</td><td>e. c. 315</td><td>10,000,000</td></tr><tr><td>e. c. 178</td><td>100,000</td><td>e. c. 350</td><td>32,000,000</td></tr></tbody></table>
-
-<figcaption>
+Tabla 12.1. Números cristianos implícitos en intervalos sucesivos entre el año 50 y el 350 d. C.
 
 Por supuesto, en realidad la membresía cristiana probablemente fluctuaba. Probablemente creció más rápidamente en algunos períodos, mientras que en otros, por ejemplo, durante las persecuciones, incluso se redujo en cifras. 18 En realidad, el crecimiento probablemente no fue consistente. Podemos imaginar fácilmente tres probabilidades contrapuestas:
-
-</figcaption>
-
-</figure>
 
 (a) quizás al principio el crecimiento fue más rápido y más tarde más lento (es decir, por encima de la primera parte de la línea del gráfico 12.1); o
 
