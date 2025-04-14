@@ -31,3 +31,5 @@ En el desarrollo de la física moderna, pocas transiciones han sido tan revoluci
 
 
 Esta comparación ilustra no solo diferencias técnicas, sino una visión radicalmente distinta de la realidad física. ¿Es el universo determinista o esencialmente probabilístico? ¿Somos observadores o partícipes en el comportamiento del mundo cuántico?
+
+Problema con LaTeX
