@@ -66,5 +66,17 @@ outputs:
     - JSON # necessary for search
 markup:
   goldmark:
-    renderer:
-      unsafe: true
+    extensions:
+      passthrough:
+        delimiters:
+          block:
+          - - \[
+            - \]
+          - - $$
+            - $$
+          inline:
+          - - \(
+            - \)
+        enable: true
+params:
+  math: true
