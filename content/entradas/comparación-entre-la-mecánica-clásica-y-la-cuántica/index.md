@@ -1,9 +1,12 @@
-+++
-title = "Comparación entre la mecánica clásica y la cuántica"
-date = 2025-04-13T16:00:00
-draft = false
-categories = ["Física", "Mecánica Cuántica", "Mecánica Clásica", "Comparaciones"]
-+++
+---
+title: "Comparación entre la mecánica clásica y la cuántica"
+date: "2025-04-13"
+draft: false
+categories: 
+- "física"
+- "mecánica cuántica"
+- "mecánica clásica"
+---
 
 En el desarrollo de la física moderna, pocas transiciones han sido tan revolucionarias como el paso de la **mecánica clásica** a la **mecánica cuántica**. A continuación, se presenta una tabla comparativa que resume sus diferencias fundamentales:
 
