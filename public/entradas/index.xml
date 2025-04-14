@@ -2,88 +2,88 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Entradas on Blog de Eduardo Alemán</title>
-    <link>http://localhost:1313/entradas/</link>
+    <link>http://localhost:60495/entradas/</link>
     <description>Recent content in Entradas on Blog de Eduardo Alemán</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>es-es</language>
     <lastBuildDate>Sun, 13 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/entradas/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:60495/entradas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Comparación entre la mecánica clásica y la cuántica</title>
-      <link>http://localhost:1313/entradas/comparaci%C3%B3n-entre-la-mec%C3%A1nica-cl%C3%A1sica-y-la-cu%C3%A1ntica/</link>
+      <link>http://localhost:60495/entradas/comparaci%C3%B3n-entre-la-mec%C3%A1nica-cl%C3%A1sica-y-la-cu%C3%A1ntica/</link>
       <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/comparaci%C3%B3n-entre-la-mec%C3%A1nica-cl%C3%A1sica-y-la-cu%C3%A1ntica/</guid>
+      <guid>http://localhost:60495/entradas/comparaci%C3%B3n-entre-la-mec%C3%A1nica-cl%C3%A1sica-y-la-cu%C3%A1ntica/</guid>
       <description>En el desarrollo de la física moderna, pocas transiciones han sido tan revolucionarias como el paso de la mecánica clásica a la mecánica cuántica. A continuación, se presenta una tabla comparativa que resume sus diferencias fundamentales:
 Aspecto Mecánica Clásica Mecánica Cuántica Entidades físicas Partículas y ondas son distintas Dualidad onda-partícula Estado del sistema \( x(t),\ p(t) \) \( \psi(x,t) \) Determinismo Determinista Probabilista Marco matemático Leyes de Newton, formulaciones de Lagrange y Hamilton Ecuación de Schrödinger, operadores en espacio de Hilbert Medición No afecta al sistema Colapso de la función de onda al medir Incertidumbre Posición y momento exactos \( \Delta x \cdot \Delta p \geq \frac{\hbar}{2} \) Superposición No existe Estados pueden superponerse hasta ser observados Entrelazamiento No tiene análogo Correlación instantánea entre partículas separadas Trayectorias Definidas y continuas No definidas; múltiples caminos posibles (integrales de camino de Feynman) Escala de aplicación Macroscópica (planetas, proyectiles, cuerpos rígidos) Microscópica (átomos, electrones, fotones) Colapso / Postulados No hay colapso; evolución continua Colapso al medir, regido por postulados cuánticos Rol del observador Pasivo; no influye en el sistema Activo; la medición influye en el estado del sistema Esta comparación ilustra no solo diferencias técnicas, sino una visión radicalmente distinta de la realidad física.</description>
     </item>
     <item>
       <title>Notas acerca del libro “El amanecer de todo: Una nueva historia de la humanidad” de David Graeber y David Wengrow.</title>
-      <link>http://localhost:1313/entradas/amanecer-de-todo/</link>
+      <link>http://localhost:60495/entradas/amanecer-de-todo/</link>
       <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/amanecer-de-todo/</guid>
+      <guid>http://localhost:60495/entradas/amanecer-de-todo/</guid>
       <description>Resumen La idea central de “El amanecer de todo” es que la especie humana ha estado experimentando con diferentes formas de organizar la sociedad desde un principio. El homo sapiens, tal y como lo predicó Aristóteles, es un animal político. A través de los siglos, el ser humano tuvo que escoger, negociar, imaginar y poner en práctica distintas formas de convivencia social, lo cual a su vez a definido su ethos.</description>
     </item>
     <item>
       <title>Presidente Biden anuncia que no buscará un segundo término</title>
-      <link>http://localhost:1313/entradas/biden-renuncia-nominaci%C3%B3n/</link>
+      <link>http://localhost:60495/entradas/biden-renuncia-nominaci%C3%B3n/</link>
       <pubDate>Sun, 21 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/biden-renuncia-nominaci%C3%B3n/</guid>
+      <guid>http://localhost:60495/entradas/biden-renuncia-nominaci%C3%B3n/</guid>
       <description>El presidente Biden acaba de renunciar a la nominación como candidato presidencial en la próximas elecciones.
 Biden apoya la candidatura de Kamala Harris para la presidencia &amp;ldquo;Compañeros demócratas, he decidido no aceptar la nominación y centrar todas mis energías en mis deberes como Presidente durante el resto de mi mandato. Mi primera decisión como candidato del partido en 2020 fue elegir a Kamala Harris como mi vicepresidente. Y ha sido la mejor decisión que he tomado.</description>
     </item>
     <item>
       <title>El discurso de Trump en la Convención Nacional Republicana</title>
-      <link>http://localhost:1313/entradas/convenci%C3%B3n-republicana/</link>
+      <link>http://localhost:60495/entradas/convenci%C3%B3n-republicana/</link>
       <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/convenci%C3%B3n-republicana/</guid>
+      <guid>http://localhost:60495/entradas/convenci%C3%B3n-republicana/</guid>
       <description>Nunca me han gustado los discursos. Eso viene de mi niñez en Cuba. Entonces los discursos de Fidel Castro aparecían en la televisión y podían durar dos y tres horas. Eran los años 80 del siglo pasado y en un hogar común, o al menos en mi casa, había solo un televisor. El país completo tenía dos canales nacionales. Ambos cubrían en su totalidad cada paso y cada discurso del Comandante.</description>
     </item>
     <item>
       <title>Intento de asesinato contra Donald Trump</title>
-      <link>http://localhost:1313/entradas/atentado/</link>
+      <link>http://localhost:60495/entradas/atentado/</link>
       <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/atentado/</guid>
+      <guid>http://localhost:60495/entradas/atentado/</guid>
       <description>El atentado contra Donald Trump es otra indicación seria de las profundas heridas en la sociedad norteamericana actual. Heridas que además se ensanchan con este intento de asesinato.
 Los hechos El día de ayer, 13 de julio, Thomas Matthew Crooks, de 20 años, se situó en la azotea de un edificio apenas 140 metros de distancia del lugar donde el expresidente Donald Trump se dirigía a un público de presuntos admiradores y futuros electores.</description>
     </item>
     <item>
       <title>La Polis: Una introducción a la antigua ciudad-estado griega (Herman Hansen De Mogen).</title>
-      <link>http://localhost:1313/entradas/la-polis-hansen/</link>
+      <link>http://localhost:60495/entradas/la-polis-hansen/</link>
       <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/la-polis-hansen/</guid>
+      <guid>http://localhost:60495/entradas/la-polis-hansen/</guid>
       <description>Hansen, Mogens Herman, Polis: An Introduction to the Ancient Greek City-State, 2006, Introducción, Capítulo 1. Traducción en español de Eduardo Alemán.
 Para John Crook Este libro es una versión ampliada y revisada de mi libro en danés: Polis: den oldgræsk bystatskultur (Copenhague, 2004). Cuando se publicó, envié copias a colegas y amigos, incluido, por supuesto, John Crook. Le gustó y se ofreció a producir una versión en inglés. Ofrecida la oportunidad, acepté la propuesta con gratitud; recuerdo los momentos felices que pasamos juntos en el invierno y la primavera de 1990 trabajando en la traducción de La democracia ateniense en la época de Demóstenes.</description>
     </item>
     <item>
       <title>Historia de la guerra del Peloponeso. Libro 1 (Tucídides).</title>
-      <link>http://localhost:1313/entradas/guerra-del-peloponeso-libro-1-tuc%C3%ADdides/</link>
+      <link>http://localhost:60495/entradas/guerra-del-peloponeso-libro-1-tuc%C3%ADdides/</link>
       <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/guerra-del-peloponeso-libro-1-tuc%C3%ADdides/</guid>
+      <guid>http://localhost:60495/entradas/guerra-del-peloponeso-libro-1-tuc%C3%ADdides/</guid>
       <description>Woodruff, Paul., The Essential Thucydides: On Justice, Power, and Human Nature: Selections from The History of the Peloponnesian War Second Edition, Expanded and Revised, 2021, Libro 1. Traducción en español de Eduardo Alemán.
 * Los (o las) trirremes griegos llevaban el espolón en el frente de la proa para embestir a los navíos enemigos. Este espolón romano, descubierto en la bahía de Atlit, en Israel, mide 2,26 m de largo, 0,95 m de alto y pesa 465 kg.</description>
     </item>
     <item>
       <title>El número* cristiano y sus implicaciones (Keith Hopkins)</title>
-      <link>http://localhost:1313/entradas/el-n%C3%BAmero-cristiano-y-sus-implicaciones/</link>
+      <link>http://localhost:60495/entradas/el-n%C3%BAmero-cristiano-y-sus-implicaciones/</link>
       <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/el-n%C3%BAmero-cristiano-y-sus-implicaciones/</guid>
+      <guid>http://localhost:60495/entradas/el-n%C3%BAmero-cristiano-y-sus-implicaciones/</guid>
       <description>Hopkins, Keith. El número cristiano y sus implicaciones, Sociological Studies in Roman History (Cambridge Classical Studies), 2023, Capítulo 12. Traducción en español de Eduardo Alemán.
 * Nota del traductor: como se percatará al comenzar a leer este artículo, el concepto &amp;ldquo;número cristiano&amp;rdquo; se refiere al número de cristianos en los primero siglos de nuestra era.
 Introducción Este artículo* es un experimento tanto en método como en sustancia. En esencia, quiero mostrar que, con toda probabilidad, hubo muy pocos cristianos en el mundo romano, al menos hasta finales del siglo II.</description>
     </item>
     <item>
       <title>Interpretando a Platón (E.N. Tigerstedt)</title>
-      <link>http://localhost:1313/entradas/interpretando-a-plat%C3%B3n/</link>
+      <link>http://localhost:60495/entradas/interpretando-a-plat%C3%B3n/</link>
       <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/interpretando-a-plat%C3%B3n/</guid>
+      <guid>http://localhost:60495/entradas/interpretando-a-plat%C3%B3n/</guid>
       <description>Tigerstedt, E. N., Interpreting Plato, 1977, Prefacio, Capítulos 1 y 2. Traducción en español de Eduardo Alemán.
 Para Harold Cherniss Prefacio El presente estudio es una continuación y, de cierta forma, la conclusión de dos estudios anteriores, Plato’s Idea of Poetical Inspiration y The Decline and Fall of the Neoplatonic Interpretation of Plato. Estaba listo para ser impreso en 1973, pero por razones ajenas a la voluntad del autor, no es hasta ahora que ha sido posible su publicación.</description>
     </item>
     <item>
       <title>El Tucídides esencial (Paul Woodruff)</title>
-      <link>http://localhost:1313/entradas/guerra-del-peloponeso-tuc%C3%ADdides/</link>
+      <link>http://localhost:60495/entradas/guerra-del-peloponeso-tuc%C3%ADdides/</link>
       <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/guerra-del-peloponeso-tuc%C3%ADdides/</guid>
+      <guid>http://localhost:60495/entradas/guerra-del-peloponeso-tuc%C3%ADdides/</guid>
       <description>Woodruff, Paul., The Essential Thucydides: On Justice, Power, and Human Nature: Selections from The History of the Peloponnesian War Second Edition, Expanded and Revised, 2021, Introducción. Traducción en español de Eduardo Alemán.
 El Tucídides esencial: sobre la justicia, el poder y la naturaleza humana
 Selecciones de La historia de la guerra del Peloponeso
@@ -91,24 +91,24 @@ Introducción El autor ¿Quién es como Tucídides? Nos recuerda a los eruditos 
     </item>
     <item>
       <title>Acerca del debate presidencial</title>
-      <link>http://localhost:1313/entradas/debate-presidencial/</link>
+      <link>http://localhost:60495/entradas/debate-presidencial/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/debate-presidencial/</guid>
+      <guid>http://localhost:60495/entradas/debate-presidencial/</guid>
       <description>El patético debate presidencial de ayer, 27 de junio, demostró lo que ya se sabía: el expresidente Trump, criminal convicto, es un mentiroso patológico, mientras que, el presidente Biden, un anciano desmadejado, ya no está en disposición de entablar un debate, menos aún de dirigir el país. Los votantes se preguntan, ¿cómo hemos llegado hasta aquí? Sin respuesta, o se continúa la elongación de un fenómeno ya común en la política estadounidense, el tribalismo económico y racial, o se incrementa la enajenación, o se desemboca en la desesperación y la violencia.</description>
     </item>
     <item>
       <title>El Ión de Platón: La traducción de Shelley (John Lauritsen)</title>
-      <link>http://localhost:1313/entradas/el-i%C3%B3n-de-plat%C3%B3n-la-traducci%C3%B3n-de-shelley/</link>
+      <link>http://localhost:60495/entradas/el-i%C3%B3n-de-plat%C3%B3n-la-traducci%C3%B3n-de-shelley/</link>
       <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/el-i%C3%B3n-de-plat%C3%B3n-la-traducci%C3%B3n-de-shelley/</guid>
+      <guid>http://localhost:60495/entradas/el-i%C3%B3n-de-plat%C3%B3n-la-traducci%C3%B3n-de-shelley/</guid>
       <description>A continuación la traducción que he hecho del prefacio y las notas de John Lauritsen en su edición del Ión de Platón traducido por Shelley. He traducido además el diálogo tomando como base esta traducción de Shelley. Puedes encontrar mi traducción aquí. La primera columna es en griego, la segunda es en inglés (la de Shelley), y la última es la mía en español.
 Introducción de John Lauritzen Percy Bysshe Shelley, uno de nuestros más grandes poetas, fue un brillante traductor también, sólo igualado entre los poetas, si acaso, por Pope y Dryden.</description>
     </item>
     <item>
       <title>Fray Tomás de Aquino (Jaime A. Weisheipl)</title>
-      <link>http://localhost:1313/entradas/fraile-tom%C3%A1s-de-aquino/</link>
+      <link>http://localhost:60495/entradas/fraile-tom%C3%A1s-de-aquino/</link>
       <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/fraile-tom%C3%A1s-de-aquino/</guid>
+      <guid>http://localhost:60495/entradas/fraile-tom%C3%A1s-de-aquino/</guid>
       <description>Weisheipl, James A., Thomas D&amp;rsquo;Aquino: his life, thought, and work, 1983, Prefacio, Capítulo 1. Traducción en español de Eduardo Alemán.
 Fray Tomás de Aquino.
 Su vida, pensamiento, y obras.
@@ -118,56 +118,56 @@ Prefacio El 7 de marzo de 1974 se cumple el setecientos aniversario de la muerte
     </item>
     <item>
       <title>La estructura de los Anales de Tácito (Ronald Syme)</title>
-      <link>http://localhost:1313/entradas/xxi-la-estructura-de-los-anales/</link>
+      <link>http://localhost:60495/entradas/xxi-la-estructura-de-los-anales/</link>
       <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/xxi-la-estructura-de-los-anales/</guid>
+      <guid>http://localhost:60495/entradas/xxi-la-estructura-de-los-anales/</guid>
       <description>Syme, Ronald, Tacitus, 1958, Capítulo 21. Traducción en español de Eduardo Alemán.
 Cornelio Tácito decidió comenzar con la muerte de Augusto. Lo que sobrevive de sus anales de los Césares desde Tiberio hasta Nerón (en su mayor parte no mucho más de la mitad) indica una estructura de tres grupos, cada uno de los cuales contiene seis libros. La primera héxada abarca el principado de Tiberio, en dos porciones iguales, marcada y explícitamente divididas.</description>
     </item>
     <item>
       <title>El último emperador pagano (H. C. Teitler)</title>
-      <link>http://localhost:1313/entradas/el-%C3%BAltimo-emperador-pagano/</link>
+      <link>http://localhost:60495/entradas/el-%C3%BAltimo-emperador-pagano/</link>
       <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/el-%C3%BAltimo-emperador-pagano/</guid>
+      <guid>http://localhost:60495/entradas/el-%C3%BAltimo-emperador-pagano/</guid>
       <description>Teitler, H. C., The Last Pagan Emperor: Julian the Apostate and the War against Christianity, 2017, Introducción. Traducción en español de Eduardo Alemán. Fragmento.
 Introducción Flavio Claudio Juliano, más conocido como Juliano el Apóstata, murió en la noche del 26 al 27 de junio de 363 d.C. Había gobernado el Imperio Romano durante menos de veinte meses cuando fue herido cerca de la moderna Bagdad por una lanza de caballería que le atravesó las costillas y se alojó en la parte inferior del hígado.</description>
     </item>
     <item>
       <title>Procopio y el siglo sexto (Averil Cameron)</title>
-      <link>http://localhost:1313/entradas/procopio-y-el-siglo-sexto/</link>
+      <link>http://localhost:60495/entradas/procopio-y-el-siglo-sexto/</link>
       <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/procopio-y-el-siglo-sexto/</guid>
+      <guid>http://localhost:60495/entradas/procopio-y-el-siglo-sexto/</guid>
       <description>Cameron, Averil, Procopius and the Sixth Century, 1996, Capítulo 1. Traducción en español de Eduardo Alemán.
 Con las obras de Procopio de Cesarea encontramos de forma aguda el problema del predominio de un solo autor en la historia de un período importante. Los libros Guerras, Historia secreta y Edificios de Procopio no sólo representan la principal fuente histórica del reinado de Justiniano (527-65 d. C.), sino que con frecuencia constituyen la única fuente.</description>
     </item>
     <item>
       <title>F. R. D. Goodyear, Obituario (Henry D. Jocelyn)</title>
-      <link>http://localhost:1313/entradas/obituario-goodyear/</link>
+      <link>http://localhost:60495/entradas/obituario-goodyear/</link>
       <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/obituario-goodyear/</guid>
+      <guid>http://localhost:60495/entradas/obituario-goodyear/</guid>
       <description>Jocelyn, H. D., F. R. D. Goodyear, 1988. Traducción en español de Eduardo Alemán.
 Francis Richard David Goodyear tuvo una corta vida laboral. Nació el 2 de febrero de 1936 y murió el 24 de julio de 1987. El alcoholismo asoló sus últimos años. Enseñó en Queens&amp;rsquo; College, Cambridge, entre 1960 y 1966, en la Universidad de Londres entre 1966 y 1983, y en la Universidad de Witwatersrand (Johannesburgo) entre 1984 y el momento de su muerte.</description>
     </item>
     <item>
       <title>Palimpsesto</title>
-      <link>http://localhost:1313/entradas/diccionario/palimpsesto/</link>
+      <link>http://localhost:60495/entradas/diccionario/palimpsesto/</link>
       <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/diccionario/palimpsesto/</guid>
+      <guid>http://localhost:60495/entradas/diccionario/palimpsesto/</guid>
       <description>Un palimpsesto es un manuscrito en el que el texto original ha sido borrado o eliminado para que el material de escritura (generalmente pergamino, papiro o vitela) pueda ser reutilizado para escribir un nuevo texto. Esta práctica era común en la antigüedad y en la Edad Media debido a la escasez y al alto costo de los materiales de escritura. A pesar de los intentos de borrar el texto original, a menudo quedaban rastros que pueden ser recuperados y estudiados con técnicas modernas.</description>
     </item>
     <item>
       <title>Edición crítica</title>
-      <link>http://localhost:1313/entradas/diccionario/edici%C3%B3n-cr%C3%ADtica/</link>
+      <link>http://localhost:60495/entradas/diccionario/edici%C3%B3n-cr%C3%ADtica/</link>
       <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/diccionario/edici%C3%B3n-cr%C3%ADtica/</guid>
+      <guid>http://localhost:60495/entradas/diccionario/edici%C3%B3n-cr%C3%ADtica/</guid>
       <description>Una edición crítica es un trabajo académico que busca establecer una versión lo más cercana posible al texto original o a la intención del autor. Este proceso implica una cuidadosa investigación y análisis de diferentes fuentes y variantes del texto. Los editores críticos trabajan con manuscritos, impresiones antiguas, y otras ediciones relevantes, comparándolos y contrastándolos para identificar errores, omisiones o interpolaciones introducidas a lo largo del tiempo.
 Objetivos de una edición crítica: Reconstrucción del Texto Original: Uno de los objetivos principales es reconstruir la versión del texto que el autor pretendía publicar.</description>
     </item>
     <item>
       <title>Fuentes primarias</title>
-      <link>http://localhost:1313/entradas/diccionario/fuentes-primarias/</link>
+      <link>http://localhost:60495/entradas/diccionario/fuentes-primarias/</link>
       <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/diccionario/fuentes-primarias/</guid>
+      <guid>http://localhost:60495/entradas/diccionario/fuentes-primarias/</guid>
       <description>Las fuentes primarias son materiales originales que proporcionan información directa o evidencia sobre un tema en particular. Son creadas por testigos o participantes directos en los eventos o condiciones que se estudian. Estas fuentes no han sido filtradas, interpretadas o evaluadas por otros, lo que las distingue de las fuentes secundarias y terciarias.
 Tipos de fuentes primarias Documentos escritos:
 Cartas y correspondencias: Comunicaciones personales entre individuos.
@@ -175,41 +175,41 @@ Diarios y memorias: Registros personales de eventos y experiencias.</description
     </item>
     <item>
       <title>Editio princeps</title>
-      <link>http://localhost:1313/entradas/diccionario/editio-princeps/</link>
+      <link>http://localhost:60495/entradas/diccionario/editio-princeps/</link>
       <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/diccionario/editio-princeps/</guid>
+      <guid>http://localhost:60495/entradas/diccionario/editio-princeps/</guid>
       <description>Las ediciones príncipe, también conocidas como editio princeps, son las primeras ediciones impresas de un texto, especialmente de obras de la antigüedad clásica, medievales o renacentistas. Estas ediciones tienen un valor histórico, cultural y bibliográfico significativo porque representan el primer paso de la transición de los manuscritos a la imprenta, marcando un hito en la historia de la literatura y la transmisión del conocimiento.
 Historia y Contexto El Nacimiento de la Imprenta La invención de la imprenta por Johannes Gutenberg en 1450 revolucionó la producción y distribución de libros.</description>
     </item>
     <item>
       <title>Códices</title>
-      <link>http://localhost:1313/entradas/diccionario/c%C3%B3dices/</link>
+      <link>http://localhost:60495/entradas/diccionario/c%C3%B3dices/</link>
       <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/diccionario/c%C3%B3dices/</guid>
+      <guid>http://localhost:60495/entradas/diccionario/c%C3%B3dices/</guid>
       <description>Los códices son manuscritos antiguos que se caracterizan por estar escritos en forma de libro, es decir, con páginas unidas por un lado. A diferencia de los rollos, que eran comunes en las culturas antiguas, los códices permiten una lectura más fácil y un acceso más rápido a diferentes partes del texto.
 Características Principales de los Códices Formato de Libro: Los códices tienen hojas individuales, a menudo hechas de pergamino (piel de animal) o papel, que están unidas por un borde, generalmente cosidas.</description>
     </item>
     <item>
       <title>Papiros de Oxirrinco</title>
-      <link>http://localhost:1313/entradas/diccionario/papiros-de-oxirrinco/</link>
+      <link>http://localhost:60495/entradas/diccionario/papiros-de-oxirrinco/</link>
       <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/diccionario/papiros-de-oxirrinco/</guid>
+      <guid>http://localhost:60495/entradas/diccionario/papiros-de-oxirrinco/</guid>
       <description>Oxford Papyrology (2022). P.Oxy. XV 1809. Plato, Phaedo. University of Oxford. Online resource. https://doi.org/10.25446/oxford.21133039.v1
 Los Papiros de Oxirrinco son una colección monumental de manuscritos antiguos descubiertos en un sitio arqueológico en Oxirrinco (hoy El-Bahnasa), Egipto. Este descubrimiento, realizado a fines del siglo XIX, ha proporcionado una visión invaluable de la vida cotidiana, la literatura, la administración y la cultura del antiguo mundo grecorromano y bizantino.
 Historia del Descubrimiento El hallazgo de los Papiros de Oxirrinco comenzó en 1896 cuando los arqueólogos británicos Bernard P.</description>
     </item>
     <item>
       <title>Anáfora</title>
-      <link>http://localhost:1313/entradas/diccionario/an%C3%A1fora/</link>
+      <link>http://localhost:60495/entradas/diccionario/an%C3%A1fora/</link>
       <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/diccionario/an%C3%A1fora/</guid>
+      <guid>http://localhost:60495/entradas/diccionario/an%C3%A1fora/</guid>
       <description>La anáfora es una figura retórica que consiste en la repetición deliberada de una palabra o frase al comienzo de varias cláusulas, oraciones o versos consecutivos. Esta repetición tiene el efecto de enfatizar una idea, crear un ritmo o resaltar una emoción. La anáfora es una herramienta poderosa en la poesía, la prosa y los discursos para captar la atención del lector o del oyente y para subrayar un tema o un sentimiento específico.</description>
     </item>
     <item>
       <title>Bibliografía</title>
-      <link>http://localhost:1313/entradas/diccionario/bibliograf%C3%ADa/</link>
+      <link>http://localhost:60495/entradas/diccionario/bibliograf%C3%ADa/</link>
       <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/diccionario/bibliograf%C3%ADa/</guid>
+      <guid>http://localhost:60495/entradas/diccionario/bibliograf%C3%ADa/</guid>
       <description>La bibliografía se clasifica generalmente en dos categorías: primaria y secundaria. Ambas son esenciales en la investigación académica y tienen propósitos distintos. Aquí se detallan las diferencias clave entre ellas:
 Bibliografía Primaria Definición:
 La bibliografía primaria se refiere a los materiales originales e inéditos que sirven como fuente directa de información o evidencia en una investigación.
@@ -219,58 +219,58 @@ Contenido: Suele incluir resultados de experimentos, datos brutos, testimonios, 
     </item>
     <item>
       <title>Apex</title>
-      <link>http://localhost:1313/entradas/diccionario/apex/</link>
+      <link>http://localhost:60495/entradas/diccionario/apex/</link>
       <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/diccionario/apex/</guid>
+      <guid>http://localhost:60495/entradas/diccionario/apex/</guid>
       <description>El apex o ápice is un signo diacrítico parecido a la tilde española ( ´ ) o el apóstrofo inglés ( ʼ ). En griego antiguo, el apex o acento agudo indicaba la elevación en el tono de voz (acento tónico) con que debía pronunciarse una vocal. En Latín, se empleaba a veces sobre las vocales largas.</description>
     </item>
     <item>
       <title>Aoristo</title>
-      <link>http://localhost:1313/entradas/diccionario/aoristo/</link>
+      <link>http://localhost:60495/entradas/diccionario/aoristo/</link>
       <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/diccionario/aoristo/</guid>
+      <guid>http://localhost:60495/entradas/diccionario/aoristo/</guid>
       <description>El aoristo es un tiempo verbal en griego antiguo que expresa acciones puntuales, completadas o simples sin especificar si la acción fue prolongada o repetitiva. Es uno de los tiempos verbales más importantes en el griego antiguo y tiene varios aspectos que son fundamentales para comprender su uso y conjugación.
 Aspectos del Aoristo Aoristo Simple (o Puntual): Este aspecto se utiliza para describir una acción que ocurrió en un momento específico en el pasado, sin referencia a su duración o repetición.</description>
     </item>
     <item>
       <title>Alternancia</title>
-      <link>http://localhost:1313/entradas/diccionario/alternancia/</link>
+      <link>http://localhost:60495/entradas/diccionario/alternancia/</link>
       <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/diccionario/alternancia/</guid>
+      <guid>http://localhost:60495/entradas/diccionario/alternancia/</guid>
       <description>En lingüística, la alternancia se refiere a la variación sistemática de una unidad lingüística en diferentes contextos. Esta variación puede ocurrir a nivel fonológico, morfológico, sintáctico o pragmático. Aquí se presentan algunas formas clave de alternancia en el ámbito de la lingüística:
 Alternancia Fonológica La alternancia fonológica implica cambios en los sonidos de una palabra dependiendo del contexto fonético. Estos cambios pueden ser alofónicos (variaciones de un mismo fonema) o fonémicos (cambios que afectan el significado de la palabra).</description>
     </item>
     <item>
       <title>Aliteración</title>
-      <link>http://localhost:1313/entradas/diccionario/aliteraci%C3%B3n/</link>
+      <link>http://localhost:60495/entradas/diccionario/aliteraci%C3%B3n/</link>
       <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/diccionario/aliteraci%C3%B3n/</guid>
+      <guid>http://localhost:60495/entradas/diccionario/aliteraci%C3%B3n/</guid>
       <description>La aliteración es una figura retórica que consiste en la repetición de sonidos similares, especialmente consonánticos, en un verso o una frase para crear un efecto musical o enfatizar un significado. Se usa ampliamente en la poesía y la prosa para añadir ritmo, cohesión y un sentido de unidad sonora.
 Ejemplos de Aliteración En poesía:
 &amp;ldquo;Tres tristes tigres tragaban trigo en un trigal.&amp;rdquo; Aquí, la repetición del sonido &amp;ldquo;tr&amp;rdquo; crea un efecto rítmico y musical.</description>
     </item>
     <item>
       <title>Legiones romanas</title>
-      <link>http://localhost:1313/entradas/diccionario/legiones-romanas/</link>
+      <link>http://localhost:60495/entradas/diccionario/legiones-romanas/</link>
       <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/diccionario/legiones-romanas/</guid>
+      <guid>http://localhost:60495/entradas/diccionario/legiones-romanas/</guid>
       <description>Las legiones romanas fueron la columna vertebral del poder militar de la antigua Roma, desempeñando un papel crucial en la expansión y mantenimiento del Imperio Romano. Aquí hay una descripción breve sobre las legiones romanas, incluyendo su estructura, historia y funcionamiento.
 1. Historia y Evolución Las legiones romanas evolucionaron significativamente a lo largo de los siglos. Inicialmente, durante la monarquía y la República temprana, las legiones eran formaciones temporales compuestas por ciudadanos romanos que servían durante campañas específicas.</description>
     </item>
     <item>
       <title>Fuentes secundarias</title>
-      <link>http://localhost:1313/entradas/diccionario/fuentes-secundarias/</link>
+      <link>http://localhost:60495/entradas/diccionario/fuentes-secundarias/</link>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/diccionario/fuentes-secundarias/</guid>
+      <guid>http://localhost:60495/entradas/diccionario/fuentes-secundarias/</guid>
       <description>En el vasto panorama de la investigación académica, las fuentes secundarias juegan un papel fundamental al proporcionar análisis, interpretaciones y contextos que enriquecen nuestro entendimiento sobre diversos temas. Estas fuentes son pilares esenciales para cualquier estudio riguroso y sistemático, ofreciendo una perspectiva crítica y reflexiva sobre la información que se obtiene de otras fuentes primarias.
 Definición y Tipos
 Las fuentes secundarias se definen como aquellas obras que no presentan información original o directa derivada de la experiencia o investigación del autor, sino que se basan en la recopilación y análisis de datos provenientes de otras fuentes.</description>
     </item>
     <item>
       <title>Ablativo</title>
-      <link>http://localhost:1313/entradas/diccionario/ablativo/</link>
+      <link>http://localhost:60495/entradas/diccionario/ablativo/</link>
       <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/diccionario/ablativo/</guid>
+      <guid>http://localhost:60495/entradas/diccionario/ablativo/</guid>
       <description>El ablativo es un caso gramatical presente en varios idiomas antiguos y algunos modernos, como el latín, el sánscrito, y el ruso, aunque con diferentes funciones y usos específicos en cada lengua.
 En latín En latín, el ablativo tiene múltiples funciones y se utiliza en varias construcciones gramaticales. Aquí hay algunas de sus principales funciones:
 Ablativo de separación: Indica separación o alejamiento.
@@ -278,9 +278,9 @@ Ejemplo: &amp;ldquo;Urbe discedit&amp;rdquo; (Él se aleja de la ciudad).</descr
     </item>
     <item>
       <title>Acusativo</title>
-      <link>http://localhost:1313/entradas/diccionario/acusativo/</link>
+      <link>http://localhost:60495/entradas/diccionario/acusativo/</link>
       <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/diccionario/acusativo/</guid>
+      <guid>http://localhost:60495/entradas/diccionario/acusativo/</guid>
       <description>Caso Acusativo en Latín En latín, el caso acusativo tiene varias funciones importantes:
 Objeto Directo: Marca el objeto directo de la acción del verbo.
 Ejemplo: &amp;ldquo;Puella librum legit&amp;rdquo; (La niña lee el libro). Movimiento hacia un Lugar: Indica dirección o destino hacia un lugar.

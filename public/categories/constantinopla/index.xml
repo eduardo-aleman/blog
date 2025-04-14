@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Constantinopla on Blog de Eduardo Alemán</title>
-    <link>http://localhost:1313/categories/constantinopla/</link>
+    <link>http://localhost:60495/categories/constantinopla/</link>
     <description>Recent content in Constantinopla on Blog de Eduardo Alemán</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>es-es</language>
     <lastBuildDate>Tue, 16 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/constantinopla/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:60495/categories/constantinopla/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Procopio y el siglo sexto (Averil Cameron)</title>
-      <link>http://localhost:1313/entradas/procopio-y-el-siglo-sexto/</link>
+      <link>http://localhost:60495/entradas/procopio-y-el-siglo-sexto/</link>
       <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/procopio-y-el-siglo-sexto/</guid>
+      <guid>http://localhost:60495/entradas/procopio-y-el-siglo-sexto/</guid>
       <description>Cameron, Averil, Procopius and the Sixth Century, 1996, Capítulo 1. Traducción en español de Eduardo Alemán.
 Con las obras de Procopio de Cesarea encontramos de forma aguda el problema del predominio de un solo autor en la historia de un período importante. Los libros Guerras, Historia secreta y Edificios de Procopio no sólo representan la principal fuente histórica del reinado de Justiniano (527-65 d. C.), sino que con frecuencia constituyen la única fuente.</description>
     </item>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Oxirrinco on Blog de Eduardo Alemán</title>
-    <link>http://localhost:1313/categories/oxirrinco/</link>
+    <link>http://localhost:60495/categories/oxirrinco/</link>
     <description>Recent content in Oxirrinco on Blog de Eduardo Alemán</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>es-es</language>
     <lastBuildDate>Mon, 04 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/oxirrinco/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:60495/categories/oxirrinco/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Papiros de Oxirrinco</title>
-      <link>http://localhost:1313/entradas/diccionario/papiros-de-oxirrinco/</link>
+      <link>http://localhost:60495/entradas/diccionario/papiros-de-oxirrinco/</link>
       <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/diccionario/papiros-de-oxirrinco/</guid>
+      <guid>http://localhost:60495/entradas/diccionario/papiros-de-oxirrinco/</guid>
       <description>Oxford Papyrology (2022). P.Oxy. XV 1809. Plato, Phaedo. University of Oxford. Online resource. https://doi.org/10.25446/oxford.21133039.v1
 Los Papiros de Oxirrinco son una colección monumental de manuscritos antiguos descubiertos en un sitio arqueológico en Oxirrinco (hoy El-Bahnasa), Egipto. Este descubrimiento, realizado a fines del siglo XIX, ha proporcionado una visión invaluable de la vida cotidiana, la literatura, la administración y la cultura del antiguo mundo grecorromano y bizantino.
 Historia del Descubrimiento El hallazgo de los Papiros de Oxirrinco comenzó en 1896 cuando los arqueólogos británicos Bernard P.</description>
