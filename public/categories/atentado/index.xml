@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Atentado on Blog de Eduardo Alemán</title>
-    <link>https://ealeman.com/categories/atentado/</link>
+    <link>http://localhost:1313/categories/atentado/</link>
     <description>Recent content in Atentado on Blog de Eduardo Alemán</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>es-es</language>
     <lastBuildDate>Sun, 14 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ealeman.com/categories/atentado/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/atentado/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Intento de asesinato contra Donald Trump</title>
-      <link>https://ealeman.com/entradas/atentado/</link>
+      <link>http://localhost:1313/entradas/atentado/</link>
       <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://ealeman.com/entradas/atentado/</guid>
+      <guid>http://localhost:1313/entradas/atentado/</guid>
       <description>El atentado contra Donald Trump es otra indicación seria de las profundas heridas en la sociedad norteamericana actual. Heridas que además se ensanchan con este intento de asesinato.
 Los hechos El día de ayer, 13 de julio, Thomas Matthew Crooks, de 20 años, se situó en la azotea de un edificio apenas 140 metros de distancia del lugar donde el expresidente Donald Trump se dirigía a un público de presuntos admiradores y futuros electores.</description>
     </item>
