@@ -1,6 +1,10 @@
 ---
 title: "Comparación entre la mecánica clásica y la cuántica"
 date: "2025-04-13"
+cover:
+  image: "cuantica.webp" 
+  alt: "Comparación entre la mecánica clásica y la cuántica."
+  relative: false
 draft: false
 categories: 
 - "física"
