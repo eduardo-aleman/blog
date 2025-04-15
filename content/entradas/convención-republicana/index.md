@@ -6,6 +6,7 @@ cover:
   alt: "Donald Trump al comenzar el discurso de clausura de Convención Nacional Republicana. Toma de pantalla."
   caption: "Donald Trump al comenzar el discurso de clausura de Convención Nacional Republicana. Toma de pantalla."
   relative: false
+draft: true
 categories: 
   - "actualidad"
   - "elecciones"

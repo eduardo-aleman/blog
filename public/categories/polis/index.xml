@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Polis on Blog de Eduardo Alemán</title>
-    <link>http://localhost:60495/categories/polis/</link>
+    <link>http://localhost:1313/categories/polis/</link>
     <description>Recent content in Polis on Blog de Eduardo Alemán</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>es-es</language>
     <lastBuildDate>Fri, 12 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:60495/categories/polis/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/polis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>La Polis: Una introducción a la antigua ciudad-estado griega (Herman Hansen De Mogen).</title>
-      <link>http://localhost:60495/entradas/la-polis-hansen/</link>
+      <link>http://localhost:1313/entradas/la-polis-hansen/</link>
       <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60495/entradas/la-polis-hansen/</guid>
+      <guid>http://localhost:1313/entradas/la-polis-hansen/</guid>
       <description>Hansen, Mogens Herman, Polis: An Introduction to the Ancient Greek City-State, 2006, Introducción, Capítulo 1. Traducción en español de Eduardo Alemán.
 Para John Crook Este libro es una versión ampliada y revisada de mi libro en danés: Polis: den oldgræsk bystatskultur (Copenhague, 2004). Cuando se publicó, envié copias a colegas y amigos, incluido, por supuesto, John Crook. Le gustó y se ofreció a producir una versión en inglés. Ofrecida la oportunidad, acepté la propuesta con gratitud; recuerdo los momentos felices que pasamos juntos en el invierno y la primavera de 1990 trabajando en la traducción de La democracia ateniense en la época de Demóstenes.</description>
     </item>

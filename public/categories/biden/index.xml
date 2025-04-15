@@ -2,41 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Biden on Blog de Eduardo Alemán</title>
-    <link>http://localhost:60495/categories/biden/</link>
+    <link>http://localhost:1313/categories/biden/</link>
     <description>Recent content in Biden on Blog de Eduardo Alemán</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>es-es</language>
     <lastBuildDate>Sun, 21 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:60495/categories/biden/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/biden/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Presidente Biden anuncia que no buscará un segundo término</title>
-      <link>http://localhost:60495/entradas/biden-renuncia-nominaci%C3%B3n/</link>
+      <link>http://localhost:1313/entradas/biden-renuncia-nominaci%C3%B3n/</link>
       <pubDate>Sun, 21 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60495/entradas/biden-renuncia-nominaci%C3%B3n/</guid>
+      <guid>http://localhost:1313/entradas/biden-renuncia-nominaci%C3%B3n/</guid>
       <description>El presidente Biden acaba de renunciar a la nominación como candidato presidencial en la próximas elecciones.
 Biden apoya la candidatura de Kamala Harris para la presidencia &amp;ldquo;Compañeros demócratas, he decidido no aceptar la nominación y centrar todas mis energías en mis deberes como Presidente durante el resto de mi mandato. Mi primera decisión como candidato del partido en 2020 fue elegir a Kamala Harris como mi vicepresidente. Y ha sido la mejor decisión que he tomado.</description>
     </item>
     <item>
-      <title>El discurso de Trump en la Convención Nacional Republicana</title>
-      <link>http://localhost:60495/entradas/convenci%C3%B3n-republicana/</link>
-      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60495/entradas/convenci%C3%B3n-republicana/</guid>
-      <description>Nunca me han gustado los discursos. Eso viene de mi niñez en Cuba. Entonces los discursos de Fidel Castro aparecían en la televisión y podían durar dos y tres horas. Eran los años 80 del siglo pasado y en un hogar común, o al menos en mi casa, había solo un televisor. El país completo tenía dos canales nacionales. Ambos cubrían en su totalidad cada paso y cada discurso del Comandante.</description>
-    </item>
-    <item>
       <title>Intento de asesinato contra Donald Trump</title>
-      <link>http://localhost:60495/entradas/atentado/</link>
+      <link>http://localhost:1313/entradas/atentado/</link>
       <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60495/entradas/atentado/</guid>
+      <guid>http://localhost:1313/entradas/atentado/</guid>
       <description>El atentado contra Donald Trump es otra indicación seria de las profundas heridas en la sociedad norteamericana actual. Heridas que además se ensanchan con este intento de asesinato.
 Los hechos El día de ayer, 13 de julio, Thomas Matthew Crooks, de 20 años, se situó en la azotea de un edificio apenas 140 metros de distancia del lugar donde el expresidente Donald Trump se dirigía a un público de presuntos admiradores y futuros electores.</description>
-    </item>
-    <item>
-      <title>Acerca del debate presidencial</title>
-      <link>http://localhost:60495/entradas/debate-presidencial/</link>
-      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60495/entradas/debate-presidencial/</guid>
-      <description>El patético debate presidencial de ayer, 27 de junio, demostró lo que ya se sabía: el expresidente Trump, criminal convicto, es un mentiroso patológico, mientras que, el presidente Biden, un anciano desmadejado, ya no está en disposición de entablar un debate, menos aún de dirigir el país. Los votantes se preguntan, ¿cómo hemos llegado hasta aquí? Sin respuesta, o se continúa la elongación de un fenómeno ya común en la política estadounidense, el tribalismo económico y racial, o se incrementa la enajenación, o se desemboca en la desesperación y la violencia.</description>
     </item>
   </channel>
 </rss>
