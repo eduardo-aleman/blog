@@ -6,6 +6,7 @@ cover:
   alt: "Presidente de los Estados Unidos, Joe Biden."
   caption: "Presidente de los Estados Unidos, Joe Biden."
   relative: false
+draft: true
 categories: 
   - "actualidad"
   - "elecciones"

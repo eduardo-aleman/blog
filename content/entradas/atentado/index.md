@@ -6,6 +6,7 @@ cover:
   alt: "Trump aparece sangrando por la oreja derecha y está siendo evacuado por un equipo de seguridad."
   caption: "Trump aparece sangrando por la oreja derecha y está siendo evacuado por un equipo de seguridad. Toma de pantalla."
   relative: false
+draft: true
 categories: 
   - "actualidad"
   - "elecciones"
