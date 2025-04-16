@@ -10,9 +10,9 @@ categories:
 - estrellas variables
 - periodo-luminosidad
 cover:
-  image: periodo_luminosidad_cepheid.webp
-  alt: Gráfico de la relación Periodo–Luminosidad
-  caption: Relación entre el periodo de pulsación y la luminosidad de estrellas Cefeidas clásicas.
+  image: leavitt.webp
+  alt: Retrato de Henrietta Swan Leavitt
+  caption: Henrietta Swan Leavitt.
 summary: 'Descubre cómo Henrietta Swan Leavitt transformó la astronomía al encontrar
   una relación entre el brillo y el periodo de las estrellas Cefeidas, clave para
   medir distancias cósmicas.'
