@@ -1,5 +1,5 @@
 ---
-title: La Relación Periodo–Luminosidad en Estrellas Cefeidas
+title: La relación periodo–luminosidad en estrellas Cefeidas
 date: 2025-04-15
 categories:
 - astronomía
