@@ -1,6 +1,6 @@
 ---
 title: La identidad de Euler
-date: 2022-06-14
+date: 2025-04-10
 categories: [matemáticas, historia de la ciencia, ensayos]
 description: Un recorrido por la célebre identidad de Euler, sus orígenes en el interés compuesto, su relación con el número e y su belleza en el contexto de las funciones trigonométricas y los números complejos.
 cover:

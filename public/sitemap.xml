@@ -47,6 +47,15 @@
     <loc>http://localhost:1313/categories/mec%C3%A1nica-cu%C3%A1ntica/</loc>
     <lastmod>2025-04-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/categories/ensayos/</loc>
+    <lastmod>2025-04-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/entradas/identidad-de-euler/</loc>
+    <lastmod>2025-04-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/matem%C3%A1ticas/</loc>
+    <lastmod>2025-04-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/entradas/el-pensar-del-ser-en-heidegger/</loc>
     <lastmod>2025-03-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -292,15 +301,6 @@
   </url><url>
     <loc>http://localhost:1313/entradas/diccionario/acusativo/</loc>
     <lastmod>2024-01-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/ensayos/</loc>
-    <lastmod>2022-06-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/entradas/identidad-de-euler/</loc>
-    <lastmod>2022-06-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/matem%C3%A1ticas/</loc>
-    <lastmod>2022-06-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archivos/</loc>
   </url><url>
