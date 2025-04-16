@@ -442,5 +442,19 @@
       <guid>http://localhost:1313/categories/papiros/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Ensayos</title>
+      <link>http://localhost:1313/categories/ensayos/</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/ensayos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Matemáticas</title>
+      <link>http://localhost:1313/categories/matem%C3%A1ticas/</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/matem%C3%A1ticas/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
