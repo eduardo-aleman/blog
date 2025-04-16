@@ -1,21 +1,22 @@
 ---
-title: "La Polis: Una introducción a la antigua ciudad-estado griega (Herman Hansen De Mogen)."
-date: "2024-07-12"
+title: 'La Polis: Una introducción a la antigua ciudad-estado griega (Herman Hansen
+  De Mogen).'
+date: '2024-07-12'
 cover:
-  image: "Hefestión.webp"
-  # can also paste direct link from external site
-  # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
-  alt: "El Hefestión visto desde el ágora en Atenas, Grecia. Foto de Eduardo Alemán."
-  caption: "El Hefestión visto desde el ágora en Atenas, Grecia. Foto de Eduardo Alemán."
-  relative: false # To use relative path for cover image, used in hugo Page-bundles
-categories: 
-  - "antigüedad"
-  - "grecia"
-  - "polis"
-  - "ciudad-estado"
-  - "cultura de ciudad-estado"
-  - "herman hansen de mogen"
-  - "traducción"
+  image: Hefestión.webp
+  alt: El Hefestión visto desde el ágora en Atenas, Grecia. Foto de Eduardo Alemán.
+  caption: El Hefestión visto desde el ágora en Atenas, Grecia. Foto de Eduardo Alemán.
+  relative: false
+categories:
+- antigüedad
+- grecia
+- polis
+- ciudad-estado
+- cultura de ciudad-estado
+- herman hansen de mogen
+- traducción
+description: 'Hansen, Mogens Herman, [_Polis: An Introduction to the Ancient Greek
+  City-State_](https://amzn.'
 ---
 
 Hansen, Mogens Herman, [_Polis: An Introduction to the Ancient Greek City-State_](https://amzn.to/3zHpZqA), 2006, Introducción, Capítulo 1. Traducción en español de Eduardo Alemán.

@@ -1,8 +1,10 @@
 ---
-title: "Ablativo"
-date: "2024-01-12"
-categories: 
-  - "diccionario"
+title: Ablativo
+date: '2024-01-12'
+categories:
+- diccionario
+description: El ablativo es un caso gramatical presente en varios idiomas antiguos
+  y algunos modernos, como el latín, el sánscrito, y el ruso, aunque con diferentes
 ---
 
 El ablativo es un caso gramatical presente en varios idiomas antiguos y algunos modernos, como el latín, el sánscrito, y el ruso, aunque con diferentes funciones y usos específicos en cada lengua.

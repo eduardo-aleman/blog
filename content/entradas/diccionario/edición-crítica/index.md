@@ -1,8 +1,10 @@
 ---
-title: "Edición crítica"
-date: "2024-03-27"
-categories: 
-  - "diccionario"
+title: Edición crítica
+date: '2024-03-27'
+categories:
+- diccionario
+description: Una edición crítica es un trabajo académico que busca establecer una
+  versión lo más cercana posible al texto original o a la intención del autor.
 ---
 
 Una edición crítica es un trabajo académico que busca establecer una versión lo más cercana posible al texto original o a la intención del autor. Este proceso implica una cuidadosa investigación y análisis de diferentes fuentes y variantes del texto. Los editores críticos trabajan con manuscritos, impresiones antiguas, y otras ediciones relevantes, comparándolos y contrastándolos para identificar errores, omisiones o interpolaciones introducidas a lo largo del tiempo.

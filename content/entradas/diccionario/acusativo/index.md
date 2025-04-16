@@ -1,8 +1,11 @@
 ---
-title: "Acusativo"
-date: "2024-01-08"
-categories: 
-  - "diccionario"
+title: Acusativo
+date: '2024-01-08'
+categories:
+- diccionario
+description: '### Caso Acusativo en Latín En latín, el caso acusativo tiene varias
+  funciones importantes: **Objeto Directo**: Marca el objeto directo de la acción
+  del verbo.'
 ---
 
 ### Caso Acusativo en Latín

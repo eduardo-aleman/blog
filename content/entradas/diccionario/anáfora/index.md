@@ -1,8 +1,10 @@
 ---
-title: "Anáfora"
-date: "2024-03-02"
-categories: 
-  - "diccionario"
+title: Anáfora
+date: '2024-03-02'
+categories:
+- diccionario
+description: La **anáfora** es una figura retórica que consiste en la repetición deliberada
+  de una palabra o frase al comienzo de varias cláusulas, oraciones o versos
 ---
 
 La **anáfora** es una figura retórica que consiste en la repetición deliberada de una palabra o frase al comienzo de varias cláusulas, oraciones o versos consecutivos. Esta repetición tiene el efecto de enfatizar una idea, crear un ritmo o resaltar una emoción. La anáfora es una herramienta poderosa en la poesía, la prosa y los discursos para captar la atención del lector o del oyente y para subrayar un tema o un sentimiento específico.

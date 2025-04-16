@@ -1,13 +1,27 @@
 ---
-title: "De Platón a Penrose: una historia intelectual del alma y la consciencia"
+title: 'De Platón a Penrose: una historia intelectual del alma y la consciencia'
 date: 2025-03-15
-categories: [filosofía, historia de las ideas, mente, consciencia, platón, aristóteles, cristianismo, tomás de aquino, penrose, alma]
-summary: "Desde la psychē platónica hasta la teoría cuántica de Penrose, este ensayo traza una historia intelectual de la noción de alma y su vínculo con las teorías modernas de la consciencia."
+categories:
+- filosofía
+- historia de las ideas
+- mente
+- consciencia
+- platón
+- aristóteles
+- cristianismo
+- tomás de aquino
+- penrose
+- alma
+summary: Desde la psychē platónica hasta la teoría cuántica de Penrose, este ensayo
+  traza una historia intelectual de la noción de alma y su vínculo con las teorías
+  modernas de la consciencia.
 draft: false
 cover:
-  image: "platon_penrose.webp" 
-  alt: "De Platón a Penrose: una historia intelectual del alma y la consciencia"
+  image: platon_penrose.webp
+  alt: 'De Platón a Penrose: una historia intelectual del alma y la consciencia'
   relative: false
+description: '**De Platón a Penrose: una historia intelectual del alma y la consciencia**
+  La historia de la filosofía es, en buena medida, una meditación continua sobre la'
 ---
 
 **De Platón a Penrose: una historia intelectual del alma y la consciencia**
@@ -47,4 +61,4 @@ Desde Platón hasta Penrose, la historia del alma y de la consciencia ha oscilad
 - Hameroff, Stuart, y Roger Penrose. “Orchestrated Reduction of Quantum Coherence in Brain Microtubules: A Model for Consciousness.” *Mathematics and Computers in Simulation*, vol. 40, no. 3–4, 1996, pp. 453–480.  
 - Penrose, Roger. *The Emperor’s New Mind: Concerning Computers, Minds and the Laws of Physics*. Oxford University Press, 1989.  
 - Platón. *Fedón*, *Fedro*, *La República*. En *Diálogos*, trad. Carlos García Gual, Gredos, 1992.  
-- Tomás de Aquino. *Suma Teológica*. BAC, 1952.  
+- Tomás de Aquino. *Suma Teológica*. BAC, 1952.

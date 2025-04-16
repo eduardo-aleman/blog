@@ -1,20 +1,24 @@
 ---
-title: "Intento de asesinato contra Donald Trump"
-date: "2024-07-14"
+title: Intento de asesinato contra Donald Trump
+date: '2024-07-14'
 cover:
-  image: "Trump_atentado.webp" 
-  alt: "Trump aparece sangrando por la oreja derecha y está siendo evacuado por un equipo de seguridad."
-  caption: "Trump aparece sangrando por la oreja derecha y está siendo evacuado por un equipo de seguridad. Toma de pantalla."
+  image: Trump_atentado.webp
+  alt: Trump aparece sangrando por la oreja derecha y está siendo evacuado por un
+    equipo de seguridad.
+  caption: Trump aparece sangrando por la oreja derecha y está siendo evacuado por
+    un equipo de seguridad. Toma de pantalla.
   relative: false
 draft: true
-categories: 
-  - "actualidad"
-  - "elecciones"
-  - "trump"
-  - "biden"
-  - "política"
-  - "ee uu"
-  - "atentado"
+categories:
+- actualidad
+- elecciones
+- trump
+- biden
+- política
+- ee uu
+- atentado
+description: El atentado contra Donald Trump es otra indicación seria de las profundas
+  heridas en la sociedad norteamericana actual.
 ---
 
 El atentado contra Donald Trump es otra indicación seria de las profundas heridas en la sociedad norteamericana actual. Heridas que además se ensanchan con este intento de asesinato.

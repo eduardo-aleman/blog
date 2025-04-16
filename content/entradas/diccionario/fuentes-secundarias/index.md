@@ -1,8 +1,10 @@
 ---
-title: "Fuentes secundarias"
-date: "2024-01-25"
-categories: 
-  - "diccionario"
+title: Fuentes secundarias
+date: '2024-01-25'
+categories:
+- diccionario
+description: En el vasto panorama de la investigación académica, las fuentes secundarias
+  juegan un papel fundamental al proporcionar análisis, interpretaciones y contextos
 ---
 
 En el vasto panorama de la investigación académica, las fuentes secundarias juegan un papel fundamental al proporcionar análisis, interpretaciones y contextos que enriquecen nuestro entendimiento sobre diversos temas. Estas fuentes son pilares esenciales para cualquier estudio riguroso y sistemático, ofreciendo una perspectiva crítica y reflexiva sobre la información que se obtiene de otras fuentes primarias.

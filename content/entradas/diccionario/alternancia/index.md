@@ -1,8 +1,10 @@
 ---
-title: "Alternancia"
-date: "2024-02-06"
-categories: 
-  - "diccionario"
+title: Alternancia
+date: '2024-02-06'
+categories:
+- diccionario
+description: En lingüística, la **alternancia** se refiere a la variación sistemática
+  de una unidad lingüística en diferentes contextos.
 ---
 
 En lingüística, la **alternancia** se refiere a la variación sistemática de una unidad lingüística en diferentes contextos. Esta variación puede ocurrir a nivel fonológico, morfológico, sintáctico o pragmático. Aquí se presentan algunas formas clave de alternancia en el ámbito de la lingüística:

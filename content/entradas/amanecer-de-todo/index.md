@@ -1,19 +1,24 @@
 ---
-title: "Notas acerca del libro “El amanecer de todo: Una nueva historia de la humanidad” de David Graeber y David Wengrow."
-date: "2024-07-25"
+title: 'Notas acerca del libro “El amanecer de todo: Una nueva historia de la humanidad”
+  de David Graeber y David Wengrow.'
+date: '2024-07-25'
 cover:
-  image: "the_dawn_of_everything.webp" 
-  alt: "Portada de El amanecer de todo: Una nueva historia de la humanidad."
-  caption: "Portada de la primera edición en inglés de El amanecer de todo: Una nueva historia de la humanidad."
+  image: the_dawn_of_everything.webp
+  alt: 'Portada de El amanecer de todo: Una nueva historia de la humanidad.'
+  caption: 'Portada de la primera edición en inglés de El amanecer de todo: Una nueva
+    historia de la humanidad.'
   relative: false
-categories: 
-  - "david graeber"
-  - "david wengrow"
-  - "antropología"
-  - "arquelogía"
-  - "prehistoria"
-  - "historia"
-  - "anarquismo"
+categories:
+- david graeber
+- david wengrow
+- antropología
+- arquelogía
+- prehistoria
+- historia
+- anarquismo
+description: '### Resumen La idea central de “El amanecer de todo” es que la especie
+  humana ha estado experimentando con diferentes formas de organizar la sociedad desde
+  un'
 ---
 
 ### Resumen

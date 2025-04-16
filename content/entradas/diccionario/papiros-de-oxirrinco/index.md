@@ -1,11 +1,12 @@
 ---
-title: "Papiros de Oxirrinco"
-date: "2024-03-04"
-categories: 
-  - "antigüedad"
-  - "grecia"
-  - "papiros"
-  - "oxirrinco"
+title: Papiros de Oxirrinco
+date: '2024-03-04'
+categories:
+- antigüedad
+- grecia
+- papiros
+- oxirrinco
+description: <figure> ![](images/POxy.v0015.n1809.a.01.
 ---
 
 <figure>

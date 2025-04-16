@@ -1,18 +1,23 @@
 ---
-title: "Procopio y el siglo sexto (Averil Cameron)"
-date: "2024-04-16"
+title: Procopio y el siglo sexto (Averil Cameron)
+date: '2024-04-16'
 cover:
-  image: "Portada_Henry_Holcroft_Procopio.webp" 
-  alt: "Portada del libro de Procopio de Cesarea, 'La historia de las guerras del emperador Justiniano'. Traducida al inglés por Henry Holcroft (1653)."
-  caption: "Portada del libro de Procopio de Cesarea, 'La historia de las guerras del emperador Justiniano'. Traducida al inglés por Henry Holcroft (1653). © The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) licence."
+  image: Portada_Henry_Holcroft_Procopio.webp
+  alt: Portada del libro de Procopio de Cesarea, 'La historia de las guerras del emperador
+    Justiniano'. Traducida al inglés por Henry Holcroft (1653).
+  caption: Portada del libro de Procopio de Cesarea, 'La historia de las guerras del
+    emperador Justiniano'. Traducida al inglés por Henry Holcroft (1653). © The Trustees
+    of the British Museum. Shared under a Creative Commons Attribution-NonCommercial-ShareAlike
+    4.0 International (CC BY-NC-SA 4.0) licence.
   relative: false
-categories: 
-  - "medioevo"
-  - "constantinopla"
-  - "emperadores"
-  - "justiniano"
-  - "procopio"
-  - "roma"
+categories:
+- medioevo
+- constantinopla
+- emperadores
+- justiniano
+- procopio
+- roma
+description: Cameron, Averil, [Procopius and the Sixth Century](https://amzn.
 ---
 
 Cameron, Averil, [Procopius and the Sixth Century](https://amzn.to/3VKS2wL), 1996, Capítulo 1. Traducción en español de Eduardo Alemán.

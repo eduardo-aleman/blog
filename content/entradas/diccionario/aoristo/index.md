@@ -1,8 +1,10 @@
 ---
-title: "Aoristo"
-date: "2024-02-08"
-categories: 
-  - "diccionario"
+title: Aoristo
+date: '2024-02-08'
+categories:
+- diccionario
+description: El **aoristo** es un tiempo verbal en griego antiguo que expresa acciones
+  puntuales, completadas o simples sin especificar si la acción fue prolongada o
 ---
 
 El **aoristo** es un tiempo verbal en griego antiguo que expresa acciones puntuales, completadas o simples sin especificar si la acción fue prolongada o repetitiva. Es uno de los tiempos verbales más importantes en el griego antiguo y tiene varios aspectos que son fundamentales para comprender su uso y conjugación.

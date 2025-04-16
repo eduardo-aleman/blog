@@ -1,17 +1,20 @@
 ---
-title: "El último emperador pagano (H. C. Teitler)"
-date: "2024-04-16"
+title: El último emperador pagano (H. C. Teitler)
+date: '2024-04-16'
 cover:
-  image: "Juliano_Sólido_Bizantino.webp" 
-  alt: "Juliano, sólido bizantino."
-  caption: "Juliano, sólido bizantino, Classical Numismatic Group, Inc., CC BY-SA 2.5, a través de Wikimedia Commons."
+  image: Juliano_Sólido_Bizantino.webp
+  alt: Juliano, sólido bizantino.
+  caption: Juliano, sólido bizantino, Classical Numismatic Group, Inc., CC BY-SA 2.5,
+    a través de Wikimedia Commons.
   relative: false
-categories: 
-  - "antigüedad"
-  - "emperadores"
-  - "juliano"
-  - "roma"
-  - "h c teitler"
+categories:
+- antigüedad
+- emperadores
+- juliano
+- roma
+- h c teitler
+description: 'Teitler, H. C., [The Last Pagan Emperor: Julian the Apostate and the
+  War against Christianity](https://amzn.'
 ---
 
 Teitler, H. C., [The Last Pagan Emperor: Julian the Apostate and the War against Christianity](https://amzn.to/3KnMMJU), 2017, Introducción. Traducción en español de Eduardo Alemán. Fragmento.

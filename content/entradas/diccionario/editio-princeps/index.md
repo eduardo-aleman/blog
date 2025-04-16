@@ -1,8 +1,10 @@
 ---
-title: "Editio princeps"
-date: "2024-03-12"
-categories: 
-  - "diccionario"
+title: Editio princeps
+date: '2024-03-12'
+categories:
+- diccionario
+description: Las ediciones príncipe, también conocidas como _editio princeps_, son
+  las primeras ediciones impresas de un texto, especialmente de obras de la antigüedad
 ---
 
 Las ediciones príncipe, también conocidas como _editio princeps_, son las primeras ediciones impresas de un texto, especialmente de obras de la antigüedad clásica, medievales o renacentistas. Estas ediciones tienen un valor histórico, cultural y bibliográfico significativo porque representan el primer paso de la transición de los manuscritos a la imprenta, marcando un hito en la historia de la literatura y la transmisión del conocimiento.

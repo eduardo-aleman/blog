@@ -1,8 +1,11 @@
 ---
-title: "Aliteración"
-date: "2024-01-28"
-categories: 
-  - "diccionario"
+title: Aliteración
+date: '2024-01-28'
+categories:
+- diccionario
+description: La **aliteración** es una figura retórica que consiste en la repetición
+  de sonidos similares, especialmente consonánticos, en un verso o una frase para
+  crear un
 ---
 
 La **aliteración** es una figura retórica que consiste en la repetición de sonidos similares, especialmente consonánticos, en un verso o una frase para crear un efecto musical o enfatizar un significado. Se usa ampliamente en la poesía y la prosa para añadir ritmo, cohesión y un sentido de unidad sonora.

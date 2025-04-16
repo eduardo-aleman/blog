@@ -1,10 +1,11 @@
 ---
-title: "Legiones romanas"
-date: "2024-01-26"
-categories: 
-  - "antigüedad"
-  - "diccionario"
-  - "roma"
+title: Legiones romanas
+date: '2024-01-26'
+categories:
+- antigüedad
+- diccionario
+- roma
+description: '[![Roman-legions-14-AD-Centrici-site-Keilo-Jack](https://upload.'
 ---
 
 [![Roman-legions-14-AD-Centrici-site-Keilo-Jack](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Roman-legions-14-AD-Centrici-site-Keilo-Jack.jpg/2048px-Roman-legions-14-AD-Centrici-site-Keilo-Jack.jpg?20140623083449)](https://commons.wikimedia.org/wiki/File:Roman-legions-14-AD-Centrici-site-Keilo-Jack.jpg "Jack Keilo, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons")

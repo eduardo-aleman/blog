@@ -1,19 +1,21 @@
 ---
-title: "Acerca del debate presidencial"
-date: "2024-06-28"
+title: Acerca del debate presidencial
+date: '2024-06-28'
 cover:
-  image: "joe_biden_president.webp" 
-  alt: "Presidente de los Estados Unidos, Joe Biden."
-  caption: "Presidente de los Estados Unidos, Joe Biden."
+  image: joe_biden_president.webp
+  alt: Presidente de los Estados Unidos, Joe Biden.
+  caption: Presidente de los Estados Unidos, Joe Biden.
   relative: false
 draft: true
-categories: 
-  - "actualidad"
-  - "elecciones"
-  - "trump"
-  - "biden"
-  - "política"
-  - "ee uu"
+categories:
+- actualidad
+- elecciones
+- trump
+- biden
+- política
+- ee uu
+description: 'El patético debate presidencial de ayer, 27 de junio, demostró lo que
+  ya se sabía: el expresidente Trump, criminal convicto, es un mentiroso patológico,'
 ---
 
 El patético debate presidencial de ayer, 27 de junio, demostró lo que ya se sabía: el expresidente  Trump, criminal convicto, es un mentiroso patológico, mientras que, el presidente Biden, un anciano desmadejado, ya no está en disposición de entablar un debate, menos aún de dirigir el país. Los votantes se preguntan, ¿cómo hemos llegado hasta aquí? Sin respuesta, o se continúa la elongación de un fenómeno ya común en la política estadounidense, el tribalismo económico y racial, o se incrementa la enajenación, o se desemboca en la desesperación y la violencia. En el mejor de los casos, se reconstituye la tercera vía, prudente o radical, pero separada por completo del binomio republicano-demócrata. Esta última opción, popular entre los más jóvenes, es tan obvia como vilificada en la actualidad por todos los medios de comunicación con mayor audiencia en los EE UU.
@@ -142,21 +144,3 @@ Biden: "159, o 58, no saben un número exacto, historiadores presidenciales, tuv
 Trump, sobre las protestas en Minneapolis tras el asesinato de George Floyd: "Si no hubiera traído a la Guardia Nacional, esa ciudad habría sido destruida”.
 
 Mentira: "Trump no llamó a la Guardia Nacional a Minneapolis durante los disturbios que siguieron a la muerte de George Floyd. El gobernador de Minnesota, Tim Walz, desplegó la Guardia Nacional en la ciudad.”
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  

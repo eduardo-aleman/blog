@@ -1,14 +1,17 @@
 ---
-title: "F. R. D. Goodyear, Obituario (Henry D. Jocelyn)"
-date: "2024-04-13"
+title: F. R. D. Goodyear, Obituario (Henry D. Jocelyn)
+date: '2024-04-13'
 cover:
-  image: "Goodyear_Tacitus.webp" 
-  alt: "Portada del libro de F. R. D. Goodyear, 'Tacitus. (Greece and Rome, New Surveys in the Classics, 4.)', Oxford: Clarendon Press, 1970."
-  caption: "Portada del libro de F. R. D. Goodyear, 'Tacitus. (Greece and Rome, New Surveys in the Classics, 4.)', Oxford: Clarendon Press, 1970."
+  image: Goodyear_Tacitus.webp
+  alt: 'Portada del libro de F. R. D. Goodyear, ''Tacitus. (Greece and Rome, New Surveys
+    in the Classics, 4.)'', Oxford: Clarendon Press, 1970.'
+  caption: 'Portada del libro de F. R. D. Goodyear, ''Tacitus. (Greece and Rome, New
+    Surveys in the Classics, 4.)'', Oxford: Clarendon Press, 1970.'
   relative: false
 categories:
-  - "f r d goodyear"
-  - "traducción"
+- f r d goodyear
+- traducción
+description: Jocelyn, H. D., _F. R. D. Goodyear_, 1988.
 ---
 
 Jocelyn, H. D., _F. R. D. Goodyear_, 1988. Traducción en español de Eduardo Alemán.
@@ -48,4 +51,3 @@ Nota del traductor:
 Léxico griego de Thayer: **σεμνότης** σεμνότης, σεμνητος, ἡ (σεμνός), esa característica de una persona o cosa que da derecho a reverencia o respeto, dignidad, gravedad, majestad, santidad: ἡ τοῦ ἱεροῦ σεμνότης, 2 Macc. 3:12; en sentido ético, gravedad (así R. V. uniformemente (cf. Trench, p. 347)), honor, probidad, pureza: 1 Timoteo 2:2; 1 Timoteo 3:4; Tito 2:7. (Eurípides, Platón, Demóstenes, otros).
 
 Fuente: Jocelyn, H. D. “F. R. D. Goodyear.” Gnomon 60, no. 8 (1988): 763–65. http://www.jstor.org/stable/27690051.
-

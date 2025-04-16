@@ -1,8 +1,10 @@
 ---
-title: "Códices"
-date: "2024-03-05"
-categories: 
-  - "diccionario"
+title: Códices
+date: '2024-03-05'
+categories:
+- diccionario
+description: Los códices son manuscritos antiguos que se caracterizan por estar escritos
+  en forma de libro, es decir, con páginas unidas por un lado.
 ---
 
 Los códices son manuscritos antiguos que se caracterizan por estar escritos en forma de libro, es decir, con páginas unidas por un lado. A diferencia de los rollos, que eran comunes en las culturas antiguas, los códices permiten una lectura más fácil y un acceso más rápido a diferentes partes del texto.

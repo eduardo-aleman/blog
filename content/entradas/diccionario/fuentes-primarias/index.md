@@ -1,8 +1,10 @@
 ---
-title: "Fuentes primarias"
-date: "2024-03-16"
-categories: 
-  - "diccionario"
+title: Fuentes primarias
+date: '2024-03-16'
+categories:
+- diccionario
+description: Las fuentes primarias son materiales originales que proporcionan información
+  directa o evidencia sobre un tema en particular.
 ---
 
 Las fuentes primarias son materiales originales que proporcionan información directa o evidencia sobre un tema en particular. Son creadas por testigos o participantes directos en los eventos o condiciones que se estudian. Estas fuentes no han sido filtradas, interpretadas o evaluadas por otros, lo que las distingue de las fuentes secundarias y terciarias.

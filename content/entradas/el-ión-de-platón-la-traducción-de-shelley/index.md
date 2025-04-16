@@ -1,18 +1,24 @@
 ---
-title: "El Ión de Platón: La traducción de Shelley (John Lauritsen)"
-date: "2024-06-16"
+title: 'El Ión de Platón: La traducción de Shelley (John Lauritsen)'
+date: '2024-06-16'
 cover:
-  image: "John_Lauritsen_1969.webp"
-  alt: "John Lauritsen: uno de los miembros más antiguos del Frente de Liberación Gay y coautor del libro 'El primer movimiento por los derechos de los homosexuales: (1864-1935)'."
-  caption: "John Lauritsen: uno de los miembros más antiguos del Frente de Liberación Gay y coautor del libro 'El primer movimiento por los derechos de los homosexuales: (1864-1935)'. Foto tomada de [LGBTQ History Project](https://www.lgbtqhp.org/post/john-lauritsen)."
+  image: John_Lauritsen_1969.webp
+  alt: 'John Lauritsen: uno de los miembros más antiguos del Frente de Liberación
+    Gay y coautor del libro ''El primer movimiento por los derechos de los homosexuales:
+    (1864-1935)''.'
+  caption: 'John Lauritsen: uno de los miembros más antiguos del Frente de Liberación
+    Gay y coautor del libro ''El primer movimiento por los derechos de los homosexuales:
+    (1864-1935)''. Foto tomada de [LGBTQ History Project](https://www.lgbtqhp.org/post/john-lauritsen).'
   relative: false
-categories: 
-  - "antigüedad"
-  - "grecia"
-  - "john lauritsen"
-  - "percy bysshe shelley"
-  - "platón"
-  - "traducción"
+categories:
+- antigüedad
+- grecia
+- john lauritsen
+- percy bysshe shelley
+- platón
+- traducción
+description: A continuación la traducción que he hecho del prefacio y las notas de
+  John Lauritsen en su edición del Ión de Platón traducido por Shelley.
 ---
 
 A continuación la traducción que he hecho del prefacio y las notas de John Lauritsen en su edición del Ión de Platón traducido por Shelley. He traducido además el diálogo tomando como base esta traducción de Shelley. Puedes encontrar mi traducción [aquí](https://docs.google.com/spreadsheets/d/e/2PACX-1vTqpCd0tBmvNoIRtVYB9va2Tb3v-884feECkHbTK64yG6ssh1mvH_WMok_cITCBiEV9b4Q44W5uLFA5/pubhtml?gid=0&single=true). La primera columna es en griego, la segunda es en inglés (la de Shelley), y la última es la mía en español.

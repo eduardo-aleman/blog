@@ -1,15 +1,21 @@
 ---
-title: "El número* cristiano y sus implicaciones (Keith Hopkins)"
-date: "2024-07-04"
+title: El número* cristiano y sus implicaciones (Keith Hopkins)
+date: '2024-07-04'
 cover:
-  image: "pescado_este_eucaristía_catacumba_siglo_iii.webp"
-  alt: "Pan y pez con formas eucarísticas, detalle del panel 27,1 de la Catacumba de San Calixto, Roma, siglo III."
-  caption: "Pan y pez con formas eucarísticas, detalle del panel 27,1 de la Catacumba de San Calixto, Roma, siglo III. Imagen extraída de la lámina 28 del libro de Joseph Wilpert, _Die Malereien der Katakomben Roms_. Freiburg i.Br., 1903. Lámina disponible en el sitio Heidelberger historische Bestände – digital."
+  image: pescado_este_eucaristía_catacumba_siglo_iii.webp
+  alt: Pan y pez con formas eucarísticas, detalle del panel 27,1 de la Catacumba de
+    San Calixto, Roma, siglo III.
+  caption: Pan y pez con formas eucarísticas, detalle del panel 27,1 de la Catacumba
+    de San Calixto, Roma, siglo III. Imagen extraída de la lámina 28 del libro de
+    Joseph Wilpert, _Die Malereien der Katakomben Roms_. Freiburg i.Br., 1903. Lámina
+    disponible en el sitio Heidelberger historische Bestände – digital.
   relative: false
 categories:
-  - "keith hopkins"
-  - "cristianismo primitivo"
-  - "traducción"
+- keith hopkins
+- cristianismo primitivo
+- traducción
+description: Hopkins, Keith. _El número cristiano y sus implicaciones_, [Sociological
+  Studies in Roman History (Cambridge Classical Studies)](https://amzn.
 ---
 
 Hopkins, Keith. _El número cristiano y sus implicaciones_, [Sociological Studies in Roman History (Cambridge Classical Studies)](https://amzn.to/4cnFDFU), 2023, Capítulo 12. Traducción en español de Eduardo Alemán.

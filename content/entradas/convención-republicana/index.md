@@ -1,19 +1,22 @@
 ---
-title: "El discurso de Trump en la Convención Nacional Republicana"
-date: "2024-07-19"
+title: El discurso de Trump en la Convención Nacional Republicana
+date: '2024-07-19'
 cover:
-  image: "trump_discurso_convención_republicana.webp" 
-  alt: "Donald Trump al comenzar el discurso de clausura de Convención Nacional Republicana. Toma de pantalla."
-  caption: "Donald Trump al comenzar el discurso de clausura de Convención Nacional Republicana. Toma de pantalla."
+  image: trump_discurso_convención_republicana.webp
+  alt: Donald Trump al comenzar el discurso de clausura de Convención Nacional Republicana.
+    Toma de pantalla.
+  caption: Donald Trump al comenzar el discurso de clausura de Convención Nacional
+    Republicana. Toma de pantalla.
   relative: false
 draft: true
-categories: 
-  - "actualidad"
-  - "elecciones"
-  - "trump"
-  - "biden"
-  - "política"
-  - "ee uu"
+categories:
+- actualidad
+- elecciones
+- trump
+- biden
+- política
+- ee uu
+description: Nunca me han gustado los discursos. Eso viene de mi niñez en Cuba.
 ---
 
 Nunca me han gustado los discursos. Eso viene de mi niñez en Cuba. Entonces los discursos de Fidel Castro aparecían en la televisión y podían durar dos y tres horas. Eran los años 80 del siglo pasado y en un hogar común, o al menos en mi casa, había solo un televisor. El país completo tenía dos canales nacionales. Ambos cubrían en su totalidad cada paso y cada discurso del Comandante. 
@@ -35,21 +38,3 @@ Al discurso lo precedió la tradicional estética roja y blanca republicana de l
 Orador tras orador elogió a Trump: “un héroe”, “un tipo duro”, “un campeón”, “un gladiador” y un “tipo rudo estadounidense”. El reverendo Franklin Graham pronunció: “El sábado pasado en Butler, Pensilvania, el presidente Trump tuvo una experiencia cercana a la muerte. No hay duda. Pero Dios le perdonó la vida”. 
 
 En fin, un embrollo, un _performance_ de mal gusto, un discurso bipolar patético y un hombre demasiado cruel, peligroso, ¡ahora mesiánico!, como para ser ignorado. Si con él no pueden los demócratas, no será la culpa de Trump, sino de ellos mismos.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  

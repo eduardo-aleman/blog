@@ -1,21 +1,24 @@
 ---
-title: "Historia de la guerra del Peloponeso. Libro 1 (Tucídides)."
-date: "2024-07-09"
+title: Historia de la guerra del Peloponeso. Libro 1 (Tucídides).
+date: '2024-07-09'
 cover:
-  image: "Espolón_de_Athlit.webp"
-  # can also paste direct link from external site
-  # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
-  alt: "El Espolón de Atlit, en exhibición en el Museo Marítimo Nacional de Israel, foto de Oren Rozen, via Wikimedia Commons."
-  caption: "El Espolón de Atlit, en exhibición en el Museo Marítimo Nacional de Israel, Oren Rozen, CC BY-SA 3.0, via Wikimedia Commons.*"
-  relative: false # To use relative path for cover image, used in hugo Page-bundles
-categories: 
-  - "antigüedad"
-  - "grecia"
-  - "guerra del peloponeso"
-  - "libro 1"
-  - "tucídides"
-  - "paul woodruff"
-  - "traducción"
+  image: Espolón_de_Athlit.webp
+  alt: El Espolón de Atlit, en exhibición en el Museo Marítimo Nacional de Israel,
+    foto de Oren Rozen, via Wikimedia Commons.
+  caption: El Espolón de Atlit, en exhibición en el Museo Marítimo Nacional de Israel,
+    Oren Rozen, CC BY-SA 3.0, via Wikimedia Commons.*
+  relative: false
+categories:
+- antigüedad
+- grecia
+- guerra del peloponeso
+- libro 1
+- tucídides
+- paul woodruff
+- traducción
+description: 'Woodruff, Paul., [_The Essential Thucydides: On Justice, Power, and
+  Human Nature: Selections from The History of the Peloponnesian War Second Edition,
+  Expanded'
 ---
 
 Woodruff, Paul., [_The Essential Thucydides: On Justice, Power, and Human Nature: Selections from The History of the Peloponnesian War Second Edition, Expanded and Revised_](https://amzn.to/3L8odRU), 2021, Libro 1. Traducción en español de Eduardo Alemán.

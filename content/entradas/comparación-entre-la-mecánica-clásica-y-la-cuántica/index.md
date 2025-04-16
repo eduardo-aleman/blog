@@ -1,15 +1,17 @@
 ---
-title: "Comparación entre la mecánica clásica y la cuántica"
-date: "2025-04-13"
+title: Comparación entre la mecánica clásica y la cuántica
+date: '2025-04-13'
 cover:
-  image: "cuantica.webp" 
-  alt: "Comparación entre la mecánica clásica y la cuántica."
+  image: cuantica.webp
+  alt: Comparación entre la mecánica clásica y la cuántica.
   relative: false
 draft: false
-categories: 
-- "física"
-- "mecánica cuántica"
-- "mecánica clásica"
+categories:
+- física
+- mecánica cuántica
+- mecánica clásica
+description: En el desarrollo de la física moderna, pocas transiciones han sido tan
+  revolucionarias como el paso de la **mecánica clásica** a la **mecánica cuántica**.
 ---
 
 En el desarrollo de la física moderna, pocas transiciones han sido tan revolucionarias como el paso de la **mecánica clásica** a la **mecánica cuántica**. A continuación, se presenta una tabla comparativa que resume sus diferencias fundamentales:
@@ -31,4 +33,3 @@ En el desarrollo de la física moderna, pocas transiciones han sido tan revoluci
 
 
 Esta comparación ilustra no solo diferencias técnicas, sino una visión radicalmente distinta de la realidad física. ¿Es el universo determinista o esencialmente probabilístico? ¿Somos observadores o partícipes en el comportamiento del mundo cuántico?
-

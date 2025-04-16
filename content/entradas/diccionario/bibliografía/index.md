@@ -1,8 +1,10 @@
 ---
-title: "Bibliografía"
-date: "2024-02-22"
-categories: 
-  - "diccionario"
+title: Bibliografía
+date: '2024-02-22'
+categories:
+- diccionario
+description: 'La bibliografía se clasifica generalmente en dos categorías: primaria
+  y secundaria.'
 ---
 
 La bibliografía se clasifica generalmente en dos categorías: primaria y secundaria. Ambas son esenciales en la investigación académica y tienen propósitos distintos. Aquí se detallan las diferencias clave entre ellas:

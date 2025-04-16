@@ -1,8 +1,10 @@
 ---
-title: "Palimpsesto"
-date: "2024-04-11"
-categories: 
-  - "diccionario"
+title: Palimpsesto
+date: '2024-04-11'
+categories:
+- diccionario
+description: Un palimpsesto es un manuscrito en el que el texto original ha sido borrado
+  o eliminado para que el material de escritura (generalmente pergamino, papiro o
 ---
 
 Un palimpsesto es un manuscrito en el que el texto original ha sido borrado o eliminado para que el material de escritura (generalmente pergamino, papiro o vitela) pueda ser reutilizado para escribir un nuevo texto. Esta práctica era común en la antigüedad y en la Edad Media debido a la escasez y al alto costo de los materiales de escritura. A pesar de los intentos de borrar el texto original, a menudo quedaban rastros que pueden ser recuperados y estudiados con técnicas modernas.
