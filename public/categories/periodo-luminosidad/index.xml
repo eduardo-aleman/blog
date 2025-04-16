@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/categories/periodo-luminosidad/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>La relación periodo–luminosidad en estrellas Cefeidas</title>
-      <link>http://localhost:1313/entradas/relaci%C3%B3n-periodoluminosidad/</link>
+      <link>http://localhost:1313/entradas/periodoluminosidad/</link>
       <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/relaci%C3%B3n-periodoluminosidad/</guid>
+      <guid>http://localhost:1313/entradas/periodoluminosidad/</guid>
       <description>La relación Periodo–Luminosidad, descubierta por Henrietta Swan Leavitt a inicios del siglo XX, describe cómo el periodo de pulsación de una estrella Cefeida...</description>
     </item>
   </channel>
