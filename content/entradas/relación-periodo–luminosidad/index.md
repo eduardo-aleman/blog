@@ -12,15 +12,11 @@ categories:
 cover:
   image: periodo_luminosidad_cepheid.webp
   alt: Gráfico de la relación Periodo–Luminosidad
-  caption: Relación entre el periodo de pulsación y la luminosidad de estrellas Cefeidas
-    clásicas.
+  caption: Relación entre el periodo de pulsación y la luminosidad de estrellas Cefeidas clásicas.
 summary: 'Descubre cómo Henrietta Swan Leavitt transformó la astronomía al encontrar
   una relación entre el brillo y el periodo de las estrellas Cefeidas, clave para
-  medir distancias cósmicas.
-
-  '
-description: La relación Periodo–Luminosidad, descubierta por **Henrietta Swan Leavitt**
-  a inicios del siglo XX, describe cómo el **periodo de pulsación** de una estrella
+  medir distancias cósmicas.'
+description: La relación Periodo–Luminosidad, descubierta por **Henrietta Swan Leavitt** a inicios del siglo XX, describe cómo el **periodo de pulsación** de una estrella
 ---
 
 La relación Periodo–Luminosidad, descubierta por **Henrietta Swan Leavitt** a inicios del siglo XX, describe cómo el **periodo de pulsación** de una estrella Cefeida está directamente relacionado con su **luminosidad intrínseca**. Esta ley es fundamental para determinar distancias en el universo, especialmente en otras galaxias.
