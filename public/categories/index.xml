@@ -79,6 +79,76 @@
       <description></description>
     </item>
     <item>
+      <title>Alma</title>
+      <link>http://localhost:1313/categories/alma/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/alma/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Aristóteles</title>
+      <link>http://localhost:1313/categories/arist%C3%B3teles/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/arist%C3%B3teles/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Consciencia</title>
+      <link>http://localhost:1313/categories/consciencia/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/consciencia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cristianismo</title>
+      <link>http://localhost:1313/categories/cristianismo/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/cristianismo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Filosofía</title>
+      <link>http://localhost:1313/categories/filosof%C3%ADa/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/filosof%C3%ADa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Historia De Las Ideas</title>
+      <link>http://localhost:1313/categories/historia-de-las-ideas/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/historia-de-las-ideas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mente</title>
+      <link>http://localhost:1313/categories/mente/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/mente/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Penrose</title>
+      <link>http://localhost:1313/categories/penrose/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/penrose/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Platón</title>
+      <link>http://localhost:1313/categories/plat%C3%B3n/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/plat%C3%B3n/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tomás De Aquino</title>
+      <link>http://localhost:1313/categories/tom%C3%A1s-de-aquino/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/tom%C3%A1s-de-aquino/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Anarquismo</title>
       <link>http://localhost:1313/categories/anarquismo/</link>
       <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
@@ -226,13 +296,6 @@
       <description></description>
     </item>
     <item>
-      <title>Platón</title>
-      <link>http://localhost:1313/categories/plat%C3%B3n/</link>
-      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/plat%C3%B3n/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>John Lauritsen</title>
       <link>http://localhost:1313/categories/john-lauritsen/</link>
       <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
@@ -265,13 +328,6 @@
       <link>http://localhost:1313/categories/medioevo/</link>
       <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/medioevo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tomás De Aquino</title>
-      <link>http://localhost:1313/categories/tom%C3%A1s-de-aquino/</link>
-      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/tom%C3%A1s-de-aquino/</guid>
       <description></description>
     </item>
     <item>
