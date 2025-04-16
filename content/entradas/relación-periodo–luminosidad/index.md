@@ -16,7 +16,7 @@ cover:
 summary: 'Descubre cómo Henrietta Swan Leavitt transformó la astronomía al encontrar
   una relación entre el brillo y el periodo de las estrellas Cefeidas, clave para
   medir distancias cósmicas.'
-description: La relación Periodo–Luminosidad, descubierta por **Henrietta Swan Leavitt** a inicios del siglo XX, describe cómo el **periodo de pulsación** de una estrella
+description: La relación Periodo–Luminosidad, descubierta por Henrietta Swan Leavitt a inicios del siglo XX, describe cómo el periodo de pulsación de una estrella Cefeida...
 ---
 
 La relación Periodo–Luminosidad, descubierta por **Henrietta Swan Leavitt** a inicios del siglo XX, describe cómo el **periodo de pulsación** de una estrella Cefeida está directamente relacionado con su **luminosidad intrínseca**. Esta ley es fundamental para determinar distancias en el universo, especialmente en otras galaxias.
