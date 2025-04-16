@@ -4,6 +4,10 @@ date: 2025-03-15
 categories: [filosofía, historia de las ideas, mente, consciencia, platón, aristóteles, cristianismo, tomás de aquino, penrose, alma]
 summary: "Desde la psychē platónica hasta la teoría cuántica de Penrose, este ensayo traza una historia intelectual de la noción de alma y su vínculo con las teorías modernas de la consciencia."
 draft: false
+cover:
+  image: "platon_penrose.webp" 
+  alt: "De Platón a Penrose: una historia intelectual del alma y la consciencia"
+  relative: false
 ---
 
 **De Platón a Penrose: una historia intelectual del alma y la consciencia**
