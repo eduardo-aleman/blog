@@ -138,7 +138,7 @@
     <div class="post-description">
       Un recorrido histórico desde Skolem hasta Kleene sobre las funciones primitivas recursivas, su definición formal y su importancia en la teoría de la computación.
     </div>
-    <div class="post-meta"><span title='2025-04-16 00:00:00 +0000 UTC'>abril 16, 2025</span>&nbsp;·&nbsp;2 min
+    <div class="post-meta"><span title='2025-04-16 00:00:00 +0000 UTC'>abril 16, 2025</span>&nbsp;·&nbsp;4 min
 
 </div>
   </header> 
@@ -161,7 +161,25 @@
                 <li>
                     <a href="#-formalizaci%c3%b3n-moderna-1936-1943---stephen-kleene" aria-label="🔄 Formalización moderna: 1936-1943 - Stephen Kleene">🔄 Formalización moderna: 1936-1943 - Stephen Kleene</a></li>
                 <li>
-                    <a href="#-l%c3%adnea-del-tiempo-visual" aria-label="📊 Línea del tiempo visual">📊 Línea del tiempo visual</a>
+                    <a href="#-l%c3%adnea-del-tiempo-visual" aria-label="📊 Línea del tiempo visual">📊 Línea del tiempo visual</a></li>
+                <li>
+                    <a href="#-las-3-funciones-primitivas-iniciales" aria-label="🧱 Las 3 funciones primitivas iniciales">🧱 Las 3 funciones primitivas iniciales</a></li>
+                <li>
+                    <a href="#-por-qu%c3%a9-son-las-reglas-m%c3%a1s-b%c3%a1sicas" aria-label="🧠 ¿Por qué son las “reglas más básicas”?">🧠 ¿Por qué son las “reglas más básicas”?</a><ul>
+                        
+                <li>
+                    <a href="#1-cero-el-comienzo-absoluto" aria-label="1. Cero: el comienzo absoluto">1. Cero: el comienzo absoluto</a></li>
+                <li>
+                    <a href="#2-sucesora-el-paso-m%c3%adnimo" aria-label="2. Sucesora: el paso mínimo">2. Sucesora: el paso mínimo</a></li>
+                <li>
+                    <a href="#3-proyecci%c3%b3n-elegir-lo-que-importa" aria-label="3. Proyección: elegir lo que importa">3. Proyección: elegir lo que importa</a></li></ul>
+                </li>
+                <li>
+                    <a href="#-qu%c3%a9-podemos-construir-a-partir-de-estas-tres" aria-label="🔄 ¿Qué podemos construir a partir de estas tres?">🔄 ¿Qué podemos construir a partir de estas tres?</a></li>
+                <li>
+                    <a href="#-analog%c3%ada" aria-label="🧠 Analogía">🧠 Analogía</a></li>
+                <li>
+                    <a href="#-conclusi%c3%b3n" aria-label="✅ Conclusión">✅ Conclusión</a>
                 </li>
             </ul>
         </div>
@@ -196,6 +214,90 @@
 </ul>
 <hr>
 <p>Las funciones primitivas recursivas son una piedra angular de la computación formal. Aunque no abarcan todas las funciones computables (como lo demuestra la función de Ackermann), sí representan el subconjunto de funciones que son <strong>totalmente deterministas, acotadas y siempre terminan</strong>.</p>
+<h2 id="-las-3-funciones-primitivas-iniciales">🧱 Las 3 funciones primitivas iniciales<a hidden class="anchor" aria-hidden="true" href="#-las-3-funciones-primitivas-iniciales">#</a></h2>
+<table>
+<thead>
+<tr>
+<th>Función</th>
+<th>Definición</th>
+<th>¿Qué representa?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Cero</strong> \( Z(n) \)</td>
+<td>Siempre devuelve \( 0 \)</td>
+<td>El concepto de <em>cero constante</em></td>
+</tr>
+<tr>
+<td><strong>Sucesora</strong> \( S(n) \)</td>
+<td>Devuelve \( n + 1 \)</td>
+<td>El acto de <em>contar</em>: sumar uno</td>
+</tr>
+<tr>
+<td><strong>Proyección</strong> \( P^n_k \)</td>
+<td>Devuelve el \( k \)-ésimo de \( n \) argumentos</td>
+<td><em>Seleccionar</em> datos de entrada</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="-por-qué-son-las-reglas-más-básicas">🧠 ¿Por qué son las “reglas más básicas”?<a hidden class="anchor" aria-hidden="true" href="#-por-qué-son-las-reglas-más-básicas">#</a></h2>
+<h3 id="1-cero-el-comienzo-absoluto">1. <strong>Cero: el comienzo absoluto</strong><a hidden class="anchor" aria-hidden="true" href="#1-cero-el-comienzo-absoluto">#</a></h3>
+<p>Es el <strong>origen numérico</strong>: toda aritmética empieza en algún punto, y ese punto es 0.<br>
+En lógica, representa la <strong>constante más elemental</strong>.</p>
+<h3 id="2-sucesora-el-paso-mínimo">2. <strong>Sucesora: el paso mínimo</strong><a hidden class="anchor" aria-hidden="true" href="#2-sucesora-el-paso-mínimo">#</a></h3>
+<p>Es la <strong>regla para pasar de un número al siguiente</strong>.<br>
+Toda la aritmética natural puede construirse repitiendo esta operación.</p>
+<h3 id="3-proyección-elegir-lo-que-importa">3. <strong>Proyección: elegir lo que importa</strong><a hidden class="anchor" aria-hidden="true" href="#3-proyección-elegir-lo-que-importa">#</a></h3>
+<p>Permite <strong>elegir un dato de entrada</strong> entre varios.<br>
+Es esencial para combinar funciones y reutilizar argumentos.</p>
+<hr>
+<h2 id="-qué-podemos-construir-a-partir-de-estas-tres">🔄 ¿Qué podemos construir a partir de estas tres?<a hidden class="anchor" aria-hidden="true" href="#-qué-podemos-construir-a-partir-de-estas-tres">#</a></h2>
+<table>
+<thead>
+<tr>
+<th>Función derivada</th>
+<th>Cómo se construye</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Suma \( x + y \)</td>
+<td>Por recursión sobre \( y \), usando la sucesora</td>
+</tr>
+<tr>
+<td>Multiplicación \( x \cdot y \)</td>
+<td>Por recursión sobre \( y \), usando la suma</td>
+</tr>
+<tr>
+<td>Potencia \( x^y \)</td>
+<td>Por recursión sobre \( y \), usando la multiplicación</td>
+</tr>
+<tr>
+<td>Factorial \( n! \)</td>
+<td>Por recursión sobre \( n \), usando multiplicación</td>
+</tr>
+</tbody>
+</table>
+<p>Cada una de estas operaciones más complejas se define a partir de las tres funciones iniciales mediante <strong>composición</strong> y <strong>recursión primitiva</strong>.</p>
+<hr>
+<h2 id="-analogía">🧠 Analogía<a hidden class="anchor" aria-hidden="true" href="#-analogía">#</a></h2>
+<blockquote>
+<p>Es como decir que en una lengua natural, todo se puede expresar usando solo:</p>
+<ul>
+<li>Palabras simples (como “yo”, “uno”, “tú”)</li>
+<li>Reglas de combinación (“y”, “luego”)</li>
+<li>Y repeticiones ordenadas</li>
+</ul>
+</blockquote>
+<p>Así también, la aritmética completa puede construirse desde una base <strong>mínima pero suficiente</strong>.</p>
+<hr>
+<h2 id="-conclusión">✅ Conclusión<a hidden class="anchor" aria-hidden="true" href="#-conclusión">#</a></h2>
+<blockquote>
+<p>Las tres funciones primitivas iniciales son efectivamente los <strong>bloques elementales</strong> de la aritmética computable.<br>
+Son a la computación lo que los <strong>átomos</strong> son a la materia: todo lo demás se construye a partir de ellos.</p>
+</blockquote>
 
 
   </div>
