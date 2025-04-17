@@ -456,5 +456,26 @@
       <guid>http://localhost:1313/categories/papiros/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Computacion</title>
+      <link>http://localhost:1313/categories/computacion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/computacion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Logica</title>
+      <link>http://localhost:1313/categories/logica/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/logica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Matematicas</title>
+      <link>http://localhost:1313/categories/matematicas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/matematicas/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
