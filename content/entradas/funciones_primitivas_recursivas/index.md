@@ -1,12 +1,12 @@
-
 ---
 title: "Origen y evolución de las funciones primitivas recursivas"
 description: "Un recorrido histórico desde Skolem hasta Kleene sobre las funciones primitivas recursivas, su definición formal y su importancia en la teoría de la computación."
+date: 2025-04-16
 categories:
-  - computacion
-  - logica
+  - computación
+  - lógica
   - historia
-  - matematicas
+  - matemáticas
 ---
 
 Las **funciones primitivas recursivas** son funciones total y computables que se construyen a partir de funciones básicas mediante dos operaciones: composición y recursión primitiva. Son fundamentales en la teoría de la computabilidad y fueron objeto de estudio mucho antes del desarrollo de las máquinas de Turing.
