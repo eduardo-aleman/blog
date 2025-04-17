@@ -3,21 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-04-16T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-04-16T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/conciencia/</loc>
+    <lastmod>2025-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/entradas/</loc>
+    <lastmod>2025-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/filosof%C3%ADa/</loc>
+    <lastmod>2025-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/entradas/problema-halt/</loc>
+    <lastmod>2025-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/inteligencia-artificial/</loc>
+    <lastmod>2025-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/l%C3%B3gica/</loc>
+    <lastmod>2025-04-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/computaci%C3%B3n/</loc>
     <lastmod>2025-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/entradas/</loc>
-    <lastmod>2025-04-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/historia/</loc>
-    <lastmod>2025-04-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/l%C3%B3gica/</loc>
     <lastmod>2025-04-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/matem%C3%A1ticas/</loc>
@@ -69,9 +81,6 @@
     <lastmod>2025-04-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/entradas/el-pensar-del-ser-en-heidegger/</loc>
-    <lastmod>2025-03-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/filosof%C3%ADa/</loc>
     <lastmod>2025-03-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/heidegger/</loc>

@@ -6,8 +6,15 @@
     <description>Recent content in Filosofía on Blog de Eduardo Alemán</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>es-es</language>
-    <lastBuildDate>Thu, 27 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/filosof%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gödel, Turing, Penrose y el límite de la mente: la paradoja de la autorreferencia</title>
+      <link>http://localhost:1313/entradas/problema-halt/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/entradas/problema-halt/</guid>
+      <description>Un ensayo sobre cómo la autorreferencia en lógica y computación revela límites fundamentales del pensamiento humano, desde Gödel hasta la hipótesis cuántica de Penrose.</description>
+    </item>
     <item>
       <title>El pensar del ser en Heidegger</title>
       <link>http://localhost:1313/entradas/el-pensar-del-ser-en-heidegger/</link>

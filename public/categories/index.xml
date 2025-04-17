@@ -6,8 +6,36 @@
     <description>Recent content in Categories on Blog de Eduardo Alemán</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>es-es</language>
-    <lastBuildDate>Wed, 16 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Conciencia</title>
+      <link>http://localhost:1313/categories/conciencia/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/conciencia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Filosofía</title>
+      <link>http://localhost:1313/categories/filosof%C3%ADa/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/filosof%C3%ADa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Inteligencia-Artificial</title>
+      <link>http://localhost:1313/categories/inteligencia-artificial/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/inteligencia-artificial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lógica</title>
+      <link>http://localhost:1313/categories/l%C3%B3gica/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/l%C3%B3gica/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Computación</title>
       <link>http://localhost:1313/categories/computaci%C3%B3n/</link>
@@ -20,13 +48,6 @@
       <link>http://localhost:1313/categories/historia/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/historia/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Lógica</title>
-      <link>http://localhost:1313/categories/l%C3%B3gica/</link>
-      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/l%C3%B3gica/</guid>
       <description></description>
     </item>
     <item>
@@ -111,13 +132,6 @@
       <link>http://localhost:1313/categories/ensayos/</link>
       <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/ensayos/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Filosofía</title>
-      <link>http://localhost:1313/categories/filosof%C3%ADa/</link>
-      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/filosof%C3%ADa/</guid>
       <description></description>
     </item>
     <item>
