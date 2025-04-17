@@ -6,21 +6,21 @@
     <description>Recent content in Historia on Blog de Eduardo Alemán</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>es-es</language>
-    <lastBuildDate>Thu, 25 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/historia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Origen y evolución de las funciones primitivas recursivas</title>
+      <link>http://localhost:1313/entradas/funciones_primitivas_recursivas/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/entradas/funciones_primitivas_recursivas/</guid>
+      <description>Un recorrido histórico desde Skolem hasta Kleene sobre las funciones primitivas recursivas, su definición formal y su importancia en la teoría de la computación.</description>
+    </item>
     <item>
       <title>Notas acerca del libro “El amanecer de todo: Una nueva historia de la humanidad” de David Graeber y David Wengrow.</title>
       <link>http://localhost:1313/entradas/amanecer-de-todo/</link>
       <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/entradas/amanecer-de-todo/</guid>
       <description>### Resumen La idea central de “El amanecer de todo” es que la especie humana ha estado experimentando con diferentes formas de organizar la sociedad desde un</description>
-    </item>
-    <item>
-      <title>Origen y evolución de las funciones primitivas recursivas</title>
-      <link>http://localhost:1313/entradas/funciones_primitivas_recursivas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/funciones_primitivas_recursivas/</guid>
-      <description>Un recorrido histórico desde Skolem hasta Kleene sobre las funciones primitivas recursivas, su definición formal y su importancia en la teoría de la computación.</description>
     </item>
   </channel>
 </rss>

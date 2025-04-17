@@ -7,6 +7,11 @@ categories:
   - lógica
   - historia
   - matemáticas
+cover:
+  image: "portada_funciones_primitivas.webp"
+  alt: "Ilustración de bloques apilados junto a notación matemática básica"
+  relative: false
+  hidden: false
 ---
 
 Las **funciones primitivas recursivas** son funciones total y computables que se construyen a partir de funciones básicas mediante dos operaciones: composición y recursión primitiva. Son fundamentales en la teoría de la computabilidad y fueron objeto de estudio mucho antes del desarrollo de las máquinas de Turing.
@@ -50,4 +55,3 @@ Esta línea del tiempo resume el desarrollo histórico:
 
 Las funciones primitivas recursivas son una piedra angular de la computación formal. Aunque no abarcan todas las funciones computables (como lo demuestra la función de Ackermann), sí representan el subconjunto de funciones que son **totalmente deterministas, acotadas y siempre terminan**.
 
-🔹 Si deseas explorar la jerarquía completa de funciones computables o cómo estas se relacionan con las máquinas de Turing, este es un gran punto de partida.

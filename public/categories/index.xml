@@ -6,8 +6,36 @@
     <description>Recent content in Categories on Blog de Eduardo Alemán</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>es-es</language>
-    <lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computación</title>
+      <link>http://localhost:1313/categories/computaci%C3%B3n/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/computaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Historia</title>
+      <link>http://localhost:1313/categories/historia/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/historia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lógica</title>
+      <link>http://localhost:1313/categories/l%C3%B3gica/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/l%C3%B3gica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Matemáticas</title>
+      <link>http://localhost:1313/categories/matem%C3%A1ticas/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/matem%C3%A1ticas/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Astronomía</title>
       <link>http://localhost:1313/categories/astronom%C3%ADa/</link>
@@ -83,13 +111,6 @@
       <link>http://localhost:1313/categories/ensayos/</link>
       <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/ensayos/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Matemáticas</title>
-      <link>http://localhost:1313/categories/matem%C3%A1ticas/</link>
-      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/matem%C3%A1ticas/</guid>
       <description></description>
     </item>
     <item>
@@ -209,13 +230,6 @@
       <link>http://localhost:1313/categories/david-wengrow/</link>
       <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/david-wengrow/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Historia</title>
-      <link>http://localhost:1313/categories/historia/</link>
-      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/historia/</guid>
       <description></description>
     </item>
     <item>
@@ -454,27 +468,6 @@
       <link>http://localhost:1313/categories/papiros/</link>
       <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/papiros/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Computacion</title>
-      <link>http://localhost:1313/categories/computacion/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/computacion/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Logica</title>
-      <link>http://localhost:1313/categories/logica/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/logica/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Matematicas</title>
-      <link>http://localhost:1313/categories/matematicas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/matematicas/</guid>
       <description></description>
     </item>
   </channel>
