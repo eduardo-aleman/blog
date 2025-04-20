@@ -6,8 +6,57 @@
     <description>Recent content in Categories on Blog de Eduardo Alemán</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>es-es</language>
-    <lastBuildDate>Thu, 17 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computación</title>
+      <link>http://localhost:1313/categories/computaci%C3%B3n/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/computaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Euler</title>
+      <link>http://localhost:1313/categories/euler/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/euler/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Historia De La Ciencia</title>
+      <link>http://localhost:1313/categories/historia-de-la-ciencia/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/historia-de-la-ciencia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Königsberg</title>
+      <link>http://localhost:1313/categories/k%C3%B6nigsberg/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/k%C3%B6nigsberg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Matemáticas</title>
+      <link>http://localhost:1313/categories/matem%C3%A1ticas/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/matem%C3%A1ticas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Teoría De Grafos</title>
+      <link>http://localhost:1313/categories/teor%C3%ADa-de-grafos/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/teor%C3%ADa-de-grafos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Traducción</title>
+      <link>http://localhost:1313/categories/traducci%C3%B3n/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/traducci%C3%B3n/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Conciencia</title>
       <link>http://localhost:1313/categories/conciencia/</link>
@@ -37,24 +86,10 @@
       <description></description>
     </item>
     <item>
-      <title>Computación</title>
-      <link>http://localhost:1313/categories/computaci%C3%B3n/</link>
-      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/computaci%C3%B3n/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Historia</title>
       <link>http://localhost:1313/categories/historia/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/historia/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Matemáticas</title>
-      <link>http://localhost:1313/categories/matem%C3%A1ticas/</link>
-      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/matem%C3%A1ticas/</guid>
       <description></description>
     </item>
     <item>
@@ -83,13 +118,6 @@
       <link>http://localhost:1313/categories/henrietta-leavitt/</link>
       <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/henrietta-leavitt/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Historia De La Ciencia</title>
-      <link>http://localhost:1313/categories/historia-de-la-ciencia/</link>
-      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/historia-de-la-ciencia/</guid>
       <description></description>
     </item>
     <item>
@@ -293,13 +321,6 @@
       <link>http://localhost:1313/categories/polis/</link>
       <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/polis/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Traducción</title>
-      <link>http://localhost:1313/categories/traducci%C3%B3n/</link>
-      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/traducci%C3%B3n/</guid>
       <description></description>
     </item>
     <item>

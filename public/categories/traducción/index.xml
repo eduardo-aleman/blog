@@ -6,14 +6,21 @@
     <description>Recent content in Traducción on Blog de Eduardo Alemán</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>es-es</language>
-    <lastBuildDate>Fri, 12 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/traducci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La naturaleza de la computación: Capítulo 1. </title>
+      <link>http://localhost:1313/entradas/la-naturaleza-de-la-computaci%C3%B3n/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/entradas/la-naturaleza-de-la-computaci%C3%B3n/</guid>
+      <description>Cómo Leonhard Euler resolvió el problema de los puentes de Königsberg y fundó una nueva forma de pensar: la teoría de grafos.</description>
+    </item>
     <item>
       <title>La Polis: Una introducción a la antigua ciudad-estado griega (Herman Hansen De Mogen).</title>
       <link>http://localhost:1313/entradas/la-polis-hansen/</link>
       <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/entradas/la-polis-hansen/</guid>
-      <description>Hansen, Mogens Herman, [_Polis: An Introduction to the Ancient Greek City-State_](https://amzn.</description>
+      <description>Hansen, Mogens Herman, Polis: An Introduction to the Ancient Greek City-State.</description>
     </item>
     <item>
       <title>Historia de la guerra del Peloponeso. Libro 1 (Tucídides).</title>
