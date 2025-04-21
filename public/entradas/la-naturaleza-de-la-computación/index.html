@@ -138,7 +138,7 @@
     <div class="post-description">
       Cómo Leonhard Euler resolvió el problema de los puentes de Königsberg y fundó una nueva forma de pensar: la teoría de grafos.
     </div>
-    <div class="post-meta"><span title='2025-04-20 00:00:00 +0000 UTC'>abril 20, 2025</span>&nbsp;·&nbsp;5 min
+    <div class="post-meta"><span title='2025-04-20 00:00:00 +0000 UTC'>abril 20, 2025</span>&nbsp;·&nbsp;6 min
 
 </div>
   </header> 
@@ -153,7 +153,9 @@
 
         <div class="inner"><ul>
                 <li>
-                    <a href="#11-cruzar-puentes" aria-label="1.1 Cruzar puentes">1.1 Cruzar puentes</a>
+                    <a href="#11-cruzar-puentes" aria-label="1.1 Cruzar puentes">1.1 Cruzar puentes</a></li>
+                <li>
+                    <a href="#12-itinerarios-sin-soluci%c3%b3n" aria-label="1.2 Itinerarios sin solución">1.2 Itinerarios sin solución</a>
                 </li>
             </ul>
         </div>
@@ -189,6 +191,12 @@ Si exactamente dos vértices tienen grado impar, contiene un recorrido euleriano
 <p>Además de la aceleración del tiempo exponencial al lineal, la intuición de Euler transforma este problema de otra manera. ¿Qué se necesita para demostrar la existencia, o inexistencia, de un recorrido euleriano? Si existe, podemos demostrarlo simplemente mostrándolo. Pero si no existe, ¿cómo convencer a otros?</p>
 <p>Imaginen que Euler hubiera usado fuerza bruta: presentar una lista completa de recorridos y mostrar que ninguno sirve. Muchos se habrían negado a revisarla y habrían sospechado que omitió una ruta. Una demostración así sería lógica, pero insatisfactoria: no explica <strong>por qué</strong> no existe una solución.</p>
 <p>En cambio, el argumento de Euler es simple, conciso e irresistible: basta con mostrar tres vértices de grado impar. Así, Euler cambió <strong>la estructura lógica</strong> del problema y el tipo de evidencia que requiere: una demostración conceptual, no una lista interminable. Una verdadera revolución del pensamiento.</p>
+<h2 id="12-itinerarios-sin-solución">1.2 Itinerarios sin solución<a hidden class="anchor" aria-hidden="true" href="#12-itinerarios-sin-solución">#</a></h2>
+<p>El siguiente paso en nuestro viaje nos lleva a la Irlanda del siglo XIX y al Astrónomo Real, Sir William Rowan Hamilton, conocido por todos los físicos por sus contribuciones a la mecánica clásica. En 1859, Hamilton lanzó al mercado un nuevo rompecabezas, llamado el &ldquo;juego icosiano&rdquo;, que se muestra en la Figura 1.4. El juego fue un fracaso comercial, pero condujo a uno de los problemas más icónicos de la informática actual.</p>
+<p>El objetivo del juego es recorrer las aristas de un dodecaedro visitando cada vértice una sola vez. En realidad, era un juego para dos jugadores en el que uno elige los primeros cinco vértices y el otro intenta completar el recorrido; pero por ahora, pensemos solo en la versión en solitario. Si bien estos recorridos se habían considerado en otros contextos, hoy los llamamos recorridos o ciclos hamiltonianos, y decimos que un grafo es hamiltoniano si posee un ciclo hamiltoniano. Uno de estos ciclos para el dodecaedro se muestra en la Figura 1.5.</p>
+<p><img loading="lazy" src="figura1_5.webp" alt="A la izquierda, el dodecaedro; a la derecha, una versión aplanada del grafo formado por sus aristas. Un ciclo hamiltoniano, que visita cada vértice una vez y regresa a su punto de partida, se muestra en negrita."  />
+
+<strong>Figura 1.5</strong> A la izquierda, el dodecaedro; a la derecha, una versión aplanada del grafo formado por sus aristas. Un ciclo hamiltoniano, que visita cada vértice una vez y regresa a su punto de partida, se muestra en negrita.</p>
 
 
   </div>

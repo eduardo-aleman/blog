@@ -49,3 +49,12 @@ Además de la aceleración del tiempo exponencial al lineal, la intuición de Eu
 Imaginen que Euler hubiera usado fuerza bruta: presentar una lista completa de recorridos y mostrar que ninguno sirve. Muchos se habrían negado a revisarla y habrían sospechado que omitió una ruta. Una demostración así sería lógica, pero insatisfactoria: no explica **por qué** no existe una solución.
 
 En cambio, el argumento de Euler es simple, conciso e irresistible: basta con mostrar tres vértices de grado impar. Así, Euler cambió **la estructura lógica** del problema y el tipo de evidencia que requiere: una demostración conceptual, no una lista interminable. Una verdadera revolución del pensamiento.
+
+## 1.2 Itinerarios sin solución
+
+El siguiente paso en nuestro viaje nos lleva a la Irlanda del siglo XIX y al Astrónomo Real, Sir William Rowan Hamilton, conocido por todos los físicos por sus contribuciones a la mecánica clásica. En 1859, Hamilton lanzó al mercado un nuevo rompecabezas, llamado el "juego icosiano", que se muestra en la Figura 1.4. El juego fue un fracaso comercial, pero condujo a uno de los problemas más icónicos de la informática actual. 
+
+El objetivo del juego es recorrer las aristas de un dodecaedro visitando cada vértice una sola vez. En realidad, era un juego para dos jugadores en el que uno elige los primeros cinco vértices y el otro intenta completar el recorrido; pero por ahora, pensemos solo en la versión en solitario. Si bien estos recorridos se habían considerado en otros contextos, hoy los llamamos recorridos o ciclos hamiltonianos, y decimos que un grafo es hamiltoniano si posee un ciclo hamiltoniano. Uno de estos ciclos para el dodecaedro se muestra en la Figura 1.5.
+
+![A la izquierda, el dodecaedro; a la derecha, una versión aplanada del grafo formado por sus aristas. Un ciclo hamiltoniano, que visita cada vértice una vez y regresa a su punto de partida, se muestra en negrita.](figura1_5.webp)
+**Figura 1.5** A la izquierda, el dodecaedro; a la derecha, una versión aplanada del grafo formado por sus aristas. Un ciclo hamiltoniano, que visita cada vértice una vez y regresa a su punto de partida, se muestra en negrita.
