@@ -48,4 +48,4 @@ Además de la aceleración del tiempo exponencial al lineal, la intuición de Eu
 
 Imaginen que Euler hubiera usado fuerza bruta: presentar una lista completa de recorridos y mostrar que ninguno sirve. Muchos se habrían negado a revisarla y habrían sospechado que omitió una ruta. Una demostración así sería lógica, pero insatisfactoria: no explica **por qué** no existe una solución.
 
-En cambio, el argumento de Euler es simple, conciso e irresistible: basta con mostrar tres vértices de grado impar. Así, Euler cambió la estructura lógica del problema y el tipo de evidencia que requiere: una demostración conceptual, no una lista interminable. Una verdadera revolución del pensamiento.
+En cambio, el argumento de Euler es simple, conciso e irresistible: basta con mostrar tres vértices de grado impar. Así, Euler cambió **la estructura lógica** del problema y el tipo de evidencia que requiere: una demostración conceptual, no una lista interminable. Una verdadera revolución del pensamiento.
