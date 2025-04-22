@@ -14,8 +14,8 @@ categories:
 - keith hopkins
 - cristianismo primitivo
 - traducción
-description: Hopkins, Keith. _El número cristiano y sus implicaciones_, [Sociological
-  Studies in Roman History (Cambridge Classical Studies)](https://amzn.
+description: Hopkins, Keith. El número cristiano y sus implicaciones, Sociological
+  Studies in Roman History (Cambridge Classical Studies). 
 ---
 
 Hopkins, Keith. _El número cristiano y sus implicaciones_, [Sociological Studies in Roman History (Cambridge Classical Studies)](https://amzn.to/4cnFDFU), 2023, Capítulo 12. Traducción en español de Eduardo Alemán.
