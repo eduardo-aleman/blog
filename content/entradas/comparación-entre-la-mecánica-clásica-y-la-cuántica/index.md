@@ -11,7 +11,7 @@ categories:
 - mecánica cuántica
 - mecánica clásica
 description: En el desarrollo de la física moderna, pocas transiciones han sido tan
-  revolucionarias como el paso de la **mecánica clásica** a la **mecánica cuántica**.
+  revolucionarias como el paso de la mecánica clásica a la mecánica cuántica.
 ---
 
 En el desarrollo de la física moderna, pocas transiciones han sido tan revolucionarias como el paso de la **mecánica clásica** a la **mecánica cuántica**. A continuación, se presenta una tabla comparativa que resume sus diferencias fundamentales:
