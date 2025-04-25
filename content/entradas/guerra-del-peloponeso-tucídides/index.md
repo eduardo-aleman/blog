@@ -198,7 +198,7 @@ _Los discursos_
 
 Casi una cuarta parte del texto de la _Historia_ consiste en discursos pronunciados elegantemente en primera persona por personajes históricos. Como los discursos están llenos de ideas, muchos estudiosos han sostenido que son nuestra mejor fuente para las propias ideas de Tucídides; otros se burlan de esto, diciendo que cada discurso representa sólo el punto de vista de un personaje particular en un momento particular.20 Una tercera posibilidad es tratar de identificar elementos tucídidanos dentro de los discursos y separarlos de lo que pertenece a los hablantes.
 
-20\. Werner Jaeger adopta una visión generosa: los discursos son “sobre todo el medio a través del cual \[Tucídides\] expresa sus ideas políticas” (1945, 391). Hornblower adopta una línea más austera: “los sentimientos contenidos en esos discursos nunca pueden usarse como evidencia de sus propias opiniones” (1987, 72).
+20\. Werner Jaeger adopta una visión generosa: los discursos son “sobre todo el medio a través del cual [Tucídides] expresa sus ideas políticas” (1945, 391). Hornblower adopta una línea más austera: “los sentimientos contenidos en esos discursos nunca pueden usarse como evidencia de sus propias opiniones” (1987, 72).
 
 Los tres enfoques son demasiado simples. Comprender a Tucídides es como entender a un dramaturgo cuyo tema es la historia: dice pocas líneas en su propia persona, pero revela mucho en las líneas que considera apropiadas para que otros hablen. El estudio de los discursos debe comenzar con una revisión de la enigmática introducción de Tucídides (**1,22**):
 
