@@ -23,12 +23,10 @@ categories:
 description: 'Woodruff, Paul., El Tucídides esencial: sobre la justicia, el poder y la naturaleza humana. Selecciones de La historia de la guerra del Peloponeso. Introducción. Traducción en español de Eduardo Alemán.'
 ---
 
-Woodruff, Paul., [_The Essential Thucydides: On Justice, Power, and Human Nature: Selections from The History of the Peloponnesian War Second Edition, Expanded and Revised_](https://amzn.to/3L8odRU), 2021, Introducción. Traducción en español de Eduardo Alemán.
+Woodruff, Paul., [_The Essential Thucydides: On Justice, Power, and Human Nature: Selections from The History of the Peloponnesian War. Second Edition, Expanded and Revised_](https://amzn.to/3L8odRU), 2021, Introducción. Traducción en español de Eduardo Alemán.
 
 
-El Tucídides esencial: sobre la justicia, el poder y la naturaleza humana
-
-Selecciones de La historia de la guerra del Peloponeso
+El Tucídides esencial: sobre la justicia, el poder y la naturaleza humana. Selecciones de La historia de la guerra del Peloponeso.
 
 Introducción
 ============
