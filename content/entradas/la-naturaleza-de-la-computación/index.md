@@ -58,3 +58,5 @@ El objetivo del juego es recorrer las aristas de un dodecaedro visitando cada v�
 
 ![A la izquierda, el dodecaedro; a la derecha, una versión aplanada del grafo formado por sus aristas. Un ciclo hamiltoniano, que visita cada vértice una vez y regresa a su punto de partida, se muestra en negrita.](figura1_5.webp)
 **Figura 1.5** A la izquierda, el dodecaedro; a la derecha, una versión aplanada del grafo formado por sus aristas. Un ciclo hamiltoniano, que visita cada vértice una vez y regresa a su punto de partida, se muestra en negrita.
+
+...
