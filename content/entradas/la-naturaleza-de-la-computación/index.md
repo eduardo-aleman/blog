@@ -59,4 +59,6 @@ El objetivo del juego es recorrer las aristas de un dodecaedro visitando cada v�
 ![A la izquierda, el dodecaedro; a la derecha, una versión aplanada del grafo formado por sus aristas. Un ciclo hamiltoniano, que visita cada vértice una vez y regresa a su punto de partida, se muestra en negrita.](figura1_5.webp)
 **Figura 1.5** A la izquierda, el dodecaedro; a la derecha, una versión aplanada del grafo formado por sus aristas. Un ciclo hamiltoniano, que visita cada vértice una vez y regresa a su punto de partida, se muestra en negrita.
 
+Nota del traductor: Euler formuló el problema de la siguiente manera: “En la ciudad de Königsberg, en Prusia, hay una isla A llamada Kneiphof, rodeada por los dos brazos del río Pregel. Hay siete puentes a, b, c, d, e, f y g, que cruzan por los dos brazos del río. La cuestión consiste en determinar si una persona puede realizar un paseo de tal forma que cruce cada uno de estos puentes sólo una vez”.
+
 ...
