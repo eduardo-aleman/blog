@@ -4,10 +4,66 @@
     <title>Categories on Blog de Eduardo Alemán</title>
     <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Blog de Eduardo Alemán</description>
-    <generator>Hugo -- 0.129.0</generator>
+    <generator>Hugo -- 0.147.0</generator>
     <language>es-es</language>
-    <lastBuildDate>Sun, 20 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Antigüedad</title>
+      <link>http://localhost:1313/categories/antig%C3%BCedad/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/antig%C3%BCedad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Grecia</title>
+      <link>http://localhost:1313/categories/grecia/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/grecia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Guerra Del Peloponeso</title>
+      <link>http://localhost:1313/categories/guerra-del-peloponeso/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/guerra-del-peloponeso/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Manuscritos</title>
+      <link>http://localhost:1313/categories/manuscritos/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/manuscritos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Paul Woodruff</title>
+      <link>http://localhost:1313/categories/paul-woodruff/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/paul-woodruff/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Traducción</title>
+      <link>http://localhost:1313/categories/traducci%C3%B3n/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/traducci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Transmisión Textual</title>
+      <link>http://localhost:1313/categories/transmisi%C3%B3n-textual/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/transmisi%C3%B3n-textual/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tucídides</title>
+      <link>http://localhost:1313/categories/tuc%C3%ADdides/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/tuc%C3%ADdides/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Computación</title>
       <link>http://localhost:1313/categories/computaci%C3%B3n/</link>
@@ -62,13 +118,6 @@
       <link>http://localhost:1313/categories/teor%C3%ADa-de-grafos/</link>
       <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/teor%C3%ADa-de-grafos/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Traducción</title>
-      <link>http://localhost:1313/categories/traducci%C3%B3n/</link>
-      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/traducci%C3%B3n/</guid>
       <description></description>
     </item>
     <item>
@@ -296,13 +345,6 @@
       <description></description>
     </item>
     <item>
-      <title>Antigüedad</title>
-      <link>http://localhost:1313/categories/antig%C3%BCedad/</link>
-      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/antig%C3%BCedad/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Ciudad-Estado</title>
       <link>http://localhost:1313/categories/ciudad-estado/</link>
       <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
@@ -314,13 +356,6 @@
       <link>http://localhost:1313/categories/cultura-de-ciudad-estado/</link>
       <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/cultura-de-ciudad-estado/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Grecia</title>
-      <link>http://localhost:1313/categories/grecia/</link>
-      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/grecia/</guid>
       <description></description>
     </item>
     <item>
@@ -338,31 +373,10 @@
       <description></description>
     </item>
     <item>
-      <title>Guerra Del Peloponeso</title>
-      <link>http://localhost:1313/categories/guerra-del-peloponeso/</link>
-      <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/guerra-del-peloponeso/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Libro 1</title>
       <link>http://localhost:1313/categories/libro-1/</link>
       <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/libro-1/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Paul Woodruff</title>
-      <link>http://localhost:1313/categories/paul-woodruff/</link>
-      <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/paul-woodruff/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tucídides</title>
-      <link>http://localhost:1313/categories/tuc%C3%ADdides/</link>
-      <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/tuc%C3%ADdides/</guid>
       <description></description>
     </item>
     <item>
