@@ -18,7 +18,7 @@ categories:
 - ronald syme
 - tácito
 - traducción
-description: Syme, Ronald, [_Tacitus_](https://amzn.to/4cr0Df1), 1958, Capítulo 21.
+description: Syme, Ronald, Tacitus, 1958, Capítulo 21. Traducción en español de Eduardo Alemán
 ---
 
 Syme, Ronald, [_Tacitus_](https://amzn.to/4cr0Df1), 1958, Capítulo 21. Traducción en español de Eduardo Alemán.
