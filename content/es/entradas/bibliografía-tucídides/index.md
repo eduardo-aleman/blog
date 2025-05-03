@@ -1,5 +1,5 @@
 ---
-title: "Bibliografía esencial sobre Tucídides y la *Guerra del Peloponeso*"
+title: "Bibliografía esencial sobre Tucídides y la Guerra del Peloponeso"
 date: "2025-05-01"
 cover:
   image: biblio_peloponeso.webp
@@ -12,7 +12,7 @@ categories:
 - grecia
 - tucídides
 - traducción
-description: "Selección crítica de traducciones, ediciones comentadas y estudios fundamentales sobre la *Historia de la guerra del Peloponeso* de Tucídides, en español e inglés."
+description: "Selección crítica de traducciones, ediciones comentadas y estudios fundamentales sobre la Historia de la guerra del Peloponeso de Tucídides, en español e inglés."
 ---
 
 ## I. Traducciones al español
