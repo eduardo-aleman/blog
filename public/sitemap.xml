@@ -29,11 +29,20 @@
     <loc>http://localhost:1313/categories/traducci%C3%B3n/</loc>
     <lastmod>2025-05-02T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/entradas/bibliograf%C3%ADa-tuc%C3%ADdides/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/grecia/</loc>
-    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/guerra-del-peloponeso/</loc>
-    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/historia-antigua/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/tuc%C3%ADdides/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/manuscritos/</loc>
     <lastmod>2025-04-27T00:00:00+00:00</lastmod>
@@ -45,9 +54,6 @@
     <lastmod>2025-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/transmisi%C3%B3n-textual/</loc>
-    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/tuc%C3%ADdides/</loc>
     <lastmod>2025-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/computaci%C3%B3n/</loc>
