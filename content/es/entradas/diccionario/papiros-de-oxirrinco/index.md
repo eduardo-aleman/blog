@@ -6,7 +6,7 @@ categories:
 - grecia
 - papiros
 - oxirrinco
-description: <figure> ![](images/POxy.v0015.n1809.a.01.
+description: Los Papiros de Oxirrinco son una colección monumental de manuscritos antiguos descubiertos en un sitio arqueológico en Oxirrinco (hoy El-Bahnasa), Egipto.
 ---
 
 <figure>
