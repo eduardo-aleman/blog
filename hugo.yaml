@@ -4,7 +4,7 @@ defaultContentLanguage: es
 defaultContentLanguageInSubdir: false
 languages:
   es:
-    contentDir: 
+    contentDir: content/es
     disabled: false
     languageCode: es-es
     languageDirection: ltr
@@ -23,7 +23,9 @@ languages:
       subtitle: Translations, Essays, and Opinions
     title: Blog
     weight: 2
+
 theme: ["PaperMod"]
+
 menu:
   main:
     - identifier: search
@@ -42,28 +44,32 @@ menu:
       name: ealeman.com
       url: https://ealeman.com
       weight: 40
-Params:
+
+params:
   ShowReadingTime: true
   hideFooter: true
   ShowShareButtons: true
-  DateFormat: 
-  ShowToc: trueToc
+  ShowToc: true
+  ShowBreadCrumbs: true
+  math: true
+  DateFormat: "02 Jan 2006"
   homeInfoParams:
     Title: Bienvenidos
     Content: Me da mucho gusto que estéis aquí.
-  socialIcons: # optional
+  socialIcons:
     - name: "twitter"
       url: "https://x.com/JEduardoAleman"
     - name: "facebook"
       url: "https://www.facebook.com/profile.php?id=61561425428782"
     - name: "github"
       url: "https://github.com/lampsacus"
-  ShowBreadCrumbs: true
+
 outputs:
   home:
     - HTML
     - RSS
-    - JSON # necessary for search
+    - JSON
+
 markup:
   goldmark:
     extensions:
@@ -78,5 +84,3 @@ markup:
           - - \(
             - \)
         enable: true
-params:
-  math: true

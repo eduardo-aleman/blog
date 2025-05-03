@@ -2,17 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/categories/anales/</loc>
+    <lastmod>2025-05-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/antig%C3%BCedad/</loc>
-    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/entradas/bibliograf%C3%ADa-anales-t%C3%A1cito/</loc>
+    <lastmod>2025-05-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/entradas/</loc>
-    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/roma/</loc>
+    <lastmod>2025-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/t%C3%A1cito/</loc>
+    <lastmod>2025-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/traducci%C3%B3n/</loc>
+    <lastmod>2025-05-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/grecia/</loc>
     <lastmod>2025-04-27T00:00:00+00:00</lastmod>
@@ -27,9 +42,6 @@
     <lastmod>2025-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/entradas/plut.69.2/</loc>
-    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/traducci%C3%B3n/</loc>
     <lastmod>2025-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/transmisi%C3%B3n-textual/</loc>
@@ -245,19 +257,10 @@
     <loc>http://localhost:1313/categories/medioevo/</loc>
     <lastmod>2024-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/anales/</loc>
-    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/entradas/xxi-la-estructura-de-los-anales/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/roma/</loc>
-    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/ronald-syme/</loc>
-    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/t%C3%A1cito/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/constantinopla/</loc>
@@ -346,12 +349,6 @@
   </url><url>
     <loc>http://localhost:1313/entradas/diccionario/acusativo/</loc>
     <lastmod>2024-01-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/archivos/</loc>
-  </url><url>
-    <loc>http://localhost:1313/buscar/</loc>
-  </url><url>
-    <loc>http://localhost:1313/search/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>
