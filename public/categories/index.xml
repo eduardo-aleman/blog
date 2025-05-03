@@ -23,27 +23,6 @@
       <description></description>
     </item>
     <item>
-      <title>Grecia</title>
-      <link>http://localhost:1313/categories/grecia/</link>
-      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/grecia/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Guerra Del Peloponeso</title>
-      <link>http://localhost:1313/categories/guerra-del-peloponeso/</link>
-      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/guerra-del-peloponeso/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Historia Antigua</title>
-      <link>http://localhost:1313/categories/historia-antigua/</link>
-      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/historia-antigua/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Roma</title>
       <link>http://localhost:1313/categories/roma/</link>
       <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
@@ -65,9 +44,30 @@
       <description></description>
     </item>
     <item>
+      <title>Grecia</title>
+      <link>http://localhost:1313/categories/grecia/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/grecia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Guerra Del Peloponeso</title>
+      <link>http://localhost:1313/categories/guerra-del-peloponeso/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/guerra-del-peloponeso/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Historia Antigua</title>
+      <link>http://localhost:1313/categories/historia-antigua/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/historia-antigua/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Tucídides</title>
       <link>http://localhost:1313/categories/tuc%C3%ADdides/</link>
-      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/tuc%C3%ADdides/</guid>
       <description></description>
     </item>
