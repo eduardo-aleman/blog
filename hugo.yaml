@@ -84,3 +84,7 @@ markup:
           - - \(
             - \)
         enable: true
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

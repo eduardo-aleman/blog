@@ -2,7 +2,7 @@
 title: "Bibliografía esencial sobre Tácito y los Anales"
 date: "2025-05-02"
 cover:
-  image:
+  image: biblio_anales.webp
   alt: "Manuscrito latino antiguo con escritura clara"
   caption: "Detalle de un manuscrito antiguo con texto latino, representando la tradición textual de Tácito."
   relative: false
