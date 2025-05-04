@@ -35,6 +35,10 @@ languages:
           url: https://github.com/lampsacus
     menu:
       main:
+        - identifier: categories
+          name: categories
+          url: /categorias/
+          weight: 10
         - identifier: archives
           name: archivos
           url: /archivos/
