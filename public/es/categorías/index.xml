@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categorías on Blog de Eduardo Alemán</title>
-    <link>http://localhost:1313/es/categor%C3%ADas/</link>
+    <link>http://localhost:1313/blog/es/categor%C3%ADas/</link>
     <description>Recent content in Categorías on Blog de Eduardo Alemán</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>es-es</language>
-    <atom:link href="http://localhost:1313/es/categor%C3%ADas/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/es/categor%C3%ADas/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
