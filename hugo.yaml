@@ -34,11 +34,11 @@ menu:
       weight: 10
     - identifier: categories
       name: categorías
-      url: /categories/
+      url: /es/categorías/
       weight: 20
     - identifier: archives
       name: archivos
-      url: /es/archives/
+      url: /es/archivos/
       weight: 30
     - identifier: website
       name: ealeman.com
