@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>John Lauritsen on Blog de Eduardo Alemán</title>
+    <link>http://localhost:1313/es/categories/john-lauritsen/</link>
+    <description>Recent content in John Lauritsen on Blog de Eduardo Alemán</description>
+    <generator>Hugo -- 0.147.0</generator>
+    <language>es-es</language>
+    <lastBuildDate>Sun, 16 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/es/categories/john-lauritsen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El Ión de Platón: La traducción de Shelley (John Lauritsen)</title>
+      <link>http://localhost:1313/es/entradas/el-i%C3%B3n-de-plat%C3%B3n-la-traducci%C3%B3n-de-shelley/</link>
+      <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/entradas/el-i%C3%B3n-de-plat%C3%B3n-la-traducci%C3%B3n-de-shelley/</guid>
+      <description>A continuación la traducción que he hecho del prefacio y las notas de John Lauritsen en su edición del Ión de Platón traducido por Shelley.</description>
+    </item>
+  </channel>
+</rss>

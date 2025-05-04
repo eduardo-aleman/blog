@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Prehistoria on Blog de Eduardo Alemán</title>
+    <link>http://localhost:1313/es/categories/prehistoria/</link>
+    <description>Recent content in Prehistoria on Blog de Eduardo Alemán</description>
+    <generator>Hugo -- 0.147.0</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 25 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/es/categories/prehistoria/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notas acerca del libro “El amanecer de todo: Una nueva historia de la humanidad” de David Graeber y David Wengrow.</title>
+      <link>http://localhost:1313/es/entradas/amanecer-de-todo/</link>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/entradas/amanecer-de-todo/</guid>
+      <description>### Resumen La idea central de “El amanecer de todo” es que la especie humana ha estado experimentando con diferentes formas de organizar la sociedad desde un</description>
+    </item>
+  </channel>
+</rss>
