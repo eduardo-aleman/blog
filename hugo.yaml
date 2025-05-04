@@ -1,70 +1,60 @@
 baseURL: https://ealeman.com/
+title: Blog de Eduardo Alemán
 description: Blog en español de Eduardo Alemán.
-taxonomies:
-  category: categorías
 defaultContentLanguage: es
 defaultContentLanguageInSubdir: true
+
+theme: ["PaperMod"]
+
+taxonomies:
+  category: categorías
+
 languages:
   es:
+    languageName: Español
+    weight: 1
     contentDir: content/es
     disabled: false
     languageCode: es-es
     languageDirection: ltr
-    languageName: Spanish
+    title: Blog de Eduardo Alemán
     params:
       subtitle: Traducciones, ensayos y opiniones
-    title: Blog de Eduardo Alemán
-    weight: 1
-  en:
-    contentDir: content/en
-    disabled: true
-    languageCode: en-US
-    languageDirection: ltr
-    languageName: English
-    params:
-      subtitle: Translations, Essays, and Opinions
-    title: Blog
-    weight: 2
-
-theme: ["PaperMod"]
-
-menu:
-  main:
-    - identifier: search
-      name: buscar
-      url: /es/buscar/
-      weight: 10
-    - identifier: categories
-      name: categorías
-      url: /es/categorías/
-      weight: 20
-    - identifier: archives
-      name: archivos
-      url: /es/archivos/
-      weight: 30
-    - identifier: website
-      name: ealeman.com
-      url: https://ealeman.com
-      weight: 40
-
-params:
-  ShowReadingTime: true
-  hideFooter: true
-  ShowShareButtons: true
-  ShowToc: true
-  ShowBreadCrumbs: true
-  math: true
-  DateFormat: "02 Jan 2006"
-  homeInfoParams:
-    Title: Bienvenidos
-    Content: Me da mucho gusto que estéis aquí.
-  socialIcons:
-    - name: "twitter"
-      url: "https://x.com/JEduardoAleman"
-    - name: "facebook"
-      url: "https://www.facebook.com/profile.php?id=61561425428782"
-    - name: "github"
-      url: "https://github.com/lampsacus"
+      ShowReadingTime: true
+      hideFooter: true
+      ShowShareButtons: true
+      ShowToc: true
+      ShowBreadCrumbs: true
+      math: true
+      DateFormat: "02 Jan 2006"
+      homeInfoParams:
+        Title: Bienvenidos
+        Content: Me da mucho gusto que estéis aquí.
+      socialIcons:
+        - name: twitter
+          url: https://x.com/JEduardoAleman
+        - name: facebook
+          url: https://www.facebook.com/profile.php?id=61561425428782
+        - name: github
+          url: https://github.com/lampsacus
+    menu:
+      main:
+        - identifier: search
+          name: Buscar
+          url: /buscar/
+          weight: 10
+        - identifier: categories
+          name: Categorías
+          url: /categorías/
+          weight: 20
+        - identifier: archives
+          name: Archivos
+          url: /archivos/
+          weight: 30
+        - identifier: website
+          name: ealeman.com
+          url: https://ealeman.com
+          weight: 40
 
 outputs:
   home:
@@ -74,19 +64,17 @@ outputs:
 
 markup:
   goldmark:
-    extensions:
-      passthrough:
-        delimiters:
-          block:
-          - - \[
-            - \]
-          - - $$
-            - $$
-          inline:
-          - - \(
-            - \)
-        enable: true
-markup:
-  goldmark:
     renderer:
       unsafe: true
+    extensions:
+      passthrough:
+        enable: true
+        delimiters:
+          block:
+            - - \[
+              - \]
+            - - $$
+              - $$
+          inline:
+            - - \(
+              - \)
