@@ -7,7 +7,7 @@ defaultContentLanguageInSubdir: false
 theme: ["PaperMod"]
 
 taxonomies:
-  category: categorías
+  category: categorias
 
 languages:
   es:
