@@ -38,7 +38,7 @@ menu:
       weight: 20
     - identifier: archives
       name: archivos
-      url: /es/archivos/
+      url: /es/archives/
       weight: 30
     - identifier: website
       name: ealeman.com
