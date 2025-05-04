@@ -125,10 +125,6 @@
     <loc>http://localhost:1313/es/entradas/diccionario/acusativo/</loc>
     <lastmod>2024-01-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archivos/</loc>
-  </url><url>
-    <loc>http://localhost:1313/es/buscar/</loc>
-  </url><url>
     <loc>http://localhost:1313/es/categor%C3%ADas/</loc>
   </url>
 </urlset>
