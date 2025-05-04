@@ -35,10 +35,19 @@ languages:
           url: https://github.com/lampsacus
     menu:
       main:
+        - identifier: archives
+          name: archivos
+          url: /archivos/
+          weight: 20
+        - identifier: search
+          name: buscar
+          url: /buscar/
+          weight: 30
         - identifier: website
           name: ealeman.com
           url: https://ealeman.com
           weight: 40
+       
 
 outputs:
   home:
