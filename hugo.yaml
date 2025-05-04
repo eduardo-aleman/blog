@@ -31,10 +31,6 @@ languages:
         Title: Bienvenidos
         Content: Me da mucho gusto que estéis aquí.
       socialIcons:
-        - name: twitter
-          url: https://x.com/JEduardoAleman
-        - name: facebook
-          url: https://www.facebook.com/profile.php?id=61561425428782
         - name: github
           url: https://github.com/lampsacus
     menu:
