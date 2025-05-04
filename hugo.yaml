@@ -30,7 +30,7 @@ menu:
   main:
     - identifier: search
       name: buscar
-      url: /buscar/
+      url: /es/buscar/
       weight: 10
     - identifier: categories
       name: categorías
@@ -38,7 +38,7 @@ menu:
       weight: 20
     - identifier: archives
       name: archivos
-      url: /archivos/
+      url: /es/archivos/
       weight: 30
     - identifier: website
       name: ealeman.com
