@@ -6,6 +6,11 @@ defaultContentLanguageInSubdir: false
 
 theme: ["PaperMod"]
 
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+
 languages:
   es:
     languageName: Español
