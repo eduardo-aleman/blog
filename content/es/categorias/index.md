@@ -1,7 +1,8 @@
 ---
-title: "Categorías" # in any language you want
-layout: "categories" # necessary for search
+title: "Categorías"
+layout: "categories"
 url: "/categorias/"
-# description: "Description for Search"
-summary: "categories"
+summary: "Explora las entradas del blog organizadas por categorías."
+# description: "Página que agrupa las publicaciones por categoría."
 ---
+
