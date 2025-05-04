@@ -1,1 +1,12 @@
+# Node modules (if using JS tools)
+/node_modules/
+
+# OS / Editor junk
 .DS_Store
+Thumbs.db
+*.log
+*.swp
+*.swo
+
+# VSCode
+.vscode/
