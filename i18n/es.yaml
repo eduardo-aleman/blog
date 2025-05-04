@@ -34,3 +34,6 @@
 
 - id: post
   translation: "Entrada"
+
+- id: categories
+  translation: "Categorías"
