@@ -17,7 +17,7 @@ languages:
     weight: 1
     contentDir: content/es
     disabled: false
-    languageCode: es-es
+    languageCode: es
     languageDirection: ltr
     title: Blog de Eduardo Alemán
     params:
