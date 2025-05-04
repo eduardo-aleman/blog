@@ -39,18 +39,6 @@ languages:
           url: https://github.com/lampsacus
     menu:
       main:
-        - identifier: search
-          name: Buscar
-          url: /buscar/
-          weight: 10
-        - identifier: categories
-          name: Categorías
-          url: /categorías/
-          weight: 20
-        - identifier: archives
-          name: Archivos
-          url: /archivos/
-          weight: 30
         - identifier: website
           name: ealeman.com
           url: https://ealeman.com
