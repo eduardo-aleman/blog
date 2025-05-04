@@ -36,7 +36,7 @@ languages:
     menu:
       main:
         - identifier: categories
-          name: categories
+          name: categorías
           url: /categorias/
           weight: 10
         - identifier: archives
