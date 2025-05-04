@@ -1,4 +1,4 @@
 ---
-title: "database"
+title: "Categorías"
 layout: "categories"
 ---
