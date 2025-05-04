@@ -129,8 +129,8 @@
   </url><url>
     <loc>http://localhost:1313/blog/buscar/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/categorias/</loc>
-  </url><url>
     <loc>http://localhost:1313/blog/categor%C3%ADas/</loc>
+  </url><url>
+    <loc>http://localhost:1313/blog/categorias/</loc>
   </url>
 </urlset>
