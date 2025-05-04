@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Antigüedad on Blog de Eduardo Alemán</title>
-    <link>http://localhost:1313/categories/antig%C3%BCedad/</link>
+    <link>http://localhost:1313/blog/categories/antig%C3%BCedad/</link>
     <description>Recent content in Antigüedad on Blog de Eduardo Alemán</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>es-es</language>
     <lastBuildDate>Fri, 02 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/antig%C3%BCedad/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/categories/antig%C3%BCedad/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bibliografía esencial sobre Tácito y los Anales</title>
-      <link>http://localhost:1313/entradas/bibliograf%C3%ADa-anales-t%C3%A1cito/</link>
+      <link>http://localhost:1313/blog/entradas/bibliograf%C3%ADa-anales-t%C3%A1cito/</link>
       <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/bibliograf%C3%ADa-anales-t%C3%A1cito/</guid>
+      <guid>http://localhost:1313/blog/entradas/bibliograf%C3%ADa-anales-t%C3%A1cito/</guid>
       <description>Selección crítica de traducciones, comentarios por libro, estudios literarios y recepción moderna de los Anales de Tácito en inglés y español.</description>
     </item>
     <item>
       <title>Plut. 69.2 y la transmisión del texto de Tucídides</title>
-      <link>http://localhost:1313/entradas/plut.69.2/</link>
+      <link>http://localhost:1313/blog/entradas/plut.69.2/</link>
       <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/plut.69.2/</guid>
+      <guid>http://localhost:1313/blog/entradas/plut.69.2/</guid>
       <description>Un análisis detallado del manuscrito Plut. 69.2 y su rol fundamental en la preservación y transmisión de la Historia de la Guerra del Peloponeso de Tucídides.</description>
     </item>
     <item>
       <title>La Polis: Una introducción a la antigua ciudad-estado griega (Herman Hansen De Mogen).</title>
-      <link>http://localhost:1313/entradas/la-polis-hansen/</link>
+      <link>http://localhost:1313/blog/entradas/la-polis-hansen/</link>
       <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/la-polis-hansen/</guid>
+      <guid>http://localhost:1313/blog/entradas/la-polis-hansen/</guid>
       <description>Hansen, Mogens Herman, Polis: An Introduction to the Ancient Greek City-State.</description>
     </item>
     <item>
       <title>Historia de la guerra del Peloponeso. Libro 1 (Tucídides).</title>
-      <link>http://localhost:1313/entradas/guerra-del-peloponeso-libro-1-tuc%C3%ADdides/</link>
+      <link>http://localhost:1313/blog/entradas/guerra-del-peloponeso-libro-1-tuc%C3%ADdides/</link>
       <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/guerra-del-peloponeso-libro-1-tuc%C3%ADdides/</guid>
+      <guid>http://localhost:1313/blog/entradas/guerra-del-peloponeso-libro-1-tuc%C3%ADdides/</guid>
       <description>Woodruff, Paul. El Tucídides esencial: sobre la justicia, el poder y la naturaleza humana. Selecciones de La historia de la guerra del Peloponeso. Libro I. Traducción en español de Eduardo Alemán.</description>
     </item>
     <item>
       <title>Interpretando a Platón (E.N. Tigerstedt)</title>
-      <link>http://localhost:1313/entradas/interpretando-a-plat%C3%B3n/</link>
+      <link>http://localhost:1313/blog/entradas/interpretando-a-plat%C3%B3n/</link>
       <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/interpretando-a-plat%C3%B3n/</guid>
+      <guid>http://localhost:1313/blog/entradas/interpretando-a-plat%C3%B3n/</guid>
       <description>Tigerstedt, E. N., [Interpreting Plato](https://amzn.</description>
     </item>
     <item>
       <title>El Tucídides esencial (Paul Woodruff)</title>
-      <link>http://localhost:1313/entradas/guerra-del-peloponeso-tuc%C3%ADdides/</link>
+      <link>http://localhost:1313/blog/entradas/guerra-del-peloponeso-tuc%C3%ADdides/</link>
       <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/guerra-del-peloponeso-tuc%C3%ADdides/</guid>
+      <guid>http://localhost:1313/blog/entradas/guerra-del-peloponeso-tuc%C3%ADdides/</guid>
       <description>Woodruff, Paul., El Tucídides esencial: sobre la justicia, el poder y la naturaleza humana. Selecciones de La historia de la guerra del Peloponeso. Introducción. Traducción en español de Eduardo Alemán.</description>
     </item>
     <item>
       <title>El Ión de Platón: La traducción de Shelley (John Lauritsen)</title>
-      <link>http://localhost:1313/entradas/el-i%C3%B3n-de-plat%C3%B3n-la-traducci%C3%B3n-de-shelley/</link>
+      <link>http://localhost:1313/blog/entradas/el-i%C3%B3n-de-plat%C3%B3n-la-traducci%C3%B3n-de-shelley/</link>
       <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/el-i%C3%B3n-de-plat%C3%B3n-la-traducci%C3%B3n-de-shelley/</guid>
+      <guid>http://localhost:1313/blog/entradas/el-i%C3%B3n-de-plat%C3%B3n-la-traducci%C3%B3n-de-shelley/</guid>
       <description>A continuación la traducción que he hecho del prefacio y las notas de John Lauritsen en su edición del Ión de Platón traducido por Shelley.</description>
     </item>
     <item>
       <title>La estructura de los Anales de Tácito (Ronald Syme)</title>
-      <link>http://localhost:1313/entradas/xxi-la-estructura-de-los-anales/</link>
+      <link>http://localhost:1313/blog/entradas/xxi-la-estructura-de-los-anales/</link>
       <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/xxi-la-estructura-de-los-anales/</guid>
+      <guid>http://localhost:1313/blog/entradas/xxi-la-estructura-de-los-anales/</guid>
       <description>Syme, Ronald, Tacitus, 1958, Capítulo 21. Traducción en español de Eduardo Alemán.</description>
     </item>
     <item>
       <title>El último emperador pagano (H. C. Teitler)</title>
-      <link>http://localhost:1313/entradas/el-%C3%BAltimo-emperador-pagano/</link>
+      <link>http://localhost:1313/blog/entradas/el-%C3%BAltimo-emperador-pagano/</link>
       <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/el-%C3%BAltimo-emperador-pagano/</guid>
+      <guid>http://localhost:1313/blog/entradas/el-%C3%BAltimo-emperador-pagano/</guid>
       <description>Teitler, H. C., [The Last Pagan Emperor: Julian the Apostate and the War against Christianity](https://amzn.</description>
     </item>
     <item>
       <title>Papiros de Oxirrinco</title>
-      <link>http://localhost:1313/entradas/diccionario/papiros-de-oxirrinco/</link>
+      <link>http://localhost:1313/blog/entradas/diccionario/papiros-de-oxirrinco/</link>
       <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/diccionario/papiros-de-oxirrinco/</guid>
+      <guid>http://localhost:1313/blog/entradas/diccionario/papiros-de-oxirrinco/</guid>
       <description>Los Papiros de Oxirrinco son una colección monumental de manuscritos antiguos descubiertos en un sitio arqueológico en Oxirrinco (hoy El-Bahnasa), Egipto.</description>
     </item>
     <item>
       <title>Legiones romanas</title>
-      <link>http://localhost:1313/entradas/diccionario/legiones-romanas/</link>
+      <link>http://localhost:1313/blog/entradas/diccionario/legiones-romanas/</link>
       <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/diccionario/legiones-romanas/</guid>
+      <guid>http://localhost:1313/blog/entradas/diccionario/legiones-romanas/</guid>
       <description>[![Roman-legions-14-AD-Centrici-site-Keilo-Jack](https://upload.</description>
     </item>
   </channel>

@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Traducción on Blog de Eduardo Alemán</title>
-    <link>http://localhost:1313/categories/traducci%C3%B3n/</link>
+    <link>http://localhost:1313/blog/categories/traducci%C3%B3n/</link>
     <description>Recent content in Traducción on Blog de Eduardo Alemán</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>es-es</language>
     <lastBuildDate>Fri, 02 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/traducci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/categories/traducci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bibliografía esencial sobre Tácito y los Anales</title>
-      <link>http://localhost:1313/entradas/bibliograf%C3%ADa-anales-t%C3%A1cito/</link>
+      <link>http://localhost:1313/blog/entradas/bibliograf%C3%ADa-anales-t%C3%A1cito/</link>
       <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/bibliograf%C3%ADa-anales-t%C3%A1cito/</guid>
+      <guid>http://localhost:1313/blog/entradas/bibliograf%C3%ADa-anales-t%C3%A1cito/</guid>
       <description>Selección crítica de traducciones, comentarios por libro, estudios literarios y recepción moderna de los Anales de Tácito en inglés y español.</description>
     </item>
     <item>
       <title>Bibliografía esencial sobre Tucídides y la Guerra del Peloponeso</title>
-      <link>http://localhost:1313/entradas/bibliograf%C3%ADa-tuc%C3%ADdides/</link>
+      <link>http://localhost:1313/blog/entradas/bibliograf%C3%ADa-tuc%C3%ADdides/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/bibliograf%C3%ADa-tuc%C3%ADdides/</guid>
+      <guid>http://localhost:1313/blog/entradas/bibliograf%C3%ADa-tuc%C3%ADdides/</guid>
       <description>Selección crítica de traducciones, ediciones comentadas y estudios fundamentales sobre la Historia de la guerra del Peloponeso de Tucídides, en español e inglés.</description>
     </item>
     <item>
       <title>Plut. 69.2 y la transmisión del texto de Tucídides</title>
-      <link>http://localhost:1313/entradas/plut.69.2/</link>
+      <link>http://localhost:1313/blog/entradas/plut.69.2/</link>
       <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/plut.69.2/</guid>
+      <guid>http://localhost:1313/blog/entradas/plut.69.2/</guid>
       <description>Un análisis detallado del manuscrito Plut. 69.2 y su rol fundamental en la preservación y transmisión de la Historia de la Guerra del Peloponeso de Tucídides.</description>
     </item>
     <item>
       <title>La naturaleza de la computación: Capítulo 1. </title>
-      <link>http://localhost:1313/entradas/la-naturaleza-de-la-computaci%C3%B3n/</link>
+      <link>http://localhost:1313/blog/entradas/la-naturaleza-de-la-computaci%C3%B3n/</link>
       <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/la-naturaleza-de-la-computaci%C3%B3n/</guid>
+      <guid>http://localhost:1313/blog/entradas/la-naturaleza-de-la-computaci%C3%B3n/</guid>
       <description>Cómo Leonhard Euler resolvió el problema de los puentes de Königsberg y fundó una nueva forma de pensar: la teoría de grafos.</description>
     </item>
     <item>
       <title>La Polis: Una introducción a la antigua ciudad-estado griega (Herman Hansen De Mogen).</title>
-      <link>http://localhost:1313/entradas/la-polis-hansen/</link>
+      <link>http://localhost:1313/blog/entradas/la-polis-hansen/</link>
       <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/la-polis-hansen/</guid>
+      <guid>http://localhost:1313/blog/entradas/la-polis-hansen/</guid>
       <description>Hansen, Mogens Herman, Polis: An Introduction to the Ancient Greek City-State.</description>
     </item>
     <item>
       <title>Historia de la guerra del Peloponeso. Libro 1 (Tucídides).</title>
-      <link>http://localhost:1313/entradas/guerra-del-peloponeso-libro-1-tuc%C3%ADdides/</link>
+      <link>http://localhost:1313/blog/entradas/guerra-del-peloponeso-libro-1-tuc%C3%ADdides/</link>
       <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/guerra-del-peloponeso-libro-1-tuc%C3%ADdides/</guid>
+      <guid>http://localhost:1313/blog/entradas/guerra-del-peloponeso-libro-1-tuc%C3%ADdides/</guid>
       <description>Woodruff, Paul. El Tucídides esencial: sobre la justicia, el poder y la naturaleza humana. Selecciones de La historia de la guerra del Peloponeso. Libro I. Traducción en español de Eduardo Alemán.</description>
     </item>
     <item>
       <title>El número cristiano y sus implicaciones (Keith Hopkins)</title>
-      <link>http://localhost:1313/entradas/el-n%C3%BAmero-cristiano-y-sus-implicaciones/</link>
+      <link>http://localhost:1313/blog/entradas/el-n%C3%BAmero-cristiano-y-sus-implicaciones/</link>
       <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/el-n%C3%BAmero-cristiano-y-sus-implicaciones/</guid>
+      <guid>http://localhost:1313/blog/entradas/el-n%C3%BAmero-cristiano-y-sus-implicaciones/</guid>
       <description>Hopkins, Keith. El número cristiano y sus implicaciones, Sociological Studies in Roman History (Cambridge Classical Studies).</description>
     </item>
     <item>
       <title>Interpretando a Platón (E.N. Tigerstedt)</title>
-      <link>http://localhost:1313/entradas/interpretando-a-plat%C3%B3n/</link>
+      <link>http://localhost:1313/blog/entradas/interpretando-a-plat%C3%B3n/</link>
       <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/interpretando-a-plat%C3%B3n/</guid>
+      <guid>http://localhost:1313/blog/entradas/interpretando-a-plat%C3%B3n/</guid>
       <description>Tigerstedt, E. N., [Interpreting Plato](https://amzn.</description>
     </item>
     <item>
       <title>El Tucídides esencial (Paul Woodruff)</title>
-      <link>http://localhost:1313/entradas/guerra-del-peloponeso-tuc%C3%ADdides/</link>
+      <link>http://localhost:1313/blog/entradas/guerra-del-peloponeso-tuc%C3%ADdides/</link>
       <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/guerra-del-peloponeso-tuc%C3%ADdides/</guid>
+      <guid>http://localhost:1313/blog/entradas/guerra-del-peloponeso-tuc%C3%ADdides/</guid>
       <description>Woodruff, Paul., El Tucídides esencial: sobre la justicia, el poder y la naturaleza humana. Selecciones de La historia de la guerra del Peloponeso. Introducción. Traducción en español de Eduardo Alemán.</description>
     </item>
     <item>
       <title>El Ión de Platón: La traducción de Shelley (John Lauritsen)</title>
-      <link>http://localhost:1313/entradas/el-i%C3%B3n-de-plat%C3%B3n-la-traducci%C3%B3n-de-shelley/</link>
+      <link>http://localhost:1313/blog/entradas/el-i%C3%B3n-de-plat%C3%B3n-la-traducci%C3%B3n-de-shelley/</link>
       <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/el-i%C3%B3n-de-plat%C3%B3n-la-traducci%C3%B3n-de-shelley/</guid>
+      <guid>http://localhost:1313/blog/entradas/el-i%C3%B3n-de-plat%C3%B3n-la-traducci%C3%B3n-de-shelley/</guid>
       <description>A continuación la traducción que he hecho del prefacio y las notas de John Lauritsen en su edición del Ión de Platón traducido por Shelley.</description>
     </item>
     <item>
       <title>Fray Tomás de Aquino (Jaime A. Weisheipl)</title>
-      <link>http://localhost:1313/entradas/fraile-tom%C3%A1s-de-aquino/</link>
+      <link>http://localhost:1313/blog/entradas/fraile-tom%C3%A1s-de-aquino/</link>
       <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/fraile-tom%C3%A1s-de-aquino/</guid>
+      <guid>http://localhost:1313/blog/entradas/fraile-tom%C3%A1s-de-aquino/</guid>
       <description>Weisheipl, James A., [_Thomas D&amp;#39;Aquino: his life, thought, and work_](https://amzn.</description>
     </item>
     <item>
       <title>La estructura de los Anales de Tácito (Ronald Syme)</title>
-      <link>http://localhost:1313/entradas/xxi-la-estructura-de-los-anales/</link>
+      <link>http://localhost:1313/blog/entradas/xxi-la-estructura-de-los-anales/</link>
       <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/xxi-la-estructura-de-los-anales/</guid>
+      <guid>http://localhost:1313/blog/entradas/xxi-la-estructura-de-los-anales/</guid>
       <description>Syme, Ronald, Tacitus, 1958, Capítulo 21. Traducción en español de Eduardo Alemán.</description>
     </item>
     <item>
       <title>F. R. D. Goodyear, Obituario (Henry D. Jocelyn)</title>
-      <link>http://localhost:1313/entradas/obituario-goodyear/</link>
+      <link>http://localhost:1313/blog/entradas/obituario-goodyear/</link>
       <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/obituario-goodyear/</guid>
+      <guid>http://localhost:1313/blog/entradas/obituario-goodyear/</guid>
       <description>Jocelyn, H. D., _F. R. D. Goodyear_, 1988.</description>
     </item>
   </channel>

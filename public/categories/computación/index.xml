@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Computación on Blog de Eduardo Alemán</title>
-    <link>http://localhost:1313/categories/computaci%C3%B3n/</link>
+    <link>http://localhost:1313/blog/categories/computaci%C3%B3n/</link>
     <description>Recent content in Computación on Blog de Eduardo Alemán</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>es-es</language>
     <lastBuildDate>Sun, 20 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/computaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/categories/computaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>La naturaleza de la computación: Capítulo 1. </title>
-      <link>http://localhost:1313/entradas/la-naturaleza-de-la-computaci%C3%B3n/</link>
+      <link>http://localhost:1313/blog/entradas/la-naturaleza-de-la-computaci%C3%B3n/</link>
       <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/la-naturaleza-de-la-computaci%C3%B3n/</guid>
+      <guid>http://localhost:1313/blog/entradas/la-naturaleza-de-la-computaci%C3%B3n/</guid>
       <description>Cómo Leonhard Euler resolvió el problema de los puentes de Königsberg y fundó una nueva forma de pensar: la teoría de grafos.</description>
     </item>
     <item>
       <title>Origen y evolución de las funciones primitivas recursivas</title>
-      <link>http://localhost:1313/entradas/funciones_primitivas_recursivas/</link>
+      <link>http://localhost:1313/blog/entradas/funciones_primitivas_recursivas/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/funciones_primitivas_recursivas/</guid>
+      <guid>http://localhost:1313/blog/entradas/funciones_primitivas_recursivas/</guid>
       <description>Un recorrido histórico desde Skolem hasta Kleene sobre las funciones primitivas recursivas, su definición formal y su importancia en la teoría de la computación.</description>
     </item>
   </channel>

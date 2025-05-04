@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tomás De Aquino on Blog de Eduardo Alemán</title>
-    <link>http://localhost:1313/categories/tom%C3%A1s-de-aquino/</link>
+    <link>http://localhost:1313/blog/categories/tom%C3%A1s-de-aquino/</link>
     <description>Recent content in Tomás De Aquino on Blog de Eduardo Alemán</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>es-es</language>
     <lastBuildDate>Sat, 15 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/tom%C3%A1s-de-aquino/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/categories/tom%C3%A1s-de-aquino/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>De Platón a Penrose: una historia intelectual del alma y la consciencia</title>
-      <link>http://localhost:1313/entradas/de-platon-a-penrose/</link>
+      <link>http://localhost:1313/blog/entradas/de-platon-a-penrose/</link>
       <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/de-platon-a-penrose/</guid>
+      <guid>http://localhost:1313/blog/entradas/de-platon-a-penrose/</guid>
       <description>**De Platón a Penrose: una historia intelectual del alma y la consciencia** La historia de la filosofía es, en buena medida, una meditación continua sobre la</description>
     </item>
     <item>
       <title>Fray Tomás de Aquino (Jaime A. Weisheipl)</title>
-      <link>http://localhost:1313/entradas/fraile-tom%C3%A1s-de-aquino/</link>
+      <link>http://localhost:1313/blog/entradas/fraile-tom%C3%A1s-de-aquino/</link>
       <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/fraile-tom%C3%A1s-de-aquino/</guid>
+      <guid>http://localhost:1313/blog/entradas/fraile-tom%C3%A1s-de-aquino/</guid>
       <description>Weisheipl, James A., [_Thomas D&amp;#39;Aquino: his life, thought, and work_](https://amzn.</description>
     </item>
   </channel>

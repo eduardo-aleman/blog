@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Anales on Blog de Eduardo Alemán</title>
-    <link>http://localhost:1313/categories/anales/</link>
+    <link>http://localhost:1313/blog/categories/anales/</link>
     <description>Recent content in Anales on Blog de Eduardo Alemán</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>es-es</language>
     <lastBuildDate>Fri, 02 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/anales/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/categories/anales/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bibliografía esencial sobre Tácito y los Anales</title>
-      <link>http://localhost:1313/entradas/bibliograf%C3%ADa-anales-t%C3%A1cito/</link>
+      <link>http://localhost:1313/blog/entradas/bibliograf%C3%ADa-anales-t%C3%A1cito/</link>
       <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/bibliograf%C3%ADa-anales-t%C3%A1cito/</guid>
+      <guid>http://localhost:1313/blog/entradas/bibliograf%C3%ADa-anales-t%C3%A1cito/</guid>
       <description>Selección crítica de traducciones, comentarios por libro, estudios literarios y recepción moderna de los Anales de Tácito en inglés y español.</description>
     </item>
     <item>
       <title>La estructura de los Anales de Tácito (Ronald Syme)</title>
-      <link>http://localhost:1313/entradas/xxi-la-estructura-de-los-anales/</link>
+      <link>http://localhost:1313/blog/entradas/xxi-la-estructura-de-los-anales/</link>
       <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/entradas/xxi-la-estructura-de-los-anales/</guid>
+      <guid>http://localhost:1313/blog/entradas/xxi-la-estructura-de-los-anales/</guid>
       <description>Syme, Ronald, Tacitus, 1958, Capítulo 21. Traducción en español de Eduardo Alemán.</description>
     </item>
   </channel>
