@@ -2,7 +2,13 @@
 
 {{- if .Title }}
 <header class="page-header">
-    <h1>{{ .Title }}</h1>
+    <h1>
+        {{- if eq .Data.Singular "category" }}Categorías
+        {{- else if eq .Data.Singular "tag" }}Etiquetas
+        {{- else }}{{ .Title }}
+        {{- end }}
+      </h1>
+      
     {{- if .Description }}
     <div class="post-description">
         {{ .Description }}

@@ -35,5 +35,8 @@
 - id: post
   translation: "Entrada"
 
-- id: categories
-  translation: "Categorías"
+  Categories:
+  other: Categorías
+  Tags:
+  other: Etiquetas
+
