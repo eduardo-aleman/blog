@@ -47,7 +47,7 @@ languages:
       main:
         - identifier: categories
           name: categorías
-          url: /categories/
+          url: /categorias/
           weight: 10
         - identifier: archives
           name: archivos
