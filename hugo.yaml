@@ -1,8 +1,16 @@
 baseURL: https://ealeman.com/blog/
 title: Blog de Eduardo Alemán
 description: Blog en español de Eduardo Alemán.
-defaultContentLanguage: es
 defaultContentLanguageInSubdir: false
+
+defaultContentLanguage: es
+languages:
+  es:
+    languageName: Spanish
+    weight: 1
+  en:
+    languageName: English
+    weight: 2
 
 theme: ["PaperMod"]
 
