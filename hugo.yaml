@@ -15,7 +15,7 @@ languages:
 theme: ["PaperMod"]
 
 taxonomies:
-  category: categorias
+  category: categories
   tag: tags
   series: series
 
@@ -47,7 +47,7 @@ languages:
       main:
         - identifier: categories
           name: categorías
-          url: /categorias/
+          url: /categories/
           weight: 10
         - identifier: archives
           name: archivos
