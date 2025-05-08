@@ -2,9 +2,9 @@
 title: "Ediciones monumentales de Tucídides en inglés y español"
 date: "2025-05-06"
 cover:
-  image: ediciones-monumentales-tucidides.webp
-  alt: "Comparación de ediciones críticas de Tucídides en distintos idiomas"
-  caption: "Las ediciones más influyentes de Tucídides en inglés y español, desde Oxford hasta Gredos."
+  image: https://archive.org/services/img/historicalcommen0000gomm/full/pct:200/0/default.jpg
+  alt: "Portada del comentario histórico en cinco volúmenes de Gomme et al."
+  caption: "Portada del comentario histórico en cinco volúmenes de Gomme et al. insustituible para el análisis contextual."
   relative: false
 categories:
 - tucídides
