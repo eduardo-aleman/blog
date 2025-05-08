@@ -30,6 +30,20 @@
       <description></description>
     </item>
     <item>
+      <title>Ediciones Críticas</title>
+      <link>http://localhost:1313/blog/categories/ediciones-cr%C3%ADticas/</link>
+      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/categories/ediciones-cr%C3%ADticas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Traducción</title>
+      <link>http://localhost:1313/blog/categories/traducci%C3%B3n/</link>
+      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/categories/traducci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Anales</title>
       <link>http://localhost:1313/blog/categories/anales/</link>
       <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
@@ -55,13 +69,6 @@
       <link>http://localhost:1313/blog/categories/t%C3%A1cito/</link>
       <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/categories/t%C3%A1cito/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Traducción</title>
-      <link>http://localhost:1313/blog/categories/traducci%C3%B3n/</link>
-      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/traducci%C3%B3n/</guid>
       <description></description>
     </item>
     <item>
