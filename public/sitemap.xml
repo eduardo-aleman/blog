@@ -2,16 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/blog/categories/bibliograf%C3%ADa/</loc>
+    <lastmod>2025-05-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/entradas/tiberio/</loc>
+    <lastmod>2025-05-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/categories/</loc>
-    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/entradas/el-manuscrito-m%C3%A1s-confiable-de-tuc%C3%ADdides/</loc>
-    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/entradas/</loc>
+    <lastmod>2025-05-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/categories/historia-antig%C3%BCa/</loc>
+    <lastmod>2025-05-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/categories/roma/</loc>
+    <lastmod>2025-05-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/categories/tiberio/</loc>
+    <lastmod>2025-05-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/entradas/el-manuscrito-m%C3%A1s-confiable-de-tuc%C3%ADdides/</loc>
     <lastmod>2025-05-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/categories/historiograf%C3%ADa/</loc>
@@ -39,9 +54,6 @@
     <lastmod>2025-05-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/entradas/bibliograf%C3%ADa-anales-t%C3%A1cito/</loc>
-    <lastmod>2025-05-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/categories/roma/</loc>
     <lastmod>2025-05-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/categories/t%C3%A1cito/</loc>
