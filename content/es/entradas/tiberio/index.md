@@ -2,9 +2,9 @@
 title: "Bibliografía esencial sobre Tiberio"
 date: "2025-05-08"
 cover:
-  image: tiberio-recreado.webp
+  image: tiberio.webp
   alt: "Estatua de Tiberio en mármol, con toga imperial"
-  caption: "Detalle de una estatua de Tiberio en actitud solemne, representando el ideal imperial."
+  caption: "Retrato del emperador Tiberio – Museo Nacional del Prado. Descripción: Busto de mármol del emperador Tiberio, identificado como del tipo Berlín-Sorrento. Presenta añadidos barrocos en el busto, nariz y algunos detalles. Procedencia: Roma, siglo I d.C. Ubicación actual: Museo Nacional del Prado, Madrid."
   relative: false
 categories:
 - roma
