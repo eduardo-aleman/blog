@@ -1,11 +1,6 @@
 ---
 title: El número cristiano y sus implicaciones (Keith Hopkins).
 date: "2024-07-04"
-cover:
-image: pescado_este_eucaristía_catacumba_siglo_iii.webp
-alt: Pan y pez con formas eucarísticas, detalle del panel 27, 1 de la Catacumba de San Calixto, Roma, siglo III.
-caption: Pan y pez con formas eucarísticas, detalle del panel 27, 1 de la Catacumba de San Calixto, Roma, siglo III. Imagen extraída de la lámina 28 del libro de Joseph Wilpert, _Die Malereien der Katakomben Roms_. Freiburg i. Br. , 1903. Lámina disponible en el sitio Heidelberger historische Bestände – digital.
-relative: false
 categories:
   - keith hopkins
   - cristianismo primitivo

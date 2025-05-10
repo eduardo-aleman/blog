@@ -1,17 +1,6 @@
 ---
 title: Fray Tomás de Aquino (Jaime A. Weisheipl).
 date: '2024-06-14'
-cover:
-  image: Tomás_Aquino_Triunfo.webp
-  alt: 'Detalle de El triunfo de Santo Tomás de Aquino de Benozzo di Lese di Sandro,
-    llamado Benozzo Gozzoli. Tercer cuarto del siglo XV (1450 - 1475). Material: tempera
-    sobre madera. Tiene una altura de 2,3 m y un ancho de 1,02m. Procedente de la
-    Catedral de Pisa y actualmente en el museo del Louvre en París.'
-  caption: 'Detalle de El triunfo de Santo Tomás de Aquino de Benozzo di Lese di Sandro,
-    llamado Benozzo Gozzoli. Tercer cuarto del siglo XV (1450 - 1475). Material: tempera
-    sobre madera. Tiene una altura de 2,3 m y un ancho de 1,02m. Procedente de la
-    Catedral de Pisa y actualmente en el museo del Louvre en París. Permalink: https://collections.louvre.fr/ark:/53355/cl010064458.'
-  relative: false
 categories:
 - escolástica
 - jaime a weisheipl

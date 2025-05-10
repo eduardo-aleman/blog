@@ -2,11 +2,6 @@
 title: 'La Polis: Una introducción a la antigua ciudad-estado griega (Herman Hansen
   De Mogen).'
 date: '2024-07-12'
-cover:
-  image: Hefestión.webp
-  alt: El Hefestión visto desde el ágora en Atenas, Grecia. Foto de Eduardo Alemán.
-  caption: El Hefestión visto desde el ágora en Atenas, Grecia. Foto de Eduardo Alemán.
-  relative: false
 categories:
 - antigüedad
 - grecia

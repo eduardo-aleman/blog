@@ -1,16 +1,6 @@
 ---
 title: La estructura de los Anales de Tácito (Ronald Syme).
 date: '2024-05-22'
-cover:
-  image: Plut.68.1.2r.webp
-  alt: Primer manuscrito mediceo de Tácito.
-  caption: 'El primer manuscrito mediceo de Tácito, la fuente más antigua del texto
-    de los seis primeros libros de la obra que llamamos *Anales*, fue copiada en el
-    siglo IX de un manuscrito en minúsculas que había sido copiado de un manuscrito
-    en capiteles rústicos. Este manuscrito se encuentra en la Biblioteca Medicea Laurenziana.
-    Plut.68.1. Tacitus. Codex Laurentianus Mediceus 68.1. Phototypice editus Lugduni
-    Batavorum, A. W. Lijthoff, 1902 F.1.5 (7). Permalink: https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/1334704/rec/1.'
-  relative: false
 categories:
 - anales
 - antigüedad
