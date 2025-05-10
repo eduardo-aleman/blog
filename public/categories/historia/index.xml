@@ -6,15 +6,8 @@
     <description>Recent content in Historia on Blog de Eduardo Alemán</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>es</language>
-    <lastBuildDate>Wed, 16 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/categories/historia/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Origen y evolución de las funciones primitivas recursivas</title>
-      <link>http://localhost:1313/blog/entradas/funciones_primitivas_recursivas/</link>
-      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/entradas/funciones_primitivas_recursivas/</guid>
-      <description>Un recorrido histórico desde Skolem hasta Kleene sobre las funciones primitivas recursivas, su definición formal y su importancia en la teoría de la computación.</description>
-    </item>
     <item>
       <title>Notas acerca del libro “El amanecer de todo: Una nueva historia de la humanidad” de David Graeber y David Wengrow.</title>
       <link>http://localhost:1313/blog/entradas/amanecer-de-todo/</link>

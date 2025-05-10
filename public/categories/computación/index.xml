@@ -15,12 +15,5 @@
       <guid>http://localhost:1313/blog/entradas/la-naturaleza-de-la-computaci%C3%B3n/</guid>
       <description>Cómo Leonhard Euler resolvió el problema de los puentes de Königsberg y fundó una nueva forma de pensar: la teoría de grafos.</description>
     </item>
-    <item>
-      <title>Origen y evolución de las funciones primitivas recursivas</title>
-      <link>http://localhost:1313/blog/entradas/funciones_primitivas_recursivas/</link>
-      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/entradas/funciones_primitivas_recursivas/</guid>
-      <description>Un recorrido histórico desde Skolem hasta Kleene sobre las funciones primitivas recursivas, su definición formal y su importancia en la teoría de la computación.</description>
-    </item>
   </channel>
 </rss>
