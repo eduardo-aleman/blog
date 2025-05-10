@@ -18,10 +18,7 @@ categories:
 - medioevo
 - tomás de aquino
 - traducción
-description: 'Weisheipl, James A., Fray Tomás de Aquino. Su vida, pensamiento, y obras. '
 ---
-
-Weisheipl, James A., [_Thomas D'Aquino: his life, thought, and work_](https://amzn.to/4cZBWGD), 1983, Prefacio, Capítulo 1. Traducción en español de Eduardo Alemán.
 
 Fray Tomás de Aquino.  
 Su vida, pensamiento, y obras.  

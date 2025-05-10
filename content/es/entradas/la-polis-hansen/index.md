@@ -15,11 +15,7 @@ categories:
 - cultura de ciudad-estado
 - herman hansen de mogen
 - traducción
-description: 'Hansen, Mogens Herman, Polis: An Introduction to the Ancient Greek
-  City-State.'
 ---
-
-Hansen, Mogens Herman, [_Polis: An Introduction to the Ancient Greek City-State_](https://amzn.to/3zHpZqA), 2006, Introducción, Capítulo 1. Traducción en español de Eduardo Alemán.
 
 ## Para John Crook
 

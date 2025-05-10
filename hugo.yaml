@@ -30,6 +30,7 @@ languages:
     title: Blog de Eduardo Alemán
     params:
       subtitle: Traducciones, ensayos y opiniones
+      hideSummary: true
       ShowReadingTime: true
       hideFooter: true
       ShowShareButtons: true

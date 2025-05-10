@@ -13,11 +13,7 @@ categories:
 - juliano
 - roma
 - h c teitler
-description: 'Teitler, H. C., The Last Pagan Emperor: Julian the Apostate and the
-  War against Christianity.'
 ---
-
-Teitler, H. C., [The Last Pagan Emperor: Julian the Apostate and the War against Christianity](https://amzn.to/3KnMMJU), 2017, Introducción. Traducción en español de Eduardo Alemán. Fragmento.
 
 ### Introducción
 
