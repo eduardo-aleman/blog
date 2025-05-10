@@ -19,7 +19,7 @@ La prehistoria del ser humano moderno comenzó hace aproximadamente 200.000 año
 
 Un generoso registro arqueológico respalda la tesis principal del libro. A lo largo de cientos de páginas, los autores examinan dicho registro y construyen, con maestría y coherencia, una narrativa que constituye un verdadero monumento a la agencia humana. La obra, rica en referencias, resúmenes de descubrimientos e investigaciones, se presenta al lector como un gabinete de curiosidades —con material en su mayoría desconocido para el público general— que maravilla e instruye al mismo tiempo. Los argumentos, sólidos y generalmente bien desarrollados, reaparecen de forma espiral en cada capítulo. Esto no es solo un recurso mnemotécnico, sino también un elemento estético deliberado, que deja en el lector una impresión más profunda de los patrones que se van revelando y de la magnitud de la narrativa.
 
-A continuación, presento un resumen de las ideas principales de cada capítulo. Pero antes, una nota sobre la implicación de la tesis central del libro:
+A continuación, presento un resumen de las ideas principales de cada capítulo. Pero antes, una cita del libro donde se expresa la implicación y la importancia para el furo de la tesis central del libro:
 
 > Si es cierto que durante la mayor parte de su historia la humanidad experimentó con distintas formas de organización social, ¿por qué la inmensa mayoría de nosotros vivimos hoy bajo una forma tan específica —y a menudo opresiva— como lo es el Estado moderno?
 
