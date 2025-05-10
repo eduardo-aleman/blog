@@ -39,8 +39,8 @@ languages:
       math: true
       DateFormat: "02 Jan 2006"
       homeInfoParams:
-        Title: Bienvenidos
-        Content: Me da mucho gusto que estéis aquí.
+        Title: Traducciones y artículos
+        Content: 
       socialIcons:
         - name: github
           url: https://github.com/lampsacus
