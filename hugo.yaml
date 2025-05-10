@@ -29,7 +29,7 @@ languages:
     languageDirection: ltr
     title: Blog de Eduardo Alemán
     params:
-      subtitle: Traducciones y artículos
+      subtitle: Traducciones, resúmenes y notas
       hideSummary: true
       ShowReadingTime: true
       hideFooter: true
@@ -39,7 +39,7 @@ languages:
       math: true
       DateFormat: "02 Jan 2006"
       homeInfoParams:
-        Title: Traducciones y artículos
+        Title: Traducciones, resúmenes y notas
         Content: 
       socialIcons:
         - name: github

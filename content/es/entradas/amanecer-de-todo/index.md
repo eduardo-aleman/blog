@@ -1,5 +1,5 @@
 ---
-title: 'Notas acerca del libro “El amanecer de todo: Una nueva historia de la humanidad”
+title: 'Resumen del libro “El amanecer de todo: Una nueva historia de la humanidad”
   de David Graeber y David Wengrow.'
 date: '2024-07-25'
 categories:
