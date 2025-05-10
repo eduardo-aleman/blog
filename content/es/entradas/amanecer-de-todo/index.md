@@ -3,6 +3,7 @@ title: 'Resumen del libro “El amanecer de todo: Una nueva historia de la human
   de David Graeber y David Wengrow.'
 date: '2024-07-25'
 categories:
+- resumen
 - david graeber
 - david wengrow
 - antropología
