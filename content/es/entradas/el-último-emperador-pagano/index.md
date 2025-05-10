@@ -1,5 +1,5 @@
 ---
-title: El último emperador pagano (H. C. Teitler)
+title: El último emperador pagano (H. C. Teitler).
 date: '2024-04-16'
 cover:
   image: Juliano_Sólido_Bizantino.webp

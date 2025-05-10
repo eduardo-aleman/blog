@@ -1,5 +1,5 @@
 ---
-title: El número cristiano y sus implicaciones (Keith Hopkins)
+title: El número cristiano y sus implicaciones (Keith Hopkins).
 date: "2024-07-04"
 cover:
 image: pescado_este_eucaristía_catacumba_siglo_iii.webp

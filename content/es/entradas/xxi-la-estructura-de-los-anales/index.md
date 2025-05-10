@@ -1,5 +1,5 @@
 ---
-title: La estructura de los Anales de Tácito (Ronald Syme)
+title: La estructura de los Anales de Tácito (Ronald Syme).
 date: '2024-05-22'
 cover:
   image: Plut.68.1.2r.webp

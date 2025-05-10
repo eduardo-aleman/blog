@@ -1,5 +1,5 @@
 ---
-title: Procopio y el siglo sexto (Averil Cameron)
+title: Procopio y el siglo sexto (Averil Cameron).
 date: '2024-04-16'
 cover:
  image: Portada_Henry_Holcroft_Procopio.webp
