@@ -16,9 +16,9 @@ categories:
 - prehistoria
 - historia
 - anarquismo
-description: '### Resumen La idea central de “El amanecer de todo” es que la especie
+description: 'La idea central de “El amanecer de todo” es que la especie
   humana ha estado experimentando con diferentes formas de organizar la sociedad desde
-  un'
+  un principio.'
 ---
 
 ### Resumen

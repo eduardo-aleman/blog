@@ -2,7 +2,16 @@
 title: "La naturaleza de la computación: Capítulo 1. "
 date: 2025-04-20
 description: "Cómo Leonhard Euler resolvió el problema de los puentes de Königsberg y fundó una nueva forma de pensar: la teoría de grafos."
-categories: [matemáticas, computación, historia-de-la-ciencia, euler, teoría de grafos, traducción, königsberg, hamilton, hamiltoniano,]
+categories: 
+- matemáticas
+- computación
+- historia-de-la-ciencia
+- euler
+- teoría de grafos
+- traducción
+- königsberg
+- hamilton
+- hamiltoniano
 cover:
   image: "konigsberg-puentes.webp"
   alt: "Mapa antiguo de los puentes de Königsberg con sus puentes."
