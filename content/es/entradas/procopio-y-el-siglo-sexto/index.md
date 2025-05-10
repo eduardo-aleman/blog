@@ -17,7 +17,7 @@ categories:
 - justiniano
 - procopio
 - roma
-description: Cameron, Averil, [Procopius and the Sixth Century](https://amzn.
+description: Cameron, Averil, Procopius and the Sixth Century. Capítulo 1.
 ---
 
 Cameron, Averil, [Procopius and the Sixth Century](https://amzn.to/3VKS2wL), 1996, Capítulo 1. Traducción en español de Eduardo Alemán.
