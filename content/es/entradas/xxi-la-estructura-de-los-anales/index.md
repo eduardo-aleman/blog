@@ -5,7 +5,7 @@ cover:
   image: Plut.68.1.2r.webp
   alt: Primer manuscrito mediceo de Tácito.
   caption: 'El primer manuscrito mediceo de Tácito, la fuente más antigua del texto
-    de los seis primeros libros de la obra que llamamos _Anales_, fue copiada en el
+    de los seis primeros libros de la obra que llamamos *Anales*, fue copiada en el
     siglo IX de un manuscrito en minúsculas que había sido copiado de un manuscrito
     en capiteles rústicos. Este manuscrito se encuentra en la Biblioteca Medicea Laurenziana.
     Plut.68.1. Tacitus. Codex Laurentianus Mediceus 68.1. Phototypice editus Lugduni
