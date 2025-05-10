@@ -9,18 +9,11 @@
     <lastBuildDate>Sun, 20 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/categories/historia-de-la-ciencia/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>La naturaleza de la computación: Capítulo 1. </title>
+      <title>La naturaleza de la computación (Cristopher Moore y  Stephan Mertens).</title>
       <link>http://localhost:1313/blog/entradas/la-naturaleza-de-la-computaci%C3%B3n/</link>
       <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/entradas/la-naturaleza-de-la-computaci%C3%B3n/</guid>
       <description>Cómo Leonhard Euler resolvió el problema de los puentes de Königsberg y fundó una nueva forma de pensar: la teoría de grafos.</description>
-    </item>
-    <item>
-      <title>La identidad de Euler</title>
-      <link>http://localhost:1313/blog/entradas/identidad-de-euler/</link>
-      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/entradas/identidad-de-euler/</guid>
-      <description>Un recorrido por la célebre identidad de Euler, sus orígenes en el interés compuesto, su relación con el número e y su belleza en el contexto de las funciones trigonométricas y los números complejos.</description>
     </item>
   </channel>
 </rss>
