@@ -1,2 +1,2 @@
-Mi nuevo blog.
-My new blog.
+Un blog personal. Usando Hugo.
+A personal blog. Using Hugo.
