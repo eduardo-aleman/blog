@@ -43,7 +43,7 @@ languages:
         Content: 
       socialIcons:
         - name: github
-          url: https://github.com/lampsacus
+          url: https://github.com/lampsacus/blog
     menu:
       main:
         - identifier: categories
