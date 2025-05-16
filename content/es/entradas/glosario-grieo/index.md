@@ -1,16 +1,12 @@
 ---
 title: "Glosario de términos griegos antiguos"
-date: 2025-05-16
+date: 2025-05-15
+description: "Glosario de 500 términos griegos antiguos clasificados por orden alfabético y por categoría temática, con transliteración precisa y glosas en español."
 categories:
 - glosario
 - griego
 - léxico
-toc: true
-type: docs
-sidebar:
-  open: true
-description: "Glosario de 500 términos griegos antiguos clasificados por orden alfabético y por categoría temática, con transliteración precisa y glosas en español."
-draft: false
+toc: false
 ---
 
 ## Índice alfabético
