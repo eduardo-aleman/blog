@@ -71,7 +71,7 @@ categories:
 
 ---
 
-## Secciones alfabéticas
+<!-- ## Secciones alfabéticas -->
 
 ### α
 - **αἰδώς** (*aidṓs*): reverencia, respeto
