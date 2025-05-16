@@ -2,304 +2,304 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Blog de Eduardo Alemán</title>
-    <link>http://localhost:1313/blog/categories/</link>
+    <link>http://localhost:49911/blog/categories/</link>
     <description>Recent content in Categories on Blog de Eduardo Alemán</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>es</language>
     <lastBuildDate>Fri, 16 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:49911/blog/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Glosario</title>
-      <link>http://localhost:1313/blog/categories/glosario/</link>
+      <link>http://localhost:49911/blog/categories/glosario/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/glosario/</guid>
+      <guid>http://localhost:49911/blog/categories/glosario/</guid>
       <description></description>
     </item>
     <item>
       <title>Griego</title>
-      <link>http://localhost:1313/blog/categories/griego/</link>
+      <link>http://localhost:49911/blog/categories/griego/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/griego/</guid>
+      <guid>http://localhost:49911/blog/categories/griego/</guid>
       <description></description>
     </item>
     <item>
       <title>Léxico</title>
-      <link>http://localhost:1313/blog/categories/l%C3%A9xico/</link>
+      <link>http://localhost:49911/blog/categories/l%C3%A9xico/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/l%C3%A9xico/</guid>
+      <guid>http://localhost:49911/blog/categories/l%C3%A9xico/</guid>
       <description></description>
     </item>
     <item>
       <title>Computación</title>
-      <link>http://localhost:1313/blog/categories/computaci%C3%B3n/</link>
+      <link>http://localhost:49911/blog/categories/computaci%C3%B3n/</link>
       <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/computaci%C3%B3n/</guid>
+      <guid>http://localhost:49911/blog/categories/computaci%C3%B3n/</guid>
       <description></description>
     </item>
     <item>
       <title>Euler</title>
-      <link>http://localhost:1313/blog/categories/euler/</link>
+      <link>http://localhost:49911/blog/categories/euler/</link>
       <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/euler/</guid>
+      <guid>http://localhost:49911/blog/categories/euler/</guid>
       <description></description>
     </item>
     <item>
       <title>Hamilton</title>
-      <link>http://localhost:1313/blog/categories/hamilton/</link>
+      <link>http://localhost:49911/blog/categories/hamilton/</link>
       <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/hamilton/</guid>
+      <guid>http://localhost:49911/blog/categories/hamilton/</guid>
       <description></description>
     </item>
     <item>
       <title>Hamiltoniano</title>
-      <link>http://localhost:1313/blog/categories/hamiltoniano/</link>
+      <link>http://localhost:49911/blog/categories/hamiltoniano/</link>
       <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/hamiltoniano/</guid>
+      <guid>http://localhost:49911/blog/categories/hamiltoniano/</guid>
       <description></description>
     </item>
     <item>
       <title>Historia-De-La-Ciencia</title>
-      <link>http://localhost:1313/blog/categories/historia-de-la-ciencia/</link>
+      <link>http://localhost:49911/blog/categories/historia-de-la-ciencia/</link>
       <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/historia-de-la-ciencia/</guid>
+      <guid>http://localhost:49911/blog/categories/historia-de-la-ciencia/</guid>
       <description></description>
     </item>
     <item>
       <title>Königsberg</title>
-      <link>http://localhost:1313/blog/categories/k%C3%B6nigsberg/</link>
+      <link>http://localhost:49911/blog/categories/k%C3%B6nigsberg/</link>
       <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/k%C3%B6nigsberg/</guid>
+      <guid>http://localhost:49911/blog/categories/k%C3%B6nigsberg/</guid>
       <description></description>
     </item>
     <item>
       <title>Matemáticas</title>
-      <link>http://localhost:1313/blog/categories/matem%C3%A1ticas/</link>
+      <link>http://localhost:49911/blog/categories/matem%C3%A1ticas/</link>
       <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/matem%C3%A1ticas/</guid>
+      <guid>http://localhost:49911/blog/categories/matem%C3%A1ticas/</guid>
       <description></description>
     </item>
     <item>
       <title>Teoría De Grafos</title>
-      <link>http://localhost:1313/blog/categories/teor%C3%ADa-de-grafos/</link>
+      <link>http://localhost:49911/blog/categories/teor%C3%ADa-de-grafos/</link>
       <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/teor%C3%ADa-de-grafos/</guid>
+      <guid>http://localhost:49911/blog/categories/teor%C3%ADa-de-grafos/</guid>
       <description></description>
     </item>
     <item>
       <title>Traducción</title>
-      <link>http://localhost:1313/blog/categories/traducci%C3%B3n/</link>
+      <link>http://localhost:49911/blog/categories/traducci%C3%B3n/</link>
       <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/traducci%C3%B3n/</guid>
+      <guid>http://localhost:49911/blog/categories/traducci%C3%B3n/</guid>
       <description></description>
     </item>
     <item>
       <title>Anarquismo</title>
-      <link>http://localhost:1313/blog/categories/anarquismo/</link>
+      <link>http://localhost:49911/blog/categories/anarquismo/</link>
       <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/anarquismo/</guid>
+      <guid>http://localhost:49911/blog/categories/anarquismo/</guid>
       <description></description>
     </item>
     <item>
       <title>Antropología</title>
-      <link>http://localhost:1313/blog/categories/antropolog%C3%ADa/</link>
+      <link>http://localhost:49911/blog/categories/antropolog%C3%ADa/</link>
       <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/antropolog%C3%ADa/</guid>
+      <guid>http://localhost:49911/blog/categories/antropolog%C3%ADa/</guid>
       <description></description>
     </item>
     <item>
       <title>Arquelogía</title>
-      <link>http://localhost:1313/blog/categories/arquelog%C3%ADa/</link>
+      <link>http://localhost:49911/blog/categories/arquelog%C3%ADa/</link>
       <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/arquelog%C3%ADa/</guid>
+      <guid>http://localhost:49911/blog/categories/arquelog%C3%ADa/</guid>
       <description></description>
     </item>
     <item>
       <title>David Graeber</title>
-      <link>http://localhost:1313/blog/categories/david-graeber/</link>
+      <link>http://localhost:49911/blog/categories/david-graeber/</link>
       <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/david-graeber/</guid>
+      <guid>http://localhost:49911/blog/categories/david-graeber/</guid>
       <description></description>
     </item>
     <item>
       <title>David Wengrow</title>
-      <link>http://localhost:1313/blog/categories/david-wengrow/</link>
+      <link>http://localhost:49911/blog/categories/david-wengrow/</link>
       <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/david-wengrow/</guid>
+      <guid>http://localhost:49911/blog/categories/david-wengrow/</guid>
       <description></description>
     </item>
     <item>
       <title>Historia</title>
-      <link>http://localhost:1313/blog/categories/historia/</link>
+      <link>http://localhost:49911/blog/categories/historia/</link>
       <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/historia/</guid>
+      <guid>http://localhost:49911/blog/categories/historia/</guid>
       <description></description>
     </item>
     <item>
       <title>Prehistoria</title>
-      <link>http://localhost:1313/blog/categories/prehistoria/</link>
+      <link>http://localhost:49911/blog/categories/prehistoria/</link>
       <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/prehistoria/</guid>
+      <guid>http://localhost:49911/blog/categories/prehistoria/</guid>
       <description></description>
     </item>
     <item>
       <title>Resumen</title>
-      <link>http://localhost:1313/blog/categories/resumen/</link>
+      <link>http://localhost:49911/blog/categories/resumen/</link>
       <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/resumen/</guid>
+      <guid>http://localhost:49911/blog/categories/resumen/</guid>
       <description></description>
     </item>
     <item>
       <title>Antigüedad</title>
-      <link>http://localhost:1313/blog/categories/antig%C3%BCedad/</link>
+      <link>http://localhost:49911/blog/categories/antig%C3%BCedad/</link>
       <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/antig%C3%BCedad/</guid>
+      <guid>http://localhost:49911/blog/categories/antig%C3%BCedad/</guid>
       <description></description>
     </item>
     <item>
       <title>Ciudad-Estado</title>
-      <link>http://localhost:1313/blog/categories/ciudad-estado/</link>
+      <link>http://localhost:49911/blog/categories/ciudad-estado/</link>
       <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/ciudad-estado/</guid>
+      <guid>http://localhost:49911/blog/categories/ciudad-estado/</guid>
       <description></description>
     </item>
     <item>
       <title>Cultura De Ciudad-Estado</title>
-      <link>http://localhost:1313/blog/categories/cultura-de-ciudad-estado/</link>
+      <link>http://localhost:49911/blog/categories/cultura-de-ciudad-estado/</link>
       <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/cultura-de-ciudad-estado/</guid>
+      <guid>http://localhost:49911/blog/categories/cultura-de-ciudad-estado/</guid>
       <description></description>
     </item>
     <item>
       <title>Grecia</title>
-      <link>http://localhost:1313/blog/categories/grecia/</link>
+      <link>http://localhost:49911/blog/categories/grecia/</link>
       <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/grecia/</guid>
+      <guid>http://localhost:49911/blog/categories/grecia/</guid>
       <description></description>
     </item>
     <item>
       <title>Herman Hansen De Mogen</title>
-      <link>http://localhost:1313/blog/categories/herman-hansen-de-mogen/</link>
+      <link>http://localhost:49911/blog/categories/herman-hansen-de-mogen/</link>
       <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/herman-hansen-de-mogen/</guid>
+      <guid>http://localhost:49911/blog/categories/herman-hansen-de-mogen/</guid>
       <description></description>
     </item>
     <item>
       <title>Polis</title>
-      <link>http://localhost:1313/blog/categories/polis/</link>
+      <link>http://localhost:49911/blog/categories/polis/</link>
       <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/polis/</guid>
+      <guid>http://localhost:49911/blog/categories/polis/</guid>
       <description></description>
     </item>
     <item>
       <title>Cristianismo Primitivo</title>
-      <link>http://localhost:1313/blog/categories/cristianismo-primitivo/</link>
+      <link>http://localhost:49911/blog/categories/cristianismo-primitivo/</link>
       <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/cristianismo-primitivo/</guid>
+      <guid>http://localhost:49911/blog/categories/cristianismo-primitivo/</guid>
       <description></description>
     </item>
     <item>
       <title>Keith Hopkins</title>
-      <link>http://localhost:1313/blog/categories/keith-hopkins/</link>
+      <link>http://localhost:49911/blog/categories/keith-hopkins/</link>
       <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/keith-hopkins/</guid>
+      <guid>http://localhost:49911/blog/categories/keith-hopkins/</guid>
       <description></description>
     </item>
     <item>
       <title>Escolástica</title>
-      <link>http://localhost:1313/blog/categories/escol%C3%A1stica/</link>
+      <link>http://localhost:49911/blog/categories/escol%C3%A1stica/</link>
       <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/escol%C3%A1stica/</guid>
+      <guid>http://localhost:49911/blog/categories/escol%C3%A1stica/</guid>
       <description></description>
     </item>
     <item>
       <title>Jaime a Weisheipl</title>
-      <link>http://localhost:1313/blog/categories/jaime-a-weisheipl/</link>
+      <link>http://localhost:49911/blog/categories/jaime-a-weisheipl/</link>
       <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/jaime-a-weisheipl/</guid>
+      <guid>http://localhost:49911/blog/categories/jaime-a-weisheipl/</guid>
       <description></description>
     </item>
     <item>
       <title>Medioevo</title>
-      <link>http://localhost:1313/blog/categories/medioevo/</link>
+      <link>http://localhost:49911/blog/categories/medioevo/</link>
       <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/medioevo/</guid>
+      <guid>http://localhost:49911/blog/categories/medioevo/</guid>
       <description></description>
     </item>
     <item>
       <title>Tomás De Aquino</title>
-      <link>http://localhost:1313/blog/categories/tom%C3%A1s-de-aquino/</link>
+      <link>http://localhost:49911/blog/categories/tom%C3%A1s-de-aquino/</link>
       <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/tom%C3%A1s-de-aquino/</guid>
+      <guid>http://localhost:49911/blog/categories/tom%C3%A1s-de-aquino/</guid>
       <description></description>
     </item>
     <item>
       <title>Anales</title>
-      <link>http://localhost:1313/blog/categories/anales/</link>
+      <link>http://localhost:49911/blog/categories/anales/</link>
       <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/anales/</guid>
+      <guid>http://localhost:49911/blog/categories/anales/</guid>
       <description></description>
     </item>
     <item>
       <title>Roma</title>
-      <link>http://localhost:1313/blog/categories/roma/</link>
+      <link>http://localhost:49911/blog/categories/roma/</link>
       <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/roma/</guid>
+      <guid>http://localhost:49911/blog/categories/roma/</guid>
       <description></description>
     </item>
     <item>
       <title>Ronald Syme</title>
-      <link>http://localhost:1313/blog/categories/ronald-syme/</link>
+      <link>http://localhost:49911/blog/categories/ronald-syme/</link>
       <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/ronald-syme/</guid>
+      <guid>http://localhost:49911/blog/categories/ronald-syme/</guid>
       <description></description>
     </item>
     <item>
       <title>Tácito</title>
-      <link>http://localhost:1313/blog/categories/t%C3%A1cito/</link>
+      <link>http://localhost:49911/blog/categories/t%C3%A1cito/</link>
       <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/t%C3%A1cito/</guid>
+      <guid>http://localhost:49911/blog/categories/t%C3%A1cito/</guid>
       <description></description>
     </item>
     <item>
       <title>Constantinopla</title>
-      <link>http://localhost:1313/blog/categories/constantinopla/</link>
+      <link>http://localhost:49911/blog/categories/constantinopla/</link>
       <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/constantinopla/</guid>
+      <guid>http://localhost:49911/blog/categories/constantinopla/</guid>
       <description></description>
     </item>
     <item>
       <title>Emperadores</title>
-      <link>http://localhost:1313/blog/categories/emperadores/</link>
+      <link>http://localhost:49911/blog/categories/emperadores/</link>
       <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/emperadores/</guid>
+      <guid>http://localhost:49911/blog/categories/emperadores/</guid>
       <description></description>
     </item>
     <item>
       <title>H C Teitler</title>
-      <link>http://localhost:1313/blog/categories/h-c-teitler/</link>
+      <link>http://localhost:49911/blog/categories/h-c-teitler/</link>
       <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/h-c-teitler/</guid>
+      <guid>http://localhost:49911/blog/categories/h-c-teitler/</guid>
       <description></description>
     </item>
     <item>
       <title>Juliano</title>
-      <link>http://localhost:1313/blog/categories/juliano/</link>
+      <link>http://localhost:49911/blog/categories/juliano/</link>
       <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/juliano/</guid>
+      <guid>http://localhost:49911/blog/categories/juliano/</guid>
       <description></description>
     </item>
     <item>
       <title>Justiniano</title>
-      <link>http://localhost:1313/blog/categories/justiniano/</link>
+      <link>http://localhost:49911/blog/categories/justiniano/</link>
       <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/justiniano/</guid>
+      <guid>http://localhost:49911/blog/categories/justiniano/</guid>
       <description></description>
     </item>
     <item>
       <title>Procopio</title>
-      <link>http://localhost:1313/blog/categories/procopio/</link>
+      <link>http://localhost:49911/blog/categories/procopio/</link>
       <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/procopio/</guid>
+      <guid>http://localhost:49911/blog/categories/procopio/</guid>
       <description></description>
     </item>
   </channel>

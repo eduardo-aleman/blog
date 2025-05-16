@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Euler on Blog de Eduardo Alemán</title>
-    <link>http://localhost:1313/blog/categories/euler/</link>
+    <link>http://localhost:49911/blog/categories/euler/</link>
     <description>Recent content in Euler on Blog de Eduardo Alemán</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>es</language>
     <lastBuildDate>Sun, 20 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/categories/euler/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:49911/blog/categories/euler/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>La naturaleza de la computación (Cristopher Moore y  Stephan Mertens).</title>
-      <link>http://localhost:1313/blog/entradas/la-naturaleza-de-la-computaci%C3%B3n/</link>
+      <link>http://localhost:49911/blog/entradas/la-naturaleza-de-la-computaci%C3%B3n/</link>
       <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/entradas/la-naturaleza-de-la-computaci%C3%B3n/</guid>
+      <guid>http://localhost:49911/blog/entradas/la-naturaleza-de-la-computaci%C3%B3n/</guid>
       <description>Cómo Leonhard Euler resolvió el problema de los puentes de Königsberg y fundó una nueva forma de pensar: la teoría de grafos.</description>
     </item>
   </channel>

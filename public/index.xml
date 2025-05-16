@@ -2,56 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blog de Eduardo Alemán</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>http://localhost:49911/blog/</link>
     <description>Recent content on Blog de Eduardo Alemán</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>es</language>
     <lastBuildDate>Fri, 16 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:49911/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Glosario de términos griegos antiguos</title>
-      <link>http://localhost:1313/blog/entradas/glosario-grieo/</link>
+      <link>http://localhost:49911/blog/entradas/glosario-grieo/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/entradas/glosario-grieo/</guid>
+      <guid>http://localhost:49911/blog/entradas/glosario-grieo/</guid>
       <description>Glosario de 500 términos griegos antiguos clasificados por orden alfabético y por categoría temática, con transliteración precisa y glosas en español.</description>
     </item>
     <item>
       <title>La naturaleza de la computación (Cristopher Moore y  Stephan Mertens).</title>
-      <link>http://localhost:1313/blog/entradas/la-naturaleza-de-la-computaci%C3%B3n/</link>
+      <link>http://localhost:49911/blog/entradas/la-naturaleza-de-la-computaci%C3%B3n/</link>
       <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/entradas/la-naturaleza-de-la-computaci%C3%B3n/</guid>
+      <guid>http://localhost:49911/blog/entradas/la-naturaleza-de-la-computaci%C3%B3n/</guid>
       <description>Cómo Leonhard Euler resolvió el problema de los puentes de Königsberg y fundó una nueva forma de pensar: la teoría de grafos.</description>
     </item>
     <item>
       <title>Resumen del libro “El amanecer de todo: Una nueva historia de la humanidad” de David Graeber y David Wengrow.</title>
-      <link>http://localhost:1313/blog/entradas/amanecer-de-todo/</link>
+      <link>http://localhost:49911/blog/entradas/amanecer-de-todo/</link>
       <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/entradas/amanecer-de-todo/</guid>
+      <guid>http://localhost:49911/blog/entradas/amanecer-de-todo/</guid>
       <description>&lt;p&gt;La idea central de &lt;em&gt;El amanecer de todo&lt;/em&gt; es que la especie humana ha estado experimentando con diversas formas de organización social desde sus orígenes. El &lt;em&gt;Homo sapiens&lt;/em&gt;, tal como lo afirmó Aristóteles, es un animal político. A lo largo de los siglos, el ser humano ha debido escoger, negociar, imaginar y poner en práctica distintas formas de convivencia, lo que, a su vez, ha definido su &lt;em&gt;ethos&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;La prehistoria del ser humano moderno comenzó hace aproximadamente 200.000 años en diversas regiones del continente africano (no únicamente en la sabana). Los autores del libro, David Graeber (antropólogo, fallecido lamentablemente en septiembre de 2020, pocos meses antes de la publicación de la obra) y David Wengrow (arqueólogo), enfocan su análisis en los últimos 30.000 años.&lt;/p&gt;</description>
     </item>
     <item>
       <title>La Polis: Una introducción a la antigua ciudad-estado griega (Herman Hansen De Mogen).</title>
-      <link>http://localhost:1313/blog/entradas/la-polis-hansen/</link>
+      <link>http://localhost:49911/blog/entradas/la-polis-hansen/</link>
       <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/entradas/la-polis-hansen/</guid>
+      <guid>http://localhost:49911/blog/entradas/la-polis-hansen/</guid>
       <description>&lt;h2 id=&#34;para-john-crook&#34;&gt;Para John Crook&lt;/h2&gt;
 &lt;p&gt;Este libro es una versión ampliada y revisada de mi libro en danés: &lt;em&gt;Polis: den oldgræsk bystatskultur&lt;/em&gt; (Copenhague, 2004). Cuando se publicó, envié copias a colegas y amigos, incluido, por supuesto, John Crook. Le gustó y se ofreció a producir una versión en inglés. Ofrecida la oportunidad, acepté la propuesta con gratitud; recuerdo los momentos felices que pasamos juntos en el invierno y la primavera de 1990 trabajando en la traducción de &lt;em&gt;La democracia ateniense en la época de Demóstenes&lt;/em&gt;. Tuvimos una repetición de eso en agosto de 2002 al traducir mi ensayo sobre &lt;em&gt;The Triumph of Time: Reflections of a Historian about Time in History&lt;/em&gt;. Esta primavera lo hicimos por tercera vez y aquí está el resultado. Permítanme aprovechar esta oportunidad para agradecer a John Crook por su amistad y todo lo que he aprendido de él durante más de treinta años y, por supuesto, por los agradables días que pasamos juntos en Cambridge trabajando en la traducción y transmitiéndola a mi fiel seguidor: Ollie el segundo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>El número cristiano y sus implicaciones (Keith Hopkins).</title>
-      <link>http://localhost:1313/blog/entradas/el-n%C3%BAmero-cristiano-y-sus-implicaciones/</link>
+      <link>http://localhost:49911/blog/entradas/el-n%C3%BAmero-cristiano-y-sus-implicaciones/</link>
       <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/entradas/el-n%C3%BAmero-cristiano-y-sus-implicaciones/</guid>
+      <guid>http://localhost:49911/blog/entradas/el-n%C3%BAmero-cristiano-y-sus-implicaciones/</guid>
       <description>&lt;h3 id=&#34;introducción&#34;&gt;Introducción&lt;/h3&gt;
 &lt;p&gt;Este artículo es un experimento tanto en método como en sustancia. En esencia, quiero mostrar que, con toda probabilidad, hubo muy pocos cristianos en el mundo romano, al menos hasta finales del siglo II. Luego exploro las implicaciones de un número pequeño, tanto en términos absolutos como en proporción a la población total del imperio. 1&lt;/p&gt;
 &lt;p&gt;Una conclusión provisional pero radical es que el cristianismo fue, durante un siglo después de la muerte de Jesús, propiedad intelectual de apenas unas pocas docenas, tal vez llegando hasta los doscientos, de varones adultos alfabetizados, dispersos por toda la cuenca mediterránea. Una conclusión complementaria (por supuesto, bien conocida en principio, pero no explorada a menudo por sus implicaciones) es que, con diferencia, el mayor crecimiento en el número de cristianos tuvo lugar en dos fases distintas: primero, durante el siglo III, cuando los cristianos y sus líderes eran las víctimas de persecuciones por todo el imperio y estas eran organizadas centralmente ; y luego en el siglo IV, tras la conversión de Constantino y la alianza de la Iglesia con el Estado romano bajo sucesivos emperadores. El pequeño tamaño de la iglesia primitiva y la escala y velocidad de su crecimiento posterior tuvieron importantes implicaciones para el carácter y la organización del cristianismo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fray Tomás de Aquino (Jaime A. Weisheipl).</title>
-      <link>http://localhost:1313/blog/entradas/fraile-tom%C3%A1s-de-aquino/</link>
+      <link>http://localhost:49911/blog/entradas/fraile-tom%C3%A1s-de-aquino/</link>
       <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/entradas/fraile-tom%C3%A1s-de-aquino/</guid>
+      <guid>http://localhost:49911/blog/entradas/fraile-tom%C3%A1s-de-aquino/</guid>
       <description>&lt;p&gt;Fray Tomás de Aquino.&lt;br&gt;
 Su vida, pensamiento, y obras.&lt;br&gt;
 Jaime A. Weisheipl, O.P. (Ordinis Praedicatorum).&lt;br&gt;
@@ -61,24 +61,24 @@ Instituto Pontificio de Estudios Medievales de Toronto.&lt;/p&gt;
     </item>
     <item>
       <title>La estructura de los Anales de Tácito (Ronald Syme).</title>
-      <link>http://localhost:1313/blog/entradas/xxi-la-estructura-de-los-anales/</link>
+      <link>http://localhost:49911/blog/entradas/xxi-la-estructura-de-los-anales/</link>
       <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/entradas/xxi-la-estructura-de-los-anales/</guid>
+      <guid>http://localhost:49911/blog/entradas/xxi-la-estructura-de-los-anales/</guid>
       <description>&lt;p&gt;Cornelio Tácito decidió comenzar con la muerte de Augusto. Lo que sobrevive de sus anales de los Césares desde Tiberio hasta Nerón (en su mayor parte no mucho más de la mitad) indica una estructura de tres grupos, cada uno de los cuales contiene seis libros. La primera héxada abarca el principado de Tiberio, en dos porciones iguales, marcada y explícitamente divididas. Que el reinado de un César haya sido dividido en dos partes, la primera marcada por la esperanza y la profesión de buen gobierno (y a menudo también su desempeño), la segunda en declive o corrupta y al borde de la inevitable discordia y calamidad, no fue simplemente una persuasión del vulgo o un esquema literario conveniente, tal como se muestra en el modo más crudo en las operaciones de un biógrafo: no pocas veces se correspondía con los hechos de un gobierno autocrático y, aunque no fuera del todo válido, bien podría ser confirmado más allá de toda duda por un asesinato, por una revolución, o por la negativa del Senado a consagrar al difunto emperador.&lt;/p&gt;</description>
     </item>
     <item>
       <title>El último emperador pagano (H. C. Teitler).</title>
-      <link>http://localhost:1313/blog/entradas/el-%C3%BAltimo-emperador-pagano/</link>
+      <link>http://localhost:49911/blog/entradas/el-%C3%BAltimo-emperador-pagano/</link>
       <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/entradas/el-%C3%BAltimo-emperador-pagano/</guid>
+      <guid>http://localhost:49911/blog/entradas/el-%C3%BAltimo-emperador-pagano/</guid>
       <description>&lt;h3 id=&#34;introducción&#34;&gt;Introducción&lt;/h3&gt;
 &lt;p&gt;Flavio Claudio Juliano, más conocido como Juliano el Apóstata, murió en la noche del 26 al 27 de junio de 363 d.C. Había gobernado el Imperio Romano durante menos de veinte meses cuando fue herido cerca de la moderna Bagdad por una lanza de caballería que le atravesó las costillas y se alojó en la parte inferior del hígado. El joven emperador, que había nacido en Constantinopla en 331 ó 332, murió pocas horas después.1&lt;/p&gt;</description>
     </item>
     <item>
       <title>Procopio y el siglo sexto (Averil Cameron).</title>
-      <link>http://localhost:1313/blog/entradas/procopio-y-el-siglo-sexto/</link>
+      <link>http://localhost:49911/blog/entradas/procopio-y-el-siglo-sexto/</link>
       <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/entradas/procopio-y-el-siglo-sexto/</guid>
+      <guid>http://localhost:49911/blog/entradas/procopio-y-el-siglo-sexto/</guid>
       <description>&lt;p&gt;Con las obras de Procopio de Cesarea encontramos de forma aguda el problema del predominio de un solo autor en la historia de un período importante. Los libros &lt;em&gt;Guerras, Historia secreta&lt;/em&gt; y &lt;em&gt;Edificios&lt;/em&gt; de Procopio no sólo representan la principal fuente histórica del reinado de Justiniano (527-65 d. C. ), sino que con frecuencia constituyen la única fuente. Como hace Tucídides con la Guerra del Peloponeso, o Tácito con el Imperio temprano, Procopio proporciona el filtro a través del cual debemos ver el reinado de Justiniano. Es el principal historiador griego de la Antigüedad tardía, tal vez incluso de Bizancio en su conjunto, y la comprensión adecuada de sus obras es crucial para muchas cuestiones, entre ellas la de la transición del mundo antiguo al medieval. Es a la vez un escritor tradicional y un producto de su época. Pero sus obras generalmente han sido consideradas tan marcadamente diferentes que el problema de encontrar una explicación para estas diferencias ha preocupado a la literatura secundaria. La mayoría de las veces se ha resuelto por el simple medio de tomar la forma más evidentemente clasicista. &lt;em&gt;Guerras&lt;/em&gt; como texto básico (y preferible), y luego de alguna manera explicando el notorio &lt;em&gt;Historia secreta&lt;/em&gt; y el desagradable &lt;em&gt;Edificios&lt;/em&gt;. Este enfoque ha resultado demasiado familiar en el campo de la literatura bizantina. 1 En el caso de Procopio, ha habido dos estrategias principales: negarle la autoría de la &lt;em&gt;Historia secreta&lt;/em&gt; en conjunto (la visión más extrema y ahora desacreditada) o más comúnmente para explicar las diferencias en términos de su psicología, sus respuestas a circunstancias personales y políticas cambiantes. El problema con este último enfoque, sin embargo, es que la datación de &lt;em&gt;Edificios&lt;/em&gt;, y en algunas opiniones también la de la &lt;em&gt;Historia secreta&lt;/em&gt;, no es absolutamente segura, por lo que el argumento sólo puede ser circular. El objetivo de este libro es encontrar una manera de sortear esta dificultad y abordar el &amp;ldquo;clasicismo&amp;rdquo; de Procopio ubicando su obra firmemente en un contexto contemporáneo. Como él es, sin duda, el autor más importante de la época, una comprensión adecuada de su obra debe ser un punto de partida para una historia del siglo VI y de la Antigüedad Tardía en general.&lt;/p&gt;</description>
     </item>
   </channel>
