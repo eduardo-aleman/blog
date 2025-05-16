@@ -56,7 +56,7 @@ toc: false
 - [ὡ](#ὡ)
 - [ὥ](#ὥ)
 - [ῥ](#ῥ)
--->
+
 
 ## Índice temático
 
@@ -68,7 +68,7 @@ toc: false
 - [Religión y mitología](#religión-y-mitología)
 - [Retórica y lenguaje](#retórica-y-lenguaje)
 - [Vida y cuerpo](#vida-y-cuerpo)
-
+-->
 
 ---
 
@@ -602,7 +602,7 @@ toc: false
 
 
 ---
-
+<!--
 ## Secciones temáticas
 
 ### Conocimiento y pensamiento
@@ -627,8 +627,7 @@ toc: false
 
 
 ### Vida y cuerpo
-
-
+-->
 ---
 
 ## Fuentes metodológicas
