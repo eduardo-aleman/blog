@@ -652,6 +652,7 @@ La transliteración y glosa de los términos aquí presentados se basa en una co
   - *Greek: An Intensive Course* (Hansen & Quinn)
   - *Greek Grammar* (Smyth)
 
+<!--
 Todas las transliteraciones incluyen **signos diacríticos**: acento agudo (´), circunflejo (ˆ), espíritu áspero (ʽ), macrón (¯), breve (˘), entre otros, cuando es relevante. Las glosas se han traducido al español a partir del uso contextual en literatura griega clásica (Heródoto, Tucídides, Platón, Aristóteles, etc.).
-
+-->
 ---
