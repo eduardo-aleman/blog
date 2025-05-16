@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/blog/categories/glosario/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Glosario de términos griegos antiguos</title>
-      <link>http://localhost:1313/blog/entradas/glosario-grieo/</link>
+      <link>http://localhost:1313/blog/entradas/glosario-griego/</link>
       <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/entradas/glosario-grieo/</guid>
+      <guid>http://localhost:1313/blog/entradas/glosario-griego/</guid>
       <description>Glosario de 500 términos griegos antiguos clasificados por orden alfabético y por categoría temática, con transliteración precisa y glosas en español.</description>
     </item>
   </channel>
