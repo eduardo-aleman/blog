@@ -6,7 +6,6 @@ categories:
 - glosario
 - griego
 - léxico
-toc: false
 ---
 <!--
 ## Índice alfabético
