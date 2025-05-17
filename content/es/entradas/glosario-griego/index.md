@@ -57,7 +57,6 @@ hidden: true
 - [ὥ](#ὥ)
 - [ῥ](#ῥ)
 
-
 ## Índice temático
 
 - [Conocimiento y pensamiento](#conocimiento-y-pensamiento)
@@ -75,6 +74,7 @@ hidden: true
 <!-- Secciones alfabéticas -->
 
 ### α
+
 - **αἰδώς** (*aidṓs*): reverencia, respeto
 - **αἰθήρ** (*aithḗr*): éter, cielo superior
 - **αἰτία** (*aitía*): causa, razón
@@ -84,8 +84,8 @@ hidden: true
 - **αἴσθησις** (*aísthēsis*): percepción, sensación
 - **αἱ δὲ εἰς τὸ φανερὸν λεγόμεναι αἰτίαι** (*hai dè eis tò phaneròn legómenai aitíai*): las causas declaradas públicamente
 
-
 ### β
+
 - **βαρύτης** (*barýtēs*): gravedad, peso
 - **βασιλεία** (*basileía*): reinado, monarquía
 - **βασιλεύς** (*basileús*): rey
@@ -98,8 +98,8 @@ hidden: true
 - **βίαιος** (*bíaíos*): violento
 - **βίος** (*bíos*): vida
 
-
 ### γ
+
 - **γλῠκὺς λιμήν** (*Glykỳs Limēn*): Puerto Dulce
 - **γαλήνη** (*galḗnē*): calma, serenidad
 - **γαστήρ** (*gastḗr*): vientre, estómago
@@ -115,8 +115,8 @@ hidden: true
 - **γέννα** (*génna*): nacimiento
 - **γῆ** (*gê*): tierra
 
-
 ### δ
+
 - **δαιμόνιον** (*daimónion*): espíritu divino, demonio
 - **διαβολή** (*diabolḗ*): calumnia, difamación
 - **διατριβή** (*diatribḗ*): ocupación, discurso moral
@@ -138,8 +138,8 @@ hidden: true
 - **δηλωτικός** (*dēlōtikós*): significativo, demostrativo
 - **δημοσίᾳ** (*dēmosíāi*): públicamente
 
-
 ### ε
+
 - **εἰρήνη** (*eirḗnē*): paz
 - **εὐβουλία** (*euboulía*): buen consejo, prudencia
 - **εὐδαιμονία** (*eudaimonía*): felicidad, plenitud
@@ -149,13 +149,13 @@ hidden: true
 - **εὐτυχία** (*eutychía*): buena suerte, fortuna
 - **εὔνοια** (*eúnoia*): benevolencia
 
-
 ### ζ
+
 - **ζῷον** (*zō̂ion*): animal, ser vivo
 - **ζήτημα** (*zḗtēma*): cuestión, problema
 
-
 ### θ
+
 - **θεμέλιον** (*themélion*): fundamento
 - **θεραπεία** (*therapeía*): cuidado, tratamiento
 - **θεσμός** (*thesmós*): institución, ley
@@ -169,8 +169,8 @@ hidden: true
 - **θέατρον** (*théatron*): teatro
 - **θύρα** (*thýra*): puerta
 
-
 ### κ
+
 - **καινοτομία** (*kainotomía*): innovación
 - **καιρός** (*kairós*): momento oportuno
 - **κακοήθεια** (*kakoḗtheia*): malevolencia
@@ -208,8 +208,8 @@ hidden: true
 - **κύριος** (*kýrios*): señor, autoridad
 - **κῦμα** (*kŷma*): ola, oleaje
 
-
 ### λ
+
 - **λαμπρότης** (*lamprótēs*): brillo, esplendor
 - **λαός** (*laós*): pueblo
 - **λέξις** (*léxis*): expresión, palabra
@@ -217,8 +217,8 @@ hidden: true
 - **λόγος** (*lógos*): palabra, razón, discurso
 - **λύπη** (*lýpē*): pena, dolor
 
-
 ### μ
+
 - **μακαριότης** (*makariotēs*): bienaventuranza
 - **μαρτύριον** (*martýrion*): testimonio, prueba
 - **μέλος** (*melos*): canto, miembro
@@ -239,8 +239,8 @@ hidden: true
 - **μιμῆσις** (*mīmēsis*): imitación
 - **μῦθος** (*mŷthos*): mito, narración
 
-
 ### ν
+
 - **ναυμαχία** (*naumachía*): batalla naval
 - **νοῦς** (*noûs*): mente, razón
 - **νίκη** (*níkē*): victoria
@@ -250,20 +250,20 @@ hidden: true
 - **νόησις** (*nóēsis*): intelecto, pensamiento
 - **νύξ** (*nýx*): noche
 
-
 ### ξ
+
 - **ξενία** (*xenía*): hospitalidad
 - **ξένος** (*xénos*): extranjero, huésped
 - **ξίφος** (*xíphos*): espada
 
-
 ### ο
+
 - **οἰκιστής** (*oikistḗs*): fundador de colonia
 - **οἰκία** (*oikía*): casa
 - **οἶκος** (*oîkos*): casa, hogar
 
-
 ### π
+
 - **παιδεία** (*paideía*): educación, formación
 - **παρρησία** (*parrhēsía*): franqueza, libertad de expresión
 - **παράδειγμα** (*parádeigma*): ejemplo, modelo
@@ -303,8 +303,8 @@ hidden: true
 - **πόλεμος** (*pólemos*): guerra
 - **πόλις** (*pólis*): ciudad-estado
 
-
 ### σ
+
 - **σαφήνεια** (*saphḗneia*): claridad
 - **σαρκίον** (*sarkíon*): pedazo de carne
 - **σεμνότης** (*semnótēs*): seriedad, respeto
@@ -337,8 +337,8 @@ hidden: true
 - **σοφροσύνη** (*sōphrosýnē*): templanza, moderación
 - **σωτηρία** (*sōtēría*): salvación
 
-
 ### τ
+
 - **ταπεινοφροσύνη** (*tapeinophrosýnē*): humildad
 - **τεῖχος** (*teîchos*): muralla
 - **τιμή** (*timḗ*): honor
@@ -355,8 +355,8 @@ hidden: true
 - **τύχη** (*týchē*): fortuna, azar
 - **τύπος** (*týpos*): modelo, forma
 
-
 ### φ
+
 - **φιλοσοφία** (*philosophía*): amor por el saber
 - **φιλία** (*philía*): amistad
 - **φιλότης** (*philótēs*): afecto
@@ -367,22 +367,22 @@ hidden: true
 - **φύσις** (*phýsis*): naturaleza
 - **φωνή** (*phōnḗ*): voz, sonido
 
-
 ### χ
+
 - **χρεία** (*chreía*): necesidad
 - **χρόνος** (*chrónos*): tiempo
 - **χρήμα** (*chrḗma*): bien, cosa
 - **χάρις** (*cháris*): gracia, favor
 - **χειμών** (*kheimṓn*): invierno, tormenta
 
-
 ### ψ
+
 - **ψευδής** (*pseudḗs*): falso
 - **ψυχή** (*psychḗ*): alma
 - **ψῆφος** (*psēphos*): voto
 
-
 ### ἀ
+
 - **ἀρχαιολογικὸν δελτίον** (*Archaiologikòn Deltíon*): Boletín Arqueológico
 - **ἀδελφός** (*adelphós*): hermano
 - **ἀδικία** (*adikía*): injusticia
@@ -442,14 +442,14 @@ hidden: true
 - **ἀξίωμα** (*axíōma*): dignidad, valor
 - **ἀξίωσις** (*axíōsis*): reivindicación, exigencia
 
-
 ### ἁ
+
 - **ἁμαρτία** (*hamartía*): error, falta
 - **ἁμαρτωλός** (*hamartōlós*): pecador, que yerra
 - **ἁρμονία** (*harmonía*): armonía, acuerdo
 
-
 ### ἄ
+
 - **ἄφνειος** (*aphneiós*): rico, opulento
 - **ἄγαλμα** (*ágalma*): estatua, imagen sagrada
 - **ἄνεμος** (*ánemos*): viento
@@ -458,21 +458,21 @@ hidden: true
 - **ἄρχων** (*árchōn*): gobernante, magistrado
 - **ἄστυ** (*ásty*): ciudad
 
-
 ### ἅ
+
 - **ἅλς** (*háls*): sal; mar
 - **ἅμαξα** (*hámaxa*): carro, carruaje
 
-
 ### Ἀ
+
 - **Ἀττικὴ συγγραφή** (*Attikḗ syngraphḗ*): obra ática
 
-
 ### Ἄ
+
 - **Ἄτθις** (*Atthís*): crónica local de Atenas
 
-
 ### ἐ
+
 - **ἐκκλησία** (*ekklēsía*): asamblea ciudadana
 - **ἐκπληξις** (*ekplēxis*): sorpresa, asombro
 - **ἐλευθερία** (*eleuthería*): libertad
@@ -494,43 +494,43 @@ hidden: true
 - **ἐξουσία** (*exousía*): autoridad, poder
 - **ἐχθρά** (*échthra*): enemistad, odio
 
-
 ### ἑ
+
 - **ἑορτή** (*heortḗ*): fiesta, celebración
 
-
 ### ἔ
+
 - **ἔπος** (*épos*): palabra, poema épico
 - **ἔργον** (*érgon*): obra, hecho
 - **ἔρις** (*éris*): discordia, contienda
 - **ἔρως** (*érōs*): amor, deseo
 - **ἔτος** (*étos*): año
 
-
 ### ἕ
+
 - **ἕλιξ** (*hélix*): espiral
 
-
 ### Ἑ
+
 - **Ἑλλάς** (*Hellás*): Grecia
 
-
 ### ἡ
+
 - **ἡδονή** (*hēdonḗ*): placer
 - **ἡγεμονία** (*hēgemonía*): hegemonía, liderazgo
 - **ἡγεμών** (*hēgemṓn*): guía, jefe
 
-
 ### ἤ
+
 - **ἤθος** (*ḗthos*): carácter, costumbre
 
-
 ### ἥ
+
 - **ἥβη** (*hḗbē*): juventud, pubertad
 - **ἥλιος** (*hḗlios*): sol
 
-
 ### ἰ
+
 - **ἰδιώτης** (*idiṓtēs*): particular, lego
 - **ἰδέα** (*idéa*): forma, idea
 - **ἰσχύς** (*ischýs*): fuerza, vigor
@@ -538,68 +538,67 @@ hidden: true
 - **ἰσότης** (*isótēs*): igualdad
 - **ἰταμός** (*itamós*): insolente, atrevido
 
-
 ### ἱ
+
 - **ἱερεύς** (*hiereús*): sacerdote
 - **ἱερόν** (*hierón*): templo, lugar sagrado
 - **ἱκανός** (*hikanós*): suficiente, capaz
 - **ἱκανότης** (*hikanótēs*): capacidad, suficiencia
 - **ἱστορία** (*historía*): investigación, historia
 
-
 ### ὀ
+
 - **ὀδός** (*hodós*): camino
 
-
 ### ὁ
+
 - **ὁ Μηδικὸς πόλεμος** (*ho Mēdikòs pólemos*): la guerra médica
 - **ὁ λεγόμενος δίκαιος** (*ho legómenos díkaios*): el llamado justo
 - **ὁπλίτης** (*hoplítēs*): soldado de infantería pesada
 
-
 ### ὄ
+
 - **ὄλεθρος** (*ólethros*): ruina, destrucción
 - **ὄνομα** (*ónoma*): nombre
 - **ὄψις** (*ópsis*): vista, apariencia
 - **ὄρος** (*óros*): montaña
 
-
 ### ὅ
+
 - **ὅρκος** (*hórkos*): juramento
 
-
 ### ὑ
+
 - **ὑγίεια** (*hygíeia*): salud
 - **ὑπομονή** (*hypomonḗ*): resistencia, perseverancia
 - **ὑπόθεσις** (*hypóthesis*): supuesto, fundamento
 - **ὑπηρέτης** (*hypērétēs*): asistente, servidor
 
-
 ### ὕ
+
 - **ὕβρις** (*hýbris*): desmesura, soberbia
 - **ὕδωρ** (*hýdōr*): agua
 
-
 ### ὠ
+
 - **ὠβαί** (*ōbaí*): distritos tribales (Esparta)
 - **ὠφελέω** (*ōpheléō*): beneficiar
 - **ὠφέλεια** (*ōphéleia*): beneficio
 
-
 ### ὡ
+
 - **ὡς** (*hōs*): como, así como
 
-
 ### ὥ
+
 - **ὥρα** (*hṓra*): hora, estación
 - **ὥσπερ** (*hṓsper*): así como, de igual modo
 
-
 ### ῥ
+
 - **ῥοή** (*rhoḗ*): flujo, corriente
 - **ῥῆμα** (*rhēma*): palabra, verbo
 - **ῥώμη** (*rhṓmē*): fuerza, vigor
-
 
 ---
 <!--
@@ -607,24 +606,17 @@ hidden: true
 
 ### Conocimiento y pensamiento
 
-
 ### Filosofía y ética
-
 
 ### Guerra y estrategia
 
-
 ### Otras categorías
-
 
 ### Política y sociedad
 
-
 ### Religión y mitología
 
-
 ### Retórica y lenguaje
-
 
 ### Vida y cuerpo
 -->
@@ -637,14 +629,16 @@ hidden: true
 La transliteración y glosa de los términos aquí presentados se basa en una combinación de fuentes lexicográficas académicas y normas estandarizadas reconocidas en el ámbito de la filología clásica:
 
 ### Lexicografía y transliteración
+
 - **Liddell–Scott–Jones Greek-English Lexicon (LSJ)** – Perseus Project, Tufts University.
 - **Diccionario Griego-Español (DGE)** – CSIC, Madrid.
 - **A Greek-English Lexicon of the New Testament and Other Early Christian Literature (BDAG)**.
-- **John Chadwick, _Lexicographica Graeca: Contributions to the Lexicography of Ancient Greek_**. Oxford: Clarendon Press, 1996.
+- **John Chadwick, *Lexicographica Graeca: Contributions to the Lexicography of Ancient Greek***. Oxford: Clarendon Press, 1996.
 - **Manual of Greek Historical Inscriptions** – Meiggs & Lewis.
 - **Inscriptiones Graecae** – Berlin-Brandenburgische Akademie der Wissenschaften.
 
 ### Normas de transliteración empleadas
+
 - **ALA-LC Romanization Tables** – American Library Association / Library of Congress.
 - **ISO 843:1997** – Transliteration of Greek characters into Latin characters.
 - Modelos de transliteración de obras didácticas como:
