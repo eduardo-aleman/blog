@@ -7,6 +7,7 @@ categories:
 - griego
 - léxico
 hidden: true
+draft: true
 ---
 <!--
 ## Índice alfabético
