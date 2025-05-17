@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Griego on Blog de Eduardo Alemán</title>
-    <link>http://localhost:1313/blog/categories/griego/</link>
+    <link>http://localhost:53764/blog/categories/griego/</link>
     <description>Recent content in Griego on Blog de Eduardo Alemán</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>es</language>
     <lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/categories/griego/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:53764/blog/categories/griego/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Glosario de términos griegos antiguos</title>
-      <link>http://localhost:1313/blog/entradas/glosario-griego/</link>
+      <link>http://localhost:53764/blog/entradas/glosario-griego/</link>
       <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/entradas/glosario-griego/</guid>
+      <guid>http://localhost:53764/blog/entradas/glosario-griego/</guid>
       <description>Glosario de 500 términos griegos antiguos clasificados por orden alfabético y por categoría temática, con transliteración precisa y glosas en español.</description>
     </item>
   </channel>
