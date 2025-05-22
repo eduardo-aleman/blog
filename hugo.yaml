@@ -8,21 +8,6 @@ languages:
   es:
     languageName: Spanish
     weight: 1
-  en:
-    languageName: English
-    weight: 2
-
-theme: ["PaperMod"]
-
-taxonomies:
-  category: categories
-  tag: tags
-  series: series
-
-languages:
-  es:
-    languageName: Español
-    weight: 1
     contentDir: content/es
     disabled: false
     languageCode: es
@@ -44,8 +29,19 @@ languages:
       socialIcons:
         - name: github
           url: https://github.com/lampsacus/blog
-    menu:
-      main:
+  en:
+    languageName: English
+    weight: 2
+
+theme: ["PaperMod"]
+
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+
+menu:
+  main:
         - identifier: categories
           name: categorías
           url: /categories/
