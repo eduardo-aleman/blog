@@ -45,11 +45,11 @@ menu:
   main:
     - identifier: "categories"
       name: "categorías"
-      url: "/categories/"
+      url: ""
       weight: 10
     - identifier: "archives"
       name: "archivos"
-      url: "/archivos/"
+      url: ""
       weight: 20
     - identifier: "search"
       name: "buscar"
