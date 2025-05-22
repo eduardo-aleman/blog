@@ -1,20 +1,20 @@
-baseURL: https://ealeman.com/blog/
-title: Blog de Eduardo Alemán
-description: Blog en español de Eduardo Alemán.
+baseURL: "https://ealeman.com/blog/"
+title: "Blog de Eduardo Alemán"
+description: "Blog en español de Eduardo Alemán."
 defaultContentLanguageInSubdir: false
-
 defaultContentLanguage: es
+
 languages:
   es:
-    languageName: Spanish
+    languageName: "Spanish"
     weight: 1
-    contentDir: content/es
+    contentDir: "content/es"
     disabled: false
-    languageCode: es
-    languageDirection: ltr
-    title: Blog de Eduardo Alemán
+    languageCode: "es"
+    languageDirection: "ltr"
+    title: "Blog de Eduardo Alemán"
     params:
-      subtitle: Traducciones, resúmenes, notas
+      subtitle: "Traducciones, resúmenes, notas"
       hideSummary: true
       ShowReadingTime: true
       hideFooter: true
@@ -24,46 +24,47 @@ languages:
       math: true
       DateFormat: "02 Jan 2006"
       homeInfoParams:
-        Title: Traducciones, resúmenes, notas
-        Content:
+        Title: "Traducciones, resúmenes, notas"
+        Content: ""  # Se deja vacío explícitamente para evitar errores de sintaxis
       socialIcons:
-        - name: github
-          url: https://github.com/lampsacus/blog
+        - name: "github"
+          url: "https://github.com/lampsacus/blog"
+
   en:
-    languageName: English
+    languageName: "English"
     weight: 2
 
 theme: ["PaperMod"]
 
 taxonomies:
-  category: categories
-  tag: tags
-  series: series
+  category: "categories"
+  tag: "tags"
+  series: "series"
 
 menu:
   main:
-    - identifier: categories
-      name: categorías
-      url: /categories/
+    - identifier: "categories"
+      name: "categorías"
+      url: "/categories/"
       weight: 10
-    - identifier: archives
-      name: archivos
-      url: /archivos/
+    - identifier: "archives"
+      name: "archivos"
+      url: "/archivos/"
       weight: 20
-    - identifier: search
-      name: buscar
-      url: /buscar/
+    - identifier: "search"
+      name: "buscar"
+      url: "/buscar/"
       weight: 30
-    - identifier: website
-      name: ealeman.com
-      url: https://ealeman.com
+    - identifier: "website"
+      name: "ealeman.com"
+      url: "https://ealeman.com"
       weight: 40
 
 outputs:
   home:
-    - HTML
-    - RSS
-    - JSON
+    - "HTML"
+    - "RSS"
+    - "JSON"
 
 markup:
   goldmark:
@@ -74,10 +75,7 @@ markup:
         enable: true
         delimiters:
           block:
-            - - \[
-              - \]
-            - - $$
-              - $$
+            - ["\\[", "\\]"]
+            - ["$$", "$$"]
           inline:
-            - - \(
-              - \)
+            - ["\\(", "\\)"]
