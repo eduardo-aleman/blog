@@ -25,7 +25,7 @@ languages:
       DateFormat: "02 Jan 2006"
       homeInfoParams:
         Title: Traducciones, resúmenes y notas
-        Content: 
+        Content:
       socialIcons:
         - name: github
           url: https://github.com/lampsacus/blog
@@ -42,23 +42,22 @@ taxonomies:
 
 menu:
   main:
-        - identifier: categories
-          name: categorías
-          url: /categories/
-          weight: 10
-        - identifier: archives
-          name: archivos
-          url: /archivos/
-          weight: 20
-        - identifier: search
-          name: buscar
-          url: /buscar/
-          weight: 30
-        - identifier: website
-          name: ealeman.com
-          url: https://ealeman.com
-          weight: 40
-       
+    - identifier: categories
+      name: categorías
+      url: /categories/
+      weight: 10
+    - identifier: archives
+      name: archivos
+      url: /archivos/
+      weight: 20
+    - identifier: search
+      name: buscar
+      url: /buscar/
+      weight: 30
+    - identifier: website
+      name: ealeman.com
+      url: https://ealeman.com
+      weight: 40
 
 outputs:
   home:
