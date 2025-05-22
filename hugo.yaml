@@ -24,7 +24,7 @@ languages:
       math: true
       DateFormat: "02 Jan 2006"
       homeInfoParams:
-        Title: Traducciones, resúmenes y notas
+        Title: Traducciones, resúmenes, notas
         Content:
       socialIcons:
         - name: github
