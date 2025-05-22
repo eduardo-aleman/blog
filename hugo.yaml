@@ -14,7 +14,7 @@ languages:
     languageDirection: ltr
     title: Blog de Eduardo Alemán
     params:
-      subtitle: Traducciones, resúmenes y notas
+      subtitle: Traducciones, resúmenes, notas
       hideSummary: true
       ShowReadingTime: true
       hideFooter: true
