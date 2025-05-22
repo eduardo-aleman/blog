@@ -53,7 +53,7 @@ menu:
       weight: 20
     - identifier: "search"
       name: "buscar"
-      url: "/buscar/"
+      url: ""
       weight: 30
     - identifier: "website"
       name: "ealeman.com"
