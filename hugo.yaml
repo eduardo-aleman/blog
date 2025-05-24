@@ -79,7 +79,7 @@ languages:
     disabled: false
     title: Eduardo Alemán’s Blog
     params:
-      description: Blog in English by Eduardo Alemán.
+      description: Eduardo Alemán’s Blog.
       subtitle: Translations, summaries, notes
       ShowReadingTime: true
       ShowToc: true
