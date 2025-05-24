@@ -1,5 +1,7 @@
 ---
 title: "Recursos en español e inglés sobre Humanidades Digitales, investigación ciudadana y edición crítica"
+draft: false
+type: posts
 date: 2025-05-24
 author: Eduardo Alemán
 description: "Exploración ampliada de proyectos, plataformas y bibliografía clave en español sobre Humanidades Digitales, ciencia ciudadana, historia colaborativa, archivos digitales, filología computacional y edición crítica."
