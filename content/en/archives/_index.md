@@ -1,6 +1,5 @@
 ---
 title: "Archives"
 layout: "archives"
-type: "page"
 summary: "archives"
 ---

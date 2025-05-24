@@ -48,13 +48,79 @@
   </url><url>
     <loc>http://localhost:1313/blog/en/posts/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/en/posts/"
+                />
   </url><url>
     <loc>http://localhost:1313/blog/en/posts/digital-humanities/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/en/archives/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/en/archives/"
+                />
   </url><url>
-    <loc>http://localhost:1313/blog/search/</loc>
+    <loc>http://localhost:1313/blog/en/buscar/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/buscar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/en/buscar/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/blog/en/categorias/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/categorias/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/en/categorias/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/blog/en/etiquetas/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/etiquetas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/en/etiquetas/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/blog/en/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/en/search/"
+                />
   </url><url>
     <loc>http://localhost:1313/blog/en/series/</loc>
     <xhtml:link

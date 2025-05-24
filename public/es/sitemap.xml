@@ -34,9 +34,6 @@
     <loc>http://localhost:1313/blog/es/categories/edici%C3%B3n-cr%C3%ADtica/</loc>
     <lastmod>2025-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/es/entradas/</loc>
-    <lastmod>2025-05-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/es/categories/filolog%C3%ADa/</loc>
     <lastmod>2025-05-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -49,7 +46,20 @@
     <loc>http://localhost:1313/blog/es/categories/investigaci%C3%B3n-ciudadana/</loc>
     <lastmod>2025-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/es/entradas/investigacion-ciudadana/</loc>
+    <loc>http://localhost:1313/blog/es/posts/</loc>
+    <lastmod>2025-05-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/posts/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/blog/es/posts/investigacion-ciudadana/</loc>
     <lastmod>2025-05-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/categories/computaci%C3%B3n/</loc>
@@ -70,7 +80,7 @@
     <loc>http://localhost:1313/blog/es/categories/k%C3%B6nigsberg/</loc>
     <lastmod>2025-04-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/es/entradas/la-naturaleza-de-la-computaci%C3%B3n/</loc>
+    <loc>http://localhost:1313/blog/es/posts/la-naturaleza-de-la-computaci%C3%B3n/</loc>
     <lastmod>2025-04-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/categories/matem%C3%A1ticas/</loc>
@@ -103,7 +113,7 @@
     <loc>http://localhost:1313/blog/es/categories/resumen/</loc>
     <lastmod>2024-07-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/es/entradas/amanecer-de-todo/</loc>
+    <loc>http://localhost:1313/blog/es/posts/amanecer-de-todo/</loc>
     <lastmod>2024-07-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/categories/antig%C3%BCedad/</loc>
@@ -121,7 +131,7 @@
     <loc>http://localhost:1313/blog/es/categories/herman-hansen-de-mogen/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/es/entradas/la-polis-hansen/</loc>
+    <loc>http://localhost:1313/blog/es/posts/la-polis-hansen/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/categories/polis/</loc>
@@ -130,7 +140,7 @@
     <loc>http://localhost:1313/blog/es/categories/cristianismo-primitivo/</loc>
     <lastmod>2024-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/es/entradas/el-n%C3%BAmero-cristiano-y-sus-implicaciones/</loc>
+    <loc>http://localhost:1313/blog/es/posts/el-n%C3%BAmero-cristiano-y-sus-implicaciones/</loc>
     <lastmod>2024-07-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/categories/keith-hopkins/</loc>
@@ -139,7 +149,7 @@
     <loc>http://localhost:1313/blog/es/categories/e-n-tigerstedt/</loc>
     <lastmod>2024-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/es/entradas/interpretando-a-plat%C3%B3n/</loc>
+    <loc>http://localhost:1313/blog/es/posts/interpretando-a-plat%C3%B3n/</loc>
     <lastmod>2024-07-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/categories/plat%C3%B3n/</loc>
@@ -148,7 +158,7 @@
     <loc>http://localhost:1313/blog/es/categories/escol%C3%A1stica/</loc>
     <lastmod>2024-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/es/entradas/fraile-tom%C3%A1s-de-aquino/</loc>
+    <loc>http://localhost:1313/blog/es/posts/fraile-tom%C3%A1s-de-aquino/</loc>
     <lastmod>2024-06-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/categories/jaime-a-weisheipl/</loc>
@@ -163,7 +173,7 @@
     <loc>http://localhost:1313/blog/es/categories/anales/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/es/entradas/xxi-la-estructura-de-los-anales/</loc>
+    <loc>http://localhost:1313/blog/es/posts/xxi-la-estructura-de-los-anales/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/categories/roma/</loc>
@@ -178,7 +188,7 @@
     <loc>http://localhost:1313/blog/es/categories/constantinopla/</loc>
     <lastmod>2024-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/es/entradas/el-%C3%BAltimo-emperador-pagano/</loc>
+    <loc>http://localhost:1313/blog/es/posts/el-%C3%BAltimo-emperador-pagano/</loc>
     <lastmod>2024-04-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/categories/emperadores/</loc>
@@ -196,12 +206,68 @@
     <loc>http://localhost:1313/blog/es/categories/procopio/</loc>
     <lastmod>2024-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/es/entradas/procopio-y-el-siglo-sexto/</loc>
+    <loc>http://localhost:1313/blog/es/posts/procopio-y-el-siglo-sexto/</loc>
     <lastmod>2024-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/es/archivos/</loc>
+    <loc>http://localhost:1313/blog/es/archives/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/en/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/archives/"
+                />
   </url><url>
-    <loc>http://localhost:1313/blog/buscar/</loc>
+    <loc>http://localhost:1313/blog/es/buscar/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/en/buscar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/buscar/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/blog/es/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/en/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/search/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/blog/es/categorias/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/en/categorias/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/categorias/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/blog/es/etiquetas/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/en/etiquetas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/etiquetas/"
+                />
   </url><url>
     <loc>http://localhost:1313/blog/es/series/</loc>
     <xhtml:link

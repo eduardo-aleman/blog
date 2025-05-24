@@ -10,11 +10,16 @@ outputs:
     - HTML
     - RSS
     - JSON
-
+    
 taxonomies:
   category: categories
   tag: tags
   series: series
+  categoria: categorias
+  etiqueta: etiquetas
+  search: search
+  archive: archives
+  buscar: buscar
 
 markup:
   goldmark:
@@ -27,6 +32,7 @@ params:
     disableFingerprinting: false
     minify:
       disableXML: false
+  showPostsOnHome: true
   showReadingTime: true
   showToc: true
   showBreadCrumbs: true
@@ -35,6 +41,10 @@ params:
   math: true
   dateFormat: "January 02 2006"
   mainSections: posts
+  ShowArchive: true
+  ShowCategories: true
+  ShowTags: true
+  ShowSearch: true
 
 languages:
   es:
@@ -65,11 +75,11 @@ languages:
       main:
         - identifier: categories
           name: Categorías
-          url: /categorias/
+          url: categories/
           weight: 10
         - identifier: archives
           name: Archivos
-          url: /archivos/
+          url: archives/
           weight: 20
         - identifier: website
           name: ealeman.com
@@ -85,6 +95,8 @@ languages:
     disabled: false
     title: Eduardo Alemán’s Blog
     params:
+      mainSections: posts
+      ShowPostsOnHome: true
       description: Eduardo Alemán’s Blog.
       subtitle: Translations, summaries, notes
       ShowReadingTime: true
@@ -102,11 +114,11 @@ languages:
       main:
         - identifier: categories
           name: Categories
-          url: /categories/
+          url: categories/
           weight: 10
         - identifier: archives
           name: Archives
-          url: /archives/
+          url: archives/
           weight: 20
         - identifier: website
           name: ealeman.com

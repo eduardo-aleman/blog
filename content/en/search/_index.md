@@ -1,7 +1,6 @@
 ---
 title: "Search"
 layout: "search"
-url: "/search/"
 summary: "search"
 placeholder: "e.g., Julian the Apostate"
 type: "page"

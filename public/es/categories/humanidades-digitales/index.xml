@@ -4,15 +4,15 @@
     <title>Humanidades Digitales on Blog de Eduardo Alemán</title>
     <link>http://localhost:1313/blog/es/categories/humanidades-digitales/</link>
     <description>Recent content in Humanidades Digitales on Blog de Eduardo Alemán</description>
-    <generator>Hugo -- 0.147.4</generator>
+    <generator>Hugo -- 0.147.5</generator>
     <language>es</language>
     <lastBuildDate>Sat, 24 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/es/categories/humanidades-digitales/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Recursos en español e inglés sobre Humanidades Digitales, investigación ciudadana y edición crítica</title>
-      <link>http://localhost:1313/blog/es/entradas/investigacion-ciudadana/</link>
+      <link>http://localhost:1313/blog/es/posts/investigacion-ciudadana/</link>
       <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/es/entradas/investigacion-ciudadana/</guid>
+      <guid>http://localhost:1313/blog/es/posts/investigacion-ciudadana/</guid>
       <description>Exploración ampliada de proyectos, plataformas y bibliografía clave en español sobre Humanidades Digitales, ciencia ciudadana, historia colaborativa, archivos digitales, filología computacional y edición crítica.</description>
     </item>
   </channel>
