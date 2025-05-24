@@ -2,11 +2,11 @@ baseURL: https://ealeman.com/blog/
 title: Blog de Eduardo Alemán
 description: Blog en español de Eduardo Alemán.
 defaultContentLanguage: es
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
 
 languages:
   es:
-    languageName: Spanish
+    languageName: Español
     weight: 1
     contentDir: content/es
     languageCode: es
@@ -31,7 +31,23 @@ languages:
   en:
     languageName: English
     weight: 2
-    disabled: true  # Puedes activarlo más adelante si tienes contenido en inglés
+    contentDir: content/en
+    languageCode: en
+    languageDirection: ltr
+    disabled: false  # ya activado
+    params:
+      subtitle: Translations, summaries, notes
+      ShowReadingTime: true
+      ShowToc: true
+      ShowBreadCrumbs: true
+      math: true
+      DateFormat: "02 Jan 2006"
+      homeInfoParams:
+        Title: Translations, summaries, notes
+        Content: ""
+      socialIcons:
+        - name: github
+          url: https://github.com/lampsacus/blog
 
 theme: ["PaperMod"]
 

@@ -2,11 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/blog/en/categories/archives/</loc>
+    <lastmod>2025-05-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/en/</loc>
+    <lastmod>2025-05-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/blog/"
+                href="http://localhost:1313/blog/es/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -15,10 +19,11 @@
                 />
   </url><url>
     <loc>http://localhost:1313/blog/en/categories/</loc>
+    <lastmod>2025-05-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/blog/categories/"
+                href="http://localhost:1313/blog/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -26,11 +31,32 @@
                 href="http://localhost:1313/blog/en/categories/"
                 />
   </url><url>
+    <loc>http://localhost:1313/blog/en/categories/citizen-science/</loc>
+    <lastmod>2025-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/en/categories/critical-editing/</loc>
+    <lastmod>2025-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/en/categories/digital-humanities/</loc>
+    <lastmod>2025-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/en/entries/</loc>
+    <lastmod>2025-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/en/categories/history/</loc>
+    <lastmod>2025-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/en/categories/philology/</loc>
+    <lastmod>2025-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/en/entries/digital-humanities/</loc>
+    <lastmod>2025-05-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/blog/series/"
+                href="http://localhost:1313/blog/es/series/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -42,7 +68,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/blog/tags/"
+                href="http://localhost:1313/blog/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"

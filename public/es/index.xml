@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Es on Blog de Eduardo Alemán</title>
+    <title>Blog de Eduardo Alemán</title>
     <link>http://localhost:1313/blog/es/</link>
-    <description>Recent content in Es on Blog de Eduardo Alemán</description>
+    <description>Recent content on Blog de Eduardo Alemán</description>
     <generator>Hugo -- 0.147.4</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recursos en español e inglés sobre Humanidades Digitales, investigación ciudadana y edición crítica</title>
+      <link>http://localhost:1313/blog/es/entradas/investigacion-ciudadana/</link>
+      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/entradas/investigacion-ciudadana/</guid>
+      <description>Exploración ampliada de proyectos, plataformas y bibliografía clave en español sobre Humanidades Digitales, ciencia ciudadana, historia colaborativa, archivos digitales, filología computacional y edición crítica.</description>
+    </item>
     <item>
       <title>Glosario de términos griegos antiguos</title>
       <link>http://localhost:1313/blog/es/entradas/glosario-griego/</link>
@@ -48,13 +55,20 @@
 &lt;p&gt;Una conclusión provisional pero radical es que el cristianismo fue, durante un siglo después de la muerte de Jesús, propiedad intelectual de apenas unas pocas docenas, tal vez llegando hasta los doscientos, de varones adultos alfabetizados, dispersos por toda la cuenca mediterránea. Una conclusión complementaria (por supuesto, bien conocida en principio, pero no explorada a menudo por sus implicaciones) es que, con diferencia, el mayor crecimiento en el número de cristianos tuvo lugar en dos fases distintas: primero, durante el siglo III, cuando los cristianos y sus líderes eran las víctimas de persecuciones por todo el imperio y estas eran organizadas centralmente ; y luego en el siglo IV, tras la conversión de Constantino y la alianza de la Iglesia con el Estado romano bajo sucesivos emperadores. El pequeño tamaño de la iglesia primitiva y la escala y velocidad de su crecimiento posterior tuvieron importantes implicaciones para el carácter y la organización del cristianismo.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Interpretando a Platón (E.N. Tigerstedt)</title>
+      <link>http://localhost:1313/blog/es/entradas/interpretando-a-plat%C3%B3n/</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/entradas/interpretando-a-plat%C3%B3n/</guid>
+      <description>El presente estudio es una continuación y, de cierta forma, la conclusión de dos estudios anteriores, Plato’s Idea of Poetical Inspiration y The Decline and Fall of the Neoplatonic Interpretation of Plato. Estaba listo para ser impreso en 1973, pero por razones ajenas a la voluntad del autor, no es hasta ahora que ha sido posible su publicación. Durante este tiempo, varios estudios sobre Platón han aparecido, los cuales son importantes para la materia que aquí se trata, pero solo he podido tener unos pocos en consideración. Espero darles tratamiento por separado en un artículo académico.</description>
+    </item>
+    <item>
       <title>Fray Tomás de Aquino (Jaime A. Weisheipl).</title>
       <link>http://localhost:1313/blog/es/entradas/fraile-tom%C3%A1s-de-aquino/</link>
       <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/es/entradas/fraile-tom%C3%A1s-de-aquino/</guid>
       <description>&lt;p&gt;Fray Tomás de Aquino.&lt;br&gt;
 Su vida, pensamiento, y obras.&lt;br&gt;
-Jaime A. Weisheipl, O.P. (Ordinis Praedicatorum).&lt;br&gt;
+Jaime A. Weisheipl, O.P. (&lt;em&gt;Ordinis Praedicatorum&lt;/em&gt;).&lt;br&gt;
 Instituto Pontificio de Estudios Medievales de Toronto.&lt;/p&gt;
 &lt;h3 id=&#34;prefacio&#34;&gt;Prefacio&lt;/h3&gt;
 &lt;p&gt;El 7 de marzo de 1974 se cumple el setecientos aniversario de la muerte de Santo Tomás de Aquino. Dado que el 7 de marzo de 1274 es la única fecha cierta que tenemos en su vida, es apropiado que el día y el año se conmemoren de diversas maneras en todo el mundo. Este libro representa parte de mi contribución a la ocasión. La última celebración mundial fue en 1923, el sexto centenario de la canonización de Tomás el 18 de julio de 1323. Se ha descubierto mucho material nuevo en los cincuenta años pasados, por lo que hay necesidad de un resumen y una evaluación de los hechos descubiertos por los eruditos que han dado sus mejores esfuerzos para comprender la vida, el pensamiento y la obra del fraile Tomás de Aquino.&lt;/p&gt;</description>
