@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Escolástica on Blog de Eduardo Alemán</title>
+    <link>http://localhost:1313/blog/es/categories/escol%C3%A1stica/</link>
+    <description>Recent content in Escolástica on Blog de Eduardo Alemán</description>
+    <generator>Hugo -- 0.147.4</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 14 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/es/categories/escol%C3%A1stica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fray Tomás de Aquino (Jaime A. Weisheipl).</title>
+      <link>http://localhost:1313/blog/es/entradas/fraile-tom%C3%A1s-de-aquino/</link>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/entradas/fraile-tom%C3%A1s-de-aquino/</guid>
+      <description>&lt;p&gt;Fray Tomás de Aquino.&lt;br&gt;
+Su vida, pensamiento, y obras.&lt;br&gt;
+Jaime A. Weisheipl, O.P. (&lt;em&gt;Ordinis Praedicatorum&lt;/em&gt;).&lt;br&gt;
+Instituto Pontificio de Estudios Medievales de Toronto.&lt;/p&gt;
+&lt;h3 id=&#34;prefacio&#34;&gt;Prefacio&lt;/h3&gt;
+&lt;p&gt;El 7 de marzo de 1974 se cumple el setecientos aniversario de la muerte de Santo Tomás de Aquino. Dado que el 7 de marzo de 1274 es la única fecha cierta que tenemos en su vida, es apropiado que el día y el año se conmemoren de diversas maneras en todo el mundo. Este libro representa parte de mi contribución a la ocasión. La última celebración mundial fue en 1923, el sexto centenario de la canonización de Tomás el 18 de julio de 1323. Se ha descubierto mucho material nuevo en los cincuenta años pasados, por lo que hay necesidad de un resumen y una evaluación de los hechos descubiertos por los eruditos que han dado sus mejores esfuerzos para comprender la vida, el pensamiento y la obra del fraile Tomás de Aquino.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
