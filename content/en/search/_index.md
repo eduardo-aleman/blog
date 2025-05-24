@@ -1,3 +1,2 @@
 # Search
-
-Find content by keyword.
+Find content.

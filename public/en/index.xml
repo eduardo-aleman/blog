@@ -13,7 +13,7 @@
       <link>http://localhost:1313/blog/en/posts/sample/</link>
       <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/en/posts/sample/</guid>
-      <description>&lt;p&gt;This is a sample English post with categories and tags for navigation testing in Hugo.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This is a sample English post with categories and tags.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

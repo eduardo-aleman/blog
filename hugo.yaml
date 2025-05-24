@@ -1,6 +1,8 @@
 baseURL: https://ealeman.com/blog/
 defaultContentLanguage: es
 defaultContentLanguageInSubdir: true
+canonifyURLs: true
+relativeURLs: false
 title: Blog de Eduardo Alemán
 description: Blog en español de Eduardo Alemán.
 
@@ -32,16 +34,16 @@ languages:
     menu:
       main:
         - identifier: categories
-          name: categorías
+          name: Categorías
           url: /categories/
           weight: 10
         - identifier: archives
-          name: archivos
-          url: /archivos/
+          name: Archivos
+          url: /archives/
           weight: 20
         - identifier: search
-          name: buscar
-          url: /buscar/
+          name: Buscar
+          url: /search/
           weight: 30
         - identifier: website
           name: ealeman.com
@@ -73,16 +75,16 @@ languages:
     menu:
       main:
         - identifier: categories
-          name: categories
-          url: /en/categories/
+          name: Categories
+          url: /categories/
           weight: 10
         - identifier: archives
-          name: archives
-          url: /en/archives/
+          name: Archives
+          url: /archives/
           weight: 20
         - identifier: search
-          name: search
-          url: /en/search/
+          name: Search
+          url: /search/
           weight: 30
         - identifier: website
           name: ealeman.com

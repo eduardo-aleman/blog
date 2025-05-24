@@ -5,4 +5,4 @@ categories: ["philology", "technology"]
 tags: ["markdown", "digital humanities"]
 ---
 
-This is a sample English post with categories and tags for navigation testing in Hugo.
+This is a sample English post with categories and tags.
