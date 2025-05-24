@@ -6,8 +6,50 @@
     <description>Recent content in Categories on Blog de Eduardo Alemán</description>
     <generator>Hugo -- 0.147.4</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Archivos</title>
+      <link>http://localhost:1313/blog/categories/archivos/</link>
+      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/categories/archivos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Edición Crítica</title>
+      <link>http://localhost:1313/blog/categories/edici%C3%B3n-cr%C3%ADtica/</link>
+      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/categories/edici%C3%B3n-cr%C3%ADtica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Filología</title>
+      <link>http://localhost:1313/blog/categories/filolog%C3%ADa/</link>
+      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/categories/filolog%C3%ADa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Historia</title>
+      <link>http://localhost:1313/blog/categories/historia/</link>
+      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/categories/historia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Humanidades Digitales</title>
+      <link>http://localhost:1313/blog/categories/humanidades-digitales/</link>
+      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/categories/humanidades-digitales/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Investigación Ciudadana</title>
+      <link>http://localhost:1313/blog/categories/investigaci%C3%B3n-ciudadana/</link>
+      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/categories/investigaci%C3%B3n-ciudadana/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Glosario</title>
       <link>http://localhost:1313/blog/categories/glosario/</link>
@@ -125,13 +167,6 @@
       <link>http://localhost:1313/blog/categories/david-wengrow/</link>
       <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/categories/david-wengrow/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Historia</title>
-      <link>http://localhost:1313/blog/categories/historia/</link>
-      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/historia/</guid>
       <description></description>
     </item>
     <item>

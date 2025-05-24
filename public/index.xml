@@ -6,8 +6,15 @@
     <description>Recent content on Blog de Eduardo Alemán</description>
     <generator>Hugo -- 0.147.4</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recursos en español sobre Humanidades Digitales, investigación ciudadana y edición crítica</title>
+      <link>http://localhost:1313/blog/entradas/investigacion-ciudadana/</link>
+      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/entradas/investigacion-ciudadana/</guid>
+      <description>Exploración ampliada de proyectos, plataformas y bibliografía clave en español sobre Humanidades Digitales, ciencia ciudadana, historia colaborativa, archivos digitales, filología computacional y edición crítica.</description>
+    </item>
     <item>
       <title>Glosario de términos griegos antiguos</title>
       <link>http://localhost:1313/blog/entradas/glosario-griego/</link>
