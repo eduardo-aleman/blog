@@ -38,8 +38,8 @@ languages:
     languageCode: es
     languageDirection: ltr
     title: Blog de Eduardo Alemán
-    description: Blog en español de Eduardo Alemán.
     params:
+      description: Blog en español de Eduardo Alemán.
       subtitle: Traducciones, resúmenes, notas
       hideSummary: true
       ShowReadingTime: true
@@ -82,8 +82,8 @@ languages:
     languageDirection: ltr
     disabled: false
     title: Eduardo Alemán’s Blog
-    description: Blog in English by Eduardo Alemán.
     params:
+      description: Blog in English by Eduardo Alemán.
       subtitle: Translations, summaries, notes
       ShowReadingTime: true
       ShowToc: true
