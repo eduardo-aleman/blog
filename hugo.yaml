@@ -71,9 +71,6 @@ languages:
           👋 ¡Bienvenido a mi blog!
 
           - Estoy usando un nuevo tema de Hugo, *PaperMod*, que está diseñado para ser limpio y simple
-          - *Hugo* es un generador de sitios estáticos, que es rápido y flexible. 
-          - Este blog es un trabajo en progreso, así que espera cambios y mejoras con el tiempo.
-          - El blog está alojado en *GitHub Pages*, lo que facilita la gestión y actualización.
           - El código fuente está disponible en [GitHub]: haz click en el octogato de ↓ para ver.
       socialIcons:
         - name: github
@@ -128,9 +125,6 @@ languages:
           👋 Welcome to my blog!
 
           - I am using a new Hugo theme, *PaperMod*, which is designed to be clean and simple.
-          - I am also using *Hugo* as the static site generator, which is fast and flexible.
-          - This blog is a work in progress, so expect changes and improvements over time.
-          - The blog is hosted on *GitHub Pages*, which makes it easy to manage and update.
           - The source code is available on [GitHub]: click on the octocat ↓ para ver.
 
       socialIcons:
