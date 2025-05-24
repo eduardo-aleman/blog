@@ -81,6 +81,10 @@ languages:
           name: Archivos
           url: archives/
           weight: 20
+        - identifier: buscar
+          name: Buscar
+          url: search/
+          weight: 25
         - identifier: website
           name: ealeman.com
           url: https://ealeman.com
@@ -120,6 +124,10 @@ languages:
           name: Archives
           url: archives/
           weight: 20
+        - identifier: search
+          name: Search
+          url: search/
+          weight: 25
         - identifier: website
           name: ealeman.com
           url: https://ealeman.com
