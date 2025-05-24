@@ -5,7 +5,7 @@ theme: ["PaperMod"]
 defaultContentLanguage: es
 defaultContentLanguageInSubdir: true
 canonifyURLs: true
-relativeURLs: true
+relativeURLs: false
 
 outputs:
   home:
