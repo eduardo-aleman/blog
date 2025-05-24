@@ -14,8 +14,6 @@ categories:
 - edición crítica
 ---
 
-# Recursos en español sobre Humanidades Digitales y Áreas Afines
-
 Este artículo reúne una amplia selección de proyectos, plataformas, bibliografía y recursos destacados en español sobre:
 
 - Humanidades Digitales

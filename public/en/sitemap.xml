@@ -27,15 +27,6 @@
     <loc>http://localhost:1313/blog/en/categories/digital-humanities/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/en/categories/history/</loc>
-    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/en/categories/philology/</loc>
-    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/en/posts/</loc>
-    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/en/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -48,6 +39,15 @@
                 hreflang="en"
                 href="http://localhost:1313/blog/en/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/blog/en/categories/history/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/en/categories/philology/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/en/posts/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/en/posts/digital-humanities/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
