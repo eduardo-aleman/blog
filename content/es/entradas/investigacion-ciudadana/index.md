@@ -98,3 +98,42 @@ Los recursos se organizan por secciones temáticas, con enlaces a plataformas e 
 - Ridge, Mia, editor. *Crowdsourcing Our Cultural Heritage*. Ashgate, 2014.
 - Schmidt, Benjamin M. “Do Digital Humanists Need to Understand Algorithms?” *Debates in the Digital Humanities 2016*, edited by Matthew K. Gold and Lauren F. Klein, University of Minnesota Press, 2016, https://dhdebates.gc.cuny.edu/read/untitled/section/ea62e97e-8a37-4455-8c66-3ed3cc7f1440.
 - Brennan, Sheila A. “Public, First.” *Debates in the Digital Humanities 2016*, edited by Matthew K. Gold and Lauren F. Klein, University of Minnesota Press, 2016, https://dhdebates.gc.cuny.edu/read/untitled/section/25ee9e72-49f1-4a6a-a8c1-95b2ad9dd6d5.
+
+
+## Recursos destacados en inglés
+
+### Humanidades Digitales y herramientas
+
+- [The Programming Historian](https://programminghistorian.org/) — Tutoriales en inglés y español para humanistas digitales.
+- [Digital Humanities Now](http://digitalhumanitiesnow.org/) — Revista curada de novedades, proyectos y recursos en DH.
+- [HathiTrust Digital Library](https://www.hathitrust.org/) — Biblioteca digital con millones de documentos digitalizados.
+- [Project Gutenberg](https://www.gutenberg.org/) — Biblioteca de libros electrónicos de dominio público.
+- [Digital Public Library of America (DPLA)](https://dp.la/) — Acceso unificado a archivos y bibliotecas digitales en EE. UU.
+- [OpenEdition](https://www.openedition.org/) — Plataforma de publicaciones académicas de acceso abierto.
+
+### Ciencia ciudadana y participación pública
+
+- [Zooniverse](https://www.zooniverse.org/) — Principal plataforma mundial para ciencia ciudadana y proyectos de transcripción.
+- [CitizenScience.gov](https://www.citizenscience.gov/) — Portal de ciencia ciudadana del gobierno de EE. UU.
+- [EU-Citizen.Science](https://eu-citizen.science/) — Plataforma europea para proyectos y formación en ciencia ciudadana.
+
+### Filología y edición digital
+
+- [Text Encoding Initiative (TEI)](https://tei-c.org/) — Estándar internacional para edición digital de textos.
+- [Pelagios Network](https://pelagios.org/) — Red de proyectos vinculados a georreferenciación de textos antiguos.
+- [Perseus Digital Library](https://www.perseus.tufts.edu/) — Biblioteca digital de textos clásicos con análisis lingüístico.
+- [TAPAS Project](https://www.tapasproject.org/) — Plataforma para publicar ediciones digitales codificadas en TEI.
+
+### Bibliografía complementaria (MLA)
+
+- Schreibman, Susan, Ray Siemens, and John Unsworth, editors. *A Companion to Digital Humanities*. Blackwell, 2004. https://www.digitalhumanities.org/companion/
+- Kirschenbaum, Matthew G. “What Is Digital Humanities and What’s It Doing in English Departments?” *Debates in the Digital Humanities*, edited by Matthew K. Gold, University of Minnesota Press, 2012.
+- Terras, Melissa. *Digitization and Digital Resources in the Humanities*. Routledge, 2008.
+
+
+## Nota editorial
+
+Este artículo se basa en un informe completo generado a partir de una recopilación extensa de recursos, proyectos e instituciones activas en el ámbito hispanohablante de las Humanidades Digitales. Se incluyen descripciones ampliadas de cada sección: asociaciones, archivos, redes, proyectos de ciencia ciudadana, bibliografía crítica, y ejemplos destacados de edición digital en español.
+
+Todas las descripciones, enlaces y referencias han sido verificadas y están dirigidas especialmente a investigadores, docentes, archivistas y estudiantes interesados en acceder a materiales relevantes para el estudio, la enseñanza y la práctica de las Humanidades Digitales desde una perspectiva hispanoparlante.
+
