@@ -1,0 +1,3 @@
+# Archives
+
+Browse past posts.

@@ -1,8 +1,8 @@
 baseURL: https://ealeman.com/blog/
-title: Blog de Eduardo Alemán
-description: Blog en español de Eduardo Alemán.
 defaultContentLanguage: es
 defaultContentLanguageInSubdir: true
+title: Blog de Eduardo Alemán
+description: Blog en español de Eduardo Alemán.
 
 languages:
   es:
@@ -11,6 +11,8 @@ languages:
     contentDir: content/es
     languageCode: es
     languageDirection: ltr
+    title: Blog de Eduardo Alemán
+    description: Blog en español de Eduardo Alemán.
     params:
       subtitle: Traducciones, resúmenes, notas
       hideSummary: true
@@ -27,6 +29,24 @@ languages:
       socialIcons:
         - name: github
           url: https://github.com/lampsacus/blog
+    menu:
+      main:
+        - identifier: categories
+          name: categorías
+          url: /categories/
+          weight: 10
+        - identifier: archives
+          name: archivos
+          url: /archivos/
+          weight: 20
+        - identifier: search
+          name: buscar
+          url: /buscar/
+          weight: 30
+        - identifier: website
+          name: ealeman.com
+          url: https://ealeman.com
+          weight: 40
 
   en:
     languageName: English
@@ -34,7 +54,9 @@ languages:
     contentDir: content/en
     languageCode: en
     languageDirection: ltr
-    disabled: false  # ya activado
+    disabled: false
+    title: Eduardo Alemán’s Blog
+    description: Blog in English by Eduardo Alemán.
     params:
       subtitle: Translations, summaries, notes
       ShowReadingTime: true
@@ -48,6 +70,24 @@ languages:
       socialIcons:
         - name: github
           url: https://github.com/lampsacus/blog
+    menu:
+      main:
+        - identifier: categories
+          name: categories
+          url: /en/categories/
+          weight: 10
+        - identifier: archives
+          name: archives
+          url: /en/archives/
+          weight: 20
+        - identifier: search
+          name: search
+          url: /en/search/
+          weight: 30
+        - identifier: website
+          name: ealeman.com
+          url: https://ealeman.com
+          weight: 40
 
 theme: ["PaperMod"]
 
@@ -55,25 +95,6 @@ taxonomies:
   category: categories
   tag: tags
   series: series
-
-menu:
-  main:
-    - identifier: categories
-      name: categorías
-      url: /categories/
-      weight: 10
-    - identifier: archives
-      name: archivos
-      url: /archivos/
-      weight: 20
-    - identifier: search
-      name: buscar
-      url: /buscar/
-      weight: 30
-    - identifier: website
-      name: ealeman.com
-      url: https://ealeman.com
-      weight: 40
 
 outputs:
   home:
