@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ensayos on Blog de Eduardo Alemán</title>
+    <link>http://localhost:1313/blog/es/categories/ensayos/</link>
+    <description>Recent content in Ensayos on Blog de Eduardo Alemán</description>
+    <generator>Hugo -- 0.147.5</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 10 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/es/categories/ensayos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La identidad de Euler</title>
+      <link>http://localhost:1313/blog/es/posts/identidad-de-euler/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/posts/identidad-de-euler/</guid>
+      <description>Un recorrido por la célebre identidad de Euler, sus orígenes en el interés compuesto, su relación con el número e y su belleza en el contexto de las funciones trigonométricas y los números complejos.</description>
+    </item>
+  </channel>
+</rss>

@@ -51,6 +51,62 @@
       <description></description>
     </item>
     <item>
+      <title>Antigüedad</title>
+      <link>http://localhost:1313/blog/es/categories/antig%C3%BCedad/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/categories/antig%C3%BCedad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Grecia</title>
+      <link>http://localhost:1313/blog/es/categories/grecia/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/categories/grecia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Guerra Del Peloponeso</title>
+      <link>http://localhost:1313/blog/es/categories/guerra-del-peloponeso/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/categories/guerra-del-peloponeso/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Manuscritos</title>
+      <link>http://localhost:1313/blog/es/categories/manuscritos/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/categories/manuscritos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Paul Woodruff</title>
+      <link>http://localhost:1313/blog/es/categories/paul-woodruff/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/categories/paul-woodruff/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Traducción</title>
+      <link>http://localhost:1313/blog/es/categories/traducci%C3%B3n/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/categories/traducci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Transmisión Textual</title>
+      <link>http://localhost:1313/blog/es/categories/transmisi%C3%B3n-textual/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/categories/transmisi%C3%B3n-textual/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tucídides</title>
+      <link>http://localhost:1313/blog/es/categories/tuc%C3%ADdides/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/categories/tuc%C3%ADdides/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Computación</title>
       <link>http://localhost:1313/blog/es/categories/computaci%C3%B3n/</link>
       <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
@@ -107,10 +163,31 @@
       <description></description>
     </item>
     <item>
-      <title>Traducción</title>
-      <link>http://localhost:1313/blog/es/categories/traducci%C3%B3n/</link>
-      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/es/categories/traducci%C3%B3n/</guid>
+      <title>Ensayos</title>
+      <link>http://localhost:1313/blog/es/categories/ensayos/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/categories/ensayos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Filosofía</title>
+      <link>http://localhost:1313/blog/es/categories/filosof%C3%ADa/</link>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/categories/filosof%C3%ADa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Heidegger</title>
+      <link>http://localhost:1313/blog/es/categories/heidegger/</link>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/categories/heidegger/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ontología</title>
+      <link>http://localhost:1313/blog/es/categories/ontolog%C3%ADa/</link>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/categories/ontolog%C3%ADa/</guid>
       <description></description>
     </item>
     <item>
@@ -139,13 +216,6 @@
       <link>http://localhost:1313/blog/es/categories/cristianismo/</link>
       <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/es/categories/cristianismo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Filosofía</title>
-      <link>http://localhost:1313/blog/es/categories/filosof%C3%ADa/</link>
-      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/es/categories/filosof%C3%ADa/</guid>
       <description></description>
     </item>
     <item>
@@ -233,13 +303,6 @@
       <description></description>
     </item>
     <item>
-      <title>Antigüedad</title>
-      <link>http://localhost:1313/blog/es/categories/antig%C3%BCedad/</link>
-      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/es/categories/antig%C3%BCedad/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Ciudad-Estado</title>
       <link>http://localhost:1313/blog/es/categories/ciudad-estado/</link>
       <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
@@ -251,13 +314,6 @@
       <link>http://localhost:1313/blog/es/categories/cultura-de-ciudad-estado/</link>
       <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/es/categories/cultura-de-ciudad-estado/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Grecia</title>
-      <link>http://localhost:1313/blog/es/categories/grecia/</link>
-      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/es/categories/grecia/</guid>
       <description></description>
     </item>
     <item>

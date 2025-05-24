@@ -62,6 +62,33 @@
     <loc>http://localhost:1313/blog/es/posts/investigacion-ciudadana/</loc>
     <lastmod>2025-05-24T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/blog/es/categories/antig%C3%BCedad/</loc>
+    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/es/categories/grecia/</loc>
+    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/es/categories/guerra-del-peloponeso/</loc>
+    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/es/categories/manuscritos/</loc>
+    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/es/categories/paul-woodruff/</loc>
+    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/es/posts/plut.69.2/</loc>
+    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/es/categories/traducci%C3%B3n/</loc>
+    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/es/categories/transmisi%C3%B3n-textual/</loc>
+    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/es/categories/tuc%C3%ADdides/</loc>
+    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/es/categories/computaci%C3%B3n/</loc>
     <lastmod>2025-04-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -89,8 +116,23 @@
     <loc>http://localhost:1313/blog/es/categories/teor%C3%ADa-de-grafos/</loc>
     <lastmod>2025-04-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/es/categories/traducci%C3%B3n/</loc>
-    <lastmod>2025-04-20T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/blog/es/categories/ensayos/</loc>
+    <lastmod>2025-04-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/es/posts/identidad-de-euler/</loc>
+    <lastmod>2025-04-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/es/posts/el-pensar-del-ser-en-heidegger/</loc>
+    <lastmod>2025-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/es/categories/filosof%C3%ADa/</loc>
+    <lastmod>2025-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/es/categories/heidegger/</loc>
+    <lastmod>2025-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/es/categories/ontolog%C3%ADa/</loc>
+    <lastmod>2025-03-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/categories/alma/</loc>
     <lastmod>2025-03-15T00:00:00+00:00</lastmod>
@@ -105,9 +147,6 @@
     <lastmod>2025-03-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/posts/de-platon-a-penrose/</loc>
-    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/es/categories/filosof%C3%ADa/</loc>
     <lastmod>2025-03-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/categories/historia-de-las-ideas/</loc>
@@ -149,16 +188,10 @@
     <loc>http://localhost:1313/blog/es/posts/amanecer-de-todo/</loc>
     <lastmod>2024-07-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/es/categories/antig%C3%BCedad/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/es/categories/ciudad-estado/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/categories/cultura-de-ciudad-estado/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/es/categories/grecia/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/categories/herman-hansen-de-mogen/</loc>
