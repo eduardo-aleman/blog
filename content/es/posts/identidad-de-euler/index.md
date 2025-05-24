@@ -12,6 +12,7 @@ cover:
   alt: Retrato digital de Leonhard Euler frente a un pizarrón con su identidad matemática
   relative: false
   hidden: false
+draft: false
 ---
 
 ## La fórmula más notable en matemáticas
