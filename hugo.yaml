@@ -59,7 +59,7 @@ languages:
       subtitle: Traducciones, resúmenes, notas
       hideSummary: true
       ShowReadingTime: true
-      hideFooter: true
+      hideFooter: false
       ShowShareButtons: true
       ShowToc: true
       ShowBreadCrumbs: true
