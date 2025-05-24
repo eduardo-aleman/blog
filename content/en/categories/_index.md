@@ -1,2 +1,0 @@
-# Categories
-Explore topics.

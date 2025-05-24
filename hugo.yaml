@@ -1,10 +1,34 @@
 baseURL: https://ealeman.com/blog/
+title: Blog de Eduardo Alemán
+description: Blog en español de Eduardo Alemán.
+theme: ["PaperMod"]
 defaultContentLanguage: es
 defaultContentLanguageInSubdir: true
 canonifyURLs: true
 relativeURLs: false
-title: Blog de Eduardo Alemán
-description: Blog en español de Eduardo Alemán.
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+params:
+  env: production
+  assets:
+    disableFingerprinting: false
+    minify:
+      disableXML: true
 
 languages:
   es:
@@ -33,19 +57,19 @@ languages:
           url: https://github.com/lampsacus/blog
     menu:
       main:
-        - identifier: categories
+        - identifier: categories-es
           name: Categorías
           url: /categories/
           weight: 10
-        - identifier: archives
+        - identifier: archives-es
           name: Archivos
-          url: /archives/
+          url: /archivos/
           weight: 20
-        - identifier: search
+        - identifier: search-es
           name: Buscar
-          url: /search/
+          url: /buscar/
           weight: 30
-        - identifier: website
+        - identifier: website-es
           name: ealeman.com
           url: https://ealeman.com
           weight: 40
@@ -74,37 +98,19 @@ languages:
           url: https://github.com/lampsacus/blog
     menu:
       main:
-        - identifier: categories
+        - identifier: categories-en
           name: Categories
           url: /categories/
           weight: 10
-        - identifier: archives
+        - identifier: archives-en
           name: Archives
           url: /archives/
           weight: 20
-        - identifier: search
+        - identifier: search-en
           name: Search
           url: /search/
           weight: 30
-        - identifier: website
+        - identifier: website-en
           name: ealeman.com
           url: https://ealeman.com
           weight: 40
-
-theme: ["PaperMod"]
-
-taxonomies:
-  category: categories
-  tag: tags
-  series: series
-
-outputs:
-  home:
-    - HTML
-    - RSS
-    - JSON
-
-markup:
-  goldmark:
-    renderer:
-      unsafe: false

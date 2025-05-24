@@ -1,2 +1,0 @@
-# Archivos
-Historial de publicaciones.

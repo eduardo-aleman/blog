@@ -1,2 +1,0 @@
-# Buscar
-Encuentra contenido.

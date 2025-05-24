@@ -1,5 +1,5 @@
-{{- if lt hugo.Version "0.112.4" }}
-{{- errorf "=> hugo v0.112.4 or greater is required for hugo-PaperMod to build " }}
+{{- if lt hugo.Version "0.146.0" }}
+{{- errorf "=> hugo v0.146.0 or greater is required for hugo-PaperMod to build " }}
 {{- end -}}
 
 <!DOCTYPE html>
@@ -18,26 +18,10 @@
 {{- end -}}
 " id="top">
     {{- partialCached "header.html" . .Page -}}
-
     <main class="main">
         {{- block "main" . }}{{ end }}
     </main>
-
     {{ partialCached "footer.html" . .Layout .Kind (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}}
-
-    <!-- ✅ MathJax v3 script integration -->
-    <script>
-      window.MathJax = {
-        tex: {
-          inlineMath: [['$', '$'], ['\\(', '\\)']],
-          displayMath: [['$$', '$$'], ['\\[', '\\]']]
-        },
-        options: {
-          skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
-        }
-      };
-    </script>
-    <script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 </body>
 
 </html>

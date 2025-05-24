@@ -1,9 +1,9 @@
 ---
-title: "Search"
+title: "Buscar"
 layout: "search"
-url: "/search/"
+url: "/buscar/"
 summary: "search"
-placeholder: "e.g., Julian the Apostate"
+placeholder: "por ejemplo, Juliano el Apóstata"
 type: "page"
 outputs:
   - HTML
