@@ -44,7 +44,7 @@ Tomás de Aquino ofrece una síntesis entre la metafísica aristotélica y la te
 
 Con el auge de la ciencia moderna y el mecanicismo de Descartes, la concepción del alma se fue reduciendo a un problema de interacción mente-cuerpo. En el siglo XX, las ciencias cognitivas y la inteligencia artificial intentaron reducir la mente a procesos computacionales. Sin embargo, el teorema de incompletitud de Gödel cuestiona esta reducción: hay verdades que ningún sistema formal puede demostrar desde dentro. Roger Penrose retoma este argumento para sostener que el pensamiento humano no es algorítmico (*The Emperor's New Mind* 538–540). En su teoría *Orch-OR*, desarrollada junto con Stuart Hameroff, postula que la consciencia surge de procesos cuántico-gravitacionales en los microtúbulos neuronales, colapsos no computables que desafían el paradigma materialista tradicional (Hameroff and Penrose 1996).
 
-## Conclusión: de la psychē a la consciencia
+## Conclusión: de la *psychē* a la consciencia
 
 Desde Platón hasta Penrose, la historia del alma y de la consciencia ha oscilado entre la trascendencia metafísica y la inmanencia funcional, entre el conocimiento del Bien y la información integrada, entre la inmortalidad espiritual y los colapsos cuánticos. Ninguna teoría ha agotado el misterio, pero cada una lo ha nombrado a su modo. Tal vez el alma no sea solo una entidad, sino también una pregunta: aquella que mantiene abierta la posibilidad de seguir pensando, sintiendo, eligiendo y preguntando por qué somos lo que somos.
 
