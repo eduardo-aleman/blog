@@ -67,10 +67,24 @@ languages:
       DateFormat: "January 02 2006"
       homeInfoParams:
         Title: Traducciones, resúmenes, notas
-        Content: ""
+        Content: |
+          👋 ¡Bienvenido a mi blog!
+
+          - Estoy usando un nuevo tema de Hugo, *PaperMod*, que está diseñado para ser limpio y simple
+          - *Hugo* es un generador de sitios estáticos, que es rápido y flexible. 
+          - Este blog es un trabajo en progreso, así que espera cambios y mejoras con el tiempo.
+          - El blog está alojado en *GitHub Pages*, lo que facilita la gestión y actualización.
+          - El código fuente está disponible en [GitHub]: haz click en el octogato de ↓ para ver.
       socialIcons:
         - name: github
+          title: Ver código fuente en GitHub
           url: https://github.com/lampsacus/blog
+        - name: flickr
+          title: Ver fotos en Flickr
+          url: https://www.flickr.com/photos/ealeman/
+        - name: keybase
+          title: Ver perfil de Keybase
+          url: https://keybase.io/ealeman
     menu:
       main:
         - identifier: categories
@@ -110,10 +124,25 @@ languages:
       DateFormat: "02 January 2006"
       homeInfoParams:
         Title: Translations, summaries, notes
-        Content: ""
+        Content: |
+          👋 Welcome to my blog!
+
+          - I am using a new Hugo theme, *PaperMod*, which is designed to be clean and simple.
+          - I am also using *Hugo* as the static site generator, which is fast and flexible.
+          - This blog is a work in progress, so expect changes and improvements over time.
+          - The blog is hosted on *GitHub Pages*, which makes it easy to manage and update.
+          - The source code is available on [GitHub]: click on the octocat ↓ para ver.
+
       socialIcons:
         - name: github
+          title: View Source on Github
           url: https://github.com/lampsacus/blog
+        - name: flickr
+          title: View Photos on Flickr
+          url: https://www.flickr.com/photos/ealeman/
+        - name: keybase
+          title: View Keybase Profile
+          url: https://keybase.io/ealeman
     menu:
       main:
         - identifier: categories
