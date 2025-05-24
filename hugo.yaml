@@ -4,9 +4,6 @@ description: Blog en español de Eduardo Alemán.
 theme: ["PaperMod"]
 defaultContentLanguage: es
 defaultContentLanguageInSubdir: true
-canonifyURLs: true
-relativeURLs: false
-
 
 outputs:
   home:
@@ -29,7 +26,14 @@ params:
   assets:
     disableFingerprinting: false
     minify:
-      disableXML: true
+      disableXML: false
+  showReadingTime: true
+  showToc: true
+  showBreadCrumbs: true
+  showShareButtons: true
+  showFooter: true
+  math: true
+  dateFormat: "January 02 2006"
   mainSections: posts
 
 languages:
@@ -61,11 +65,11 @@ languages:
       main:
         - identifier: categories
           name: Categorías
-          url: https://ealeman.com/blog/es/categories/
+          url: /categorias/
           weight: 10
         - identifier: archives
           name: Archivos
-          url: https://ealeman.com/blog/es/archivos/
+          url: /archivos/
           weight: 20
         - identifier: website
           name: ealeman.com
@@ -98,11 +102,11 @@ languages:
       main:
         - identifier: categories
           name: Categories
-          url: https://ealeman.com/blog/en/categories/
+          url: /categories/
           weight: 10
         - identifier: archives
           name: Archives
-          url: https://ealeman.com/blog/en/archives/
+          url: /archives/
           weight: 20
         - identifier: website
           name: ealeman.com
