@@ -12,6 +12,8 @@ categories:
 - königsberg
 - hamilton
 - hamiltoniano
+draft: false
+type: posts
 ---
 
 ## Capítulo 1

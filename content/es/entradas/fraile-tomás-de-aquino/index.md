@@ -8,6 +8,7 @@ categories:
   - tomás de aquino
   - traducción
 draft: false
+type: posts
 ---
 
 Fray Tomás de Aquino.  

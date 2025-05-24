@@ -5,6 +5,8 @@ categories:
   - keith hopkins
   - cristianismo primitivo
   - traducción
+draft: false
+type: posts
 ---
 
 ### Introducción

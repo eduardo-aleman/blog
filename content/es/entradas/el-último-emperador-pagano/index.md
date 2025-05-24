@@ -7,6 +7,8 @@ categories:
 - juliano
 - roma
 - h c teitler
+draft: false
+type: posts
 ---
 
 ### Introducción

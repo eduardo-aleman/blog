@@ -10,6 +10,8 @@ categories:
 - cultura de ciudad-estado
 - herman hansen de mogen
 - traducción
+draft: false
+type: posts
 ---
 
 ## Para John Crook
