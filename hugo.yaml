@@ -68,7 +68,7 @@ languages:
         - identifier: website
           name: ealeman.com
           url: https://ealeman.com
-          weight: 40
+          weight: 30
 
   en:
     languageName: English
@@ -105,4 +105,4 @@ languages:
         - identifier: website
           name: ealeman.com
           url: https://ealeman.com
-          weight: 40
+          weight: 30
