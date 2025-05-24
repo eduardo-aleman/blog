@@ -57,19 +57,19 @@ languages:
           url: https://github.com/lampsacus/blog
     menu:
       main:
-        - identifier: categories-es
+        - identifier: categories
           name: Categorías
           url: /categories/
           weight: 10
-        - identifier: archives-es
+        - identifier: archives
           name: Archivos
           url: /es/archivos/
           weight: 20
-        - identifier: search-es
+        - identifier: search
           name: Buscar
           url: /es/buscar/
           weight: 30
-        - identifier: website-es
+        - identifier: website
           name: ealeman.com
           url: https://ealeman.com
           weight: 40
@@ -98,19 +98,19 @@ languages:
           url: https://github.com/lampsacus/blog
     menu:
       main:
-        - identifier: categories-en
+        - identifier: categories
           name: Categories
           url: /categories/
           weight: 10
-        - identifier: archives-en
+        - identifier: archives
           name: Archives
           url: /archives/
           weight: 20
-        - identifier: search-en
+        - identifier: search
           name: Search
           url: /search/
           weight: 30
-        - identifier: website-en
+        - identifier: website
           name: ealeman.com
           url: https://ealeman.com
           weight: 40
