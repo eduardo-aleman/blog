@@ -63,12 +63,8 @@ languages:
           weight: 10
         - identifier: archives
           name: Archivos
-          url: https://ealeman.com/blog/archive/
+          url: https://ealeman.com/blog/es/archivos/
           weight: 20
-        - identifier: search
-          name: Buscar
-          url: https://ealeman.com/blog/search/
-          weight: 30
         - identifier: website
           name: ealeman.com
           url: https://ealeman.com
@@ -104,12 +100,8 @@ languages:
           weight: 10
         - identifier: archives
           name: Archives
-          url: https://ealeman.com/blog/archives/
+          url: https://ealeman.com/blog/en/archives/
           weight: 20
-        - identifier: search
-          name: Search
-          url: https://ealeman.com/blog/search/
-          weight: 30
         - identifier: website
           name: ealeman.com
           url: https://ealeman.com
