@@ -46,7 +46,10 @@
     <loc>http://localhost:1313/blog/en/categories/philology/</loc>
     <lastmod>2025-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/en/digital-humanities/</loc>
+    <loc>http://localhost:1313/blog/en/posts/</loc>
+    <lastmod>2025-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/en/posts/digital-humanities/</loc>
     <lastmod>2025-05-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/en/archives/</loc>
