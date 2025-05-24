@@ -59,15 +59,15 @@ languages:
       main:
         - identifier: categories
           name: Categorías
-          url: /categories/
+          url: /blog/categories/
           weight: 10
         - identifier: archives
           name: Archivos
-          url: /es/archivos/
+          url: /blog/archive/
           weight: 20
         - identifier: search
           name: Buscar
-          url: /es/buscar/
+          url: /blog/search/
           weight: 30
         - identifier: website
           name: ealeman.com
@@ -100,15 +100,15 @@ languages:
       main:
         - identifier: categories
           name: Categories
-          url: /categories/
+          url: /blog/categories/
           weight: 10
         - identifier: archives
           name: Archives
-          url: /archives/
+          url: /blog/archives/
           weight: 20
         - identifier: search
           name: Search
-          url: /search/
+          url: /blog/search/
           weight: 30
         - identifier: website
           name: ealeman.com

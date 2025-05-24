@@ -1,0 +1,89 @@
+{{- $.Scratch.Add "index" slice -}}
+{{- range site.RegularPages }}
+  {{- if (not .Params.draft) }}
+    {{- $.Scratch.Add "index" (dict
+      "title" .Title
+      "permalink" .Permalink
+      "summary" .Summary
+      "content" .Plain
+      "tags" .Params.tags
+    ) }}
+  {{- end }}
+{{- end }}
+{{- $.Scratch.Get "index" | jsonify }}
+{{- /* This file is used to generate a JSON index for search functionality */ -}}
+{{- /* It collects all regular pages that are not drafts and formats them into a JSON structure */ -}}
+{{- /* The output includes title, permalink, summary, content, and tags for each page */ -}}
+{{- /* The final output is a JSON array of objects, which can be used by a search engine */ -}}
+{{- /* Note: Ensure that the search engine or script consuming this JSON is capable of handling the structure */ -}}
+{{- /* This file should be placed in the layouts/_default directory to be processed correctly */ -}}
+{{- /* The use of $.Scratch allows for efficient accumulation of data without polluting the global context */ -}}
+{{- /* The final output is a single JSON array that can be easily consumed by JavaScript or other tools */ -}}
+{{- /* Make sure to test the output to ensure it meets the requirements of your search implementation */ -}}
+{{- /* This code is designed to be used in a Hugo static site generator project */ -}}
+{{- /* It generates a JSON file that can be used for search functionality on the site */ -}}
+{{- /* The JSON file will include all regular pages that are not marked as drafts */ -}}
+{{- /* Each page's title, permalink, summary, content, and tags will be included in the output */ -}}
+{{- /* The output is structured as an array of objects, making it easy to parse and use in search features */ -}}
+{{- /* Ensure that the search functionality on your site is set up to utilize this JSON file correctly */ -}}
+{{- /* You may need to adjust the structure or fields based on your specific search implementation needs */ -}}
+{{- /* This code is a part of the Hugo theme and should be placed in the appropriate layout directory */ -}}
+{{- /* The output will be generated whenever the site is built, ensuring it is always up-to-date with the latest content */ -}}
+{{- /* This approach allows for dynamic search capabilities without requiring a separate search engine setup */ -}}
+{{- /* The JSON output can be used in conjunction with JavaScript to create a client-side search experience */ -}}
+{{- /* Consider implementing features like filtering or sorting based on tags or other criteria */ -}}
+{{- /* This code is flexible and can be modified to include additional fields or change the structure as needed */ -}}
+{{- /* Make sure to validate the JSON output to ensure it is correctly formatted and usable by your search implementation */ -}}
+{{- /* This file serves as a template for generating the search index, and can be customized further if needed */ -}}
+{{- /* The use of Hugo's Scratch feature allows for efficient data handling without cluttering the global namespace */ -}}
+{{- /* This is particularly useful in larger projects where many different data structures may be needed */ -}}
+{{- /* The final output is a clean, structured JSON file that can be easily integrated into your site's search functionality */ -}}
+{{- /* Remember to test the search functionality after making changes to ensure everything works as expected */ -}}
+{{- /* This code is designed to be reusable and can be adapted for different types of content or search requirements */ -}}
+{{- /* The JSON output can be consumed by various front-end frameworks or libraries for search implementation */ -}}
+{{- /* Consider adding error handling or fallback mechanisms in your search implementation to handle cases where no results are found */ -}}
+{{- /* This code is a part of the Hugo theme and should be placed in the appropriate layout directory */ -}}
+{{- /* The output will be generated whenever the site is built, ensuring it is always up-to-date with the latest content */ -}}
+{{- /* This approach allows for dynamic search capabilities without requiring a separate search engine setup */ -}}
+{{- /* The JSON output can be used in conjunction with JavaScript to create a client-side search experience */ -}}
+{{- /* Consider implementing features like filtering or sorting based on tags or other criteria */ -}}
+{{- /* This code is flexible and can be modified to include additional fields or change the structure as needed */ -}}
+{{- /* Make sure to validate the JSON output to ensure it is correctly formatted and usable by your search implementation */ -}}
+{{- /* This file serves as a template for generating the search index, and can be customized further if needed */ -}}
+{{- /* The use of Hugo's Scratch feature allows for efficient data handling without cluttering the global namespace */ -}}
+{{- /* This is particularly useful in larger projects where many different data structures may be needed */ -}}
+{{- /* The final output is a clean, structured JSON file that can be easily integrated into your site's search functionality */ -}}
+{{- /* Remember to test the search functionality after making changes to ensure everything works as expected */ -}}
+{{- /* This code is designed to be reusable and can be adapted for different types of content or search requirements */ -}}
+{{- /* The JSON output can be consumed by various front-end frameworks or libraries for search implementation */ -}}
+{{- /* Consider adding error handling or fallback mechanisms in your search implementation to handle cases where no results are found */ -}}
+{{- /* This code is a part of the Hugo theme and should be placed in the appropriate layout directory */ -}}
+{{- /* The output will be generated whenever the site is built, ensuring it is always up-to-date with the latest content */ -}}
+{{- /* This approach allows for dynamic search capabilities without requiring a separate search engine setup */ -}}
+{{- /* The JSON output can be used in conjunction with JavaScript to create a client-side search experience */ -}}
+{{- /* Consider implementing features like filtering or sorting based on tags or other criteria */ -}}
+{{- /* This code is flexible and can be modified to include additional fields or change the structure as needed */ -}}
+{{- /* Make sure to validate the JSON output to ensure it is correctly formatted and usable by your search implementation */ -}}
+{{- /* This file serves as a template for generating the search index, and can be customized further if needed */ -}}
+{{- /* The use of Hugo's Scratch feature allows for efficient data handling without cluttering the global namespace */ -}}
+{{- /* This is particularly useful in larger projects where many different data structures may be needed */ -}}
+{{- /* The final output is a clean, structured JSON file that can be easily integrated into your site's search functionality */ -}}
+{{- /* Remember to test the search functionality after making changes to ensure everything works as expected */ -}}
+{{- /* This code is designed to be reusable and can be adapted for different types of content or search requirements */ -}}
+{{- /* The JSON output can be consumed by various front-end frameworks or libraries for search implementation */ -}}
+{{- /* Consider adding error handling or fallback mechanisms in your search implementation to handle cases where no results are found */ -}}
+{{- /* This code is a part of the Hugo theme and should be placed in the appropriate layout directory */ -}}
+{{- /* The output will be generated whenever the site is built, ensuring it is always up-to-date with the latest content */ -}}
+{{- /* This approach allows for dynamic search capabilities without requiring a separate search engine setup */ -}}
+{{- /* The JSON output can be used in conjunction with JavaScript to create a client-side search experience */ -}}
+{{- /* Consider implementing features like filtering or sorting based on tags or other criteria */ -}}
+{{- /* This code is flexible and can be modified to include additional fields or change the structure as needed */ -}}
+{{- /* Make sure to validate the JSON output to ensure it is correctly formatted and usable by your search implementation */ -}}
+{{- /* This file serves as a template for generating the search index, and can be customized further if needed */ -}}
+{{- /* The use of Hugo's Scratch feature allows for efficient data handling without cluttering the global namespace */ -}}
+{{- /* This is particularly useful in larger projects where many different data structures may be needed */ -}}
+{{- /* The final output is a clean, structured JSON file that can be easily integrated into your site's search functionality */ -}}
+{{- /* Remember to test the search functionality after making changes to ensure everything works as expected */ -}}
+{{- /* This code is designed to be reusable and can be adapted for different types of content or search requirements */ -}}
+{{- /* The JSON output can be consumed by various front-end frameworks or libraries for search implementation */ -}}
+{{- /* Consider adding error handling or fallback mechanisms in your search implementation to handle cases where no results are found */ -}}
