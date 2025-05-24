@@ -63,11 +63,11 @@ languages:
           weight: 10
         - identifier: archives-es
           name: Archivos
-          url: /archivos/
+          url: /es/archivos/
           weight: 20
         - identifier: search-es
           name: Buscar
-          url: /buscar/
+          url: /es/buscar/
           weight: 30
         - identifier: website-es
           name: ealeman.com
