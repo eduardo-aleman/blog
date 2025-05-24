@@ -92,7 +92,7 @@ Resources are organized by thematic sections, with links to relevant platforms a
 - [Digital Library of Novohispanic Thought (UNAM)](https://bdpn.unam.mx/)
 - [Digital Library of Old Spanish Texts (BDTEA)](https://www.hispanicseminary.org/)
 
-## Recommended Bibliography (MLA Style)
+## Recommended Bibliography
 
 - Spiro, Lisa. “This Is Why We Fight: Defining the Values of the Digital Humanities.” *Debates in the Digital Humanities*, edited by Matthew K. Gold, University of Minnesota Press, 2012, https://dhdebates.gc.cuny.edu/read/untitled/section/e5073c95-3e24-4e9f-b27b-4557b6e4c5b5.
 - Ridge, Mia, editor. *Crowdsourcing Our Cultural Heritage*. Ashgate, 2014.

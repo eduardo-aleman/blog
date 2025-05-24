@@ -92,7 +92,7 @@ Los recursos se organizan por secciones temáticas, con enlaces a plataformas e 
 - [Biblioteca Digital del Pensamiento Novohispano (UNAM)](https://bdpn.unam.mx/)
 - [Biblioteca Digital de Textos del Español Antiguo (BDTEA)](https://www.hispanicseminary.org/)
 
-## Bibliografía recomendada (formato MLA)
+## Bibliografía recomendada
 
 - Spiro, Lisa. “This Is Why We Fight: Defining the Values of the Digital Humanities.” *Debates in the Digital Humanities*, edited by Matthew K. Gold, University of Minnesota Press, 2012, https://dhdebates.gc.cuny.edu/read/untitled/section/e5073c95-3e24-4e9f-b27b-4557b6e4c5b5.
 - Ridge, Mia, editor. *Crowdsourcing Our Cultural Heritage*. Ashgate, 2014.
