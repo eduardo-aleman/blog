@@ -55,6 +55,7 @@ languages:
     languageDirection: ltr
     title: Blog de Eduardo Alemán
     params:
+      displayFullLangName: true
       description: Blog en español de Eduardo Alemán.
       subtitle: Traducciones, resúmenes, notas
       hideSummary: true
