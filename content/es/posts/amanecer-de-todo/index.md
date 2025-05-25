@@ -29,7 +29,7 @@ Los autores nos invitan a reflexionar sobre esta y otras preguntas fundamentales
 
 ---
 
-## Capítulo 1
+**Capítulo 1**
 
 - Se exploran las ideas sobre el “estado natural” del ser humano surgidas en el siglo XVII, en obras como *El Leviatán* de Hobbes y *El origen de la desigualdad* de Rousseau.
 - Hobbes describe la naturaleza humana como egoísta y violenta (“la guerra de todos contra todos”), mientras que Rousseau propone una visión más noble del ser humano, corrompido posteriormente por la propiedad privada.
@@ -45,12 +45,12 @@ Los autores nos invitan a reflexionar sobre esta y otras preguntas fundamentales
   - La teoría conspirativa de Gilbert Chinard, quien sostuvo que Rousseau y Lahontan eran anarquistas influidos por los jesuitas.
 - Finalmente, se distingue que el libro no trata directamente sobre los orígenes de la desigualdad o la civilización, aunque toca ambos temas.
 
-### Cita destacada
+**Cita destacada**
 
 > “Si, como muchos sugieren, el futuro de nuestra especie depende ahora de nuestra capacidad de crear algo diferente (por ejemplo, un sistema en el que la riqueza no pueda transformarse libremente en poder, o en el que a algunas personas no se les diga que sus necesidades no son importantes, o que sus vidas no tienen valor intrínseco), entonces lo que en última instancia importa es cómo podemos redescubrir las libertades que nos hacen humanos en primer lugar.  
 > Ya en 1936, el prehistoriador V. Gordon Childe escribió un libro titulado *El hombre se hace a sí mismo*. Más allá del lenguaje sexista, este es el espíritu que queremos invocar. Somos proyectos de autocreación colectiva. ¿Qué pasaría si abordáramos la historia humana de esa manera? ¿Qué pasaría si tratáramos a los seres humanos, desde el principio, como criaturas imaginativas, inteligentes y juguetonas que merecen ser entendidas como tales? ¿Qué pasaría si, en lugar de contar una historia sobre cómo nuestra especie se cayó de algún estado idílico de igualdad, nos preguntamos cómo llegamos a quedar atrapados en grilletes conceptuales tan estrechos que ya no podemos ni siquiera imaginar la posibilidad de reinventarnos?”
 
-## Capítulo 2
+**Capítulo 2**
 
 - Se profundiza en la crítica indígena y su influencia sobre el pensamiento ilustrado, a menudo ignorada por los historiadores.
 - Los indígenas norteamericanos denunciaron la falta de libertad en las cortes europeas, señalando una diferencia fundamental en la concepción de la autonomía.
@@ -67,6 +67,6 @@ Los autores nos invitan a reflexionar sobre esta y otras preguntas fundamentales
 - Sin embargo, también heredamos de él un mito perjudicial: el del “salvaje estúpido”, útil para legitimar el colonialismo.
 - Se reafirma que las sociedades prehistóricas, al igual que las indígenas, tenían visiones diversas sobre lo valioso en la vida en común. No eran “igualitarias” en sentido uniforme, ni mucho menos primitivas.
 
-### Cita destacada
+**Cita destacada**
 
 > “Este no es, entonces, un libro sobre los orígenes de la desigualdad. Pero pretende responder muchas de las mismas preguntas de forma diferente. No hay duda de que algo ha ido terriblemente mal en el mundo. Un porcentaje muy pequeño de su población controla el destino de casi todos los demás, y lo hace de una manera cada vez más desastrosa. Para entender cómo surgió esta situación, debemos rastrear el problema hasta lo que primero hizo posible el surgimiento de reyes, sacerdotes, supervisores y jueces. Pero ya no podemos darnos el lujo de suponer que ya sabemos de antemano cuáles serán las respuestas precisas. Siguiendo la guía de críticos indígenas como Kandiaronk, debemos abordar la evidencia del pasado humano con nuevos ojos.”

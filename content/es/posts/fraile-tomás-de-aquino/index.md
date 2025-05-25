@@ -16,7 +16,7 @@ Su vida, pensamiento, y obras.
 Jaime A. Weisheipl, O.P. (*Ordinis Praedicatorum*).  
 Instituto Pontificio de Estudios Medievales de Toronto.
 
-### Prefacio
+**Prefacio**
 
 El 7 de marzo de 1974 se cumple el setecientos aniversario de la muerte de Santo Tomás de Aquino. Dado que el 7 de marzo de 1274 es la única fecha cierta que tenemos en su vida, es apropiado que el día y el año se conmemoren de diversas maneras en todo el mundo. Este libro representa parte de mi contribución a la ocasión. La última celebración mundial fue en 1923, el sexto centenario de la canonización de Tomás el 18 de julio de 1323. Se ha descubierto mucho material nuevo en los cincuenta años pasados, por lo que hay necesidad de un resumen y una evaluación de los hechos descubiertos por los eruditos que han dado sus mejores esfuerzos para comprender la vida, el pensamiento y la obra del fraile Tomás de Aquino.
 
@@ -49,7 +49,7 @@ Festejo de Santo Tomás de Aquino
 
 28 de enero de 1973
 
-### Capítulo I: Niñez siciliana y juventud dominicana (1224/5-52)
+**Capítulo I: Niñez siciliana y juventud dominicana (1224/5-52)**
 
 Alentados por el resurgimiento del tomismo a finales del siglo XIX y principios del XX, los historiadores de Alemania, Italia y Francia han recopilado y examinado diligentemente cada fragmento de información para aumentar y ampliar nuestro conocimiento sobre santo Tomás de Aquino y su época. Heinrich Denihe, Franz Ehrle, Clemens Baeumker, Martin Grabmann, Pierre Mandonnet, Pietro Castagnoli, Jacques Berthier y Angelus Walz vienen a la mente, pero hubo muchos otros que contribuyeron a una imagen más completa de Tomás de Aquino de la que se puede obtener de una simple lectura del "Doctor Universal" presentado en las escuelas. El lector moderno, influenciado por las afirmaciones legítimas de el historicismo sabe que tanto las ideas como las personalidades deben entenderse en el contexto pleno de la época en que se desarrollaron.
 
@@ -61,7 +61,7 @@ La vida de Tomás abarca la mitad de los años cincuenta de ese siglo, 1724/5-74
 
 Tomás de Aquino no sólo fue un genio, sino que apareció en el momento propicio de la historia en el cual la escolástica florecía dentro del pensamiento medieval. Nació justo cuando los influyentes comentarios de Averroes llegaban al Occidente latino y fue contemporáneo de grandes pensadores como San Alberto el Grande y San Buenaventura. Se unió a la Orden Dominicana en su infancia, cuando los frailes estaban llenos de celo y amor por el ideal propuesto por santo Domingo. A primera vista, las obras de Tomás parecen alejadas de los acontecimientos contemporáneos, pero esto es sólo una impresión superficial. Tomás era un hombre muy de su época y de su entorno. Una comprensión sólida del hombre requiere tanto una comprensión precisa de sus enseñanzas como un conocimiento profundo del contexto en el que vivió, se movió y existió. La investigación histórica durante los últimos cincuenta años ha arrojado mucha luz sobre las opiniones de sus contemporáneos; estas han ayudado a iluminar los problemas, argumentos y soluciones aparentemente impersonales propuestos por Tomás de Aquino.
 
-#### *La niñez en el Reino de Sicilia* (1224/5-44)
+*La niñez en el Reino de Sicilia* (1224/5-44)
 
 No hay evidencia documental sobre el día o año del nacimiento de Tomás. Los propios cronistas y testigos fueron inconsistentes, o al menos vagos, sobre este punto. Sabemos con certeza que murió la mañana del mes de marzo 7, 1274, aunque Bernardo Gui, que curiosamente da la fecha como el 9 de marzo, afirma que Tomás murió al “principio del quincuagésimo año de su edad”, 1 lo que situaría la fecha de nacimiento de Tomás alrededor de 1224 o 1225. Tanto Guillermo de Tocco (c. 65) y Pedro Caló (c. 28) dan la fecha de muerte como marzo 7, 1274; y Tocco añade, “el santo tenía cuarenta y nueve años”, lo que situaría la fecha de nacimiento alrededor de 1226. Tolomeo de Lucca señala que “murió en el año cincuenta de su vida, mientras que otros dicen cuarenta y ocho”. 2 Si Tomás murió a los cuarenta y ocho años, como dicen algunos, habría nacido en 1227. En la primera investigación de canonización, Nicolás de Piperno testificó que Tomás “le había parecido al testigo unos cincuenta o sesenta” años de edad, situando así la fecha de nacimiento entre 1214 y 1224. 3En la misma investigación de canonización en Nápoles, Octaviano de Babuco afirmó que Tomás "parecía tener unos cincuenta años" cuando murió. 4 En la misma investigación, el fraile Santiago de Viterbo, un dominico, testificó que Tomás murió, según la opinión habitual, a los cuarenta y ocho años. 5 Esto pondría la fecha de su nacimiento en 1227. En el otro extremo del espectro, el bibliotecario de Monte Casino, Mariano Annellino, escribiendo en 1731, afirma explícitamente que "santo Tomás nació en 1220, en abril dieciséis en el castillo de Roccasecca, siendo el padre Landulfooo Conde de Aquino y la madre Teodora Theatis, hija de un Conde." 6 La afirmación de Annellino no necesita tomarse en serio, ya que no proporciona documentación ni argumentos, y afirma que Tomás era un Benedictino plenamente profeso antes de convertirse en Fraile Predicador. Esto no nos detiene por el momento.
 
@@ -145,7 +145,7 @@ Se debe hacer una observación más sobre los estudios de Tomás en Nápoles. Pa
 
 Al parecer, Tomás nunca se inició en las artes ni enseñó como maestro regente de artes en Nápoles. El tiempo transcurrido en el Studium de Nápoles habría sido suficiente, considerando su notoria aptitud, para iniciarse en las artes. Las regulaciones concernientes a la iniciación en las artes en París en 1215 afirman que un erudito debe haber completado su vigésimo año antes de su inicio. No sabemos cuál era el procedimiento habitual en Nápoles en este primer período, pero no pudo haber sido muy diferente de la práctica en París. Sólo podemos decir que para Tomás, el funcionar como un maestro en artes en Nápoles no era tan tentador como ingresar en la Orden de los Frailes Predicadores. Sin duda, la estrecha asociación con los frailes de San Domenico contribuyó a atraer a Tomás. Pero seguramente más importante que eso debe haber sido el ideal de santo Domingo y el modo de vida mostrado por los frailes mendicantes. En consecuencia, optó por ingresar en la Orden Mendicante en el verano de 1244, frustrando así el plan de su familia para él. El padre de Tomás había muerto el año anterior, 1243, y el futuro de la familia descansaba en doña Teodora.
 
-#### ***La juventud en la Orden de los Frailes Predicadores (1244-52)***
+*La juventud en la Orden de los Frailes Predicadores (1244-52)*
 
 Durante su residencia en Nápoles, mientras estudiaba en la Universidad Imperial, Tomás tuvo amplias oportunidades de encontrar y observar las vidas del puñado de dominicos que habían llegado a Nápoles en 1227. 65 Vestidos con túnica, escapulario y capuche blancos y un manto exterior negro todos hechos de lana, vivían visiblemente en el corazón de la ciudad medieval. Además de predicar en su propio convento y donde fuera posible, deambulaban por la ciudad pidiendo comida y otras necesidades. Mientras Tomás pasaba por sus años de adolescencia en la Universidad, no pudo evitar quedar impresionado por su celo por las almas y su pobreza evangélica.
 
@@ -293,7 +293,7 @@ Además del hecho de que fue idea de Alberto enviar a Tomás inmediatamente a Pa
 
 Así, en el otoño de 1252, Tomás se fue al Priorato de Saint-Jacques en París para prepararse para comenzar a enseñar las *Sentencias*. Eran tiempos difíciles en París. Las relaciones amistosas que existían anteriormente entre los dominicos y los maestros seculares de la universidad se habían convertido en odio amargo y fuerte oposición. Fue a este medio al que enviaron a Tomás, demasiado joven de años y demasiado reacio de corazón para involucrarse en controversias. La controversia antimendicante eclipsará todos los días de Tomás en París. El París en el que entró Tomás era un París muy diferente del que Alberto había conocido diez años antes. Quizás Alberto no se dio cuenta de esto; o si lo hizo, tenía gran confianza en el Tomás que "descubrió".
 
-### Notas
+**Notas**
 
 1. Gui, Legenda, c. 39: «inchoante tunc dominicae incarnationis anno MCCLXXIIII, vitae autem suae anno XLIX terminante et anno quinquagesimo inchoante.» Fontes 205.
 2. Hist. Eccl., lib. 23, c. 10, Muratori, Rerum Ital. Script. XI, col. 1 1 7 0 : «abiit autem quinquagesimo vitae suae anno, alii dicunt XLIV, habeos in Magisterio annos XX.» Aunque Muratori da la lectura como «cuarenta y cuatro» en lugar de «cuarenta y ocho», la lectura correcta es la última, según la corrección proporcionada por B. de Rubeis en su Dissertationes criticae I, c. 8, y por P. Mandonnet, «Date de naissance de S. Thomas d’Aquin,» Revue Thomiste 22 (1914); 652, fn. 1.

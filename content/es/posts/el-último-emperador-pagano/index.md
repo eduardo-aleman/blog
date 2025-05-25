@@ -11,7 +11,7 @@ draft: false
 type: posts
 ---
 
-### Introducción
+**Introducción**
 
 Flavio Claudio Juliano, más conocido como Juliano el Apóstata, murió en la noche del 26 al 27 de junio de 363 d.C. Había gobernado el Imperio Romano durante menos de veinte meses cuando fue herido cerca de la moderna Bagdad por una lanza de caballería que le atravesó las costillas y se alojó en la parte inferior del hígado. El joven emperador, que había nacido en Constantinopla en 331 ó 332, murió pocas horas después.1
 
@@ -47,7 +47,7 @@ Casi sin excepción, los escritores cristianos tenían una disposición desfavor
 
 Hay que examinar constantemente hasta qué punto son fiables todos estos autores como fuentes históricas, en particular los escritores de las _pasiones_. No es una tarea fácil, pero sí una condición previa indispensable para la investigación histórica. Implícita o explícitamente planteo a lo largo de este libro la cuestión de la confiabilidad de las fuentes. Edward Gibbon y otros pueden considerar a Amiano Marcelino como un “guía preciso y fiel”. Esto no significa que fuera infalible o imparcial. Por el contrario, casi todos los autores cristianos que escribieron sobre Juliano fueron hostiles hacia él, pero eso no significa que la información que proveen deba ser descartada a priori. 10
 
-#### Notas
+**Notas**
 
 1. ALGUNOS LIBROS SOBRE JULIANO: Rode 1877, Geffcken 1914, Bidez 1930, Browning 1976, Head 1976, Bowersock 1978, Pack 1986, Athanassiadi-Fowden 1981, Marcone 1994, Smith 1995, Renucci 2000, Tantillo 2001, Giebel Murdo Capítulo 2003, Bringmann. 2004, Rosen 2006, Tougher 2007, Hepperle 2010, Wedemeyer 2011, Ramos 2012, Th. Nesselrath 2013, Stöcklin-Kaldewey 2014, Spinelli 2015, Ross 2016; también son valiosos el artículo de Borries en RE 10 (Borries 1919) y el de Lippold en RAC 19 (Lippold 2001); cf. además Hunt 1998b (Cambridge Ancient History) y Rohrbacher 2002, 237–273; importantes colecciones de artículos incluyen Klein 1978, Schäfer 2008, Baker-Brian y Tougher 2012, Marcone 2015; También son relevantes los números especiales de revistas como Rudiae 10 (1998 [2000]) y Antiquité Tardive 17 (2009). LUGAR DE NACIMIENTO DE JULIANO, CONSTANTINOPLA: Jul. Ep. 59, 443b Bidez (= 48 Wright = 52 Weis): ‘(Constantinopla) es el lugar de mi nacimiento y está más estrechamente relacionado conmigo que con el difunto Emperador. Porque aunque él amaba el lugar como a una hermana, yo lo amo como a mi madre”, trans. Wright. AÑO DE NACIMIENTO: Radinger 1891, Neumann 1891, Gilliard 1971, Bowersock 1977, 203–204, Bringmann 2004, 205, Ehling 2005–2006. MUERTE: Büttner-Wobst 1892, I. Hahn 1960, Straub 1962, Conduché 1965, Selem 1973, Frend 1986, Azarnoush 1991, Richter 1998, Arand 2001, 233–236, Lagacherie 2002, Pfeil 2012, Martin 2014a , 314–316, Bosques 2015.
 

@@ -10,9 +10,7 @@ cover:
 draft: false
 ---
 
-# 🧩 Heidegger y el pensar del ser
-
-## I. Del ser como objeto al ser como acontecimiento
+**I. Del ser como objeto al ser como acontecimiento**
 
 En la filosofía moderna, el pensamiento se volvió *representacional*: pensar es formar ideas claras, dominar conceptos, establecer estructuras lógicas.
 
@@ -27,7 +25,7 @@ Heidegger rompe con eso. Para él:
 
 ---
 
-## II. El ser como don, como *Ereignis* (acontecimiento apropiador)
+**II. El ser como don, como *Ereignis* (acontecimiento apropiador)**
 
 En su obra tardía, Heidegger introduce el término *Ereignis*, difícil de traducir pero que puede entenderse como:
 
@@ -37,9 +35,7 @@ En su obra tardía, Heidegger introduce el término *Ereignis*, difícil de trad
 
 El *ser acontece* —no se produce, ni se deduce. Es un *don*, una aparición libre y no calculable. Nosotros no *hacemos* que el ser sea. El ser *nos acontece*, si estamos dispuestos.
 
----
-
-## III. El pensar como acogida (*Andenken*)
+**III. El pensar como acogida (*Andenken*)**
 
 El pensar auténtico, para Heidegger, no es ni ciencia ni técnica ni lógica sistemática. Es lo que llama *pensar meditativo* (*das besinnliche Denken*), en contraste con el *pensar calculador* (*das rechnende Denken*).
 
@@ -51,9 +47,7 @@ Este pensar requiere *paciencia, silencio, escucha*. Es un pensar que *no domina
 > “Lo que es digno de pensar es que aún no pensamos.”  
 > — *¿Qué significa pensar?*
 
----
-
-## IV. La poesía como lugar del ser
+**IV. La poesía como lugar del ser**
 
 En lugar de conceptos duros, Heidegger recurre a la *poesía* como forma privilegiada de acceso al ser. Especialmente se apoya en:
 
@@ -63,9 +57,7 @@ En lugar de conceptos duros, Heidegger recurre a la *poesía* como forma privile
 > “El lenguaje es la morada del ser. En su morada habita el hombre.”  
 > — *Carta sobre el humanismo*
 
----
-
-## V. El peligro de la técnica y el olvido del ser
+**V. El peligro de la técnica y el olvido del ser**
 
 Heidegger advierte que en la era moderna, la técnica se ha vuelto la forma dominante de relación con el mundo: todo se convierte en *recurso disponible* (*Bestand*).
 
@@ -76,17 +68,13 @@ Pero incluso aquí, dice Heidegger, *reside una esperanza*:
 > “Donde está el peligro, crece también lo que salva.”  
 > — Hölderlin
 
----
-
-## VI. El giro (*Kehre*)
+**VI. El giro (*Kehre*)**
 
 El paso del *ser como estructura del Dasein* (*Ser y Tiempo*) al *ser como acontecimiento apropiador* (*Ereignis*) se conoce como *el giro* en Heidegger.
 
 Este no es un abandono de sus ideas anteriores, sino una *profundización*: el Dasein da paso al *ser mismo*, no como fundamento, sino como *misterio que se retira y se muestra*.
 
----
-
-## VII. El pensar como acto ético
+**VII. El pensar como acto ético**
 
 Pensar el ser es también *una forma de habitar el mundo* de manera más cuidadosa, más abierta, menos dominadora. Heidegger propone una *ética implícita*:
 
@@ -94,9 +82,7 @@ Pensar el ser es también *una forma de habitar el mundo* de manera más cuidado
 - Aguardar su aparición.  
 - Resistir la lógica de la explotación.
 
----
-
-## 📚 Lecturas clave
+**Lecturas clave**
 
 - *¿Qué significa pensar?* (*Was heißt Denken?*, 1951–52)  
 - *La pregunta por la técnica* (*Die Frage nach der Technik*, 1954)  
@@ -104,9 +90,7 @@ Pensar el ser es también *una forma de habitar el mundo* de manera más cuidado
 - *Contribuciones a la filosofía (Del acontecimiento)* (*Beiträge zur Philosophie*, 1936–38)  
 - *Tiempo y ser* (*Zeit und Sein*, conferencia de 1962)
 
----
-
-## 🪞 Cierre: pensar no es conocer, es dejar que el ser diga
+**Cierre: pensar no es conocer, es dejar que el ser diga**
 
 El pensar del ser, en Heidegger, no es una operación de la mente sobre objetos. Es una *forma de existir en el mundo*, de abrirse a lo que se da, de custodiar el sentido, sin forzarlo.
 
