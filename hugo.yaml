@@ -65,6 +65,7 @@ languages:
       ShowBreadCrumbs: true
       math: true
       DateFormat: "January 02 2006"
+      emoji: true
       homeInfoParams:
         Title: Traducciones, resúmenes, notas
         Content: |
@@ -110,6 +111,7 @@ languages:
     disabled: false
     title: Eduardo Alemán’s Blog
     params:
+      displayFullLangName: true
       mainSections: posts
       ShowPostsOnHome: true
       description: Eduardo Alemán’s Blog.
