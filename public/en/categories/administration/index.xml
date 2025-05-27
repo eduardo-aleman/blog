@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Administration on Eduardo Alemán’s Blog</title>
+    <link>http://localhost:1313/blog/en/categories/administration/</link>
+    <description>Recent content in Administration on Eduardo Alemán’s Blog</description>
+    <generator>Hugo -- 0.147.5</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 27 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/en/categories/administration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Useful RPC Commands for a Nano Node</title>
+      <link>http://localhost:1313/blog/en/posts/nano-node/nano-node-rpc/</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/en/posts/nano-node/nano-node-rpc/</guid>
+      <description>Summary of common actions available through the JSON-RPC API for a self-hosted Nano node.</description>
+    </item>
+  </channel>
+</rss>

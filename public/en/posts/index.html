@@ -177,6 +177,22 @@
     <article class="post-entry"> 
       <header class="entry-header">
         <h2 class="entry-hint-parent">
+          Useful RPC Commands for a Nano Node
+        </h2>
+      </header>
+      <div class="entry-content">
+        <p>Useful RPC Commands for a Nano Node Once your Nano node is running and port 7076 is open, you can interact with it using HTTP POST requests to the JSON-RPC API. Below is a collection of useful commands organized by category.
+🔍 Node Status curl -d &#39;{ &#34;action&#34;: &#34;version&#34; }&#39; -H &#34;Content-Type: application/json&#34; http://127.0.0.1:7076 curl -d &#39;{ &#34;action&#34;: &#34;telemetry&#34; }&#39; -H &#34;Content-Type: application/json&#34; http://127.0.0.1:7076 curl -d &#39;{ &#34;action&#34;: &#34;block_count&#34; }&#39; -H &#34;Content-Type: application/json&#34; http://127.0.0.1:7076 🧭 Network &amp; Peers curl -d &#39;{ &#34;action&#34;: &#34;peers&#34; }&#39; -H &#34;Content-Type: application/json&#34; http://127.0.0.1:7076 curl -d &#39;{ &#34;action&#34;: &#34;peer_add&#34;, &#34;address&#34;: &#34;peering.nano.org&#34;, &#34;port&#34;: &#34;7075&#34; }&#39; \ -H &#34;Content-Type: application/json&#34; http://127.0.0.1:7076 🔐 Wallets &amp; Accounts curl -d &#39;{ &#34;action&#34;: &#34;wallet_list&#34; }&#39; -H &#34;Content-Type: application/json&#34; http://127.0.0.1:7076 curl -d &#39;{ &#34;action&#34;: &#34;wallet_create&#34; }&#39; -H &#34;Content-Type: application/json&#34; http://127.0.0.1:7076 curl -d &#39;{ &#34;action&#34;: &#34;account_create&#34;, &#34;wallet&#34;: &#34;&lt;WALLET_ID&gt;&#34; }&#39; \ -H &#34;Content-Type: application/json&#34; http://127.0.0.1:7076 curl -d &#39;{ &#34;action&#34;: &#34;wallet_add&#34;, &#34;wallet&#34;: &#34;&lt;WALLET_ID&gt;&#34;, &#34;key&#34;: &#34;&lt;PRIVATE_KEY&gt;&#34; }&#39; \ -H &#34;Content-Type: application/json&#34; http://127.0.0.1:7076 💬 Account Information curl -d &#39;{ &#34;action&#34;: &#34;account_balance&#34;, &#34;account&#34;: &#34;&lt;ACCOUNT_ID&gt;&#34; }&#39; \ -H &#34;Content-Type: application/json&#34; http://127.0.0.1:7076 curl -d &#39;{ &#34;action&#34;: &#34;account_info&#34;, &#34;account&#34;: &#34;&lt;ACCOUNT_ID&gt;&#34; }&#39; \ -H &#34;Content-Type: application/json&#34; http://127.0.0.1:7076 🛠 Administration curl -d &#39;{ &#34;action&#34;: &#34;representatives_online&#34; }&#39; \ -H &#34;Content-Type: application/json&#34; http://127.0.0.1:7076 curl -d &#39;{ &#34;action&#34;: &#34;bootstrap_any&#34; }&#39; \ -H &#34;Content-Type: application/json&#34; http://127.0.0.1:7076 🗂 References Official Nano RPC Documentation NanoLooker Explorer Nano Node Directory ⚠️ Disclaimer This guide is intended to document practical JSON-RPC commands for interacting with a self-hosted Nano node. While its contents have been carefully reviewed, it may not function identically across all environments or configurations.
+...</p>
+      </div>
+      <footer class="entry-footer"><span title='2025-05-27 00:00:00 +0000 UTC'>27 May 2025</span>&nbsp;·&nbsp;2 min
+      </footer>
+      <a class="entry-link" aria-label="post link to Useful RPC Commands for a Nano Node" href="http://localhost:1313/blog/en/posts/nano-node/nano-node-rpc/"></a>
+    </article>
+
+    <article class="post-entry"> 
+      <header class="entry-header">
+        <h2 class="entry-hint-parent">
           Resources in Spanish and English on Digital Humanities, Citizen Research, and Critical Editions
         </h2>
       </header>
