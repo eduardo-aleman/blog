@@ -2,6 +2,135 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/blog/en/categories/</loc>
+    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/en/categories/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/blog/en/</loc>
+    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/en/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/blog/en/tags/fail2ban/</loc>
+    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/tags/fail2ban/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/en/tags/fail2ban/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/blog/en/posts/ubuntu-server-hardening/</loc>
+    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/en/tags/linux/</loc>
+    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/tags/linux/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/en/tags/linux/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/blog/en/posts/</loc>
+    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/en/posts/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/blog/en/categories/security/</loc>
+    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/en/tags/security/</loc>
+    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/en/categories/servers/</loc>
+    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/en/tags/ssh/</loc>
+    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/tags/ssh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/en/tags/ssh/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/blog/en/tags/</loc>
+    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/en/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/blog/en/categories/ubuntu/</loc>
+    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/categories/ubuntu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/en/categories/ubuntu/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/blog/en/tags/ufw/</loc>
+    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/tags/ufw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/en/tags/ufw/"
+                />
+  </url><url>
     <loc>http://localhost:1313/blog/en/categories/administration/</loc>
     <lastmod>2025-05-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -18,32 +147,6 @@
                 href="http://localhost:1313/blog/en/categories/blockchain/"
                 />
   </url><url>
-    <loc>http://localhost:1313/blog/en/categories/</loc>
-    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/blog/es/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/en/categories/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/blog/en/</loc>
-    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/blog/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/en/"
-                />
-  </url><url>
     <loc>http://localhost:1313/blog/en/categories/nano/</loc>
     <lastmod>2025-05-27T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -55,19 +158,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/blog/en/categories/nano/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/blog/en/posts/</loc>
-    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/blog/es/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/en/posts/"
                 />
   </url><url>
     <loc>http://localhost:1313/blog/en/categories/rpc/</loc>
@@ -187,18 +277,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/blog/en/series/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/blog/en/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/blog/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/en/tags/"
                 />
   </url>
 </urlset>

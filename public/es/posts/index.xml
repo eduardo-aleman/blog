@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Blog de Eduardo Alemán</description>
     <generator>Hugo -- 0.147.5</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 27 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/es/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Endurecimiento de un servidor Ubuntu: pasos esenciales</title>
+      <link>http://localhost:1313/blog/es/posts/endurecimiento-servidor-ubuntu/</link>
+      <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/posts/endurecimiento-servidor-ubuntu/</guid>
+      <description>Guía práctica para asegurar un servidor Ubuntu: desde deshabilitar el acceso root hasta configurar un ProxyJump reverso y autenticación en dos pasos.</description>
+    </item>
     <item>
       <title>Comandos útiles con RPC para un nodo Nano</title>
       <link>http://localhost:1313/blog/es/posts/nano-node/nano-node-rpc/</link>
