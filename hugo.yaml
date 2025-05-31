@@ -78,12 +78,6 @@ languages:
         - name: github
           title: Ver código fuente en GitHub
           url: https://github.com/lampsacus/blog
-        - name: flickr
-          title: Ver fotos en Flickr
-          url: https://www.flickr.com/photos/ealeman/
-        - name: keybase
-          title: Ver perfil de Keybase
-          url: https://keybase.io/ealeman
     menu:
       main:
         - identifier: categories
@@ -134,12 +128,6 @@ languages:
         - name: github
           title: View Source on Github
           url: https://github.com/lampsacus/blog
-        - name: flickr
-          title: View Photos on Flickr
-          url: https://www.flickr.com/photos/ealeman/
-        - name: keybase
-          title: View Keybase Profile
-          url: https://keybase.io/ealeman
     menu:
       main:
         - identifier: categories
