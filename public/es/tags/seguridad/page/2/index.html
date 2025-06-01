@@ -20,7 +20,6 @@
 <meta name="msapplication-TileColor" content="#2e2e33">
 <link rel="alternate" type="application/rss+xml" href="http://localhost:1313/blog/es/tags/seguridad/index.xml">
 <link rel="alternate" hreflang="es" href="http://localhost:1313/blog/es/tags/seguridad/">
-<link rel="alternate" hreflang="en" href="http://localhost:1313/blog/en/tags/seguridad/">
 <noscript>
     <style>
         #theme-toggle,
@@ -160,6 +159,17 @@
   </header>
 
     <article class="post-entry tag-entry"> 
+      <header class="entry-header">
+        <h2 class="entry-hint-parent">
+          El número cristiano y sus implicaciones (Keith Hopkins).
+        </h2>
+      </header>
+      <footer class="entry-footer"><span title='2024-07-04 00:00:00 +0000 UTC'>julio 04 2024</span>&nbsp;·&nbsp;60 min
+      </footer>
+      <a class="entry-link" aria-label="post link to El número cristiano y sus implicaciones (Keith Hopkins)." href="http://localhost:1313/blog/es/posts/el-n%C3%BAmero-cristiano-y-sus-implicaciones/"></a>
+    </article>
+
+    <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
             <img loading="lazy"
                 srcset='http://localhost:1313/blog/es/posts/interpretando-a-plat%C3%B3n/Busto_de_Plat%C3%B3n_Museo_Getty_CC_hu_a882aa1d4371f10b.webp 360w,http://localhost:1313/blog/es/posts/interpretando-a-plat%C3%B3n/Busto_de_Plat%C3%B3n_Museo_Getty_CC_hu_3c3f485ff74da61d.webp 480w,http://localhost:1313/blog/es/posts/interpretando-a-plat%C3%B3n/Busto_de_Plat%C3%B3n_Museo_Getty_CC_hu_2b2a554634a4bbeb.webp 720w,http://localhost:1313/blog/es/posts/interpretando-a-plat%C3%B3n/Busto_de_Plat%C3%B3n_Museo_Getty_CC.webp 800w'
@@ -255,6 +265,51 @@
         <path d="M12 6H0l6-6z" />
     </svg>
 </a>
+<script src="https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const blocks = document.querySelectorAll('pre > code');
+
+    const lang = "es";
+    const textCopy = lang === "es" ? "Copiar" : "Copy";
+    const textCopied = lang === "es" ? "¡Copiado!" : "Copied!";
+
+    blocks.forEach((block) => {
+      const button = document.createElement('button');
+      button.className = 'copy-code-button';
+      button.type = 'button';
+      button.innerText = textCopy;
+      button.addEventListener('click', () => {
+        navigator.clipboard.writeText(block.innerText);
+        button.innerText = textCopied;
+        setTimeout(() => {
+          button.innerText = textCopy;
+        }, 2000);
+      });
+      block.parentNode.insertBefore(button, block);
+    });
+  });
+</script>
+
+<style>
+.copy-code-button {
+  position: absolute;
+  right: 1rem;
+  top: 0.5rem;
+  padding: 0.2rem 0.5rem;
+  font-size: 0.8rem;
+  background-color: #f4f4f4;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+  z-index: 10;
+}
+pre {
+  position: relative;
+}
+</style>
+
+
 
 <script>
     let menu = document.getElementById('menu')
@@ -311,6 +366,51 @@
 
 </script>
 <script src="/blog/js/copy-code.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const blocks = document.querySelectorAll('pre > code');
+
+    const lang = "es";
+    const textCopy = lang === "es" ? "Copiar" : "Copy";
+    const textCopied = lang === "es" ? "¡Copiado!" : "Copied!";
+
+    blocks.forEach((block) => {
+      const button = document.createElement('button');
+      button.className = 'copy-code-button';
+      button.type = 'button';
+      button.innerText = textCopy;
+      button.addEventListener('click', () => {
+        navigator.clipboard.writeText(block.innerText);
+        button.innerText = textCopied;
+        setTimeout(() => {
+          button.innerText = textCopy;
+        }, 2000);
+      });
+      block.parentNode.insertBefore(button, block);
+    });
+  });
+</script>
+
+<style>
+.copy-code-button {
+  position: absolute;
+  right: 1rem;
+  top: 0.5rem;
+  padding: 0.2rem 0.5rem;
+  font-size: 0.8rem;
+  background-color: #f4f4f4;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+  z-index: 10;
+}
+pre {
+  position: relative;
+}
+</style>
+
 
 </body>
 

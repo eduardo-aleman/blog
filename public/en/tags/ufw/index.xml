@@ -9,11 +9,11 @@
     <lastBuildDate>Sat, 31 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/en/tags/ufw/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Endurecimiento de un servidor Ubuntu: pasos esenciales</title>
+      <title>Hardening an Ubuntu Server: Essential Steps</title>
       <link>http://localhost:1313/blog/en/posts/ubuntu-server-hardening/ubuntu-hardening/</link>
       <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/en/posts/ubuntu-server-hardening/ubuntu-hardening/</guid>
-      <description>Guía práctica para asegurar un servidor Ubuntu: desde deshabilitar el acceso root hasta configurar un ProxyJump reverso y autenticación en dos pasos.</description>
+      <description>Practical guide to securing an Ubuntu server: from disabling root access to setting up reverse ProxyJump and two-factor authentication.</description>
     </item>
   </channel>
 </rss>

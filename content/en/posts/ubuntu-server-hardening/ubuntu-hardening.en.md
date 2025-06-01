@@ -1,81 +1,74 @@
 ---
 translationKey: ubuntu-hardening
 lang: en
-title: "Endurecimiento de un servidor Ubuntu: pasos esenciales"
+title: "Hardening an Ubuntu Server: Essential Steps"
 date: 2025-05-31
 draft: false
-categories: ["seguridad", "servidores", "ubuntu"]
-tags: ["ssh", "ufw", "fail2ban", "seguridad", "linux"]
-description: "Guía práctica para asegurar un servidor Ubuntu: desde deshabilitar el acceso root hasta configurar un ProxyJump reverso y autenticación en dos pasos."
+categories: ["security", "servers", "ubuntu"]
+tags: ["ssh", "ufw", "fail2ban", "security", "linux"]
+description: "Practical guide to securing an Ubuntu server: from disabling root access to setting up reverse ProxyJump and two-factor authentication."
 ---
 
-El endurecimiento de un servidor Ubuntu es una práctica esencial para asegurar cualquier infraestructura expuesta a Internet. A continuación se detallan los pasos fundamentales para aumentar la seguridad, con una tabla-resumen de efectos por cada configuración aplicada.
+Hardening an Ubuntu server is a critical practice to protect any infrastructure exposed to the internet. Below are key steps to strengthen security, including a summary table of each configuration and its effect.
 
-## 🔐 Paso 1: Crear un usuario seguro y usar llaves SSH
+## 🔐 Step 1: Create a secure user and use SSH keys
 
-Deshabilitar el acceso directo del usuario `root` y utilizar un usuario limitado con llaves SSH mejora la trazabilidad y elimina uno de los vectores de ataque más comunes.
+Disabling direct access to the `root` user and using a limited user with SSH keys improves traceability and removes one of the most common attack vectors.
 
 ```bash
-# Crear y asignar usuario al grupo sudo
 adduser secureuser
 usermod -aG sudo secureuser
 ```
 
-Luego, copiar tu llave pública al servidor:
+Then, copy your public key to the server:
 
 ```bash
-# SSH command
-ssh-copy-id secureuser@tu-servidor
+ssh-copy-id secureuser@your-server
 ```
 
-## 🔐 Paso 2: Deshabilitar el acceso SSH para root
+## 🔐 Step 2: Disable SSH access for root
 
-Editar el archivo `/etc/ssh/sshd_config`:
+Edit the file `/etc/ssh/sshd_config`:
 
 ```bash
-# Comando
 PermitRootLogin no
 ```
 
-## 🔐 Paso 3: Deshabilitar autenticación por contraseña
+## 🔐 Step 3: Disable password authentication
 
-Para forzar el uso de llaves SSH:
+To enforce the use of SSH keys:
 
 ```bash
-# Comando
 PasswordAuthentication no
 ```
 
-Recuerda reiniciar el servicio:
+Remember to restart the service:
 
 ```bash
-# SSH command
 sudo systemctl restart ssh
 ```
 
-## 🔁 Paso 4: Configurar actualizaciones automáticas de seguridad
+## 🔁 Step 4: Set up automatic security updates
 
-Instala y configura:
+Install and configure:
 
 ```bash
-# Instalar actualizaciones automáticas de seguridad
 sudo apt install unattended-upgrades
 sudo dpkg-reconfigure --priority=low unattended-upgrades
 ```
 
-Esto garantiza que tu sistema reciba parches de seguridad sin intervención manual.
+This ensures your system receives security patches without manual intervention.
 
-## 📦 Paso 5: Instalar fail2ban
+## 📦 Step 5: Install fail2ban
 
-Fail2ban bloquea IPs que realizan intentos de fuerza bruta contra servicios como SSH:
+Fail2ban blocks IPs that perform brute-force attacks on services like SSH:
 
 ```bash
-# Configurar fail2ban para proteger el servicio SSH
 sudo apt install fail2ban
 sudo systemctl enable --now fail2ban
 ```
 
-Para un jail básico de SSH:
+For a basic SSH jail:
 
 ```ini
 # /etc/fail2ban/jail.local
@@ -83,12 +76,12 @@ Para un jail básico de SSH:
 enabled = true
 ```
 
-## 🔄 Paso 6: Configurar SSH ProxyJump reverso (bastión)
+## 🔄 Step 6: Configure reverse SSH ProxyJump (bastion)
 
-Desde tu máquina local (por ejemplo, tu Mac), puedes configurar `~/.ssh/config` para acceder al servidor privado a través de un bastión:
+From your local machine (e.g., your Mac), configure `~/.ssh/config` to access a private server through a bastion host:
 
 ```ssh
-Host nodo-privado
+Host private-node
     HostName 10.0.0.3
     User secureuser
     ProxyJump bastion
@@ -98,78 +91,75 @@ Host bastion
     User secureuser
 ```
 
-## 📊 Paso 7: Monitoreo con Uptime Kuma
+## 📊 Step 7: Monitoring with Uptime Kuma
 
-Uptime Kuma es una herramienta moderna de monitoreo de disponibilidad con dashboard web:
+Uptime Kuma is a modern web-based uptime monitoring tool:
 
 ```bash
-# Ejecutar contenedor de Uptime Kuma
 docker run -d --restart=always -p 3001:3001 \
 -v uptime-kuma:/app/data --name uptime kuma uptimekuma/uptime-kuma
 ```
 
-Accede a `http://tu-ip:3001` para configurarlo.
+Access it via `http://your-ip:3001` to configure.
 
-## 📜 Paso 8: Script para rotar llaves SSH
+## 📜 Step 8: SSH key rotation script
 
-Crea un script en `/usr/local/bin/rotate_ssh.sh`:
+Create a script at `/usr/local/bin/rotate_ssh.sh`:
 
 ```bash
 #!/bin/bash
 USER="secureuser"
 KEY_DIR="/home/$USER/.ssh"
 NEW_KEY="$KEY_DIR/id_ed25519_new"
+
 ssh-keygen -t ed25519 -f "$NEW_KEY" -N ""
 cat "$NEW_KEY.pub" >> "$KEY_DIR/authorized_keys"
-echo "Llave nueva agregada. Borra manualmente la anterior tras verificar acceso."
+echo "New key added. Manually remove the old one after verifying access."
 ```
 
-## 🔐 Paso 9: Activar autenticación en dos pasos (2FA) con Google Authenticator
+## 🔐 Step 9: Enable Two-Factor Authentication (2FA) with Google Authenticator
 
 ```bash
-# Configurar autenticación 2FA con Google Authenticator
 sudo apt install libpam-google-authenticator
 google-authenticator
 ```
 
-Luego, edita `/etc/pam.d/sshd` y agrega al principio:
+Then edit `/etc/pam.d/sshd` and add at the top:
 
 ```
 auth required pam_google_authenticator.so
 ```
 
-Y en `/etc/ssh/sshd_config`:
+And in `/etc/ssh/sshd_config`:
 
 ```bash
-# Comando
 ChallengeResponseAuthentication yes
 ```
 
-Reinicia el servicio:
+Restart the service:
 
 ```bash
-# SSH command
 sudo systemctl restart ssh
 ```
 
 ---
 
-## Resumen
+## Summary
 
-| Paso                            | Efecto                                                     |
-|---------------------------------|------------------------------------------------------------|
-| `secureuser` + llaves SSH       | Reemplaza acceso root directo                              |
-| `PermitRootLogin no`            | Evita ataques a la cuenta root                             |
-| `PasswordAuthentication no`     | Solo autenticación por llave                               |
-| UFW                             | Limita los puertos accesibles                              |
-| Timeout & retries en SSH        | Evita fuerza bruta lenta                                   |
-| Fail2ban                        | Bloqueo automático por intentos fallidos                   |
-| ProxyJump                       | SSH seguro y restringido desde bastión                     |
-| Actualizaciones automáticas     | Cierra vulnerabilidades sin intervención manual            |
-| Uptime Kuma                     | Supervisión visual de servicios                            |
-| Rotación de llaves SSH          | Mejora la higiene de claves de acceso                      |
-| Google Authenticator            | Añade segundo factor de autenticación                      |
+| Step                          | Effect                                                     |
+|-------------------------------|-------------------------------------------------------------|
+| `secureuser` + SSH keys       | Replaces direct root access                                |
+| `PermitRootLogin no`          | Prevents attacks on the root account                       |
+| `PasswordAuthentication no`   | Enforces key-based authentication only                     |
+| UFW                           | Restricts accessible ports                                 |
+| SSH timeout & retries         | Mitigates slow brute-force attacks                         |
+| Fail2ban                      | Auto-blocks failed login attempts                          |
+| ProxyJump                     | Secure SSH via restricted bastion access                   |
+| Automatic updates             | Patches vulnerabilities without manual effort              |
+| Uptime Kuma                   | Visual monitoring of services                              |
+| SSH key rotation              | Improves credential hygiene                                |
+| Google Authenticator          | Adds a second authentication factor                        |
 
 ---
 
-Con estos pasos tendrás una base robusta para un servidor seguro y mantenible. Para aumentar la protección aún más, puedes integrar herramientas de auditoría como `Lynis`, escaneos de puertos internos, y segmentación de red.
+With these steps, you'll have a solid baseline for a secure and maintainable server. For even greater protection, consider integrating audit tools like `Lynis`, internal port scanning, and network segmentation.

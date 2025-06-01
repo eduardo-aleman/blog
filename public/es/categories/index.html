@@ -243,7 +243,13 @@
         <a href="http://localhost:1313/blog/es/categories/filosof%C3%ADa/">filosofía <sup><strong><sup>2</sup></strong></sup> </a>
     </li>
     <li>
+        <a href="http://localhost:1313/blog/es/categories/glosario/">glosario <sup><strong><sup>1</sup></strong></sup> </a>
+    </li>
+    <li>
         <a href="http://localhost:1313/blog/es/categories/grecia/">grecia <sup><strong><sup>3</sup></strong></sup> </a>
+    </li>
+    <li>
+        <a href="http://localhost:1313/blog/es/categories/griego/">griego <sup><strong><sup>1</sup></strong></sup> </a>
     </li>
     <li>
         <a href="http://localhost:1313/blog/es/categories/guerra-del-peloponeso/">guerra del peloponeso <sup><strong><sup>1</sup></strong></sup> </a>
@@ -289,6 +295,9 @@
     </li>
     <li>
         <a href="http://localhost:1313/blog/es/categories/k%C3%B6nigsberg/">königsberg <sup><strong><sup>1</sup></strong></sup> </a>
+    </li>
+    <li>
+        <a href="http://localhost:1313/blog/es/categories/l%C3%A9xico/">léxico <sup><strong><sup>1</sup></strong></sup> </a>
     </li>
     <li>
         <a href="http://localhost:1313/blog/es/categories/manuscritos/">manuscritos <sup><strong><sup>1</sup></strong></sup> </a>
@@ -385,6 +394,51 @@
         <path d="M12 6H0l6-6z" />
     </svg>
 </a>
+<script src="https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const blocks = document.querySelectorAll('pre > code');
+
+    const lang = "es";
+    const textCopy = lang === "es" ? "Copiar" : "Copy";
+    const textCopied = lang === "es" ? "¡Copiado!" : "Copied!";
+
+    blocks.forEach((block) => {
+      const button = document.createElement('button');
+      button.className = 'copy-code-button';
+      button.type = 'button';
+      button.innerText = textCopy;
+      button.addEventListener('click', () => {
+        navigator.clipboard.writeText(block.innerText);
+        button.innerText = textCopied;
+        setTimeout(() => {
+          button.innerText = textCopy;
+        }, 2000);
+      });
+      block.parentNode.insertBefore(button, block);
+    });
+  });
+</script>
+
+<style>
+.copy-code-button {
+  position: absolute;
+  right: 1rem;
+  top: 0.5rem;
+  padding: 0.2rem 0.5rem;
+  font-size: 0.8rem;
+  background-color: #f4f4f4;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+  z-index: 10;
+}
+pre {
+  position: relative;
+}
+</style>
+
+
 
 <script>
     let menu = document.getElementById('menu')
@@ -441,6 +495,51 @@
 
 </script>
 <script src="/blog/js/copy-code.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const blocks = document.querySelectorAll('pre > code');
+
+    const lang = "es";
+    const textCopy = lang === "es" ? "Copiar" : "Copy";
+    const textCopied = lang === "es" ? "¡Copiado!" : "Copied!";
+
+    blocks.forEach((block) => {
+      const button = document.createElement('button');
+      button.className = 'copy-code-button';
+      button.type = 'button';
+      button.innerText = textCopy;
+      button.addEventListener('click', () => {
+        navigator.clipboard.writeText(block.innerText);
+        button.innerText = textCopied;
+        setTimeout(() => {
+          button.innerText = textCopy;
+        }, 2000);
+      });
+      block.parentNode.insertBefore(button, block);
+    });
+  });
+</script>
+
+<style>
+.copy-code-button {
+  position: absolute;
+  right: 1rem;
+  top: 0.5rem;
+  padding: 0.2rem 0.5rem;
+  font-size: 0.8rem;
+  background-color: #f4f4f4;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+  z-index: 10;
+}
+pre {
+  position: relative;
+}
+</style>
+
 
 </body>
 

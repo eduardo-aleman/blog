@@ -29,6 +29,7 @@ markup:
 params:
   env: production
   highlightjs: true
+  copyCodeButton: true
   assets:
     highlightjs_extra_languages:
       - bash

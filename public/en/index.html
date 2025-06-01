@@ -198,17 +198,17 @@
     <article class="post-entry"> 
       <header class="entry-header">
         <h2 class="entry-hint-parent">
-          Endurecimiento de un servidor Ubuntu: pasos esenciales
+          Hardening an Ubuntu Server: Essential Steps
         </h2>
       </header>
       <div class="entry-content">
-        <p>El endurecimiento de un servidor Ubuntu es una práctica esencial para asegurar cualquier infraestructura expuesta a Internet. A continuación se detallan los pasos fundamentales para aumentar la seguridad, con una tabla-resumen de efectos por cada configuración aplicada.
-🔐 Paso 1: Crear un usuario seguro y usar llaves SSH Deshabilitar el acceso directo del usuario root y utilizar un usuario limitado con llaves SSH mejora la trazabilidad y elimina uno de los vectores de ataque más comunes.
+        <p>Hardening an Ubuntu server is a critical practice to protect any infrastructure exposed to the internet. Below are key steps to strengthen security, including a summary table of each configuration and its effect.
+🔐 Step 1: Create a secure user and use SSH keys Disabling direct access to the root user and using a limited user with SSH keys improves traceability and removes one of the most common attack vectors.
 ...</p>
       </div>
       <footer class="entry-footer"><span title='2025-05-31 00:00:00 +0000 UTC'>31 May 2025</span>&nbsp;·&nbsp;3 min
       </footer>
-      <a class="entry-link" aria-label="post link to Endurecimiento de un servidor Ubuntu: pasos esenciales" href="http://localhost:1313/blog/en/posts/ubuntu-server-hardening/ubuntu-hardening/"></a>
+      <a class="entry-link" aria-label="post link to Hardening an Ubuntu Server: Essential Steps" href="http://localhost:1313/blog/en/posts/ubuntu-server-hardening/ubuntu-hardening/"></a>
     </article>
 
     <article class="post-entry"> 
@@ -259,6 +259,51 @@ Digital Humanities Associations and networks Humanidades Digitales Hispánicas (
         <path d="M12 6H0l6-6z" />
     </svg>
 </a>
+<script src="https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const blocks = document.querySelectorAll('pre > code');
+
+    const lang = "en";
+    const textCopy = lang === "es" ? "Copiar" : "Copy";
+    const textCopied = lang === "es" ? "¡Copiado!" : "Copied!";
+
+    blocks.forEach((block) => {
+      const button = document.createElement('button');
+      button.className = 'copy-code-button';
+      button.type = 'button';
+      button.innerText = textCopy;
+      button.addEventListener('click', () => {
+        navigator.clipboard.writeText(block.innerText);
+        button.innerText = textCopied;
+        setTimeout(() => {
+          button.innerText = textCopy;
+        }, 2000);
+      });
+      block.parentNode.insertBefore(button, block);
+    });
+  });
+</script>
+
+<style>
+.copy-code-button {
+  position: absolute;
+  right: 1rem;
+  top: 0.5rem;
+  padding: 0.2rem 0.5rem;
+  font-size: 0.8rem;
+  background-color: #f4f4f4;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+  z-index: 10;
+}
+pre {
+  position: relative;
+}
+</style>
+
+
 
 <script>
     let menu = document.getElementById('menu')
@@ -315,6 +360,51 @@ Digital Humanities Associations and networks Humanidades Digitales Hispánicas (
 
 </script>
 <script src="/blog/js/copy-code.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const blocks = document.querySelectorAll('pre > code');
+
+    const lang = "en";
+    const textCopy = lang === "es" ? "Copiar" : "Copy";
+    const textCopied = lang === "es" ? "¡Copiado!" : "Copied!";
+
+    blocks.forEach((block) => {
+      const button = document.createElement('button');
+      button.className = 'copy-code-button';
+      button.type = 'button';
+      button.innerText = textCopy;
+      button.addEventListener('click', () => {
+        navigator.clipboard.writeText(block.innerText);
+        button.innerText = textCopied;
+        setTimeout(() => {
+          button.innerText = textCopy;
+        }, 2000);
+      });
+      block.parentNode.insertBefore(button, block);
+    });
+  });
+</script>
+
+<style>
+.copy-code-button {
+  position: absolute;
+  right: 1rem;
+  top: 0.5rem;
+  padding: 0.2rem 0.5rem;
+  font-size: 0.8rem;
+  background-color: #f4f4f4;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+  z-index: 10;
+}
+pre {
+  position: relative;
+}
+</style>
+
 
 </body>
 
