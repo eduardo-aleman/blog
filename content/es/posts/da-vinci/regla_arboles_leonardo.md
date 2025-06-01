@@ -14,7 +14,7 @@ Entre estas colecciones destacan el [Codex Arundel](http://www.bl.uk/manuscripts
 
 Uno de los hallazgos más fascinantes en estos manuscritos aparece en el *Manuscrito M*, el más pequeño de todos, conservado en la [Bibliothèque de l'Institut de France](https://bibnum.institutdefrance.fr/ark:/61562/bi24181). Allí, Leonardo formula lo que hoy conocemos como la **Regla de los Árboles**: una observación empírica sobre el grosor relativo de las ramas de un árbol. Según esta regla, el diámetro conjunto de todas las ramas de un árbol, a una determinada altura, es igual al diámetro del tronco o rama madre desde la que emergen.
 
-![Regla de los árboles de Leonardo](./assets/images/da_vinci_arbol.webp)
+![Regla de los árboles de Leonardo](da_vinci_arbol.webp)
 > “Todas las ramas de un árbol en cada etapa de su altura, cuando se juntan, tienen el mismo grosor que el tronco [debajo de ellas].”  
 > “Cada año, cuando las ramas de una planta [o árbol] hayan terminado de madurar su crecimiento, habrán formado, juntas, un espesor igual al del tallo principal...”
 >  
