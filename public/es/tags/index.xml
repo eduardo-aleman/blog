@@ -78,5 +78,40 @@
       <guid>http://localhost:1313/blog/es/tags/ucrania/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Biomecánica</title>
+      <link>http://localhost:1313/blog/es/tags/biomec%C3%A1nica/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/tags/biomec%C3%A1nica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Botánica</title>
+      <link>http://localhost:1313/blog/es/tags/bot%C3%A1nica/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/tags/bot%C3%A1nica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cuadernos</title>
+      <link>http://localhost:1313/blog/es/tags/cuadernos/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/tags/cuadernos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Leonardo Da Vinci</title>
+      <link>http://localhost:1313/blog/es/tags/leonardo-da-vinci/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/tags/leonardo-da-vinci/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Regla De Los Árboles</title>
+      <link>http://localhost:1313/blog/es/tags/regla-de-los-%C3%A1rboles/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/tags/regla-de-los-%C3%A1rboles/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
