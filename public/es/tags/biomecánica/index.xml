@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/blog/es/tags/biomec%C3%A1nica/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>La regla de los árboles de Leonardo da Vinci</title>
-      <link>http://localhost:1313/blog/es/posts/da-vinci/regla_arboles_leonardo/</link>
+      <link>http://localhost:1313/blog/es/posts/da-vinci/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/es/posts/da-vinci/regla_arboles_leonardo/</guid>
+      <guid>http://localhost:1313/blog/es/posts/da-vinci/</guid>
       <description>Exploración de una intuición de Leonardo da Vinci sobre la estructura de los árboles, validada cinco siglos después por la biomecánica moderna.</description>
     </item>
   </channel>
