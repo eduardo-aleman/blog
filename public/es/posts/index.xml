@@ -23,13 +23,6 @@
       <description>Resumen de acciones disponibles mediante la API JSON-RPC en un nodo Nano autoalojado.</description>
     </item>
     <item>
-      <title>Recursos en español e inglés sobre Humanidades Digitales, investigación ciudadana y edición crítica</title>
-      <link>http://localhost:1313/blog/es/posts/investigacion-ciudadana/</link>
-      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/es/posts/investigacion-ciudadana/</guid>
-      <description>Exploración ampliada de proyectos, plataformas y bibliografía clave en español sobre Humanidades Digitales, ciencia ciudadana, historia colaborativa, archivos digitales, filología computacional y edición crítica.</description>
-    </item>
-    <item>
       <title>Plut. 69.2 y la transmisión del texto de Tucídides</title>
       <link>http://localhost:1313/blog/es/posts/plut.69.2/</link>
       <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
@@ -107,6 +100,13 @@ Jaime A. Weisheipl, O.P. (&lt;em&gt;Ordinis Praedicatorum&lt;/em&gt;).&lt;br&gt;
 Instituto Pontificio de Estudios Medievales de Toronto.&lt;/p&gt;
 &lt;h3 id=&#34;prefacio&#34;&gt;Prefacio&lt;/h3&gt;
 &lt;p&gt;El 7 de marzo de 1974 se cumple el setecientos aniversario de la muerte de Santo Tomás de Aquino. Dado que el 7 de marzo de 1274 es la única fecha cierta que tenemos en su vida, es apropiado que el día y el año se conmemoren de diversas maneras en todo el mundo. Este libro representa parte de mi contribución a la ocasión. La última celebración mundial fue en 1923, el sexto centenario de la canonización de Tomás el 18 de julio de 1323. Se ha descubierto mucho material nuevo en los cincuenta años pasados, por lo que hay necesidad de un resumen y una evaluación de los hechos descubiertos por los eruditos que han dado sus mejores esfuerzos para comprender la vida, el pensamiento y la obra del fraile Tomás de Aquino.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Resources in Spanish and English on Digital Humanities, Citizen Research, and Critical Editions</title>
+      <link>http://localhost:1313/blog/es/posts/investigacion-ciudadana/digital-humanities/</link>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/posts/investigacion-ciudadana/digital-humanities/</guid>
+      <description>An expanded overview of key projects, platforms, and bibliographies in Spanish related to Digital Humanities, citizen science, collaborative history, digital archives, computational philology, and critical editions.</description>
     </item>
     <item>
       <title>La estructura de los Anales de Tácito (Ronald Syme).</title>

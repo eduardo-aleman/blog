@@ -58,48 +58,6 @@
       <description></description>
     </item>
     <item>
-      <title>Archivos</title>
-      <link>http://localhost:1313/blog/es/categories/archivos/</link>
-      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/es/categories/archivos/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Edición Crítica</title>
-      <link>http://localhost:1313/blog/es/categories/edici%C3%B3n-cr%C3%ADtica/</link>
-      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/es/categories/edici%C3%B3n-cr%C3%ADtica/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Filología</title>
-      <link>http://localhost:1313/blog/es/categories/filolog%C3%ADa/</link>
-      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/es/categories/filolog%C3%ADa/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Historia</title>
-      <link>http://localhost:1313/blog/es/categories/historia/</link>
-      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/es/categories/historia/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Humanidades Digitales</title>
-      <link>http://localhost:1313/blog/es/categories/humanidades-digitales/</link>
-      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/es/categories/humanidades-digitales/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Investigación Ciudadana</title>
-      <link>http://localhost:1313/blog/es/categories/investigaci%C3%B3n-ciudadana/</link>
-      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/es/categories/investigaci%C3%B3n-ciudadana/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Antigüedad</title>
       <link>http://localhost:1313/blog/es/categories/antig%C3%BCedad/</link>
       <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
@@ -338,6 +296,13 @@
       <description></description>
     </item>
     <item>
+      <title>Historia</title>
+      <link>http://localhost:1313/blog/es/categories/historia/</link>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/categories/historia/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Prehistoria</title>
       <link>http://localhost:1313/blog/es/categories/prehistoria/</link>
       <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
@@ -419,6 +384,48 @@
       <link>http://localhost:1313/blog/es/categories/medioevo/</link>
       <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/es/categories/medioevo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Archives</title>
+      <link>http://localhost:1313/blog/es/categories/archives/</link>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/categories/archives/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Citizen Science</title>
+      <link>http://localhost:1313/blog/es/categories/citizen-science/</link>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/categories/citizen-science/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Critical Editing</title>
+      <link>http://localhost:1313/blog/es/categories/critical-editing/</link>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/categories/critical-editing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digital Humanities</title>
+      <link>http://localhost:1313/blog/es/categories/digital-humanities/</link>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/categories/digital-humanities/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>History</title>
+      <link>http://localhost:1313/blog/es/categories/history/</link>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/categories/history/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Philology</title>
+      <link>http://localhost:1313/blog/es/categories/philology/</link>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/categories/philology/</guid>
       <description></description>
     </item>
     <item>

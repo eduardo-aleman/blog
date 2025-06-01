@@ -226,27 +226,6 @@
                 href="http://localhost:1313/blog/es/categories/rpc/"
                 />
   </url><url>
-    <loc>http://localhost:1313/blog/es/categories/archivos/</loc>
-    <lastmod>2025-05-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/es/categories/edici%C3%B3n-cr%C3%ADtica/</loc>
-    <lastmod>2025-05-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/es/categories/filolog%C3%ADa/</loc>
-    <lastmod>2025-05-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/es/categories/historia/</loc>
-    <lastmod>2025-05-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/es/categories/humanidades-digitales/</loc>
-    <lastmod>2025-05-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/es/categories/investigaci%C3%B3n-ciudadana/</loc>
-    <lastmod>2025-05-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/es/posts/investigacion-ciudadana/</loc>
-    <lastmod>2025-05-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/es/categories/antig%C3%BCedad/</loc>
     <lastmod>2025-04-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -364,6 +343,9 @@
     <loc>http://localhost:1313/blog/es/categories/david-wengrow/</loc>
     <lastmod>2024-07-25T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/blog/es/categories/historia/</loc>
+    <lastmod>2024-07-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/es/categories/prehistoria/</loc>
     <lastmod>2024-07-25T00:00:00+00:00</lastmod>
   </url><url>
@@ -414,6 +396,97 @@
   </url><url>
     <loc>http://localhost:1313/blog/es/categories/medioevo/</loc>
     <lastmod>2024-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/es/categories/archives/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/en/categories/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/categories/archives/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/blog/es/categories/citizen-science/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/en/categories/citizen-science/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/categories/citizen-science/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/blog/es/categories/critical-editing/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/en/categories/critical-editing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/categories/critical-editing/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/blog/es/categories/digital-humanities/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/en/categories/digital-humanities/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/categories/digital-humanities/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/blog/es/categories/history/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/en/categories/history/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/categories/history/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/blog/es/categories/philology/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/en/categories/philology/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/categories/philology/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/blog/es/posts/investigacion-ciudadana/digital-humanities/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/en/posts/digital-humanities/digital-humanities/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/posts/investigacion-ciudadana/digital-humanities/"
+                />
   </url><url>
     <loc>http://localhost:1313/blog/es/categories/anales/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>

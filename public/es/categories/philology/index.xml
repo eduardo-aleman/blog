@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Philology on Blog de Eduardo Alemán</title>
+    <link>http://localhost:1313/blog/es/categories/philology/</link>
+    <description>Recent content in Philology on Blog de Eduardo Alemán</description>
+    <generator>Hugo -- 0.147.5</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 24 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/es/categories/philology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resources in Spanish and English on Digital Humanities, Citizen Research, and Critical Editions</title>
+      <link>http://localhost:1313/blog/es/posts/investigacion-ciudadana/digital-humanities/</link>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/posts/investigacion-ciudadana/digital-humanities/</guid>
+      <description>An expanded overview of key projects, platforms, and bibliographies in Spanish related to Digital Humanities, citizen science, collaborative history, digital archives, computational philology, and critical editions.</description>
+    </item>
+  </channel>
+</rss>
