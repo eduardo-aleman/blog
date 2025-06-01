@@ -1,12 +1,17 @@
 ---
 title: El número cristiano y sus implicaciones (Keith Hopkins).
-date: "2024-07-04"
+date: '2024-07-04'
 categories:
-  - keith hopkins
-  - cristianismo primitivo
-  - traducción
+- cristianismo
+- historia de las ideas
 draft: false
 type: posts
+tags:
+- cristianismo
+- matemáticas
+- historia
+- simbología
+- fe
 ---
 
 ### Introducción

@@ -46,7 +46,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/blog/es/posts/endurecimiento-servidor-ubuntu/ubuntu-hardening/"
+                href="http://localhost:1313/blog/es/posts/endurecimiento-servidor-ubuntu/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -141,61 +141,6 @@
                 href="http://localhost:1313/blog/en/tags/ufw/"
                 />
   </url><url>
-    <loc>http://localhost:1313/blog/en/categories/admin/</loc>
-    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/en/categories/blockchain/</loc>
-    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/blog/es/categories/blockchain/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/en/categories/blockchain/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/blog/en/categories/nano/</loc>
-    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/blog/es/categories/nano/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/en/categories/nano/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/blog/en/categories/rpc/</loc>
-    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/blog/es/categories/rpc/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/en/categories/rpc/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/blog/en/posts/nano-node/nano-node-rpc/</loc>
-    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/blog/es/posts/nano-node/nano-node-rpc/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/en/posts/nano-node/nano-node-rpc/"
-                />
-  </url><url>
     <loc>http://localhost:1313/blog/en/categories/archives/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -279,7 +224,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/blog/es/posts/investigacion-ciudadana/digital-humanities/"
+                href="http://localhost:1313/blog/es/posts/investigacion-ciudadana/"
                 />
     <xhtml:link
                 rel="alternate"

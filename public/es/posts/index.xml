@@ -4,22 +4,22 @@
     <title>Posts on Blog de Eduardo Alemán</title>
     <link>http://localhost:1313/blog/es/posts/</link>
     <description>Recent content in Posts on Blog de Eduardo Alemán</description>
-    <generator>Hugo -- 0.147.5</generator>
+    <generator>Hugo -- 0.147.7</generator>
     <language>es</language>
     <lastBuildDate>Thu, 29 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/es/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Endurecimiento de un servidor Ubuntu: pasos esenciales</title>
-      <link>http://localhost:1313/blog/es/posts/endurecimiento-servidor-ubuntu/ubuntu-hardening/</link>
+      <link>http://localhost:1313/blog/es/posts/endurecimiento-servidor-ubuntu/</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/es/posts/endurecimiento-servidor-ubuntu/ubuntu-hardening/</guid>
+      <guid>http://localhost:1313/blog/es/posts/endurecimiento-servidor-ubuntu/</guid>
       <description>Guía práctica para asegurar un servidor Ubuntu: desde deshabilitar el acceso root hasta configurar un ProxyJump reverso y autenticación en dos pasos.</description>
     </item>
     <item>
       <title>Comandos útiles con RPC para un nodo Nano</title>
-      <link>http://localhost:1313/blog/es/posts/nano-node/nano-node-rpc/</link>
+      <link>http://localhost:1313/blog/es/posts/nano-node/</link>
       <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/es/posts/nano-node/nano-node-rpc/</guid>
+      <guid>http://localhost:1313/blog/es/posts/nano-node/</guid>
       <description>Resumen de acciones disponibles mediante la API JSON-RPC en un nodo Nano autoalojado.</description>
     </item>
     <item>
@@ -38,9 +38,9 @@
     </item>
     <item>
       <title>De Alejandro a Ucrania: los trabajos de la guerra y la ilusión de la concordia</title>
-      <link>http://localhost:1313/blog/es/posts/violencia-civilizacion/de-alejandro-a-ucrania/</link>
+      <link>http://localhost:1313/blog/es/posts/violencia-civilizacion/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/es/posts/violencia-civilizacion/de-alejandro-a-ucrania/</guid>
+      <guid>http://localhost:1313/blog/es/posts/violencia-civilizacion/</guid>
       <description>Una reflexión crítica sobre la guerra desde Alejandro Magno hasta el siglo XXI, a través de la historia, el mito y la geopolítica contemporánea.</description>
     </item>
     <item>
@@ -117,9 +117,9 @@ Instituto Pontificio de Estudios Medievales de Toronto.&lt;/p&gt;
     </item>
     <item>
       <title>Resources in Spanish and English on Digital Humanities, Citizen Research, and Critical Editions</title>
-      <link>http://localhost:1313/blog/es/posts/investigacion-ciudadana/digital-humanities/</link>
+      <link>http://localhost:1313/blog/es/posts/investigacion-ciudadana/</link>
       <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/es/posts/investigacion-ciudadana/digital-humanities/</guid>
+      <guid>http://localhost:1313/blog/es/posts/investigacion-ciudadana/</guid>
       <description>An expanded overview of key projects, platforms, and bibliographies in Spanish related to Digital Humanities, citizen science, collaborative history, digital archives, computational philology, and critical editions.</description>
     </item>
     <item>

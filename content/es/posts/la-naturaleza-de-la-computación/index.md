@@ -1,19 +1,19 @@
 ---
-title: "La naturaleza de la computación (Cristopher Moore y  Stephan Mertens)."
+title: La naturaleza de la computación (Cristopher Moore y  Stephan Mertens).
 date: 2025-04-20
-description: "Cómo Leonhard Euler resolvió el problema de los puentes de Königsberg y fundó una nueva forma de pensar: la teoría de grafos."
-categories: 
-- matemáticas
+description: 'Cómo Leonhard Euler resolvió el problema de los puentes de Königsberg
+  y fundó una nueva forma de pensar: la teoría de grafos.'
+categories:
+- filosofía
 - computación
-- historia-de-la-ciencia
-- euler
-- teoría de grafos
-- traducción
-- königsberg
-- hamilton
-- hamiltoniano
 draft: false
 type: posts
+tags:
+- filosofía
+- computación
+- lógica
+- máquinas de Turing
+- conciencia
 ---
 
 ## Capítulo 1

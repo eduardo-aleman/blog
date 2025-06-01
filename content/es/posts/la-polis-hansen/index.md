@@ -3,15 +3,17 @@ title: 'La Polis: Una introducción a la antigua ciudad-estado griega (Herman Ha
   De Mogen).'
 date: '2024-07-12'
 categories:
-- antigüedad
-- grecia
+- historia
+- Grecia
 - polis
-- ciudad-estado
-- cultura de ciudad-estado
-- herman hansen de mogen
-- traducción
 draft: false
 type: posts
+tags:
+- Herman Hansen
+- polis
+- Grecia
+- ciudad-estado
+- democracia antigua
 ---
 
 ## Para John Crook

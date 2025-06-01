@@ -1,19 +1,21 @@
 ---
-title: "Plut. 69.2 y la transmisión del texto de Tucídides"
+title: Plut. 69.2 y la transmisión del texto de Tucídides
 date: 2025-04-27
-description: "Un análisis detallado del manuscrito Plut. 69.2 y su rol fundamental en la preservación y transmisión de la Historia de la Guerra del Peloponeso de Tucídides."
+description: Un análisis detallado del manuscrito Plut. 69.2 y su rol fundamental
+  en la preservación y transmisión de la Historia de la Guerra del Peloponeso de Tucídides.
 categories:
+- historia
+- Grecia
 - antigüedad
-- grecia
-- guerra del peloponeso
-- tucídides
-- paul woodruff
-- traducción
-- manuscritos 
-- transmisión textual
-cover: 
-    image: carta_2r.webp
-    alt: Folio del manuscrito Plut. 69.2 de Tucídides
+cover:
+  image: carta_2r.webp
+  alt: Folio del manuscrito Plut. 69.2 de Tucídides
+tags:
+- Plutarco
+- biografía
+- historia
+- Tito Flaminino
+- Grecia
 ---
 
 *Plut. 69.2* (Códice Laurentino Plutei 69.2) es un manuscrito griego de la *Historia de la Guerra del Peloponeso* de Tucídides, conservado en la Biblioteca Medicea Laurenziana de Florencia. Copiado alrededor del siglo X, este códice es el manuscrito más antiguo que contiene el texto completo de Tucídides. Debido a su antigüedad, fidelidad y extensas notas marginales, constituye un *testimonio clave* en la transmisión textual de Tucídides.

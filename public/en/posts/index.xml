@@ -4,7 +4,7 @@
     <title>Posts on Eduardo Alemán’s Blog</title>
     <link>http://localhost:1313/blog/en/posts/</link>
     <description>Recent content in Posts on Eduardo Alemán’s Blog</description>
-    <generator>Hugo -- 0.147.5</generator>
+    <generator>Hugo -- 0.147.7</generator>
     <language>en</language>
     <lastBuildDate>Thu, 29 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/en/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -14,13 +14,6 @@
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/en/posts/ubuntu-server-hardening/ubuntu-hardening/</guid>
       <description>Practical guide to securing an Ubuntu server: from disabling root access to setting up reverse ProxyJump and two-factor authentication.</description>
-    </item>
-    <item>
-      <title>Useful RPC Commands for a Nano Node</title>
-      <link>http://localhost:1313/blog/en/posts/nano-node/nano-node-rpc/</link>
-      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/en/posts/nano-node/nano-node-rpc/</guid>
-      <description>Overview of available actions through the JSON-RPC API on a self-hosted Nano node.</description>
     </item>
     <item>
       <title>Resources in Spanish and English on Digital Humanities, Citizen Research, and Critical Editions</title>

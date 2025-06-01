@@ -4,7 +4,7 @@
     <title>Categories on Eduardo Alemán’s Blog</title>
     <link>http://localhost:1313/blog/en/categories/</link>
     <description>Recent content in Categories on Eduardo Alemán’s Blog</description>
-    <generator>Hugo -- 0.147.5</generator>
+    <generator>Hugo -- 0.147.7</generator>
     <language>en</language>
     <lastBuildDate>Thu, 29 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/en/categories/index.xml" rel="self" type="application/rss+xml" />
@@ -27,34 +27,6 @@
       <link>http://localhost:1313/blog/en/categories/ubuntu/</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/en/categories/ubuntu/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Admin</title>
-      <link>http://localhost:1313/blog/en/categories/admin/</link>
-      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/en/categories/admin/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Blockchain</title>
-      <link>http://localhost:1313/blog/en/categories/blockchain/</link>
-      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/en/categories/blockchain/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Nano</title>
-      <link>http://localhost:1313/blog/en/categories/nano/</link>
-      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/en/categories/nano/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Rpc</title>
-      <link>http://localhost:1313/blog/en/categories/rpc/</link>
-      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/en/categories/rpc/</guid>
       <description></description>
     </item>
     <item>

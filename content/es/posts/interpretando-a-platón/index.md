@@ -1,26 +1,34 @@
 ---
 title: Interpretando a Platón (E.N. Tigerstedt)
-date: "2024-07-03"
+date: '2024-07-03'
 cover:
   image: Busto_de_Platón_Museo_Getty_CC.webp
-  alt:
-    "Autor romano desconocido. Cabeza de Platón (trabajada para insertarla en una
+  alt: 'Autor romano desconocido. Cabeza de Platón (trabajada para insertarla en una
     estatua), mediados del siglo III d.C. Mármol blanco. Objeto: 37,5 × 16 × 18,9
     cm (14 3/4 × 6 5/16 × 7 7/16 pulg.) Museo J. Paul Getty, Colección Villa, Malibú,
-    California, 73.AA.16."
-  caption:
-    "Autor romano desconocido. Cabeza de Platón (trabajada para insertarla
+    California, 73.AA.16.'
+  caption: 'Autor romano desconocido. Cabeza de Platón (trabajada para insertarla
     en una estatua), mediados del siglo III d.C. Mármol blanco. Objeto: 37,5 × 16
     × 18,9 cm (14 3/4 × 6 5/16 × 7 7/16 pulg.) Museo J. Paul Getty, Colección Villa,
-    Malibú, California, 73.AA.16."
+    Malibú, California, 73.AA.16.'
   relative: false
 categories:
-  - antigüedad
-  - e n tigerstedt
-  - grecia
-  - platón
-  - traducción
-description: El presente estudio es una continuación y, de cierta forma, la conclusión de dos estudios anteriores, Plato’s Idea of Poetical Inspiration y The Decline and Fall of the Neoplatonic Interpretation of Plato. Estaba listo para ser impreso en 1973, pero por razones ajenas a la voluntad del autor, no es hasta ahora que ha sido posible su publicación. Durante este tiempo, varios estudios sobre Platón han aparecido, los cuales son importantes para la materia que aquí se trata, pero solo he podido tener unos pocos en consideración. Espero darles tratamiento por separado en un artículo académico.
+- filosofía
+- Platón
+description: El presente estudio es una continuación y, de cierta forma, la conclusión
+  de dos estudios anteriores, Plato’s Idea of Poetical Inspiration y The Decline and
+  Fall of the Neoplatonic Interpretation of Plato. Estaba listo para ser impreso en
+  1973, pero por razones ajenas a la voluntad del autor, no es hasta ahora que ha
+  sido posible su publicación. Durante este tiempo, varios estudios sobre Platón han
+  aparecido, los cuales son importantes para la materia que aquí se trata, pero solo
+  he podido tener unos pocos en consideración. Espero darles tratamiento por separado
+  en un artículo académico.
+tags:
+- Platón
+- filosofía antigua
+- interpretación
+- idealismo
+- Academia
 ---
 
 Tigerstedt, E. N., [Interpreting Plato](https://amzn.to/3RPLjjX), 1977, Prefacio, Capítulos 1 y 2. Traducción en español de Eduardo Alemán.

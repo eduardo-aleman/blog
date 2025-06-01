@@ -3,16 +3,17 @@ title: 'Resumen del libro “El amanecer de todo: Una nueva historia de la human
   de David Graeber y David Wengrow.'
 date: '2024-07-25'
 categories:
-- resumen
-- david graeber
-- david wengrow
 - antropología
-- arquelogía
-- prehistoria
 - historia
-- anarquismo
+- ensayos
 draft: false
 type: posts
+tags:
+- David Graeber
+- David Wengrow
+- prehistoria
+- anarquismo
+- historia
 ---
 
 La idea central de *El amanecer de todo* es que la especie humana ha estado experimentando con diversas formas de organización social desde sus orígenes. El *Homo sapiens*, tal como lo afirmó Aristóteles, es un animal político. A lo largo de los siglos, el ser humano ha debido escoger, negociar, imaginar y poner en práctica distintas formas de convivencia, lo que, a su vez, ha definido su *ethos*.

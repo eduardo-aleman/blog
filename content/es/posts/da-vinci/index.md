@@ -1,11 +1,20 @@
 ---
-title: "La regla de los árboles de Leonardo da Vinci"
+title: La regla de los árboles de Leonardo da Vinci
 date: 2025-02-01
 draft: false
-categories: ["historia de la ciencia", "arte renacentista"]
-tags: ["Leonardo da Vinci", "botánica", "biomecánica", "Cuadernos", "regla de los árboles"]
-description: "Exploración de una intuición de Leonardo da Vinci sobre la estructura de los árboles, validada cinco siglos después por la biomecánica moderna."
-series: ["Violencia y civilización"]
+categories:
+- arte renacentista
+- historia de la ciencia
+tags:
+- Leonardo da Vinci
+- botánica
+- biomecánica
+- cuadernos
+- regla de los árboles
+description: Exploración de una intuición de Leonardo da Vinci sobre la estructura
+  de los árboles, validada cinco siglos después por la biomecánica moderna.
+series:
+- Violencia y civilización
 ---
 
 Los *Cuadernos de Leonardo da Vinci*, escritos entre 1478 y 1518, ofrecen una ventana privilegiada al pensamiento de uno de los genios más versátiles y profundos del Renacimiento. A lo largo de unas 13.000 páginas —dispersas hoy en varias colecciones conocidas como códices— Leonardo dejó constancia de su inagotable curiosidad intelectual y capacidad de observación: diseños de máquinas de guerra y de vuelo (como el célebre helicóptero o la ballesta gigante), estudios anatómicos, reflexiones filosóficas, teorías ópticas y pictóricas, y hasta listas de vocabulario científico y técnico.
