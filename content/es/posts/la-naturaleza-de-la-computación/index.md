@@ -4,7 +4,7 @@ date: 2025-04-20
 description: 'Cómo Leonhard Euler resolvió el problema de los puentes de Königsberg
   y fundó una nueva forma de pensar: la teoría de grafos.'
 categories:
-- filosofía
+- lógica
 - computación
 draft: false
 type: posts

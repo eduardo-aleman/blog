@@ -13,12 +13,15 @@ cover:
   relative: false
   hidden: false
 draft: false
+categories:
+- Euler
+- matemáticas
 tags:
 - Euler
 - matemáticas
 - identidades
 - números complejos
-- historia de la ciencia
+- historia de las matemáticas
 ---
 
 *La fórmula más notable en matemáticas*

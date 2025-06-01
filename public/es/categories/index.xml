@@ -72,10 +72,10 @@
       <description></description>
     </item>
     <item>
-      <title>Filosofía</title>
-      <link>http://localhost:1313/blog/es/categories/filosof%C3%ADa/</link>
+      <title>Lógica</title>
+      <link>http://localhost:1313/blog/es/categories/l%C3%B3gica/</link>
       <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/es/categories/filosof%C3%ADa/</guid>
+      <guid>http://localhost:1313/blog/es/categories/l%C3%B3gica/</guid>
       <description></description>
     </item>
     <item>
@@ -93,10 +93,10 @@
       <description></description>
     </item>
     <item>
-      <title>Historia De La Ciencia</title>
-      <link>http://localhost:1313/blog/es/categories/historia-de-la-ciencia/</link>
+      <title>Euler</title>
+      <link>http://localhost:1313/blog/es/categories/euler/</link>
       <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/es/categories/historia-de-la-ciencia/</guid>
+      <guid>http://localhost:1313/blog/es/categories/euler/</guid>
       <description></description>
     </item>
     <item>
@@ -104,6 +104,13 @@
       <link>http://localhost:1313/blog/es/categories/matem%C3%A1ticas/</link>
       <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/es/categories/matem%C3%A1ticas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Filosofía</title>
+      <link>http://localhost:1313/blog/es/categories/filosof%C3%ADa/</link>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/categories/filosof%C3%ADa/</guid>
       <description></description>
     </item>
     <item>
@@ -125,6 +132,13 @@
       <link>http://localhost:1313/blog/es/categories/arte-renacentista/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/es/categories/arte-renacentista/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Historia De La Ciencia</title>
+      <link>http://localhost:1313/blog/es/categories/historia-de-la-ciencia/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/categories/historia-de-la-ciencia/</guid>
       <description></description>
     </item>
     <item>
