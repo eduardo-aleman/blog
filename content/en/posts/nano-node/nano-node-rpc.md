@@ -142,7 +142,7 @@ curl -d '{ "action": "bootstrap_any" }' \
 
 ---
 
-_Last updated: 2025-05-27_
+### Last updated: 2025-05-27
 
 ---
 
