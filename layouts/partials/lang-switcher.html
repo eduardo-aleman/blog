@@ -1,31 +1,34 @@
-{{/* layouts/partials/lang-switcher.html (Tailwind version) */}}
+{{/* layouts/partials/lang-switcher.html (Tailwind version simplified) */}}
 {{ $currentPage := . }}
 {{ $translations := .Translations }}
 
 {{ if or (gt (len $translations) 0) true }}
-  <div class="text-sm text-right mt-4 space-x-2">
-    <span class="font-semibold">
-      {{ if eq $currentPage.Lang "es" }}🇪🇸 Español{{ end }}
-      {{ if eq $currentPage.Lang "en" }}🇬🇧 English{{ end }}
-    </span>
-    {{ range $translations }}
-      {{ if ne .Lang $currentPage.Lang }}
-        <span>|</span>
-        {{ if eq .Lang "es" }}
-          <a href="{{ .RelPermalink }}" class="text-blue-600 hover:underline">🇪🇸 Versión en español</a>
-        {{ end }}
-        {{ if eq .Lang "en" }}
-          <a href="{{ .RelPermalink }}" class="text-blue-600 hover:underline">🇬🇧 English version</a>
+  <div class="text-sm text-right mt-4">
+    <p class="text-gray-500 italic mb-1">Translations:</p>
+    <div class="space-x-2">
+      <span class="font-semibold">
+        {{ if eq $currentPage.Lang "es" }}Español{{ end }}
+        {{ if eq $currentPage.Lang "en" }}English{{ end }}
+      </span>
+      {{ range $translations }}
+        {{ if ne .Lang $currentPage.Lang }}
+          <span>|</span>
+          {{ if eq .Lang "es" }}
+            <a href="{{ .RelPermalink }}" class="text-blue-600 hover:underline">Español</a>
+          {{ end }}
+          {{ if eq .Lang "en" }}
+            <a href="{{ .RelPermalink }}" class="text-blue-600 hover:underline">English</a>
+          {{ end }}
         {{ end }}
       {{ end }}
-    {{ end }}
-    {{ if eq (len $translations) 0 }}
-      {{ if eq $currentPage.Lang "es" }}<span class="italic text-gray-500">Disponible solo en español</span>{{ end }}
-      {{ if eq $currentPage.Lang "en" }}<span class="italic text-gray-500">Only available in English</span>{{ end }}
-    {{ end }}
+      {{ if eq (len $translations) 0 }}
+        {{ if eq $currentPage.Lang "es" }}<span class="italic text-gray-500">Disponible solo en español</span>{{ end }}
+        {{ if eq $currentPage.Lang "en" }}<span class="italic text-gray-500">Only available in English</span>{{ end }}
+      {{ end }}
+    </div>
   </div>
 {{ end }}
 {{/* End of layouts/partials/lang-switcher.html */}}
-{{/* This partial is used to switch between languages in a multilingual site */}}
-{{/* It displays the current language and provides links to other translations */}}
-{{/* The design is responsive and uses Tailwind CSS for styling */}}
+{{/* This file is used to display language switcher links for translations */}}
+{{/* It checks the current page's language and displays links to other translations if available */}}
+{{/* The design is simplified for Tailwind CSS usage */}}
