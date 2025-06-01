@@ -1,6 +1,5 @@
 ---
 translationKey: digital-humanities-resources
-lang: en
 title: "Resources in Spanish and English on Digital Humanities, Citizen Research, and Critical Editions"
 date: '2024-05-24'
 author: Eduardo Alemán
