@@ -142,3 +142,14 @@
     });
 </script>
 {{- end }}
+<script src="{{ "js/copy-code.js" | relURL }}"></script>
+{{- if site.Params.footer.customJS }}
+<script src="{{ site.Params.footer.customJS | relURL }}"></script>
+{{- end }}
+
+{{- partial "extend_footer_js.html" . }}
+{{- if site.Params.footer.customHTML }}
+{{ site.Params.footer.customHTML | safeHTML }}
+{{- end }}
+
+{{- partial "extend_footer.html" . }}

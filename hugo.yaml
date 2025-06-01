@@ -28,7 +28,12 @@ markup:
 
 params:
   env: production
+  highlightjs: true
   assets:
+    highlightjs_extra_languages:
+      - bash
+      - python
+      - json
     disableFingerprinting: false
     minify:
       disableXML: false
@@ -45,6 +50,11 @@ params:
   ShowCategories: true
   ShowTags: true
   ShowSearch: true
+  ShowSeries: true
+  ShowCategoriesInMenu: false
+  ShowTagsInMenu: false
+  ShowSearchInMenu: true
+
 
 languages:
   es:
