@@ -1,0 +1,28 @@
+{{/* layouts/partials/lang-switcher.html */}}
+{{ $currentPage := . }}
+{{ $translations := .Translations }}
+
+<div class="lang-switcher" style="margin: 1rem 0; text-align: right; font-size: 0.9rem;">
+  <span>🌐
+    {{ if gt (len $translations) 0 }}
+      {{ if eq $currentPage.Lang "es" }}<strong>🇪🇸 Español</strong>{{ end }}
+      {{ if eq $currentPage.Lang "en" }}<strong>🇬🇧 English</strong>{{ end }}
+      {{ range $translations }}
+        {{ if ne .Lang $currentPage.Lang }} |
+          <a href="{{ .RelPermalink }}">
+            {{ if eq .Lang "es" }}🇪🇸 Versión en español{{ end }}
+            {{ if eq .Lang "en" }}🇬🇧 English version{{ end }}
+          </a>
+        {{ end }}
+      {{ end }}
+    {{ else }}
+      {{ if eq $currentPage.Lang "es" }}<em>Disponible solo en español</em>{{ end }}
+      {{ if eq $currentPage.Lang "en" }}<em>Only available in English</em>{{ end }}
+    {{ end }}
+  </span>
+</div>
+{{/* End of layouts/partials/lang-switcher.html */}}
+{{/* This partial is used to switch between language versions of the page */}}
+{{/* It checks the current page's language and lists available translations */}}
+{{/* The translations are linked to their respective pages */}}
+{{/* The design is simple and responsive, suitable for various layouts */}}
