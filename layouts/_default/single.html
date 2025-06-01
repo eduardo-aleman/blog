@@ -4,6 +4,7 @@
   <header class="post-header">
     {{ partial "breadcrumbs.html" . }}
     <h1 class="post-title entry-hint-parent">
+      {{ partial "lang-switcher.html" . }}
       {{ .Title }}
       {{- if .Draft }}
       <span class="entry-hint" title="Draft">

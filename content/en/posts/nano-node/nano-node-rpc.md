@@ -12,8 +12,6 @@ draft: false
 
 Once the Nano node is running and port `7076` is enabled, you can interact with it using HTTP POST requests via the JSON-RPC protocol. Below is a collection of useful commands organized by topic, with inline comments and ready to copy.
 
-👉 [Versión en español]({< relref "comandos-rpc-nano.md" lang="es" >})
-
 ---
 
 ## 🔍 Node Status
