@@ -9,17 +9,17 @@
     <lastBuildDate>Sat, 31 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/en/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Security</title>
-      <link>http://localhost:1313/blog/en/categories/security/</link>
+      <title>Seguridad</title>
+      <link>http://localhost:1313/blog/en/categories/seguridad/</link>
       <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/en/categories/security/</guid>
+      <guid>http://localhost:1313/blog/en/categories/seguridad/</guid>
       <description></description>
     </item>
     <item>
-      <title>Servers</title>
-      <link>http://localhost:1313/blog/en/categories/servers/</link>
+      <title>Servidores</title>
+      <link>http://localhost:1313/blog/en/categories/servidores/</link>
       <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/en/categories/servers/</guid>
+      <guid>http://localhost:1313/blog/en/categories/servidores/</guid>
       <description></description>
     </item>
     <item>
@@ -97,13 +97,6 @@
       <link>http://localhost:1313/blog/en/categories/philology/</link>
       <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/en/categories/philology/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Administration</title>
-      <link>http://localhost:1313/blog/en/categories/administration/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/en/categories/administration/</guid>
       <description></description>
     </item>
   </channel>
