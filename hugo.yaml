@@ -28,9 +28,11 @@ markup:
 
 params:
   env: production
+  showPostCover: true
   highlightjs: true
   copyCodeButton: true
   assets:
+    customCSS: css/custom.css
     highlightjs_extra_languages:
       - bash
       - python
