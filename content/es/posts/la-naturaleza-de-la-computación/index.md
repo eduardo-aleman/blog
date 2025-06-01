@@ -9,7 +9,6 @@ categories:
 draft: false
 type: posts
 tags:
-- filosofía
 - computación
 - lógica
 - máquinas de Turing

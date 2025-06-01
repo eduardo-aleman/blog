@@ -135,13 +135,6 @@
       <description></description>
     </item>
     <item>
-      <title>Filosofía</title>
-      <link>http://localhost:1313/blog/es/tags/filosof%C3%ADa/</link>
-      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/es/tags/filosof%C3%ADa/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Lógica</title>
       <link>http://localhost:1313/blog/es/tags/l%C3%B3gica/</link>
       <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
@@ -261,6 +254,27 @@
       <description></description>
     </item>
     <item>
+      <title>Filosofía</title>
+      <link>http://localhost:1313/blog/es/tags/filosof%C3%ADa/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/tags/filosof%C3%ADa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mecánica Cuántica</title>
+      <link>http://localhost:1313/blog/es/tags/mec%C3%A1nica-cu%C3%A1ntica/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/tags/mec%C3%A1nica-cu%C3%A1ntica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Neurofisiología</title>
+      <link>http://localhost:1313/blog/es/tags/neurofisiolog%C3%ADa/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/tags/neurofisiolog%C3%ADa/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Penrose</title>
       <link>http://localhost:1313/blog/es/tags/penrose/</link>
       <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
@@ -366,6 +380,13 @@
       <description></description>
     </item>
     <item>
+      <title>Ciencias Sociales</title>
+      <link>http://localhost:1313/blog/es/tags/ciencias-sociales/</link>
+      <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/tags/ciencias-sociales/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Cristianismo</title>
       <link>http://localhost:1313/blog/es/tags/cristianismo/</link>
       <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
@@ -373,17 +394,10 @@
       <description></description>
     </item>
     <item>
-      <title>Fe</title>
-      <link>http://localhost:1313/blog/es/tags/fe/</link>
+      <title>Estadística</title>
+      <link>http://localhost:1313/blog/es/tags/estad%C3%ADstica/</link>
       <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/es/tags/fe/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Simbología</title>
-      <link>http://localhost:1313/blog/es/tags/simbolog%C3%ADa/</link>
-      <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/es/tags/simbolog%C3%ADa/</guid>
+      <guid>http://localhost:1313/blog/es/tags/estad%C3%ADstica/</guid>
       <description></description>
     </item>
     <item>

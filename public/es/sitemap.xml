@@ -30,16 +30,6 @@
   </url><url>
     <loc>http://localhost:1313/blog/es/posts/endurecimiento-servidor-ubuntu/</loc>
     <lastmod>2025-05-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/en/posts/ubuntu-server-hardening/ubuntu-hardening/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/blog/es/posts/endurecimiento-servidor-ubuntu/"
-                />
   </url><url>
     <loc>http://localhost:1313/blog/es/tags/fail2ban/</loc>
     <lastmod>2025-05-29T00:00:00+00:00</lastmod>
@@ -207,9 +197,6 @@
     <loc>http://localhost:1313/blog/es/categories/filosof%C3%ADa/</loc>
     <lastmod>2025-04-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/es/tags/filosof%C3%ADa/</loc>
-    <lastmod>2025-04-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/es/posts/la-naturaleza-de-la-computaci%C3%B3n/</loc>
     <lastmod>2025-04-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -310,6 +297,15 @@
     <loc>http://localhost:1313/blog/es/posts/de-platon-a-penrose/</loc>
     <lastmod>2025-03-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/blog/es/tags/filosof%C3%ADa/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/es/tags/mec%C3%A1nica-cu%C3%A1ntica/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/es/tags/neurofisiolog%C3%ADa/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/es/tags/penrose/</loc>
     <lastmod>2025-03-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -373,6 +369,9 @@
     <loc>http://localhost:1313/blog/es/tags/polis/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/blog/es/tags/ciencias-sociales/</loc>
+    <lastmod>2024-07-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/es/categories/cristianismo/</loc>
     <lastmod>2024-07-04T00:00:00+00:00</lastmod>
   </url><url>
@@ -382,13 +381,10 @@
     <loc>http://localhost:1313/blog/es/posts/el-n%C3%BAmero-cristiano-y-sus-implicaciones/</loc>
     <lastmod>2024-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/es/tags/fe/</loc>
+    <loc>http://localhost:1313/blog/es/tags/estad%C3%ADstica/</loc>
     <lastmod>2024-07-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/categories/historia-de-las-ideas/</loc>
-    <lastmod>2024-07-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/es/tags/simbolog%C3%ADa/</loc>
     <lastmod>2024-07-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/tags/academia/</loc>
@@ -435,97 +431,6 @@
   </url><url>
     <loc>http://localhost:1313/blog/es/tags/tom%C3%A1s-de-aquino/</loc>
     <lastmod>2024-06-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/es/categories/archives/</loc>
-    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/en/categories/archives/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/blog/es/categories/archives/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/blog/es/categories/citizen-science/</loc>
-    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/en/categories/citizen-science/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/blog/es/categories/citizen-science/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/blog/es/categories/critical-editing/</loc>
-    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/en/categories/critical-editing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/blog/es/categories/critical-editing/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/blog/es/categories/digital-humanities/</loc>
-    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/en/categories/digital-humanities/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/blog/es/categories/digital-humanities/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/blog/es/categories/history/</loc>
-    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/en/categories/history/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/blog/es/categories/history/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/blog/es/categories/philology/</loc>
-    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/en/categories/philology/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/blog/es/categories/philology/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/blog/es/posts/investigacion-ciudadana/</loc>
-    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/en/posts/digital-humanities/digital-humanities/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/blog/es/posts/investigacion-ciudadana/"
-                />
   </url><url>
     <loc>http://localhost:1313/blog/es/categories/anales/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>

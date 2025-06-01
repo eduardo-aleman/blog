@@ -43,16 +43,6 @@
   </url><url>
     <loc>http://localhost:1313/blog/en/posts/ubuntu-server-hardening/ubuntu-hardening/</loc>
     <lastmod>2025-05-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/blog/es/posts/endurecimiento-servidor-ubuntu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/en/posts/ubuntu-server-hardening/ubuntu-hardening/"
-                />
   </url><url>
     <loc>http://localhost:1313/blog/en/tags/linux/</loc>
     <lastmod>2025-05-29T00:00:00+00:00</lastmod>
@@ -143,94 +133,24 @@
   </url><url>
     <loc>http://localhost:1313/blog/en/categories/archives/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/blog/es/categories/archives/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/en/categories/archives/"
-                />
   </url><url>
     <loc>http://localhost:1313/blog/en/categories/citizen-science/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/blog/es/categories/citizen-science/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/en/categories/citizen-science/"
-                />
   </url><url>
     <loc>http://localhost:1313/blog/en/categories/critical-editing/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/blog/es/categories/critical-editing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/en/categories/critical-editing/"
-                />
   </url><url>
     <loc>http://localhost:1313/blog/en/categories/digital-humanities/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/blog/es/categories/digital-humanities/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/en/categories/digital-humanities/"
-                />
   </url><url>
     <loc>http://localhost:1313/blog/en/categories/history/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/blog/es/categories/history/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/en/categories/history/"
-                />
   </url><url>
     <loc>http://localhost:1313/blog/en/categories/philology/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/blog/es/categories/philology/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/en/categories/philology/"
-                />
   </url><url>
     <loc>http://localhost:1313/blog/en/posts/digital-humanities/digital-humanities/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/blog/es/posts/investigacion-ciudadana/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/en/posts/digital-humanities/digital-humanities/"
-                />
   </url><url>
     <loc>http://localhost:1313/blog/en/archives/</loc>
     <xhtml:link

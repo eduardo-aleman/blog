@@ -1,5 +1,4 @@
 ---
-translationKey: ubuntu-hardening
 title: "Hardening an Ubuntu Server: Essential Steps"
 date: 2025-05-29
 draft: false

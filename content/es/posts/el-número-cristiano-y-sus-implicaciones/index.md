@@ -8,10 +8,9 @@ draft: false
 type: posts
 tags:
 - cristianismo
-- matemáticas
 - historia
-- simbología
-- fe
+- estadística
+- ciencias sociales
 ---
 
 ### Introducción
