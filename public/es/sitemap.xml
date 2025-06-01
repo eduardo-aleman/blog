@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/blog/es/</loc>
-    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/blog/es/categories/</loc>
-    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/blog/es/posts/endurecimiento-servidor-ubuntu/ubuntu-hardening/</loc>
-    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -42,7 +42,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/blog/es/tags/fail2ban/</loc>
-    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -55,7 +55,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/blog/es/tags/linux/</loc>
-    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -68,7 +68,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/blog/es/posts/</loc>
-    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -81,16 +81,16 @@
                 />
   </url><url>
     <loc>http://localhost:1313/blog/es/categories/seguridad/</loc>
-    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/tags/seguridad/</loc>
-    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/categories/servidores/</loc>
-    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/tags/ssh/</loc>
-    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -103,7 +103,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/blog/es/tags/</loc>
-    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -116,7 +116,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/blog/es/categories/ubuntu/</loc>
-    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -129,7 +129,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/blog/es/tags/ufw/</loc>
-    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -262,6 +262,49 @@
     <loc>http://localhost:1313/blog/es/categories/teor%C3%ADa-de-grafos/</loc>
     <lastmod>2025-04-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/blog/es/tags/alejandro-magno/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/es/tags/bosworth/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/es/posts/violencia-civilizacion/de-alejandro-a-ucrania/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/es/categories/filosof%C3%ADa/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/es/categories/geopol%C3%ADtica/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/es/tags/globalizaci%C3%B3n/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/es/tags/guerra/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/es/categories/historia/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/es/series/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/series/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/blog/es/tags/ucrania/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/es/series/violencia-y-civilizaci%C3%B3n/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/es/categories/ensayos/</loc>
     <lastmod>2025-04-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -269,9 +312,6 @@
     <lastmod>2025-04-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/posts/el-pensar-del-ser-en-heidegger/</loc>
-    <lastmod>2025-03-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/es/categories/filosof%C3%ADa/</loc>
     <lastmod>2025-03-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/categories/heidegger/</loc>
@@ -323,9 +363,6 @@
     <lastmod>2024-07-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/categories/david-wengrow/</loc>
-    <lastmod>2024-07-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/es/categories/historia/</loc>
     <lastmod>2024-07-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/categories/prehistoria/</loc>
@@ -567,18 +604,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="http://localhost:1313/blog/es/etiquetas/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/blog/es/series/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/en/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/blog/es/series/"
                 />
   </url>
 </urlset>

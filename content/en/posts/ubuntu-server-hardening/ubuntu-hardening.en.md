@@ -2,7 +2,7 @@
 translationKey: ubuntu-hardening
 lang: en
 title: "Hardening an Ubuntu Server: Essential Steps"
-date: 2025-05-31
+date: 2025-05-29
 draft: false
 categories: ["security", "servers", "ubuntu"]
 tags: ["ssh", "ufw", "fail2ban", "security", "linux"]
