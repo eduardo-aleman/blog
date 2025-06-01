@@ -15,10 +15,10 @@ Entre estas colecciones destacan el [Codex Arundel](http://www.bl.uk/manuscripts
 Uno de los hallazgos más fascinantes en estos manuscritos aparece en el *Manuscrito M*, el más pequeño de todos, conservado en la [Bibliothèque de l'Institut de France](https://bibnum.institutdefrance.fr/ark:/61562/bi24181). Allí, Leonardo formula lo que hoy conocemos como la **Regla de los Árboles**: una observación empírica sobre el grosor relativo de las ramas de un árbol. Según esta regla, el diámetro conjunto de todas las ramas de un árbol, a una determinada altura, es igual al diámetro del tronco o rama madre desde la que emergen.
 
 ![Regla de los árboles de Leonardo](da_vinci_arbol.webp)
-> “Todas las ramas de un árbol en cada etapa de su altura, cuando se juntan, tienen el mismo grosor que el tronco [debajo de ellas].”  
+> “Todas las ramas de un árbol en cada etapa de su altura, cuando se juntan, tienen el mismo grosor que el tronco [debajo de ellas].”
 > “Cada año, cuando las ramas de una planta [o árbol] hayan terminado de madurar su crecimiento, habrán formado, juntas, un espesor igual al del tallo principal...”
->  
-> Fuente: *Manuscrit M*, folio 78v, Bibliothèque numérique de l'Institut de France.  
+>
+> Fuente: *Manuscrit M*, folio 78v, Bibliothèque numérique de l'Institut de France.
 > [Imagen en alta resolución](https://bibnum.institutdefrance.fr/viewer/24181?viewer=picture#page=163&viewer=picture&o=bookmark&n=0&q=)
 
 Desde una perspectiva moderna, esta regla puede interpretarse en términos matemáticos: el “grosor” al que se refería Leonardo puede entenderse como el **área de sección transversal** de las ramas. La sección transversal de un cilindro (como una rama) se calcula con la fórmula del área del círculo: \( A = \pi r^2 \). Si sumamos las áreas de todas las ramas hijas, estas equivaldrían aproximadamente al área del tronco madre si se cumple la regla. Esta formulación implica una conservación de flujo (de savia, energía o estructura) dentro del árbol.
