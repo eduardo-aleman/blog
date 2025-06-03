@@ -15,6 +15,7 @@ tags:
   - Servidores
   - Ubuntu
 description: "Guía práctica para asegurar un servidor Ubuntu: desde deshabilitar el acceso root hasta configurar un ProxyJump reverso y autenticación en dos pasos."
+translationKey: ubuntu-hardening
 ---
 
 El endurecimiento de un servidor Ubuntu es una práctica esencial para asegurar cualquier infraestructura expuesta a Internet. A continuación se detallan los pasos fundamentales para aumentar la seguridad, con una tabla-resumen de efectos por cada configuración aplicada.

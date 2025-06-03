@@ -9,6 +9,13 @@
     <lastBuildDate>Thu, 29 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/en/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Reference</title>
+      <link>http://localhost:1313/blog/en/categories/reference/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/en/categories/reference/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Security</title>
       <link>http://localhost:1313/blog/en/categories/security/</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
@@ -16,73 +23,10 @@
       <description></description>
     </item>
     <item>
-      <title>Servers</title>
-      <link>http://localhost:1313/blog/en/categories/servers/</link>
+      <title>Technology</title>
+      <link>http://localhost:1313/blog/en/categories/technology/</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/en/categories/servers/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ubuntu</title>
-      <link>http://localhost:1313/blog/en/categories/ubuntu/</link>
-      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/en/categories/ubuntu/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Archives</title>
-      <link>http://localhost:1313/blog/en/categories/archives/</link>
-      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/en/categories/archives/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Artículo</title>
-      <link>http://localhost:1313/blog/en/categories/art%C3%ADculo/</link>
-      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/en/categories/art%C3%ADculo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Citizen Science</title>
-      <link>http://localhost:1313/blog/en/categories/citizen-science/</link>
-      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/en/categories/citizen-science/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Critical Editing</title>
-      <link>http://localhost:1313/blog/en/categories/critical-editing/</link>
-      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/en/categories/critical-editing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Digital Humanities</title>
-      <link>http://localhost:1313/blog/en/categories/digital-humanities/</link>
-      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/en/categories/digital-humanities/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>History</title>
-      <link>http://localhost:1313/blog/en/categories/history/</link>
-      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/en/categories/history/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Philology</title>
-      <link>http://localhost:1313/blog/en/categories/philology/</link>
-      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/en/categories/philology/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Referencia</title>
-      <link>http://localhost:1313/blog/en/categories/referencia/</link>
-      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/en/categories/referencia/</guid>
+      <guid>http://localhost:1313/blog/en/categories/technology/</guid>
       <description></description>
     </item>
   </channel>

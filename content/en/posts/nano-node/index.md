@@ -3,14 +3,18 @@ title: "Useful RPC Commands for a Nano Node"
 description: "Overview of available actions through the JSON-RPC API on a self-hosted Nano node."
 date: 2025-05-27
 categories:
-  - nano
-  - blockchain
-  - rpc
-  - admin
-  - artículo
-  - referencia
-  - tecnología
+- Technology
+- Reference
 draft: false
+tags:
+- Nano
+- Blockchain
+- RPC
+- Cryptocurrency
+- Node
+- Docker
+draft: false
+translationKey: nano-node
 ---
 
 Once the Nano node is running and port `7076` is enabled, you can interact with it using HTTP POST requests via the JSON-RPC protocol. Below is a collection of useful commands organized by topic, with inline comments and ready to copy.

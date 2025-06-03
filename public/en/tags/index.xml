@@ -44,7 +44,7 @@
       <description></description>
     </item>
     <item>
-      <title>Fail2ban</title>
+      <title>Fail2Ban</title>
       <link>http://localhost:1313/blog/en/tags/fail2ban/</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/en/tags/fail2ban/</guid>
@@ -58,38 +58,73 @@
       <description></description>
     </item>
     <item>
-      <title>Referencia</title>
-      <link>http://localhost:1313/blog/en/tags/referencia/</link>
+      <title>Servers</title>
+      <link>http://localhost:1313/blog/en/tags/servers/</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/en/tags/referencia/</guid>
+      <guid>http://localhost:1313/blog/en/tags/servers/</guid>
       <description></description>
     </item>
     <item>
-      <title>Security</title>
-      <link>http://localhost:1313/blog/en/tags/security/</link>
-      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/en/tags/security/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ssh</title>
+      <title>SSH</title>
       <link>http://localhost:1313/blog/en/tags/ssh/</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/en/tags/ssh/</guid>
       <description></description>
     </item>
     <item>
-      <title>Tecnología</title>
-      <link>http://localhost:1313/blog/en/tags/tecnolog%C3%ADa/</link>
+      <title>Ubuntu</title>
+      <link>http://localhost:1313/blog/en/tags/ubuntu/</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/en/tags/tecnolog%C3%ADa/</guid>
+      <guid>http://localhost:1313/blog/en/tags/ubuntu/</guid>
       <description></description>
     </item>
     <item>
-      <title>Ufw</title>
+      <title>UFW</title>
       <link>http://localhost:1313/blog/en/tags/ufw/</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/en/tags/ufw/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blockchain</title>
+      <link>http://localhost:1313/blog/en/tags/blockchain/</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/en/tags/blockchain/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cryptocurrency</title>
+      <link>http://localhost:1313/blog/en/tags/cryptocurrency/</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/en/tags/cryptocurrency/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docker</title>
+      <link>http://localhost:1313/blog/en/tags/docker/</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/en/tags/docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nano</title>
+      <link>http://localhost:1313/blog/en/tags/nano/</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/en/tags/nano/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Node</title>
+      <link>http://localhost:1313/blog/en/tags/node/</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/en/tags/node/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RPC</title>
+      <link>http://localhost:1313/blog/en/tags/rpc/</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/en/tags/rpc/</guid>
       <description></description>
     </item>
   </channel>

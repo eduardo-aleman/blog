@@ -17,17 +17,17 @@
     </item>
     <item>
       <title>Hardening an Ubuntu Server: Essential Steps</title>
-      <link>http://localhost:1313/blog/en/posts/ubuntu-server-hardening/ubuntu-hardening/</link>
+      <link>http://localhost:1313/blog/en/posts/ubuntu-server-hardening/</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/en/posts/ubuntu-server-hardening/ubuntu-hardening/</guid>
+      <guid>http://localhost:1313/blog/en/posts/ubuntu-server-hardening/</guid>
       <description>Practical guide to securing an Ubuntu server: from disabling root access to setting up reverse ProxyJump and two-factor authentication.</description>
     </item>
     <item>
-      <title>Resources in Spanish and English on Digital Humanities, Citizen Research, and Critical Editions</title>
-      <link>http://localhost:1313/blog/en/posts/digital-humanities/digital-humanities/</link>
-      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/en/posts/digital-humanities/digital-humanities/</guid>
-      <description>An expanded overview of key projects, platforms, and bibliographies in Spanish related to Digital Humanities, citizen science, collaborative history, digital archives, computational philology, and critical editions.</description>
+      <title>Useful RPC Commands for a Nano Node</title>
+      <link>http://localhost:1313/blog/en/posts/nano-node/</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/en/posts/nano-node/</guid>
+      <description>Overview of available actions through the JSON-RPC API on a self-hosted Nano node.</description>
     </item>
   </channel>
 </rss>

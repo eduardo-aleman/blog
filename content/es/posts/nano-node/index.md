@@ -1,19 +1,19 @@
 ---
 title: Comandos útiles con RPC para un nodo Nano
-description: Resumen de acciones disponibles mediante la API JSON-RPC en un nodo Nano
-  autoalojado.
+description: Resumen de acciones disponibles mediante la API JSON-RPC en un nodo Nano autoalojado.
 date: 2025-05-27
 categories:
 - Tecnología
 - Referencia
 draft: false
 tags:
-- nano
-- blockchain
-- rpc
-- criptomonedas
-- nodo
-- docker
+- Nano
+- Blockchain
+- RPC
+- Criptomonedas
+- Nodo
+- Docker
+translationKey: nano-node
 ---
 
 Una vez que el nodo Nano está en ejecución y el puerto `7076` habilitado, es posible interactuar con él mediante peticiones HTTP POST usando el protocolo JSON-RPC. A continuación, se presenta una colección de comandos útiles organizados por temática, con ejemplos comentados y listos para copiar.

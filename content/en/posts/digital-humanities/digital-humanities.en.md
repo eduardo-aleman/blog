@@ -12,7 +12,7 @@ categories:
 - critical editing
 - artículo
 - referencia
-draft: false
+draft: true
 type: posts
 ---
 

@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/blog/en/categories/security/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hardening an Ubuntu Server: Essential Steps</title>
-      <link>http://localhost:1313/blog/en/posts/ubuntu-server-hardening/ubuntu-hardening/</link>
+      <link>http://localhost:1313/blog/en/posts/ubuntu-server-hardening/</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/en/posts/ubuntu-server-hardening/ubuntu-hardening/</guid>
+      <guid>http://localhost:1313/blog/en/posts/ubuntu-server-hardening/</guid>
       <description>Practical guide to securing an Ubuntu server: from disabling root access to setting up reverse ProxyJump and two-factor authentication.</description>
     </item>
   </channel>

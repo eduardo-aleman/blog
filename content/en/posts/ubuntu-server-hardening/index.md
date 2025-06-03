@@ -3,18 +3,18 @@ title: "Hardening an Ubuntu Server: Essential Steps"
 date: 2025-05-29
 draft: false
 categories:
-  - security
-  - servers
-  - ubuntu
+  - Security
+  - Technology
+  - Reference
 tags: 
-  - ssh
-  - ufw
-  - fail2ban
-  - security
-  - Linux
-  - referencia
-  - tecnología
+  - SSH
+  - UFW 
+  - Fail2Ban
+  - Linux 
+  - Servers
+  - Ubuntu
 description: "Practical guide to securing an Ubuntu server: from disabling root access to setting up reverse ProxyJump and two-factor authentication."
+translationKey: ubuntu-hardening
 ---
 
 Hardening an Ubuntu server is a critical practice to protect any infrastructure exposed to the internet. Below are key steps to strengthen security, including a summary table of each configuration and its effect.
