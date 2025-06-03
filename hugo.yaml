@@ -90,10 +90,6 @@ languages:
           url: https://github.com/lampsacus/blog
     menu:
       main:
-        - identifier: categories
-          name: Categorías
-          url: categories/
-          weight: 10
         - identifier: archives
           name: Archivos
           url: archives/
@@ -140,10 +136,6 @@ languages:
           url: https://github.com/lampsacus/blog
     menu:
       main:
-        - identifier: categories
-          name: Categories
-          url: categories/
-          weight: 10
         - identifier: archives
           name: Archives
           url: archives/
