@@ -3,12 +3,15 @@ title: "Differences Between XML, Markdown, and HTML: Uses and Conversion Challen
 date: 2025-06-02
 draft: false
 category: technology
+  - Technology
+  - Article
+  - Reference
 tags:
-  - xml
-  - markdown
-  - html
-  - conversions
-  - digital humanities
+  - XML
+  - Markdown
+  - HTML
+  - Conversions
+  - Digital Humanities
 description: "A clear comparison of XML, Markdown, and HTML: what they are used for, how they differ, and what challenges arise when converting between them."
 translationKey: xml-markdown-html-comparison
 ---

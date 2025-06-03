@@ -627,29 +627,5 @@
                 hreflang="es"
                 href="http://localhost:1313/blog/es/search/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/blog/es/categorias/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/en/categorias/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/blog/es/categorias/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/blog/es/etiquetas/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/en/etiquetas/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/blog/es/etiquetas/"
-                />
   </url>
 </urlset>
