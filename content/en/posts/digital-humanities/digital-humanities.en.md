@@ -10,6 +10,8 @@ categories:
 - history
 - philology
 - critical editing
+- artículo
+- referencia
 draft: false
 type: posts
 ---

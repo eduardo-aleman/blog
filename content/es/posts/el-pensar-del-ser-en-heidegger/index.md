@@ -18,6 +18,7 @@ tags:
 - ser
 - filosofía continental
 - existencia
+- artículo
 ---
 
 **I. Del ser como objeto al ser como acontecimiento**

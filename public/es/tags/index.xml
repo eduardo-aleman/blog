@@ -23,6 +23,13 @@
       <description></description>
     </item>
     <item>
+      <title>Referencia</title>
+      <link>http://localhost:1313/blog/es/tags/referencia/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/tags/referencia/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Seguridad</title>
       <link>http://localhost:1313/blog/es/tags/seguridad/</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
@@ -34,6 +41,13 @@
       <link>http://localhost:1313/blog/es/tags/ssh/</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/es/tags/ssh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tecnología</title>
+      <link>http://localhost:1313/blog/es/tags/tecnolog%C3%ADa/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/tags/tecnolog%C3%ADa/</guid>
       <description></description>
     </item>
     <item>
@@ -86,6 +100,13 @@
       <description></description>
     </item>
     <item>
+      <title>Artículo</title>
+      <link>http://localhost:1313/blog/es/tags/art%C3%ADculo/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/tags/art%C3%ADculo/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Biografía</title>
       <link>http://localhost:1313/blog/es/tags/biograf%C3%ADa/</link>
       <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
@@ -104,6 +125,13 @@
       <link>http://localhost:1313/blog/es/tags/historia/</link>
       <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/es/tags/historia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Manuscritos</title>
+      <link>http://localhost:1313/blog/es/tags/manuscritos/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/tags/manuscritos/</guid>
       <description></description>
     </item>
     <item>
@@ -146,6 +174,13 @@
       <link>http://localhost:1313/blog/es/tags/m%C3%A1quinas-de-turing/</link>
       <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/es/tags/m%C3%A1quinas-de-turing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Traducción</title>
+      <link>http://localhost:1313/blog/es/tags/traducci%C3%B3n/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/tags/traducci%C3%B3n/</guid>
       <description></description>
     </item>
     <item>
@@ -303,6 +338,13 @@
       <description></description>
     </item>
     <item>
+      <title>Christophe Eloy</title>
+      <link>http://localhost:1313/blog/es/tags/christophe-eloy/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/tags/christophe-eloy/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Cuadernos</title>
       <link>http://localhost:1313/blog/es/tags/cuadernos/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
@@ -345,10 +387,24 @@
       <description></description>
     </item>
     <item>
+      <title>Notas</title>
+      <link>http://localhost:1313/blog/es/tags/notas/</link>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/tags/notas/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Prehistoria</title>
       <link>http://localhost:1313/blog/es/tags/prehistoria/</link>
       <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/es/tags/prehistoria/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Resumen</title>
+      <link>http://localhost:1313/blog/es/tags/resumen/</link>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/tags/resumen/</guid>
       <description></description>
     </item>
     <item>

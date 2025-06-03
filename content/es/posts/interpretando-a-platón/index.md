@@ -29,6 +29,7 @@ tags:
 - interpretación
 - idealismo
 - Academia
+- artículo
 ---
 
 Tigerstedt, E. N., [Interpreting Plato](https://amzn.to/3RPLjjX), 1977, Prefacio, Capítulos 1 y 2. Traducción en español de Eduardo Alemán.

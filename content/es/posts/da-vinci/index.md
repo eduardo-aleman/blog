@@ -2,6 +2,7 @@
 title: La regla de los árboles de Leonardo da Vinci
 date: 2025-02-01
 draft: false
+math: true
 categories:
 - arte renacentista
 - historia de la ciencia
@@ -11,6 +12,8 @@ tags:
 - biomecánica
 - cuadernos
 - regla de los árboles
+- Christophe Eloy
+- artículo
 description: Exploración de una intuición de Leonardo da Vinci sobre la estructura
   de los árboles, validada cinco siglos después por la biomecánica moderna.
 series:
@@ -32,7 +35,7 @@ Uno de los hallazgos más fascinantes en estos manuscritos aparece en el *Manusc
 
 {{< /imgcenter_caption >}}
 
-Desde una perspectiva moderna, esta regla puede interpretarse en términos matemáticos: el “grosor” al que se refería Leonardo puede entenderse como el **área de sección transversal** de las ramas. La sección transversal de un cilindro (como una rama) se calcula con la fórmula del área del círculo: \( A = \pi r^2 \). Si sumamos las áreas de todas las ramas hijas, estas equivaldrían aproximadamente al área del tronco madre si se cumple la regla. Esta formulación implica una conservación de flujo (de savia, energía o estructura) dentro del árbol.
+Desde una perspectiva moderna, esta regla puede interpretarse en términos matemáticos: el “grosor” al que se refería Leonardo puede entenderse como el **área de sección transversal** de las ramas. La sección transversal de un cilindro (como una rama) se calcula con la fórmula del área del círculo: $A = \pi r^2$. Si sumamos las áreas de todas las ramas hijas, estas equivaldrían aproximadamente al área del tronco madre si se cumple la regla. Esta formulación implica una conservación de flujo (de savia, energía o estructura) dentro del árbol.
 
 Más de cinco siglos después, el físico francés **Christophe Eloy** retomó esta intuición de Leonardo en un artículo publicado en *Physical Review Letters* (2011). Utilizando simulaciones computacionales, Eloy demostró que la regla de los árboles no solo es válida en general, sino que además tiene una función biomecánica crucial: los árboles que respetan dicha proporción son más resistentes a los vientos fuertes, al distribuir mejor las tensiones mecánicas. Puedes consultar el estudio completo [aquí](https://journals.aps.org/prl/issues/107/25).
 

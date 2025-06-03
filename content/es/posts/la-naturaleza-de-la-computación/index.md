@@ -13,6 +13,7 @@ tags:
 - lógica
 - máquinas de Turing
 - conciencia
+- traducción
 ---
 
 ## Capítulo 1

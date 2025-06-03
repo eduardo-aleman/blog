@@ -37,6 +37,13 @@
       <description></description>
     </item>
     <item>
+      <title>Artículo</title>
+      <link>http://localhost:1313/blog/en/categories/art%C3%ADculo/</link>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/en/categories/art%C3%ADculo/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Citizen Science</title>
       <link>http://localhost:1313/blog/en/categories/citizen-science/</link>
       <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
@@ -69,6 +76,13 @@
       <link>http://localhost:1313/blog/en/categories/philology/</link>
       <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/en/categories/philology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Referencia</title>
+      <link>http://localhost:1313/blog/en/categories/referencia/</link>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/en/categories/referencia/</guid>
       <description></description>
     </item>
   </channel>

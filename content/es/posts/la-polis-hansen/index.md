@@ -14,6 +14,7 @@ tags:
 - Grecia
 - ciudad-estado
 - democracia antigua
+- traducción
 ---
 
 ## Para John Crook

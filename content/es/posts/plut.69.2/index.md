@@ -16,6 +16,8 @@ tags:
 - historia
 - Tito Flaminino
 - Grecia
+- artículo
+- manuscritos
 ---
 
 *Plut. 69.2* (Códice Laurentino Plutei 69.2) es un manuscrito griego de la *Historia de la Guerra del Peloponeso* de Tucídides, conservado en la Biblioteca Medicea Laurenziana de Florencia. Copiado alrededor del siglo X, este códice es el manuscrito más antiguo que contiene el texto completo de Tucídides. Debido a su antigüedad, fidelidad y extensas notas marginales, constituye un *testimonio clave* en la transmisión textual de Tucídides.

@@ -22,6 +22,7 @@ tags:
 - identidades
 - números complejos
 - historia de las matemáticas
+- artículo
 ---
 
 *La fórmula más notable en matemáticas*

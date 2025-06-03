@@ -11,6 +11,7 @@ tags:
 - historia
 - estadística
 - ciencias sociales
+- traducción
 ---
 
 ### Introducción

@@ -18,6 +18,7 @@ tags:
 - computación
 - mecánica cuántica
 - neurofisiología
+- artículo
 ---
 La historia de la filosofía es, en buena medida, una meditación continua sobre la pregunta más radical que puede hacerse el ser humano: ¿quién soy yo? Desde las primeras concepciones del alma en la Grecia clásica hasta las modernas teorías de la consciencia en la ciencia cognitiva y la física cuántica, esta cuestión ha adquirido formas conceptuales cada vez más sofisticadas, pero nunca ha dejado de interrogar el misterio de la subjetividad. Este ensayo propone una travesía intelectual que parte de la *psychē* platónica, pasa por la forma sustancial de Aristóteles y el alma teológica de Tomás de Aquino, hasta llegar a las teorías contemporáneas de la consciencia, representadas de manera paradigmática por Roger Penrose.
 

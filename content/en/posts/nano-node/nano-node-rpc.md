@@ -7,6 +7,9 @@ categories:
   - blockchain
   - rpc
   - admin
+  - artículo
+  - referencia
+  - tecnología
 draft: false
 ---
 

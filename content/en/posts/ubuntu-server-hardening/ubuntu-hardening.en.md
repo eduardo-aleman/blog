@@ -2,8 +2,18 @@
 title: "Hardening an Ubuntu Server: Essential Steps"
 date: 2025-05-29
 draft: false
-categories: ["security", "servers", "ubuntu"]
-tags: ["ssh", "ufw", "fail2ban", "security", "linux"]
+categories:
+  - security
+  - servers
+  - ubuntu
+tags: 
+  - ssh
+  - ufw
+  - fail2ban
+  - security
+  - Linux
+  - referencia
+  - tecnología
 description: "Practical guide to securing an Ubuntu server: from disabling root access to setting up reverse ProxyJump and two-factor authentication."
 ---
 

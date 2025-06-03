@@ -13,6 +13,7 @@ tags:
 - filosofía medieval
 - teología
 - Aristóteles
+- traducción
 ---
 
 Fray Tomás de Aquino.  

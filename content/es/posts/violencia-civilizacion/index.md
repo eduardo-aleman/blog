@@ -13,6 +13,7 @@ tags:
 - historia
 - imperios
 - globalización
+- artículo
 series:
 - Violencia y civilización
 description: Una reflexión crítica sobre la guerra desde Alejandro Magno hasta el
