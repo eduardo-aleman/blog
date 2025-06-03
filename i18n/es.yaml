@@ -6,16 +6,16 @@
 
 - id: read_time
   translation:
-    one : "1 min"
-    other: "{{ .Count }} min"
+    one: "1 minuto"
+    other: "{{ .Count }} minutos"
 
 - id: words
   translation:
-    one : "palabra"
+    one: "1 palabra"
     other: "{{ .Count }} palabras"
 
 - id: toc
-  translation: "Tabla de Contenidos"
+  translation: "Tabla de contenidos"
 
 - id: translations
   translation: "Traducciones"
@@ -27,17 +27,18 @@
   translation: "Editar"
 
 - id: code_copy
-  translation: "copiar"
+  translation: "Copiar"
 
 - id: code_copied
-  translation: "¡copiado!"
+  translation: "¡Copiado!"
 
 - id: post
   translation: "Entrada"
 
-  Categories:
-  other: Categorías
-  
-  Tags:
-  other: Etiquetas
+- id: categories
+  translation:
+    other: "Categorías"
 
+- id: tags
+  translation:
+    other: "Etiquetas"

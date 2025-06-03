@@ -6,12 +6,12 @@
 
 - id: read_time
   translation:
-    one : "1 min"
+    one: "1 min"
     other: "{{ .Count }} min"
 
 - id: words
   translation:
-    one : "word"
+    one: "word"
     other: "{{ .Count }} words"
 
 - id: toc
@@ -31,3 +31,14 @@
 
 - id: code_copied
   translation: "copied!"
+
+- id: post
+  translation: "Post"
+
+- id: categories
+  translation:
+    other: "Categories"
+
+- id: tags
+  translation:
+    other: "Tags"

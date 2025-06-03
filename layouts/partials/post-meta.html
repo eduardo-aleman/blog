@@ -1,0 +1,51 @@
+{{- /* Preparar un contenedor temporal */ -}}
+{{- $scratch := newScratch }}
+
+{{- /* Mostrar la fecha de publicación formateada según idioma */ -}}
+{{- if not .Date.IsZero -}}
+  {{- $dateFormat := .Site.Params.dateFormat | default "January 2, 2006" }}
+  {{- $formattedDate := .Date | time.Format $dateFormat }}
+  {{- $scratch.Add "meta" (slice (printf "<span title='%s'>%s</span>" (.Date) $formattedDate)) }}
+{{- end }}
+
+{{- /* Tiempo de lectura, usando traducción si está definida */ -}}
+{{- if (.Param "ShowReadingTime") -}}
+  {{- $reading := i18n "read_time" .ReadingTime | default (printf "%d min" .ReadingTime) }}
+  {{- $scratch.Add "meta" (slice $reading) }}
+{{- end }}
+
+{{- /* Recuento de palabras, usando traducción si está definida */ -}}
+{{- if (.Param "ShowWordCount") -}}
+  {{- $words := i18n "words" .WordCount | default (printf "%d words" .WordCount) }}
+  {{- $scratch.Add "meta" (slice $words) }}
+{{- end }}
+
+{{- /* Autor si no está oculto */ -}}
+{{- if not (.Param "hideAuthor") -}}
+  {{- with (partial "author.html" .) }}
+    {{- $scratch.Add "meta" (slice .) }}
+  {{- end }}
+{{- end }}
+
+{{- /* Imprimir los metadatos separados por · */ -}}
+{{- with ($scratch.Get "meta") }}
+  {{- delimit . "&nbsp;·&nbsp;" | safeHTML }}
+{{- end }}
+
+{{- /* Mostrar traducciones si existen */ -}}
+{{- $currentLang := .Site.Language.Lang }}
+{{- $translations := .Translations }}
+{{- if gt (len $translations) 0 }}
+  {{- $links := slice }}
+  {{- range $translations }}
+    {{- if ne .Lang $currentLang }}
+      {{- $name := .Language.LanguageName }}
+      {{- $link := printf `<a class="meta-link" href="%s">%s</a>` .RelPermalink $name }}
+      {{- $links = $links | append $link }}
+    {{- end }}
+  {{- end }}
+  {{- if gt (len $links) 0 }}
+    &nbsp;·&nbsp;{{ delimit $links ", " | safeHTML }}
+  {{- end }}
+{{- end }}
+

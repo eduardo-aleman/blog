@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/blog/es/</loc>
-    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -13,6 +13,90 @@
                 rel="alternate"
                 hreflang="es"
                 href="http://localhost:1313/blog/es/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/blog/es/posts/xml-markdown-html/</loc>
+    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/en/posts/xml-markdown-html/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/posts/xml-markdown-html/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/blog/es/tags/html/</loc>
+    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/en/tags/html/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/tags/html/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/blog/es/tags/humanidades-digitales/</loc>
+    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/es/tags/markdown/</loc>
+    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/en/tags/markdown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/tags/markdown/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/blog/es/posts/</loc>
+    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/posts/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/blog/es/tags/</loc>
+    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/blog/es/tags/transformaciones/</loc>
+    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/es/tags/xml/</loc>
+    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/en/tags/xml/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/tags/xml/"
                 />
   </url><url>
     <loc>http://localhost:1313/blog/es/categories/</loc>
@@ -57,19 +141,6 @@
                 href="http://localhost:1313/blog/es/tags/linux/"
                 />
   </url><url>
-    <loc>http://localhost:1313/blog/es/posts/</loc>
-    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/blog/es/posts/"
-                />
-  </url><url>
     <loc>http://localhost:1313/blog/es/tags/referencia/</loc>
     <lastmod>2025-05-29T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -103,19 +174,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="http://localhost:1313/blog/es/tags/ssh/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/blog/es/tags/</loc>
-    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/blog/es/tags/"
                 />
   </url><url>
     <loc>http://localhost:1313/blog/es/tags/tecnolog%C3%ADa/</loc>

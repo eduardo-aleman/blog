@@ -6,8 +6,43 @@
     <description>Recent content in Tags on Eduardo Alemán’s Blog</description>
     <generator>Hugo -- 0.147.7</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Conversions</title>
+      <link>http://localhost:1313/blog/en/tags/conversions/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/en/tags/conversions/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digital Humanities</title>
+      <link>http://localhost:1313/blog/en/tags/digital-humanities/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/en/tags/digital-humanities/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Html</title>
+      <link>http://localhost:1313/blog/en/tags/html/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/en/tags/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>http://localhost:1313/blog/en/tags/markdown/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/en/tags/markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Xml</title>
+      <link>http://localhost:1313/blog/en/tags/xml/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/en/tags/xml/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Fail2ban</title>
       <link>http://localhost:1313/blog/en/tags/fail2ban/</link>

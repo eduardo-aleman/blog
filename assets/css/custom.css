@@ -1,0 +1,10 @@
+.meta-link {
+  color: var(--theme-meta-text, #6c757d);
+  font-size: 0.875em;
+  font-weight: normal;
+  text-decoration: none;
+}
+
+.meta-link:hover {
+  text-decoration: underline;
+}
