@@ -6,11 +6,6 @@ description: Exploración del giro ontológico de Heidegger hacia un pensar no m
 categories:
 - Filosofía
 - Artículo
-cover:
-  image: pensar-del-ser.webp
-  alt: Imagen conceptual del pensar del ser en Heidegger
-  caption: Una figura solitaria frente a una apertura luminosa — evocación visual
-    del acontecimiento del ser (*Ereignis*)
 draft: false
 tags:
 - Heidegger
