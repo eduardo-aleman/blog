@@ -9,11 +9,11 @@ draft: false
 type: posts
 tags:
 - Herman Hansen
-- polis
+- Polis
 - Grecia
-- ciudad-estado
-- democracia antigua
-- traducción
+- Ciudad-estado
+- Democracia antigua
+- Traducción
 ---
 
 ## Para John Crook
