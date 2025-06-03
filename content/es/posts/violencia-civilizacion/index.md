@@ -3,17 +3,15 @@ title: 'De Alejandro a Ucrania: los trabajos de la guerra y la ilusión de la co
 date: 2025-04-11
 draft: false
 categories:
-- geopolítica
-- historia
-- ensayos
+- Historia
+- Artículo
 tags:
-- guerra
+- Guerra
 - Alejandro Magno
 - Ucrania
-- historia
-- imperios
-- globalización
-- artículo
+- Geopolítica
+- Imperialismo
+- Globalización
 series:
 - Violencia y civilización
 description: Una reflexión crítica sobre la guerra desde Alejandro Magno hasta el
