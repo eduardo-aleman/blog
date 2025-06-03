@@ -17,7 +17,6 @@ taxonomies:
   series: series
   search: search
   archive: archives
-  buscar: buscar
 
 markup:
   goldmark:

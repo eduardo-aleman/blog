@@ -285,18 +285,6 @@
                 href="http://localhost:1313/blog/en/archives/"
                 />
   </url><url>
-    <loc>http://localhost:1313/blog/en/buscar/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/blog/es/buscar/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/en/buscar/"
-                />
-  </url><url>
     <loc>http://localhost:1313/blog/en/search/</loc>
     <xhtml:link
                 rel="alternate"
