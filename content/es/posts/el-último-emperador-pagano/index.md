@@ -2,18 +2,15 @@
 title: El último emperador pagano (H. C. Teitler).
 date: '2024-04-16'
 categories:
-- historia
-- Roma
-- emperadores
+- Traducciones
 draft: false
 type: posts
 tags:
 - Juliano
-- paganismo
+- Paganismo
 - Roma
-- imperio tardío
-- cristianismo
-- traducción
+- Imperio tardío
+- Cristianismo
 ---
 
 ### Introducción

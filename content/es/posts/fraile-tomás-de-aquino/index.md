@@ -2,18 +2,16 @@
 title: Fray Tomás de Aquino (Jaime A. Weisheipl).
 date: '2024-06-14'
 categories:
-- filosofía
-- medioevo
-- teología
+- Filosofía
+- Traducción
 draft: false
 type: posts
 tags:
 - Tomás de Aquino
 - Escolástica
-- filosofía medieval
-- teología
+- Filosofía medieval
+- Teología
 - Aristóteles
-- traducción
 ---
 
 Fray Tomás de Aquino.  

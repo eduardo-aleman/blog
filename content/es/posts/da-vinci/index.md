@@ -4,16 +4,16 @@ date: 2025-02-01
 draft: false
 math: true
 categories:
-- arte renacentista
-- historia de la ciencia
+- Artículo
+- Genios
 tags:
 - Leonardo da Vinci
-- botánica
-- biomecánica
-- cuadernos
-- regla de los árboles
+- Botánica
+- Biomecánica
+- Cuadernos
+- Regla de los árboles
 - Christophe Eloy
-- artículo
+- Arte renacentista
 description: Exploración de una intuición de Leonardo da Vinci sobre la estructura
   de los árboles, validada cinco siglos después por la biomecánica moderna.
 series:

@@ -141,26 +141,23 @@
                 href="http://localhost:1313/blog/es/tags/linux/"
                 />
   </url><url>
-    <loc>http://localhost:1313/blog/es/tags/referencia/</loc>
+    <loc>http://localhost:1313/blog/es/categories/referencia/</loc>
     <lastmod>2025-05-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/blog/en/tags/referencia/"
+                href="http://localhost:1313/blog/en/categories/referencia/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/blog/es/tags/referencia/"
+                href="http://localhost:1313/blog/es/categories/referencia/"
                 />
   </url><url>
     <loc>http://localhost:1313/blog/es/categories/seguridad/</loc>
     <lastmod>2025-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/es/tags/seguridad/</loc>
-    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/es/categories/servidores/</loc>
+    <loc>http://localhost:1313/blog/es/tags/servidores/</loc>
     <lastmod>2025-05-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/tags/ssh/</loc>
@@ -176,31 +173,11 @@
                 href="http://localhost:1313/blog/es/tags/ssh/"
                 />
   </url><url>
-    <loc>http://localhost:1313/blog/es/tags/tecnolog%C3%ADa/</loc>
+    <loc>http://localhost:1313/blog/es/categories/tecnolog%C3%ADa/</loc>
     <lastmod>2025-05-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/en/tags/tecnolog%C3%ADa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/blog/es/tags/tecnolog%C3%ADa/"
-                />
   </url><url>
-    <loc>http://localhost:1313/blog/es/categories/ubuntu/</loc>
+    <loc>http://localhost:1313/blog/es/tags/ubuntu/</loc>
     <lastmod>2025-05-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/en/categories/ubuntu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/blog/es/categories/ubuntu/"
-                />
   </url><url>
     <loc>http://localhost:1313/blog/es/tags/ufw/</loc>
     <lastmod>2025-05-29T00:00:00+00:00</lastmod>
@@ -215,9 +192,6 @@
                 href="http://localhost:1313/blog/es/tags/ufw/"
                 />
   </url><url>
-    <loc>http://localhost:1313/blog/es/categories/blockchain/</loc>
-    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/es/tags/blockchain/</loc>
     <lastmod>2025-05-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -230,9 +204,6 @@
     <loc>http://localhost:1313/blog/es/tags/docker/</loc>
     <lastmod>2025-05-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/es/categories/nano/</loc>
-    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/es/tags/nano/</loc>
     <lastmod>2025-05-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -242,16 +213,20 @@
     <loc>http://localhost:1313/blog/es/tags/rpc/</loc>
     <lastmod>2025-05-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/es/categories/antig%C3%BCedad/</loc>
+    <loc>http://localhost:1313/blog/es/categories/art%C3%ADculo/</loc>
     <lastmod>2025-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/es/tags/art%C3%ADculo/</loc>
-    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/en/categories/art%C3%ADculo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/categories/art%C3%ADculo/"
+                />
   </url><url>
     <loc>http://localhost:1313/blog/es/tags/biograf%C3%ADa/</loc>
-    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/es/categories/grecia/</loc>
     <lastmod>2025-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/tags/grecia/</loc>
@@ -261,6 +236,9 @@
     <lastmod>2025-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/tags/historia/</loc>
+    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/es/categories/manuscritos/</loc>
     <lastmod>2025-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/tags/manuscritos/</loc>
@@ -275,9 +253,6 @@
     <loc>http://localhost:1313/blog/es/tags/tito-flaminino/</loc>
     <lastmod>2025-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/es/categories/computaci%C3%B3n/</loc>
-    <lastmod>2025-04-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/es/tags/computaci%C3%B3n/</loc>
     <lastmod>2025-04-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -287,19 +262,19 @@
     <loc>http://localhost:1313/blog/es/posts/la-naturaleza-de-la-computaci%C3%B3n/</loc>
     <lastmod>2025-04-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/es/categories/l%C3%B3gica/</loc>
-    <lastmod>2025-04-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/es/tags/l%C3%B3gica/</loc>
     <lastmod>2025-04-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/tags/m%C3%A1quinas-de-turing/</loc>
     <lastmod>2025-04-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/es/tags/traducci%C3%B3n/</loc>
+    <loc>http://localhost:1313/blog/es/categories/traducci%C3%B3n/</loc>
     <lastmod>2025-04-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/tags/alejandro-magno/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/es/tags/art%C3%ADculo/</loc>
     <lastmod>2025-04-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/posts/violencia-civilizacion/</loc>
@@ -339,10 +314,10 @@
     <loc>http://localhost:1313/blog/es/series/violencia-y-civilizaci%C3%B3n/</loc>
     <lastmod>2025-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/es/categories/euler/</loc>
+    <loc>http://localhost:1313/blog/es/tags/euler/</loc>
     <lastmod>2025-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/es/tags/euler/</loc>
+    <loc>http://localhost:1313/blog/es/categories/genios/</loc>
     <lastmod>2025-04-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/tags/historia-de-las-matem%C3%A1ticas/</loc>
@@ -378,17 +353,11 @@
     <loc>http://localhost:1313/blog/es/tags/heidegger/</loc>
     <lastmod>2025-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/es/categories/ontolog%C3%ADa/</loc>
-    <lastmod>2025-03-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/es/tags/ontolog%C3%ADa/</loc>
     <lastmod>2025-03-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/tags/ser/</loc>
     <lastmod>2025-03-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/es/categories/consciencia/</loc>
-    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/posts/de-platon-a-penrose/</loc>
     <lastmod>2025-03-15T00:00:00+00:00</lastmod>
@@ -408,7 +377,7 @@
     <loc>http://localhost:1313/blog/es/tags/platonismo/</loc>
     <lastmod>2025-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/es/categories/arte-renacentista/</loc>
+    <loc>http://localhost:1313/blog/es/tags/arte-renacentista/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/tags/biomec%C3%A1nica/</loc>
@@ -423,9 +392,6 @@
     <loc>http://localhost:1313/blog/es/tags/cuadernos/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/es/categories/historia-de-la-ciencia/</loc>
-    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/es/posts/da-vinci/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -438,7 +404,10 @@
     <loc>http://localhost:1313/blog/es/tags/anarquismo/</loc>
     <lastmod>2024-07-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/es/categories/antropolog%C3%ADa/</loc>
+    <loc>http://localhost:1313/blog/es/tags/antropolog%C3%ADa/</loc>
+    <lastmod>2024-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/es/tags/arqueolog%C3%ADa/</loc>
     <lastmod>2024-07-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/tags/david-graeber/</loc>
@@ -447,13 +416,13 @@
     <loc>http://localhost:1313/blog/es/tags/david-wengrow/</loc>
     <lastmod>2024-07-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/es/tags/notas/</loc>
+    <loc>http://localhost:1313/blog/es/categories/notas/</loc>
     <lastmod>2024-07-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/tags/prehistoria/</loc>
     <lastmod>2024-07-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/es/tags/resumen/</loc>
+    <loc>http://localhost:1313/blog/es/categories/resumen/</loc>
     <lastmod>2024-07-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/posts/amanecer-de-todo/</loc>
@@ -471,16 +440,13 @@
     <loc>http://localhost:1313/blog/es/posts/la-polis-hansen/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/es/categories/polis/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/es/tags/polis/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/es/tags/ciencias-sociales/</loc>
-    <lastmod>2024-07-04T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/blog/es/tags/traducci%C3%B3n/</loc>
+    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/es/categories/cristianismo/</loc>
+    <loc>http://localhost:1313/blog/es/tags/ciencias-sociales/</loc>
     <lastmod>2024-07-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/tags/cristianismo/</loc>
@@ -489,10 +455,10 @@
     <loc>http://localhost:1313/blog/es/posts/el-n%C3%BAmero-cristiano-y-sus-implicaciones/</loc>
     <lastmod>2024-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/es/tags/estad%C3%ADstica/</loc>
+    <loc>http://localhost:1313/blog/es/tags/estad%C3%ADstica-temprano/</loc>
     <lastmod>2024-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/es/categories/historia-de-las-ideas/</loc>
+    <loc>http://localhost:1313/blog/es/categories/traducciones/</loc>
     <lastmod>2024-07-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/tags/academia/</loc>
@@ -510,9 +476,6 @@
     <loc>http://localhost:1313/blog/es/posts/interpretando-a-plat%C3%B3n/</loc>
     <lastmod>2024-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/es/categories/plat%C3%B3n/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/es/tags/plat%C3%B3n/</loc>
     <lastmod>2024-07-03T00:00:00+00:00</lastmod>
   </url><url>
@@ -528,28 +491,22 @@
     <loc>http://localhost:1313/blog/es/posts/fraile-tom%C3%A1s-de-aquino/</loc>
     <lastmod>2024-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/es/categories/medioevo/</loc>
-    <lastmod>2024-06-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/es/categories/teolog%C3%ADa/</loc>
-    <lastmod>2024-06-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/es/tags/teolog%C3%ADa/</loc>
     <lastmod>2024-06-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/tags/tom%C3%A1s-de-aquino/</loc>
     <lastmod>2024-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/es/categories/anales/</loc>
-    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/es/tags/anales/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/es/tags/estructura/</loc>
+    <loc>http://localhost:1313/blog/es/tags/estructura-literaria/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/es/tags/historiograf%C3%ADa-romana/</loc>
+    <loc>http://localhost:1313/blog/es/tags/historia-romana/</loc>
+    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/es/categories/historiograf%C3%ADa/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/posts/xxi-la-estructura-de-los-anales/</loc>
@@ -558,19 +515,13 @@
     <loc>http://localhost:1313/blog/es/tags/roma/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/es/categories/t%C3%A1cito/</loc>
+    <loc>http://localhost:1313/blog/es/tags/ronald-syme/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/tags/t%C3%A1cito/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/es/categories/bizancio/</loc>
-    <lastmod>2024-04-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/es/posts/el-%C3%BAltimo-emperador-pagano/</loc>
-    <lastmod>2024-04-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/es/categories/emperadores/</loc>
     <lastmod>2024-04-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/tags/historia-bizantina/</loc>
@@ -591,16 +542,10 @@
     <loc>http://localhost:1313/blog/es/tags/paganismo/</loc>
     <lastmod>2024-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/es/categories/procopio/</loc>
-    <lastmod>2024-04-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/es/tags/procopio/</loc>
     <lastmod>2024-04-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/posts/procopio-y-el-siglo-sexto/</loc>
-    <lastmod>2024-04-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/es/categories/roma/</loc>
     <lastmod>2024-04-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/tags/siglo-vi/</loc>

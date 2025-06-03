@@ -3,9 +3,8 @@ title: 'La Polis: Una introducción a la antigua ciudad-estado griega (Herman Ha
   De Mogen).'
 date: '2024-07-12'
 categories:
-- historia
-- Grecia
-- polis
+- Historia
+- Traducción
 draft: false
 type: posts
 tags:

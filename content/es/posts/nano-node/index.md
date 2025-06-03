@@ -4,8 +4,8 @@ description: Resumen de acciones disponibles mediante la API JSON-RPC en un nodo
   autoalojado.
 date: 2025-05-27
 categories:
-- nano
-- blockchain
+- Tecnología
+- Referencia
 draft: false
 tags:
 - nano
@@ -14,8 +14,6 @@ tags:
 - criptomonedas
 - nodo
 - docker
-- tecnología
-- referencia
 ---
 
 Una vez que el nodo Nano está en ejecución y el puerto `7076` habilitado, es posible interactuar con él mediante peticiones HTTP POST usando el protocolo JSON-RPC. A continuación, se presenta una colección de comandos útiles organizados por temática, con ejemplos comentados y listos para copiar.

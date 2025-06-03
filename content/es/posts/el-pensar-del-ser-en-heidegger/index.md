@@ -4,8 +4,8 @@ date: 2025-03-27
 description: Exploración del giro ontológico de Heidegger hacia un pensar no metafísico
   y poético del ser.
 categories:
-- filosofía
-- ontología
+- Filosofía
+- Artículo
 cover:
   image: pensar-del-ser.webp
   alt: Imagen conceptual del pensar del ser en Heidegger
@@ -14,11 +14,10 @@ cover:
 draft: false
 tags:
 - Heidegger
-- ontología
-- ser
-- filosofía continental
-- existencia
-- artículo
+- Ontología
+- Ser
+- Filosofía continental
+- Existencia
 ---
 
 **I. Del ser como objeto al ser como acontecimiento**

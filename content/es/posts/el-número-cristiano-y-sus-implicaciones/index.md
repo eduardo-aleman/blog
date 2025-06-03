@@ -2,16 +2,14 @@
 title: El número cristiano y sus implicaciones (Keith Hopkins).
 date: '2024-07-04'
 categories:
-- cristianismo
-- historia de las ideas
+- Traducciones
+- Historia
 draft: false
 type: posts
 tags:
-- cristianismo
-- historia
-- estadística
-- ciencias sociales
-- traducción
+- Cristianismo
+- Estadística temprano
+- Ciencias sociales
 ---
 
 ### Introducción

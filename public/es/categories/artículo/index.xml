@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Artículo on Blog de Eduardo Alemán</title>
+    <link>http://localhost:1313/blog/es/categories/art%C3%ADculo/</link>
+    <description>Recent content in Artículo on Blog de Eduardo Alemán</description>
+    <generator>Hugo -- 0.147.7</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 27 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/es/categories/art%C3%ADculo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Plut. 69.2 y la transmisión del texto de Tucídides</title>
+      <link>http://localhost:1313/blog/es/posts/plut.69.2/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/posts/plut.69.2/</guid>
+      <description>Un análisis detallado del manuscrito Plut. 69.2 y su rol fundamental en la preservación y transmisión de la Historia de la Guerra del Peloponeso de Tucídides.</description>
+    </item>
+    <item>
+      <title>La identidad de Euler</title>
+      <link>http://localhost:1313/blog/es/posts/identidad-de-euler/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/posts/identidad-de-euler/</guid>
+      <description>Un recorrido por la célebre identidad de Euler, sus orígenes en el interés compuesto, su relación con el número e y su belleza en el contexto de las funciones trigonométricas y los números complejos.</description>
+    </item>
+    <item>
+      <title>El pensar del ser en Heidegger</title>
+      <link>http://localhost:1313/blog/es/posts/el-pensar-del-ser-en-heidegger/</link>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/posts/el-pensar-del-ser-en-heidegger/</guid>
+      <description>Exploración del giro ontológico de Heidegger hacia un pensar no metafísico y poético del ser.</description>
+    </item>
+    <item>
+      <title>De Platón a Penrose: una historia intelectual del alma y la consciencia</title>
+      <link>http://localhost:1313/blog/es/posts/de-platon-a-penrose/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/posts/de-platon-a-penrose/</guid>
+      <description>De Platón a Penrose: una historia intelectual del alma y la consciencia.</description>
+    </item>
+    <item>
+      <title>La regla de los árboles de Leonardo da Vinci</title>
+      <link>http://localhost:1313/blog/es/posts/da-vinci/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/posts/da-vinci/</guid>
+      <description>Exploración de una intuición de Leonardo da Vinci sobre la estructura de los árboles, validada cinco siglos después por la biomecánica moderna.</description>
+    </item>
+  </channel>
+</rss>

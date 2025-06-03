@@ -14,15 +14,15 @@ cover:
   hidden: false
 draft: false
 categories:
-- Euler
-- matemáticas
+- Genios
+- Matemáticas
+- Artículo
 tags:
 - Euler
-- matemáticas
-- identidades
-- números complejos
-- historia de las matemáticas
-- artículo
+- Matemáticas
+- Identidades
+- Números complejos
+- Historia de las matemáticas
 ---
 
 *La fórmula más notable en matemáticas*

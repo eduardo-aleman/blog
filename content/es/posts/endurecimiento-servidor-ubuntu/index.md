@@ -4,17 +4,16 @@ title: "Endurecimiento de un servidor Ubuntu: pasos esenciales"
 date: 2025-05-29
 draft: false
 categories:
-  - seguridad
-  - servidores
-  - ubuntu
+  - Seguridad
+  - Tecnología 
+  - Referencia
 tags: 
-  - ssh 
-  - ufw 
-  - fail2ban
-  - seguridad 
+  - SSH
+  - UFW 
+  - Fail2Ban
   - Linux 
-  - tecnología 
-  - referencia
+  - Servidores
+  - Ubuntu
 description: "Guía práctica para asegurar un servidor Ubuntu: desde deshabilitar el acceso root hasta configurar un ProxyJump reverso y autenticación en dos pasos."
 ---
 

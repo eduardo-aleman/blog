@@ -4,9 +4,9 @@ date: 2025-04-27
 description: Un análisis detallado del manuscrito Plut. 69.2 y su rol fundamental
   en la preservación y transmisión de la Historia de la Guerra del Peloponeso de Tucídides.
 categories:
-- historia
-- Grecia
-- antigüedad
+- Historia
+- Manuscritos
+- Artículo
 cover:
   image: carta_2r.webp
   alt: Folio del manuscrito Plut. 69.2 de Tucídides
@@ -16,7 +16,6 @@ tags:
 - historia
 - Tito Flaminino
 - Grecia
-- artículo
 - manuscritos
 ---
 

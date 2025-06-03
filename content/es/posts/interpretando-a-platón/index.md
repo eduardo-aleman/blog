@@ -13,8 +13,8 @@ cover:
     Malibú, California, 73.AA.16.'
   relative: false
 categories:
-- filosofía
-- Platón
+- Filosofía
+- Traducciones
 description: El presente estudio es una continuación y, de cierta forma, la conclusión
   de dos estudios anteriores, Plato’s Idea of Poetical Inspiration y The Decline and
   Fall of the Neoplatonic Interpretation of Plato. Estaba listo para ser impreso en
@@ -26,10 +26,9 @@ description: El presente estudio es una continuación y, de cierta forma, la con
 tags:
 - Platón
 - filosofía antigua
-- interpretación
-- idealismo
+- Interpretación
+- Idealismo
 - Academia
-- artículo
 ---
 
 Tigerstedt, E. N., [Interpreting Plato](https://amzn.to/3RPLjjX), 1977, Prefacio, Capítulos 1 y 2. Traducción en español de Eduardo Alemán.

@@ -44,7 +44,7 @@
       <description></description>
     </item>
     <item>
-      <title>Fail2ban</title>
+      <title>Fail2Ban</title>
       <link>http://localhost:1313/blog/es/tags/fail2ban/</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/es/tags/fail2ban/</guid>
@@ -58,35 +58,28 @@
       <description></description>
     </item>
     <item>
-      <title>Referencia</title>
-      <link>http://localhost:1313/blog/es/tags/referencia/</link>
+      <title>Servidores</title>
+      <link>http://localhost:1313/blog/es/tags/servidores/</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/es/tags/referencia/</guid>
+      <guid>http://localhost:1313/blog/es/tags/servidores/</guid>
       <description></description>
     </item>
     <item>
-      <title>Seguridad</title>
-      <link>http://localhost:1313/blog/es/tags/seguridad/</link>
-      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/es/tags/seguridad/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ssh</title>
+      <title>SSH</title>
       <link>http://localhost:1313/blog/es/tags/ssh/</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/es/tags/ssh/</guid>
       <description></description>
     </item>
     <item>
-      <title>Tecnología</title>
-      <link>http://localhost:1313/blog/es/tags/tecnolog%C3%ADa/</link>
+      <title>Ubuntu</title>
+      <link>http://localhost:1313/blog/es/tags/ubuntu/</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/es/tags/tecnolog%C3%ADa/</guid>
+      <guid>http://localhost:1313/blog/es/tags/ubuntu/</guid>
       <description></description>
     </item>
     <item>
-      <title>Ufw</title>
+      <title>UFW</title>
       <link>http://localhost:1313/blog/es/tags/ufw/</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/es/tags/ufw/</guid>
@@ -132,13 +125,6 @@
       <link>http://localhost:1313/blog/es/tags/rpc/</link>
       <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/es/tags/rpc/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Artículo</title>
-      <link>http://localhost:1313/blog/es/tags/art%C3%ADculo/</link>
-      <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/es/tags/art%C3%ADculo/</guid>
       <description></description>
     </item>
     <item>
@@ -212,17 +198,17 @@
       <description></description>
     </item>
     <item>
-      <title>Traducción</title>
-      <link>http://localhost:1313/blog/es/tags/traducci%C3%B3n/</link>
-      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/es/tags/traducci%C3%B3n/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Alejandro Magno</title>
       <link>http://localhost:1313/blog/es/tags/alejandro-magno/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/es/tags/alejandro-magno/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Artículo</title>
+      <link>http://localhost:1313/blog/es/tags/art%C3%ADculo/</link>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/tags/art%C3%ADculo/</guid>
       <description></description>
     </item>
     <item>
@@ -359,6 +345,13 @@
       <description></description>
     </item>
     <item>
+      <title>Arte Renacentista</title>
+      <link>http://localhost:1313/blog/es/tags/arte-renacentista/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/tags/arte-renacentista/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Biomecánica</title>
       <link>http://localhost:1313/blog/es/tags/biomec%C3%A1nica/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
@@ -408,6 +401,20 @@
       <description></description>
     </item>
     <item>
+      <title>Antropología</title>
+      <link>http://localhost:1313/blog/es/tags/antropolog%C3%ADa/</link>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/tags/antropolog%C3%ADa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Arqueología</title>
+      <link>http://localhost:1313/blog/es/tags/arqueolog%C3%ADa/</link>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/tags/arqueolog%C3%ADa/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>David Graeber</title>
       <link>http://localhost:1313/blog/es/tags/david-graeber/</link>
       <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
@@ -422,24 +429,10 @@
       <description></description>
     </item>
     <item>
-      <title>Notas</title>
-      <link>http://localhost:1313/blog/es/tags/notas/</link>
-      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/es/tags/notas/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Prehistoria</title>
       <link>http://localhost:1313/blog/es/tags/prehistoria/</link>
       <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/es/tags/prehistoria/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Resumen</title>
-      <link>http://localhost:1313/blog/es/tags/resumen/</link>
-      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/es/tags/resumen/</guid>
       <description></description>
     </item>
     <item>
@@ -471,6 +464,13 @@
       <description></description>
     </item>
     <item>
+      <title>Traducción</title>
+      <link>http://localhost:1313/blog/es/tags/traducci%C3%B3n/</link>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/tags/traducci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Ciencias Sociales</title>
       <link>http://localhost:1313/blog/es/tags/ciencias-sociales/</link>
       <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
@@ -485,10 +485,10 @@
       <description></description>
     </item>
     <item>
-      <title>Estadística</title>
-      <link>http://localhost:1313/blog/es/tags/estad%C3%ADstica/</link>
+      <title>Estadística Temprano</title>
+      <link>http://localhost:1313/blog/es/tags/estad%C3%ADstica-temprano/</link>
       <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/es/tags/estad%C3%ADstica/</guid>
+      <guid>http://localhost:1313/blog/es/tags/estad%C3%ADstica-temprano/</guid>
       <description></description>
     </item>
     <item>
@@ -569,17 +569,17 @@
       <description></description>
     </item>
     <item>
-      <title>Estructura</title>
-      <link>http://localhost:1313/blog/es/tags/estructura/</link>
+      <title>Estructura Literaria</title>
+      <link>http://localhost:1313/blog/es/tags/estructura-literaria/</link>
       <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/es/tags/estructura/</guid>
+      <guid>http://localhost:1313/blog/es/tags/estructura-literaria/</guid>
       <description></description>
     </item>
     <item>
-      <title>Historiografía Romana</title>
-      <link>http://localhost:1313/blog/es/tags/historiograf%C3%ADa-romana/</link>
+      <title>Historia Romana</title>
+      <link>http://localhost:1313/blog/es/tags/historia-romana/</link>
       <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/es/tags/historiograf%C3%ADa-romana/</guid>
+      <guid>http://localhost:1313/blog/es/tags/historia-romana/</guid>
       <description></description>
     </item>
     <item>
@@ -587,6 +587,13 @@
       <link>http://localhost:1313/blog/es/tags/roma/</link>
       <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/es/tags/roma/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ronald Syme</title>
+      <link>http://localhost:1313/blog/es/tags/ronald-syme/</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/tags/ronald-syme/</guid>
       <description></description>
     </item>
     <item>

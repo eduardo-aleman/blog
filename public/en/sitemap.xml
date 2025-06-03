@@ -143,16 +143,6 @@
   </url><url>
     <loc>http://localhost:1313/blog/en/tags/referencia/</loc>
     <lastmod>2025-05-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/blog/es/tags/referencia/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/en/tags/referencia/"
-                />
   </url><url>
     <loc>http://localhost:1313/blog/en/categories/security/</loc>
     <lastmod>2025-05-29T00:00:00+00:00</lastmod>
@@ -178,29 +168,9 @@
   </url><url>
     <loc>http://localhost:1313/blog/en/tags/tecnolog%C3%ADa/</loc>
     <lastmod>2025-05-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/blog/es/tags/tecnolog%C3%ADa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/en/tags/tecnolog%C3%ADa/"
-                />
   </url><url>
     <loc>http://localhost:1313/blog/en/categories/ubuntu/</loc>
     <lastmod>2025-05-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/blog/es/categories/ubuntu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/en/categories/ubuntu/"
-                />
   </url><url>
     <loc>http://localhost:1313/blog/en/tags/ufw/</loc>
     <lastmod>2025-05-29T00:00:00+00:00</lastmod>
@@ -220,6 +190,16 @@
   </url><url>
     <loc>http://localhost:1313/blog/en/categories/art%C3%ADculo/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/categories/art%C3%ADculo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/en/categories/art%C3%ADculo/"
+                />
   </url><url>
     <loc>http://localhost:1313/blog/en/categories/citizen-science/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
@@ -238,6 +218,16 @@
   </url><url>
     <loc>http://localhost:1313/blog/en/categories/referencia/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/categories/referencia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/en/categories/referencia/"
+                />
   </url><url>
     <loc>http://localhost:1313/blog/en/posts/digital-humanities/digital-humanities/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>

@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
 <title>Endurecimiento de un servidor Ubuntu: pasos esenciales | Blog de Eduardo Alemán</title>
-<meta name="keywords" content="ssh, ufw, fail2ban, seguridad, Linux, tecnología, referencia">
+<meta name="keywords" content="SSH, UFW, Fail2Ban, Linux, Servidores, Ubuntu">
 <meta name="description" content="Guía práctica para asegurar un servidor Ubuntu: desde deshabilitar el acceso root hasta configurar un ProxyJump reverso y autenticación en dos pasos.">
 <meta name="author" content="">
 <link rel="canonical" href="http://localhost:1313/blog/es/posts/endurecimiento-servidor-ubuntu/">
@@ -72,12 +72,12 @@
     <meta property="article:section" content="posts">
     <meta property="article:published_time" content="2025-05-29T00:00:00+00:00">
     <meta property="article:modified_time" content="2025-05-29T00:00:00+00:00">
-    <meta property="article:tag" content="Ssh">
-    <meta property="article:tag" content="Ufw">
-    <meta property="article:tag" content="Fail2ban">
-    <meta property="article:tag" content="Seguridad">
+    <meta property="article:tag" content="SSH">
+    <meta property="article:tag" content="UFW">
+    <meta property="article:tag" content="Fail2Ban">
     <meta property="article:tag" content="Linux">
-    <meta property="article:tag" content="Tecnología">
+    <meta property="article:tag" content="Servidores">
+    <meta property="article:tag" content="Ubuntu">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Endurecimiento de un servidor Ubuntu: pasos esenciales">
 <meta name="twitter:description" content="Guía práctica para asegurar un servidor Ubuntu: desde deshabilitar el acceso root hasta configurar un ProxyJump reverso y autenticación en dos pasos.">
@@ -111,7 +111,7 @@
   "name": "Endurecimiento de un servidor Ubuntu: pasos esenciales",
   "description": "Guía práctica para asegurar un servidor Ubuntu: desde deshabilitar el acceso root hasta configurar un ProxyJump reverso y autenticación en dos pasos.",
   "keywords": [
-    "ssh", "ufw", "fail2ban", "seguridad", "Linux", "tecnología", "referencia"
+    "SSH", "UFW", "Fail2Ban", "Linux", "Servidores", "Ubuntu"
   ],
   "articleBody": "El endurecimiento de un servidor Ubuntu es una práctica esencial para asegurar cualquier infraestructura expuesta a Internet. A continuación se detallan los pasos fundamentales para aumentar la seguridad, con una tabla-resumen de efectos por cada configuración aplicada.\n🔐 Paso 1: Crear un usuario seguro y usar llaves SSH Deshabilitar el acceso directo del usuario root y utilizar un usuario limitado con llaves SSH mejora la trazabilidad y elimina uno de los vectores de ataque más comunes.\n# Crear y asignar usuario al grupo sudo adduser secureuser usermod -aG sudo secureuser Luego, copiar tu llave pública al servidor:\n# SSH command ssh-copy-id secureuser@tu-servidor 🔐 Paso 2: Deshabilitar el acceso SSH para root Editar el archivo /etc/ssh/sshd_config:\n# Comando PermitRootLogin no 🔐 Paso 3: Deshabilitar autenticación por contraseña Para forzar el uso de llaves SSH:\n# Comando PasswordAuthentication no Recuerda reiniciar el servicio:\n# SSH command sudo systemctl restart ssh 🔁 Paso 4: Configurar actualizaciones automáticas de seguridad Instala y configura:\n# Instalar actualizaciones automáticas de seguridad sudo apt install unattended-upgrades sudo dpkg-reconfigure --priority=low unattended-upgrades Esto garantiza que tu sistema reciba parches de seguridad sin intervención manual.\n📦 Paso 5: Instalar fail2ban Fail2ban bloquea IPs que realizan intentos de fuerza bruta contra servicios como SSH:\n# Configurar fail2ban para proteger el servicio SSH sudo apt install fail2ban sudo systemctl enable --now fail2ban Para un jail básico de SSH:\n# /etc/fail2ban/jail.local [sshd] enabled = true 🔄 Paso 6: Configurar SSH ProxyJump reverso (bastión) Desde tu máquina local (por ejemplo, tu Mac), puedes configurar ~/.ssh/config para acceder al servidor privado a través de un bastión:\nHost nodo-privado HostName 10.0.0.3 User secureuser ProxyJump bastion Host bastion HostName 123.456.789.000 User secureuser 📊 Paso 7: Monitoreo con Uptime Kuma Uptime Kuma es una herramienta moderna de monitoreo de disponibilidad con dashboard web:\n# Ejecutar contenedor de Uptime Kuma docker run -d --restart=always -p 3001:3001 \\ -v uptime-kuma:/app/data --name uptime kuma uptimekuma/uptime-kuma Accede a http://tu-ip:3001 para configurarlo.\n📜 Paso 8: Script para rotar llaves SSH Crea un script en /usr/local/bin/rotate_ssh.sh:\n#!/bin/bash USER=\"secureuser\" KEY_DIR=\"/home/$USER/.ssh\" NEW_KEY=\"$KEY_DIR/id_ed25519_new\" ssh-keygen -t ed25519 -f \"$NEW_KEY\" -N \"\" cat \"$NEW_KEY.pub\" \u003e\u003e \"$KEY_DIR/authorized_keys\" echo \"Llave nueva agregada. Borra manualmente la anterior tras verificar acceso.\" 🔐 Paso 9: Activar autenticación en dos pasos (2FA) con Google Authenticator # Configurar autenticación 2FA con Google Authenticator sudo apt install libpam-google-authenticator google-authenticator Luego, edita /etc/pam.d/sshd y agrega al principio:\nauth required pam_google_authenticator.so Y en /etc/ssh/sshd_config:\n# Comando ChallengeResponseAuthentication yes Reinicia el servicio:\n# SSH command sudo systemctl restart ssh Resumen Paso Efecto secureuser + llaves SSH Reemplaza acceso root directo PermitRootLogin no Evita ataques a la cuenta root PasswordAuthentication no Solo autenticación por llave UFW Limita los puertos accesibles Timeout \u0026 retries en SSH Evita fuerza bruta lenta Fail2ban Bloqueo automático por intentos fallidos ProxyJump SSH seguro y restringido desde bastión Actualizaciones automáticas Cierra vulnerabilidades sin intervención manual Uptime Kuma Supervisión visual de servicios Rotación de llaves SSH Mejora la higiene de claves de acceso Google Authenticator Añade segundo factor de autenticación Con estos pasos tendrás una base robusta para un servidor seguro y mantenible. Para aumentar la protección aún más, puedes integrar herramientas de auditoría como Lynis, escaneos de puertos internos, y segmentación de red.\n",
   "wordCount" : "526",
@@ -415,13 +415,12 @@ Host bastion
 
   <footer class="post-footer">
     <ul class="post-tags" style="display: flex; justify-content: center; gap: 0.5rem; flex-wrap: wrap; list-style: none; padding: 0; margin: 1.5rem 0;">
-        <li><a href="http://localhost:1313/blog/es/tags/ssh/">ssh</a></li>
-        <li><a href="http://localhost:1313/blog/es/tags/ufw/">ufw</a></li>
-        <li><a href="http://localhost:1313/blog/es/tags/fail2ban/">fail2ban</a></li>
-        <li><a href="http://localhost:1313/blog/es/tags/seguridad/">seguridad</a></li>
+        <li><a href="http://localhost:1313/blog/es/tags/ssh/">SSH</a></li>
+        <li><a href="http://localhost:1313/blog/es/tags/ufw/">UFW</a></li>
+        <li><a href="http://localhost:1313/blog/es/tags/fail2ban/">Fail2Ban</a></li>
         <li><a href="http://localhost:1313/blog/es/tags/linux/">Linux</a></li>
-        <li><a href="http://localhost:1313/blog/es/tags/tecnolog%C3%ADa/">tecnología</a></li>
-        <li><a href="http://localhost:1313/blog/es/tags/referencia/">referencia</a></li>
+        <li><a href="http://localhost:1313/blog/es/tags/servidores/">Servidores</a></li>
+        <li><a href="http://localhost:1313/blog/es/tags/ubuntu/">Ubuntu</a></li>
     </ul>
 
   <div style="margin-top: 1rem;">
@@ -429,7 +428,7 @@ Host bastion
 <ul class="share-buttons">
     <li>
         <a target="_blank" rel="noopener noreferrer" aria-label="share Endurecimiento de un servidor Ubuntu: pasos esenciales on x"
-            href="https://x.com/intent/tweet/?text=Endurecimiento%20de%20un%20servidor%20Ubuntu%3a%20pasos%20esenciales&amp;url=http%3a%2f%2flocalhost%3a1313%2fblog%2fes%2fposts%2fendurecimiento-servidor-ubuntu%2f&amp;hashtags=ssh%2cufw%2cfail2ban%2cseguridad%2cLinux%2ctecnolog%c3%ada%2creferencia">
+            href="https://x.com/intent/tweet/?text=Endurecimiento%20de%20un%20servidor%20Ubuntu%3a%20pasos%20esenciales&amp;url=http%3a%2f%2flocalhost%3a1313%2fblog%2fes%2fposts%2fendurecimiento-servidor-ubuntu%2f&amp;hashtags=SSH%2cUFW%2cFail2Ban%2cLinux%2cServidores%2cUbuntu">
             <svg version="1.1" viewBox="0 0 512 512" xml:space="preserve" height="30px" width="30px" fill="currentColor">
                 <path
                     d="M512 62.554 L 512 449.446 C 512 483.97 483.97 512 449.446 512 L 62.554 512 C 28.03 512 0 483.97 0 449.446 L 0 62.554 C 0 28.03 28.029 0 62.554 0 L 449.446 0 C 483.971 0 512 28.03 512 62.554 Z M 269.951 190.75 L 182.567 75.216 L 56 75.216 L 207.216 272.95 L 63.9 436.783 L 125.266 436.783 L 235.9 310.383 L 332.567 436.783 L 456 436.783 L 298.367 228.367 L 432.367 75.216 L 371.033 75.216 Z M 127.633 110 L 164.101 110 L 383.481 400.065 L 349.5 400.065 Z" />
