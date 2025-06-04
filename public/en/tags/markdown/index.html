@@ -145,6 +145,11 @@
         </div>
         <ul id="menu">
             <li>
+                <a href="http://localhost:1313/blog/en/categories/" title="Categories">
+                    <span>Categories</span>
+                </a>
+            </li>
+            <li>
                 <a href="http://localhost:1313/blog/en/archives/" title="Archives">
                     <span>Archives</span>
                 </a>
@@ -169,59 +174,24 @@
     </nav>
 </header>
 <main class="main">
-  <header class="page-header"><div class="breadcrumbs"><a href="http://localhost:1313/blog/en/">Home</a>&nbsp;»&nbsp;<a href="http://localhost:1313/blog/en/tags/">Tags</a></div>
-    <h1>
-      Markdown
-    </h1>
+<header class="page-header">
+  <h1>Markdown</h1>
+</header>
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">
+      Differences Between XML, Markdown, and HTML: Uses and Conversion Challenges
+    </h2>
   </header>
-
-    <article class="post-entry tag-entry"> 
-      <header class="entry-header">
-        <h2 class="entry-hint-parent">
-          Differences Between XML, Markdown, and HTML: Uses and Conversion Challenges
-        </h2>
-      </header>
-      <div class="entry-content">
-        <p>Markup Languages: Differences, Uses, and Conversions Between XML, Markdown, and HTML Markup languages are essential for structuring, organizing, and rendering information in digital environments. The most commonly used are XML, Markdown, and HTML, each with distinct goals and characteristics. This article compares their main uses, conceptual and technical differences, and the common issues faced when converting between them.
+  <div class="entry-content">
+    <p>Markup Languages: Differences, Uses, and Conversions Between XML, Markdown, and HTML Markup languages are essential for structuring, organizing, and rendering information in digital environments. The most commonly used are XML, Markdown, and HTML, each with distinct goals and characteristics. This article compares their main uses, conceptual and technical differences, and the common issues faced when converting between them.
 1. What is XML? XML (eXtensible Markup Language) is designed to store, transport, and structure data in a hierarchical and extensible format. Its syntax is strict, and it focuses on structure rather than presentation.
-...</p>
-      </div>
-      <footer class="entry-footer"><span title='2025-06-02 00:00:00 +0000 UTC'>02 June 2025</span>&nbsp;·&nbsp;4 min
-      </footer>
-      <a class="entry-link" aria-label="post link to Differences Between XML, Markdown, and HTML: Uses and Conversion Challenges" href="http://localhost:1313/blog/en/posts/xml-markdown-html/"></a>
-    </article>
-
-    <article class="post-entry tag-entry"> 
-      <header class="entry-header">
-        <h2 class="entry-hint-parent">
-          Hardening an Ubuntu Server: Essential Steps
-        </h2>
-      </header>
-      <div class="entry-content">
-        <p>Hardening an Ubuntu server is a critical practice to protect any infrastructure exposed to the internet. Below are key steps to strengthen security, including a summary table of each configuration and its effect.
-🔐 Step 1: Create a secure user and use SSH keys Disabling direct access to the root user and using a limited user with SSH keys improves traceability and removes one of the most common attack vectors.
-...</p>
-      </div>
-      <footer class="entry-footer"><span title='2025-05-29 00:00:00 +0000 UTC'>29 May 2025</span>&nbsp;·&nbsp;3 min
-      </footer>
-      <a class="entry-link" aria-label="post link to Hardening an Ubuntu Server: Essential Steps" href="http://localhost:1313/blog/en/posts/ubuntu-server-hardening/"></a>
-    </article>
-
-    <article class="post-entry tag-entry"> 
-      <header class="entry-header">
-        <h2 class="entry-hint-parent">
-          Useful RPC Commands for a Nano Node
-        </h2>
-      </header>
-      <div class="entry-content">
-        <p>Once the Nano node is running and port 7076 is enabled, you can interact with it using HTTP POST requests via the JSON-RPC protocol. Below is a collection of useful commands organized by topic, with inline comments and ready to copy.
-🔍 Node Status 🔹 Node version # Get node and protocol version curl -d &#39;{ &#34;action&#34;: &#34;version&#34; }&#39; -H &#34;Content-Type: application/json&#34; http://127.0.0.1:7076 🔹 Basic telemetry # Get general health status of the node curl -d &#39;{ &#34;action&#34;: &#34;telemetry&#34; }&#39; -H &#34;Content-Type: application/json&#34; http://127.0.0.1:7076 🔹 Block count # Check total number of blocks on the network curl -d &#39;{ &#34;action&#34;: &#34;block_count&#34; }&#39; -H &#34;Content-Type: application/json&#34; http://127.0.0.1:7076 🧭 Network and Peers 🔹 List connected peers # View all peers currently connected to the node curl -d &#39;{ &#34;action&#34;: &#34;peers&#34; }&#39; -H &#34;Content-Type: application/json&#34; http://127.0.0.1:7076 🔹 Add a peer manually # Manually add a peer to the node&#39;s connection list curl -d &#39;{ &#34;action&#34;: &#34;peer_add&#34;, &#34;address&#34;: &#34;peering.nano.org&#34;, &#34;port&#34;: &#34;7075&#34; }&#39; \ -H &#34;Content-Type: application/json&#34; http://127.0.0.1:7076 🔐 Accounts and Wallets 🔹 List existing wallets # Show all wallets in the local node curl -d &#39;{ &#34;action&#34;: &#34;wallet_list&#34; }&#39; -H &#34;Content-Type: application/json&#34; http://127.0.0.1:7076 🔹 Create a new wallet # Generate a new empty wallet curl -d &#39;{ &#34;action&#34;: &#34;wallet_create&#34; }&#39; -H &#34;Content-Type: application/json&#34; http://127.0.0.1:7076 🔹 Create an account in a wallet # Create a new account from the given wallet curl -d &#39;{ &#34;action&#34;: &#34;account_create&#34;, &#34;wallet&#34;: &#34;&lt;WALLET_ID&gt;&#34; }&#39; \ -H &#34;Content-Type: application/json&#34; http://127.0.0.1:7076 🔹 Add a private key to a wallet # Import a private key into an existing wallet curl -d &#39;{ &#34;action&#34;: &#34;wallet_add&#34;, &#34;wallet&#34;: &#34;&lt;WALLET_ID&gt;&#34;, &#34;key&#34;: &#34;&lt;PRIVATE_KEY&gt;&#34; }&#39; \ -H &#34;Content-Type: application/json&#34; http://127.0.0.1:7076 💬 Account Information 🔹 Check balance # Get the available balance of an account curl -d &#39;{ &#34;action&#34;: &#34;account_balance&#34;, &#34;account&#34;: &#34;&lt;ACCOUNT_ID&gt;&#34; }&#39; \ -H &#34;Content-Type: application/json&#34; http://127.0.0.1:7076 🔹 Account details # Get general account info (open block, representative, etc.) curl -d &#39;{ &#34;action&#34;: &#34;account_info&#34;, &#34;account&#34;: &#34;&lt;ACCOUNT_ID&gt;&#34; }&#39; \ -H &#34;Content-Type: application/json&#34; http://127.0.0.1:7076 🛠 Administration 🔹 Online representatives # View list of connected and online representatives curl -d &#39;{ &#34;action&#34;: &#34;representatives_online&#34; }&#39; \ -H &#34;Content-Type: application/json&#34; http://127.0.0.1:7076 🔹 Manual bootstrap # Start a bootstrap from any available source curl -d &#39;{ &#34;action&#34;: &#34;bootstrap_any&#34; }&#39; \ -H &#34;Content-Type: application/json&#34; http://127.0.0.1:7076 🗂 Resources Official RPC Documentation NanoLooker Explorer Public Node Directory Last updated: 2025-05-27
-...</p>
-      </div>
-      <footer class="entry-footer"><span title='2025-05-27 00:00:00 +0000 UTC'>27 May 2025</span>&nbsp;·&nbsp;3 min
-      </footer>
-      <a class="entry-link" aria-label="post link to Useful RPC Commands for a Nano Node" href="http://localhost:1313/blog/en/posts/nano-node/"></a>
-    </article>
+…</p>
+  </div>
+  <footer class="entry-footer"><span title='2025-06-02 00:00:00 +0000 UTC'>02 June 2025</span>&nbsp;·&nbsp;4 min
+  </footer>
+  <a class="entry-link" href="http://localhost:1313/blog/en/posts/xml-markdown-html/" aria-label="Leer más sobre Differences Between XML, Markdown, and HTML: Uses and Conversion Challenges"></a>
+</article>
     </main>
     
 <footer class="footer">

@@ -1,0 +1,26 @@
+{{- define "main" }}
+
+{{- if .Title }}
+<header class="page-header">
+  <h1>{{ .Title }}</h1>
+  {{- if .Description }}
+  <div class="post-description">
+    {{ .Description | markdownify }}
+  </div>
+  {{- end }}
+</header>
+{{- end }}
+
+<ul class="terms-tags">
+  {{- $type := .Type }}
+  {{- range .Data.Terms.Alphabetical }}
+    {{- $termPage := site.GetPage (printf "/%s/%s" $type (urlize .Name)) }}
+    {{- with $termPage }}
+    <li>
+      <a href="{{ .RelPermalink }}">{{ .Title }} <sup><strong>{{ .Pages | len }}</strong></sup></a>
+    </li>
+    {{- end }}
+  {{- end }}
+</ul>
+
+{{- end }}

@@ -28,6 +28,19 @@
                 href="http://localhost:1313/blog/es/posts/xml-markdown-html/"
                 />
   </url><url>
+    <loc>http://localhost:1313/blog/es/tags/</loc>
+    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/tags/"
+                />
+  </url><url>
     <loc>http://localhost:1313/blog/es/tags/html/</loc>
     <lastmod>2025-06-02T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -68,19 +81,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="http://localhost:1313/blog/es/posts/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/blog/es/tags/</loc>
-    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/blog/es/tags/"
                 />
   </url><url>
     <loc>http://localhost:1313/blog/es/tags/tei/</loc>
