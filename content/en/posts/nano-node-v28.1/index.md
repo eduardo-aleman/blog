@@ -4,14 +4,14 @@ translationKey: nano-node-v28-1
 date: 2025-06-04
 draft: false
 tags:
-   - nano
-   - cryptocurrencies
-   - node
-   - docker
-   - security
+   - Nano
+   - Cryptocurrencies
+   - Node
+   - Docker
+   - Security
 categories:
-   - blockchain
-   - infrastructure
+   - Blockchain
+   - Infrastructure
 description: "A complete guide to installing a Nano node version 28.1 with Docker, setting up a wallet, and integrating into the network."
 ---
 
@@ -313,14 +313,10 @@ Manually verify that the node is up, without scripts or external monitoring.
 
 ## 📝 Recommendation
 
-
 Perform this review at least **once a day** if you don't have automatic supervision.
 
 
-
-
 ---
-
 
 These checks ensure that the node is:
 -✅ Synchronized
@@ -329,6 +325,12 @@ These checks ensure that the node is:
 -✅ Active on the Nano network
 
 
+## ⚠️ Disclaimer
 
+This guide was created to document practical commands to interact with a self-hosted Nano node via its JSON-RPC API. While its content has been carefully verified, **its behavior is not guaranteed in all environments** or custom configurations.
+
+**Use these commands at your own risk.** Always make backups before changing sensitive settings or handling private keys.
+
+For issues or help, refer to the [official Nano documentation](https://docs.nano.org/) or the community forums.
 
 

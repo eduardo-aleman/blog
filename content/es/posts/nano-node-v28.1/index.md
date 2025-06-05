@@ -4,14 +4,14 @@ translationKey: nano-node-v28-1
 date: 2025-06-04
 draft: false
 tags: 
-    - nano
-    - criptomonedas
-    - nodo
-    - docker
-    - seguridad
+    - Nano
+    - Criptomonedas
+    - Nodo
+    - Docker
+    - Seguridad
 categories: 
-    - blockchain
-    - infraestructura
+    - Blockchain
+    - Infraestructura
 description: "Guía completa para instalar un nodo Nano versión 28.1 con Docker, configurar una wallet e integrarse a la red."
 ---
 
@@ -257,3 +257,10 @@ Estas verificaciones aseguran que el nodo está:
 - ✅ Operativo
 - ✅ Activo en la red Nano
 
+## ⚠️ Aviso de responsabilidad
+
+Esta guía ha sido elaborada con el objetivo de documentar comandos prácticos para interactuar con un nodo Nano autoalojado mediante su API JSON-RPC. Aunque se ha verificado cuidadosamente su contenido, **no se garantiza su funcionamiento en todos los entornos** o configuraciones particulares.
+
+**El uso de estos comandos es responsabilidad del usuario.** Se recomienda realizar copias de seguridad antes de modificar configuraciones sensibles o manipular claves privadas.
+
+Para dudas o problemas, consulta la [documentación oficial de Nano](https://docs.nano.org/) o los foros de soporte de la comunidad.

@@ -1,15 +1,15 @@
 <!DOCTYPE html>
-<html lang="es" dir="ltr">
+<html lang="en" dir="ltr">
 
 <head><script src="/blog/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=blog/livereload" data-no-instant defer></script><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
-<title>Instalación del Nodo Nano v28.1 | Blog de Eduardo Alemán</title>
-<meta name="keywords" content="Nano, Criptomonedas, Nodo, Docker, Seguridad">
-<meta name="description" content="Guía completa para instalar un nodo Nano versión 28.1 con Docker, configurar una wallet e integrarse a la red.">
+<title>Installing Nano Node v28.1 | Eduardo Alemán’s Blog</title>
+<meta name="keywords" content="Nano, Cryptocurrencies, Node, Docker, Security">
+<meta name="description" content="A complete guide to installing a Nano node version 28.1 with Docker, setting up a wallet, and integrating into the network.">
 <meta name="author" content="">
-<link rel="canonical" href="http://localhost:1313/blog/es/posts/nano-node-v28.1/">
+<link rel="canonical" href="http://localhost:1313/blog/en/posts/nano-node-v28.1/">
 <link crossorigin="anonymous" href="/blog/assets/css/stylesheet.a8501b4e1544bf104a4e2647be64df3637f95b6ac25a4298047d87fe0eacffa1.css" integrity="sha256-qFAbThVEvxBKTiZHvmTfNjf5W2rCWkKYBH2H/g6s/6E=" rel="preload stylesheet" as="style">
 <link rel="icon" href="http://localhost:1313/blog/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/blog/favicon-16x16.png">
@@ -64,23 +64,23 @@
 
 
 
-<meta property="og:url" content="http://localhost:1313/blog/es/posts/nano-node-v28.1/">
-  <meta property="og:site_name" content="Blog de Eduardo Alemán">
-  <meta property="og:title" content="Instalación del Nodo Nano v28.1">
-  <meta property="og:description" content="Guía completa para instalar un nodo Nano versión 28.1 con Docker, configurar una wallet e integrarse a la red.">
-  <meta property="og:locale" content="es">
+<meta property="og:url" content="http://localhost:1313/blog/en/posts/nano-node-v28.1/">
+  <meta property="og:site_name" content="Eduardo Alemán’s Blog">
+  <meta property="og:title" content="Installing Nano Node v28.1">
+  <meta property="og:description" content="A complete guide to installing a Nano node version 28.1 with Docker, setting up a wallet, and integrating into the network.">
+  <meta property="og:locale" content="en">
   <meta property="og:type" content="article">
     <meta property="article:section" content="posts">
     <meta property="article:published_time" content="2025-06-04T00:00:00+00:00">
     <meta property="article:modified_time" content="2025-06-04T00:00:00+00:00">
     <meta property="article:tag" content="Nano">
-    <meta property="article:tag" content="Criptomonedas">
-    <meta property="article:tag" content="Nodo">
+    <meta property="article:tag" content="Cryptocurrencies">
+    <meta property="article:tag" content="Node">
     <meta property="article:tag" content="Docker">
-    <meta property="article:tag" content="Seguridad">
+    <meta property="article:tag" content="Security">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Instalación del Nodo Nano v28.1">
-<meta name="twitter:description" content="Guía completa para instalar un nodo Nano versión 28.1 con Docker, configurar una wallet e integrarse a la red.">
+<meta name="twitter:title" content="Installing Nano Node v28.1">
+<meta name="twitter:description" content="A complete guide to installing a Nano node version 28.1 with Docker, setting up a wallet, and integrating into the network.">
 
 
 <script type="application/ld+json">
@@ -92,13 +92,13 @@
       "@type": "ListItem",
       "position":  1 ,
       "name": "Posts",
-      "item": "http://localhost:1313/blog/es/posts/"
+      "item": "http://localhost:1313/blog/en/posts/"
     }, 
     {
       "@type": "ListItem",
       "position":  2 ,
-      "name": "Instalación del Nodo Nano v28.1",
-      "item": "http://localhost:1313/blog/es/posts/nano-node-v28.1/"
+      "name": "Installing Nano Node v28.1",
+      "item": "http://localhost:1313/blog/en/posts/nano-node-v28.1/"
     }
   ]
 }
@@ -107,24 +107,24 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Instalación del Nodo Nano v28.1",
-  "name": "Instalación del Nodo Nano v28.1",
-  "description": "Guía completa para instalar un nodo Nano versión 28.1 con Docker, configurar una wallet e integrarse a la red.",
+  "headline": "Installing Nano Node v28.1",
+  "name": "Installing Nano Node v28.1",
+  "description": "A complete guide to installing a Nano node version 28.1 with Docker, setting up a wallet, and integrating into the network.",
   "keywords": [
-    "Nano", "Criptomonedas", "Nodo", "Docker", "Seguridad"
+    "Nano", "Cryptocurrencies", "Node", "Docker", "Security"
   ],
-  "articleBody": "🪙 Instalación y Configuración de Nodo Nano (V28.1) en Docker Este documento detalla el proceso completo de instalación, configuración y activación de un nodo Nano como representative, incluyendo importación de una wallet externa con seed.\n✅ Información general Versión del nodo: V28.1 Contenedor: Docker (docker compose) Sistema base: Ubuntu 24.04 (Noble) Puerto P2P abierto: 7075 TCP/UDP Cuenta representativa:\nnano_ie9a... Wallet ID:\n5D59... Seed:\nB9D32... Mnemonic (24 palabras):\ncrash rabbit disease then daring nice park salad lamp bridge point human found tortoise paper nerve simple enjoy device add decorate trouble sister vast 🐳 Instalación de Docker y Docker Compose sudo apt update sudo apt install -y ca-certificates curl gnupg lsb-release # Clave GPG sudo install -m 0755 -d /etc/apt/keyrings curl -fsSL https://download.docker.com/linux/ubuntu/gpg | \\ sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg # Repositorio para Ubuntu 24.04 (noble) echo \\ \"deb [arch=$(dpkg --print-architecture) \\ signed-by=/etc/apt/keyrings/docker.gpg] \\ https://download.docker.com/linux/ubuntu \\ noble stable\" | \\ sudo tee /etc/apt/sources.list.d/docker.list \u003e /dev/null # Instalación final sudo apt update sudo apt install -y docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin 📦 Configuración del contenedor Nano mkdir -p ~/nano-node-docker cd ~/nano-node-docker docker-compose.yml services: nano_node: image: nanocurrency/nano:V28.1 container_name: nano_node restart: unless-stopped ports: - \"7075:7075/tcp\" - \"7075:7075/udp\" volumes: - ./data:/root/Nano sudo docker compose up -d 🔐 Importación de wallet y cuenta 1. Acceder al contenedor sudo docker exec -it nano_node bash 2. Crear wallet nano_node --wallet_create # Resultado: # 4D... 3. Importar seed nano_node --wallet_change_seed \\ --wallet=4D... \\ --seed=P6AD... 4. Crear cuenta derivada (desde el seed) nano_node --account_create \\ --wallet=4D... # Resultado: # nano_7... 🗳️ Establecer cuenta como Representative nano_node --wallet_representative_set \\ --wallet=4D... \\ --account=nano_7... nano_node --account_representative_set \\ --account=nano_7... \\ --representative=nano_7... 💾 Respaldo manual del archivo wallets.ldb cp ~/nano-node-docker/data/Nano/wallets.ldb ~/wallets-respaldo.ldb 🧪 Verificación del nodo sudo docker logs -f nano_node sudo docker exec -it nano_node bash nano_node --diagnostics 📌 Notas La wallet importada es completamente funcional dentro del nodo. La cuenta ya está registrada como representative. El archivo wallets.ldb contiene todas las claves derivadas del seed. Apéndice: Verificación manual del nodo Nano (sin scripts) ✅ 1. Verificar que el contenedor está corriendo sudo docker ps Debe mostrar una línea como:\nnanocurrency/nano:V28.1 ... Up XX minutes ... nano_node ✅ 2. Ver logs en tiempo real sudo docker logs -f nano_node Deberías ver:\n[monitor] [info] Blocks confirmed: ... [monitor] [info] Peers: ... ✅ 3. Comprobar conectividad y diagnóstico sudo docker exec -it nano_node bash nano_node --diagnostics ✅ 4. Ver número de bloques nano_node --debug_block_count ✅ 5. Ver lista de peers conectados nano_node --debug_peers Salida esperada:\n[::ffff:178.33.122.56]:7075 [::ffff:51.81.243.15]:7075 🧭 Verificación Manual del Nodo Nano Última actualización: 2025-06-05 03:37:44\nVerifica manualmente que el nodo esté activo, sin scripts ni monitoreo externo.\nNº Comando Qué verifica Resultado esperado 1 sudo docker ps Que el contenedor esté corriendo Línea con nano_node y estado Up 2 sudo docker exec -it nano_node tail -n 20 /root/Nano/log/node.log Que el nodo esté generando logs recientes Líneas recientes con actividad (monitor, etc.) 3 sudo docker exec -it nano_node grep Peers /root/Nano/log/node.log | tail -n 1 Que el nodo esté conectado a otros nodos Algo como Peers: 166 (inbound: 72 ...) 📝 Recomendación Realiza esta revisión al menos una vez al día si no tienes supervisión automática.\nEstas verificaciones aseguran que el nodo está:\n✅ Sincronizado ✅ Conectado ✅ Operativo ✅ Activo en la red Nano ⚠️ Aviso de responsabilidad Esta guía ha sido elaborada con el objetivo de documentar comandos prácticos para interactuar con un nodo Nano autoalojado mediante su API JSON-RPC. Aunque se ha verificado cuidadosamente su contenido, no se garantiza su funcionamiento en todos los entornos o configuraciones particulares.\nEl uso de estos comandos es responsabilidad del usuario. Se recomienda realizar copias de seguridad antes de modificar configuraciones sensibles o manipular claves privadas.\nPara dudas o problemas, consulta la documentación oficial de Nano o los foros de soporte de la comunidad.\n",
-  "wordCount" : "626",
-  "inLanguage": "es",
+  "articleBody": "🪙 Installing and Configuring Nano Node (V28.1) in Docker This document details the complete process of installing, configuring, and activating a Nano node as a representative, including importing an external wallet with seed.\n✅ General information Node version: V28.1 Container: Docker (docker compose) Basic system: Ubuntu 24.04 (Noble) P2P port open: 7075 TCP/UDP Representative account: nano_ie9a... Wallet ID: 5D59... Seed: B9D32... Mnemonic (24 words): crash rabbit disease then daring nice park salad lamp bridge point human found tortoise paper nerve simple enjoy device add decorate trouble sister vast 🐳 Installing Docker and Docker Compose sudo apt update sudo apt install -and ca-certificates curl gnupg lsb-release # Clave GPG sudo install -m 0755 -d /etc/apt/keyrings curl -fsSL https://download.docker.com/linux/ubuntu/gpg | \\ sudo gpg --dearmor -the /etc/apt/keyrings/docker.gpg # Repository for Ubuntu 24.04 (noble) echo \\ \"deb [arch=$(dpkg --print-architecture) \\ signed-by=/etc/apt/keyrings/docker.gpg] \\ https://download.docker.com/linux/ubuntu \\ noble stable\" | \\ sudo tee /etc/apt/sources.list.d/docker.list \u003e /dev/null # Final installation sudo apt update sudo apt install -y docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin 📦 Nano Container Configuration mkdir -p ~/nano-node-docker cd ~/nano-node-docker docker-compose.yml services: nano_node: image: nanocurrency/nano:V28.1 container_name: nano_node restart: unless-stopped ports: - \"7075:7075/tcp\" - \"7075:7075/udp\" volumes: - ./data:/root/Nano sudo docker compose up -d 🔐 Wallet and account import 1. Access the container sudo docker exec -it nano_node bash 2. Create wallet nano_node --wallet_create # Result: # 4D... 3. Import seed nano_node --wallet_change_seed \\ --wallet=4D... \\ --seed=P6AD... 4. Create a derivative account (from the seed) nano_node --account_create \\ --wallet=4D... # Result: # nano_7... 🗳️ Set up an account as a Representative nano_node --wallet_representative_set \\ --wallet=4D... \\ --account=nano_7... nano_node --account_representative_set \\ --account=nano_7... \\ --representative=nano_7... 💾 Manual backup of the wallets.ldb file cp ~/nano-node-docker/data/Nano/wallets.ldb ~/wallets-backup.ldb 🧪 Node Verification sudo docker logs -f nano_node sudo docker exec -it nano_node bash nano_node --diagnostics 📌 Notes -The imported wallet is fully functional within the node. -The account is already registered as a representative. -The filewallets.ldbcontains all the keys derived from the seed.\nAppendix: Manual verification of the Nano node (without scripts) ✅ 1. Verify that the container is running sudo docker ps It should display a line like:\nnanocurrency/nano:V28.1 ... Up XX minutes ... nano_node ✅ 2. View logs in real time sudo docker logs -f nano_node You should see:\n[monitor] [info] Blocks confirmed: ... [monitor] [info] Peers: ... ✅ 3. Check connectivity and diagnostics sudo docker exec -it nano_node bash nano_node --diagnostics ✅ 4. View number of blocks nano_node --debug_block_count ✅ 5. View list of connected peers nano_node --debug_peers Expected output:\n[::ffff:178.33.122.56]:7075 [::ffff:51.81.243.15]:7075 🧭 Manual Verification of the Nano Node Last updated: 2025-06-05 03:37:44\nManually verify that the node is up, without scripts or external monitoring.\nNo. Command What it checks Expected result 1 sudo docker ps That the container is running Line withnano_nodeand stateUp 2 sudo docker exec -it nano_node tail -n 20 /root/Nano/log/node.log That the node is generating recent logs Recent lines with activity (monitor, etc.) 3 sudo docker exec -it nano_node grep Peers /root/Nano/log/node.log | tail -n 1 That the node is connected to other nodes Something likePeers: 166 (inbound: 72 ...) 📝 Recommendation Perform this review at least once a day if you don’t have automatic supervision.\nThese checks ensure that the node is: -✅ Synchronized -✅ Connected -✅ Operational -✅ Active on the Nano network\n⚠️ Disclaimer This guide was created to document practical commands to interact with a self-hosted Nano node via its JSON-RPC API. While its content has been carefully verified, its behavior is not guaranteed in all environments or custom configurations.\nUse these commands at your own risk. Always make backups before changing sensitive settings or handling private keys.\nFor issues or help, refer to the official Nano documentation or the community forums.\n",
+  "wordCount" : "608",
+  "inLanguage": "en",
   "datePublished": "2025-06-04T00:00:00Z",
   "dateModified": "2025-06-04T00:00:00Z",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http://localhost:1313/blog/es/posts/nano-node-v28.1/"
+    "@id": "http://localhost:1313/blog/en/posts/nano-node-v28.1/"
   },
   "publisher": {
     "@type": "Organization",
-    "name": "Blog de Eduardo Alemán",
+    "name": "Eduardo Alemán’s Blog",
     "logo": {
       "@type": "ImageObject",
       "url": "http://localhost:1313/blog/favicon.ico"
@@ -170,7 +170,7 @@
 <header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="http://localhost:1313/blog/es/" accesskey="h" title="Blog de Eduardo Alemán (Alt + H)">Blog de Eduardo Alemán</a>
+            <a href="http://localhost:1313/blog/en/" accesskey="h" title="Eduardo Alemán’s Blog (Alt + H)">Eduardo Alemán’s Blog</a>
             <div class="logo-switches">
                 <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
                     <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
@@ -194,26 +194,26 @@
                 </button>
                 <ul class="lang-switch"><li>|</li>
                     <li>
-                        <a href="http://localhost:1313/blog/en/" title="English"
-                            aria-label="English">English</a>
+                        <a href="http://localhost:1313/blog/es/" title="Español"
+                            aria-label="Español">Español</a>
                     </li>
                 </ul>
             </div>
         </div>
         <ul id="menu">
             <li>
-                <a href="http://localhost:1313/blog/es/categories/" title="Categorías">
-                    <span>Categorías</span>
+                <a href="http://localhost:1313/blog/en/categories/" title="Categories">
+                    <span>Categories</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/blog/es/archives/" title="Archivos">
-                    <span>Archivos</span>
+                <a href="http://localhost:1313/blog/en/archives/" title="Archives">
+                    <span>Archives</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/blog/es/search/" title="Buscar">
-                    <span>Buscar</span>
+                <a href="http://localhost:1313/blog/en/search/" title="Search (Alt &#43; /)" accesskey=/>
+                    <span>Search</span>
                 </a>
             </li>
             <li>
@@ -234,15 +234,15 @@
 
 <article class="post-single">
   <header class="post-header">
-    <div class="breadcrumbs"><a href="http://localhost:1313/blog/es/">Inicio</a>&nbsp;»&nbsp;<a href="http://localhost:1313/blog/es/posts/">Posts</a></div>
+    <div class="breadcrumbs"><a href="http://localhost:1313/blog/en/">Home</a>&nbsp;»&nbsp;<a href="http://localhost:1313/blog/en/posts/">Posts</a></div>
     <h1 class="post-title entry-hint-parent">
-      Instalación del Nodo Nano v28.1
+      Installing Nano Node v28.1
     </h1>
     <div class="post-description">
-      Guía completa para instalar un nodo Nano versión 28.1 con Docker, configurar una wallet e integrarse a la red.
+      A complete guide to installing a Nano node version 28.1 with Docker, setting up a wallet, and integrating into the network.
     </div>
-    <div class="post-meta"><span title='2025-06-04 00:00:00 +0000 UTC'>junio 04 2025</span>&nbsp;·&nbsp;3 minutos
-    &nbsp;·&nbsp;<a class="meta-link" href="/blog/en/posts/nano-node-v28.1/">English</a>
+    <div class="post-meta"><span title='2025-06-04 00:00:00 +0000 UTC'>04 June 2025</span>&nbsp;·&nbsp;3 min
+    &nbsp;·&nbsp;<a class="meta-link" href="/blog/es/posts/nano-node-v28.1/">Español</a>
 
 
 
@@ -250,65 +250,65 @@
   </header> <div class="toc">
     <details >
         <summary accesskey="c" title="(Alt + C)">
-            <span class="details">Tabla de contenidos</span>
+            <span class="details">Table of Contents</span>
         </summary>
 
         <div class="inner"><ul>
                 <li>
-                    <a href="#-instalaci%c3%b3n-y-configuraci%c3%b3n-de-nodo-nano-v281-en-docker" aria-label="🪙 Instalación y Configuración de Nodo Nano (V28.1) en Docker">🪙 Instalación y Configuración de Nodo Nano (V28.1) en Docker</a><ul>
+                    <a href="#-installing-and-configuring-nano-node-v281-in-docker" aria-label="🪙 Installing and Configuring Nano Node (V28.1) in Docker">🪙 Installing and Configuring Nano Node (V28.1) in Docker</a><ul>
                         
                 <li>
-                    <a href="#-informaci%c3%b3n-general" aria-label="✅ Información general">✅ Información general</a></li>
+                    <a href="#-general-information" aria-label="✅ General information">✅ General information</a></li>
                 <li>
-                    <a href="#-instalaci%c3%b3n-de-docker-y-docker-compose" aria-label="🐳 Instalación de Docker y Docker Compose">🐳 Instalación de Docker y Docker Compose</a></li>
+                    <a href="#-installing-docker-and-docker-compose" aria-label="🐳 Installing Docker and Docker Compose">🐳 Installing Docker and Docker Compose</a></li>
                 <li>
-                    <a href="#-configuraci%c3%b3n-del-contenedor-nano" aria-label="📦 Configuración del contenedor Nano">📦 Configuración del contenedor Nano</a><ul>
+                    <a href="#-nano-container-configuration" aria-label="📦 Nano Container Configuration">📦 Nano Container Configuration</a><ul>
                         
                 <li>
                     <a href="#docker-composeyml" aria-label="docker-compose.yml">docker-compose.yml</a></li></ul>
                 </li>
                 <li>
-                    <a href="#-importaci%c3%b3n-de-wallet-y-cuenta" aria-label="🔐 Importación de wallet y cuenta">🔐 Importación de wallet y cuenta</a><ul>
+                    <a href="#-wallet-and-account-import" aria-label="🔐 Wallet and account import">🔐 Wallet and account import</a><ul>
                         
                 <li>
-                    <a href="#1-acceder-al-contenedor" aria-label="1. Acceder al contenedor">1. Acceder al contenedor</a></li>
+                    <a href="#1-access-the-container" aria-label="1. Access the container">1. Access the container</a></li>
                 <li>
-                    <a href="#2-crear-wallet" aria-label="2. Crear wallet">2. Crear wallet</a></li>
+                    <a href="#2-create-wallet" aria-label="2. Create wallet">2. Create wallet</a></li>
                 <li>
-                    <a href="#3-importar-seed" aria-label="3. Importar seed">3. Importar seed</a></li>
+                    <a href="#3-import-seed" aria-label="3. Import seed">3. Import seed</a></li>
                 <li>
-                    <a href="#4-crear-cuenta-derivada-desde-el-seed" aria-label="4. Crear cuenta derivada (desde el seed)">4. Crear cuenta derivada (desde el seed)</a></li></ul>
+                    <a href="#4-create-a-derivative-account-from-the-seed" aria-label="4. Create a derivative account (from the seed)">4. Create a derivative account (from the seed)</a></li></ul>
                 </li>
                 <li>
-                    <a href="#-establecer-cuenta-como-representative" aria-label="🗳️ Establecer cuenta como Representative">🗳️ Establecer cuenta como Representative</a></li>
+                    <a href="#-set-up-an-account-as-a-representative" aria-label="🗳️ Set up an account as a Representative">🗳️ Set up an account as a Representative</a></li>
                 <li>
-                    <a href="#-respaldo-manual-del-archivo-walletsldb" aria-label="💾 Respaldo manual del archivo wallets.ldb">💾 Respaldo manual del archivo wallets.ldb</a></li>
+                    <a href="#-manual-backup-of-the-walletsldb-file" aria-label="💾 Manual backup of the wallets.ldb file">💾 Manual backup of the wallets.ldb file</a></li>
                 <li>
-                    <a href="#-verificaci%c3%b3n-del-nodo" aria-label="🧪 Verificación del nodo">🧪 Verificación del nodo</a></li>
+                    <a href="#-node-verification" aria-label="🧪 Node Verification">🧪 Node Verification</a></li>
                 <li>
-                    <a href="#-notas" aria-label="📌 Notas">📌 Notas</a></li>
+                    <a href="#-notes" aria-label="📌 Notes">📌 Notes</a></li>
                 <li>
-                    <a href="#ap%c3%a9ndice-verificaci%c3%b3n-manual-del-nodo-nano-sin-scripts" aria-label="Apéndice: Verificación manual del nodo Nano (sin scripts)">Apéndice: Verificación manual del nodo Nano (sin scripts)</a><ul>
+                    <a href="#appendix-manual-verification-of-the-nano-node-without-scripts" aria-label="Appendix: Manual verification of the Nano node (without scripts)">Appendix: Manual verification of the Nano node (without scripts)</a><ul>
                         
                 <li>
-                    <a href="#-1-verificar-que-el-contenedor-est%c3%a1-corriendo" aria-label="✅ 1. Verificar que el contenedor está corriendo">✅ 1. Verificar que el contenedor está corriendo</a></li>
+                    <a href="#-1-verify-that-the-container-is-running" aria-label="✅ 1. Verify that the container is running">✅ 1. Verify that the container is running</a></li>
                 <li>
-                    <a href="#-2-ver-logs-en-tiempo-real" aria-label="✅ 2. Ver logs en tiempo real">✅ 2. Ver logs en tiempo real</a></li>
+                    <a href="#-2-view-logs-in-real-time" aria-label="✅ 2. View logs in real time">✅ 2. View logs in real time</a></li>
                 <li>
-                    <a href="#-3-comprobar-conectividad-y-diagn%c3%b3stico" aria-label="✅ 3. Comprobar conectividad y diagnóstico">✅ 3. Comprobar conectividad y diagnóstico</a></li>
+                    <a href="#-3-check-connectivity-and-diagnostics" aria-label="✅ 3. Check connectivity and diagnostics">✅ 3. Check connectivity and diagnostics</a></li>
                 <li>
-                    <a href="#-4-ver-n%c3%bamero-de-bloques" aria-label="✅ 4. Ver número de bloques">✅ 4. Ver número de bloques</a></li>
+                    <a href="#-4-view-number-of-blocks" aria-label="✅ 4. View number of blocks">✅ 4. View number of blocks</a></li>
                 <li>
-                    <a href="#-5-ver-lista-de-peers-conectados" aria-label="✅ 5. Ver lista de peers conectados">✅ 5. Ver lista de peers conectados</a></li></ul>
+                    <a href="#-5-view-list-of-connected-peers" aria-label="✅ 5. View list of connected peers">✅ 5. View list of connected peers</a></li></ul>
                 </li></ul>
                 </li>
                 <li>
-                    <a href="#-verificaci%c3%b3n-manual-del-nodo-nano" aria-label="🧭 Verificación Manual del Nodo Nano">🧭 Verificación Manual del Nodo Nano</a><ul>
+                    <a href="#-manual-verification-of-the-nano-node" aria-label="🧭 Manual Verification of the Nano Node">🧭 Manual Verification of the Nano Node</a><ul>
                         
                 <li>
-                    <a href="#-recomendaci%c3%b3n" aria-label="📝 Recomendación">📝 Recomendación</a></li>
+                    <a href="#-recommendation" aria-label="📝 Recommendation">📝 Recommendation</a></li>
                 <li>
-                    <a href="#-aviso-de-responsabilidad" aria-label="⚠️ Aviso de responsabilidad">⚠️ Aviso de responsabilidad</a>
+                    <a href="#-disclaimer" aria-label="⚠️ Disclaimer">⚠️ Disclaimer</a>
                 </li>
             </ul>
             </li>
@@ -317,194 +317,194 @@
     </details>
 </div>
 
-  <div class="post-content"><h1 id="-instalación-y-configuración-de-nodo-nano-v281-en-docker">🪙 Instalación y Configuración de Nodo Nano (V28.1) en Docker<a hidden class="anchor" aria-hidden="true" href="#-instalación-y-configuración-de-nodo-nano-v281-en-docker">#</a></h1>
-<p>Este documento detalla el proceso completo de instalación, configuración y activación de un nodo Nano como representative, incluyendo importación de una wallet externa con seed.</p>
+  <div class="post-content"><h1 id="-installing-and-configuring-nano-node-v281-in-docker">🪙 Installing and Configuring Nano Node (V28.1) in Docker<a hidden class="anchor" aria-hidden="true" href="#-installing-and-configuring-nano-node-v281-in-docker">#</a></h1>
+<p>This document details the complete process of installing, configuring, and activating a Nano node as a representative, including importing an external wallet with seed.</p>
 <hr>
-<h2 id="-información-general">✅ Información general<a hidden class="anchor" aria-hidden="true" href="#-información-general">#</a></h2>
+<h2 id="-general-information">✅ General information<a hidden class="anchor" aria-hidden="true" href="#-general-information">#</a></h2>
 <ul>
-<li><strong>Versión del nodo:</strong> <code>V28.1</code></li>
-<li><strong>Contenedor:</strong> Docker (<code>docker compose</code>)</li>
-<li><strong>Sistema base:</strong> Ubuntu 24.04 (Noble)</li>
-<li><strong>Puerto P2P abierto:</strong> <code>7075 TCP/UDP</code></li>
-<li><strong>Cuenta representativa:</strong><br>
+<li><strong>Node version:</strong> <code>V28.1</code></li>
+<li><strong>Container:</strong> Docker (<code>docker compose</code>)</li>
+<li><strong>Basic system:</strong> Ubuntu 24.04 (Noble)</li>
+<li><strong>P2P port open:</strong> <code>7075 TCP/UDP</code></li>
+<li><strong>Representative account:</strong>
 <code>nano_ie9a...</code></li>
-<li><strong>Wallet ID:</strong><br>
+<li><strong>Wallet ID:</strong>
 <code>5D59...</code></li>
-<li><strong>Seed:</strong><br>
+<li><strong>Seed:</strong>
 <code>B9D32...</code></li>
-<li><strong>Mnemonic (24 palabras):</strong><br>
+<li><strong>Mnemonic (24 words):</strong>
 <code>crash rabbit disease then daring nice park salad lamp bridge point human found tortoise paper nerve simple enjoy device add decorate trouble sister vast</code></li>
 </ul>
 <hr>
-<h2 id="-instalación-de-docker-y-docker-compose">🐳 Instalación de Docker y Docker Compose<a hidden class="anchor" aria-hidden="true" href="#-instalación-de-docker-y-docker-compose">#</a></h2>
+<h2 id="-installing-docker-and-docker-compose">🐳 Installing Docker and Docker Compose<a hidden class="anchor" aria-hidden="true" href="#-installing-docker-and-docker-compose">#</a></h2>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo apt update
-</span></span><span style="display:flex;"><span>sudo apt install -y ca-certificates curl gnupg lsb-release
+</span></span><span style="display:flex;"><span>sudo apt install -and ca-certificates curl gnupg lsb-release
+</span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span><span style="color:#75715e"># Clave GPG</span>
 </span></span><span style="display:flex;"><span>sudo install -m <span style="color:#ae81ff">0755</span> -d /etc/apt/keyrings
 </span></span><span style="display:flex;"><span>curl -fsSL https://download.docker.com/linux/ubuntu/gpg | <span style="color:#ae81ff">\
-</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span>  sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg
+</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span> sudo gpg --dearmor -the /etc/apt/keyrings/docker.gpg
 </span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e"># Repositorio para Ubuntu 24.04 (noble)</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Repository for Ubuntu 24.04 (noble)</span>
 </span></span><span style="display:flex;"><span>echo <span style="color:#ae81ff">\
-</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span>  <span style="color:#e6db74">&#34;deb [arch=</span><span style="color:#66d9ef">$(</span>dpkg --print-architecture<span style="color:#66d9ef">)</span><span style="color:#e6db74"> \
-</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">  signed-by=/etc/apt/keyrings/docker.gpg] \
-</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">  https://download.docker.com/linux/ubuntu \
-</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">  noble stable&#34;</span> | <span style="color:#ae81ff">\
-</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span>  sudo tee /etc/apt/sources.list.d/docker.list &gt; /dev/null
+</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span> <span style="color:#e6db74">&#34;deb [arch=</span><span style="color:#66d9ef">$(</span>dpkg --print-architecture<span style="color:#66d9ef">)</span><span style="color:#e6db74"> \
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74"> signed-by=/etc/apt/keyrings/docker.gpg] \
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74"> https://download.docker.com/linux/ubuntu \
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74"> noble stable&#34;</span> | <span style="color:#ae81ff">\
+</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span> sudo tee /etc/apt/sources.list.d/docker.list &gt; /dev/null
 </span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e"># Instalación final</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Final installation</span>
 </span></span><span style="display:flex;"><span>sudo apt update
 </span></span><span style="display:flex;"><span>sudo apt install -y docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
 </span></span></code></pre></div><hr>
-<h2 id="-configuración-del-contenedor-nano">📦 Configuración del contenedor Nano<a hidden class="anchor" aria-hidden="true" href="#-configuración-del-contenedor-nano">#</a></h2>
+<h2 id="-nano-container-configuration">📦 Nano Container Configuration<a hidden class="anchor" aria-hidden="true" href="#-nano-container-configuration">#</a></h2>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>mkdir -p ~/nano-node-docker
 </span></span><span style="display:flex;"><span>cd ~/nano-node-docker
 </span></span></code></pre></div><h3 id="docker-composeyml"><code>docker-compose.yml</code><a hidden class="anchor" aria-hidden="true" href="#docker-composeyml">#</a></h3>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yaml" data-lang="yaml"><span style="display:flex;"><span><span style="color:#f92672">services</span>:
-</span></span><span style="display:flex;"><span>  <span style="color:#f92672">nano_node</span>:
-</span></span><span style="display:flex;"><span>    <span style="color:#f92672">image</span>: <span style="color:#ae81ff">nanocurrency/nano:V28.1</span>
-</span></span><span style="display:flex;"><span>    <span style="color:#f92672">container_name</span>: <span style="color:#ae81ff">nano_node</span>
-</span></span><span style="display:flex;"><span>    <span style="color:#f92672">restart</span>: <span style="color:#ae81ff">unless-stopped</span>
-</span></span><span style="display:flex;"><span>    <span style="color:#f92672">ports</span>:
-</span></span><span style="display:flex;"><span>      - <span style="color:#e6db74">&#34;7075:7075/tcp&#34;</span>
-</span></span><span style="display:flex;"><span>      - <span style="color:#e6db74">&#34;7075:7075/udp&#34;</span>
-</span></span><span style="display:flex;"><span>    <span style="color:#f92672">volumes</span>:
-</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">./data:/root/Nano</span>
+</span></span><span style="display:flex;"><span> <span style="color:#f92672">nano_node</span>:
+</span></span><span style="display:flex;"><span>   <span style="color:#f92672">image</span>: <span style="color:#ae81ff">nanocurrency/nano:V28.1</span>
+</span></span><span style="display:flex;"><span>   <span style="color:#f92672">container_name</span>: <span style="color:#ae81ff">nano_node</span>
+</span></span><span style="display:flex;"><span>   <span style="color:#f92672">restart</span>: <span style="color:#ae81ff">unless-stopped</span>
+</span></span><span style="display:flex;"><span>   <span style="color:#f92672">ports</span>:
+</span></span><span style="display:flex;"><span>     - <span style="color:#e6db74">&#34;7075:7075/tcp&#34;</span>
+</span></span><span style="display:flex;"><span>     - <span style="color:#e6db74">&#34;7075:7075/udp&#34;</span>
+</span></span><span style="display:flex;"><span>   <span style="color:#f92672">volumes</span>:
+</span></span><span style="display:flex;"><span>     - <span style="color:#ae81ff">./data:/root/Nano</span>
 </span></span></code></pre></div><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo docker compose up -d
 </span></span></code></pre></div><hr>
-<h2 id="-importación-de-wallet-y-cuenta">🔐 Importación de wallet y cuenta<a hidden class="anchor" aria-hidden="true" href="#-importación-de-wallet-y-cuenta">#</a></h2>
-<h3 id="1-acceder-al-contenedor">1. Acceder al contenedor<a hidden class="anchor" aria-hidden="true" href="#1-acceder-al-contenedor">#</a></h3>
+<h2 id="-wallet-and-account-import">🔐 Wallet and account import<a hidden class="anchor" aria-hidden="true" href="#-wallet-and-account-import">#</a></h2>
+<h3 id="1-access-the-container">1. Access the container<a hidden class="anchor" aria-hidden="true" href="#1-access-the-container">#</a></h3>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo docker exec -it nano_node bash
-</span></span></code></pre></div><h3 id="2-crear-wallet">2. Crear wallet<a hidden class="anchor" aria-hidden="true" href="#2-crear-wallet">#</a></h3>
+</span></span></code></pre></div><h3 id="2-create-wallet">2. Create wallet<a hidden class="anchor" aria-hidden="true" href="#2-create-wallet">#</a></h3>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>nano_node --wallet_create
-</span></span><span style="display:flex;"><span><span style="color:#75715e"># Resultado:</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Result:</span>
 </span></span><span style="display:flex;"><span><span style="color:#75715e"># 4D...</span>
-</span></span></code></pre></div><h3 id="3-importar-seed">3. Importar seed<a hidden class="anchor" aria-hidden="true" href="#3-importar-seed">#</a></h3>
+</span></span></code></pre></div><h3 id="3-import-seed">3. Import seed<a hidden class="anchor" aria-hidden="true" href="#3-import-seed">#</a></h3>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>nano_node --wallet_change_seed <span style="color:#ae81ff">\
-</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span>  --wallet<span style="color:#f92672">=</span>4D... <span style="color:#ae81ff">\
-</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span>  --seed<span style="color:#f92672">=</span>P6AD...
-</span></span></code></pre></div><h3 id="4-crear-cuenta-derivada-desde-el-seed">4. Crear cuenta derivada (desde el seed)<a hidden class="anchor" aria-hidden="true" href="#4-crear-cuenta-derivada-desde-el-seed">#</a></h3>
+</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span> --wallet<span style="color:#f92672">=</span>4D... <span style="color:#ae81ff">\
+</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span> --seed<span style="color:#f92672">=</span>P6AD...
+</span></span></code></pre></div><h3 id="4-create-a-derivative-account-from-the-seed">4. Create a derivative account (from the seed)<a hidden class="anchor" aria-hidden="true" href="#4-create-a-derivative-account-from-the-seed">#</a></h3>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>nano_node --account_create <span style="color:#ae81ff">\
-</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span>  --wallet<span style="color:#f92672">=</span>4D...
+</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span> --wallet<span style="color:#f92672">=</span>4D...
 </span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e"># Resultado:</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Result:</span>
 </span></span><span style="display:flex;"><span><span style="color:#75715e"># nano_7...</span>
 </span></span></code></pre></div><hr>
-<h2 id="-establecer-cuenta-como-representative">🗳️ Establecer cuenta como Representative<a hidden class="anchor" aria-hidden="true" href="#-establecer-cuenta-como-representative">#</a></h2>
+<h2 id="-set-up-an-account-as-a-representative">🗳️ Set up an account as a Representative<a hidden class="anchor" aria-hidden="true" href="#-set-up-an-account-as-a-representative">#</a></h2>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>nano_node --wallet_representative_set <span style="color:#ae81ff">\
-</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span>  --wallet<span style="color:#f92672">=</span>4D... <span style="color:#ae81ff">\
-</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span>  --account<span style="color:#f92672">=</span>nano_7...
+</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span> --wallet<span style="color:#f92672">=</span>4D... <span style="color:#ae81ff">\
+</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span> --account<span style="color:#f92672">=</span>nano_7...
 </span></span></code></pre></div><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>nano_node --account_representative_set <span style="color:#ae81ff">\
-</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span>  --account<span style="color:#f92672">=</span>nano_7... <span style="color:#ae81ff">\
-</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span>  --representative<span style="color:#f92672">=</span>nano_7...
+</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span> --account<span style="color:#f92672">=</span>nano_7... <span style="color:#ae81ff">\
+</span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span> --representative<span style="color:#f92672">=</span>nano_7...
 </span></span></code></pre></div><hr>
-<h2 id="-respaldo-manual-del-archivo-walletsldb">💾 Respaldo manual del archivo <code>wallets.ldb</code><a hidden class="anchor" aria-hidden="true" href="#-respaldo-manual-del-archivo-walletsldb">#</a></h2>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>cp ~/nano-node-docker/data/Nano/wallets.ldb ~/wallets-respaldo.ldb
+<h2 id="-manual-backup-of-the-walletsldb-file">💾 Manual backup of the <code>wallets.ldb</code> file<a hidden class="anchor" aria-hidden="true" href="#-manual-backup-of-the-walletsldb-file">#</a></h2>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>cp ~/nano-node-docker/data/Nano/wallets.ldb ~/wallets-backup.ldb
 </span></span></code></pre></div><hr>
-<h2 id="-verificación-del-nodo">🧪 Verificación del nodo<a hidden class="anchor" aria-hidden="true" href="#-verificación-del-nodo">#</a></h2>
+<h2 id="-node-verification">🧪 Node Verification<a hidden class="anchor" aria-hidden="true" href="#-node-verification">#</a></h2>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo docker logs -f nano_node
 </span></span><span style="display:flex;"><span>sudo docker exec -it nano_node bash
 </span></span><span style="display:flex;"><span>nano_node --diagnostics
 </span></span></code></pre></div><hr>
-<h2 id="-notas">📌 Notas<a hidden class="anchor" aria-hidden="true" href="#-notas">#</a></h2>
-<ul>
-<li>La wallet importada es completamente funcional dentro del nodo.</li>
-<li>La cuenta ya está registrada como representative.</li>
-<li>El archivo <code>wallets.ldb</code> contiene todas las claves derivadas del seed.</li>
-</ul>
+<h2 id="-notes">📌 Notes<a hidden class="anchor" aria-hidden="true" href="#-notes">#</a></h2>
+<p>-The imported wallet is fully functional within the node.
+-The account is already registered as a representative.
+-The file<code>wallets.ldb</code>contains all the keys derived from the seed.</p>
 <hr>
-<h2 id="apéndice-verificación-manual-del-nodo-nano-sin-scripts">Apéndice: Verificación manual del nodo Nano (sin scripts)<a hidden class="anchor" aria-hidden="true" href="#apéndice-verificación-manual-del-nodo-nano-sin-scripts">#</a></h2>
-<h3 id="-1-verificar-que-el-contenedor-está-corriendo">✅ 1. Verificar que el contenedor está corriendo<a hidden class="anchor" aria-hidden="true" href="#-1-verificar-que-el-contenedor-está-corriendo">#</a></h3>
+<h2 id="appendix-manual-verification-of-the-nano-node-without-scripts">Appendix: Manual verification of the Nano node (without scripts)<a hidden class="anchor" aria-hidden="true" href="#appendix-manual-verification-of-the-nano-node-without-scripts">#</a></h2>
+<h3 id="-1-verify-that-the-container-is-running">✅ 1. Verify that the container is running<a hidden class="anchor" aria-hidden="true" href="#-1-verify-that-the-container-is-running">#</a></h3>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo docker ps
-</span></span></code></pre></div><p>Debe mostrar una línea como:</p>
+</span></span></code></pre></div><p>It should display a line like:</p>
 <pre tabindex="0"><code>nanocurrency/nano:V28.1   ...   Up XX minutes ...   nano_node
 </code></pre><hr>
-<h3 id="-2-ver-logs-en-tiempo-real">✅ 2. Ver logs en tiempo real<a hidden class="anchor" aria-hidden="true" href="#-2-ver-logs-en-tiempo-real">#</a></h3>
+<h3 id="-2-view-logs-in-real-time">✅ 2. View logs in real time<a hidden class="anchor" aria-hidden="true" href="#-2-view-logs-in-real-time">#</a></h3>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo docker logs -f nano_node
-</span></span></code></pre></div><p>Deberías ver:</p>
+</span></span></code></pre></div><p>You should see:</p>
 <pre tabindex="0"><code>[monitor] [info] Blocks confirmed: ...
 [monitor] [info] Peers: ...
 </code></pre><hr>
-<h3 id="-3-comprobar-conectividad-y-diagnóstico">✅ 3. Comprobar conectividad y diagnóstico<a hidden class="anchor" aria-hidden="true" href="#-3-comprobar-conectividad-y-diagnóstico">#</a></h3>
+<h3 id="-3-check-connectivity-and-diagnostics">✅ 3. Check connectivity and diagnostics<a hidden class="anchor" aria-hidden="true" href="#-3-check-connectivity-and-diagnostics">#</a></h3>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo docker exec -it nano_node bash
 </span></span><span style="display:flex;"><span>nano_node --diagnostics
 </span></span></code></pre></div><hr>
-<h3 id="-4-ver-número-de-bloques">✅ 4. Ver número de bloques<a hidden class="anchor" aria-hidden="true" href="#-4-ver-número-de-bloques">#</a></h3>
+<h3 id="-4-view-number-of-blocks">✅ 4. View number of blocks<a hidden class="anchor" aria-hidden="true" href="#-4-view-number-of-blocks">#</a></h3>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>nano_node --debug_block_count
 </span></span></code></pre></div><hr>
-<h3 id="-5-ver-lista-de-peers-conectados">✅ 5. Ver lista de peers conectados<a hidden class="anchor" aria-hidden="true" href="#-5-ver-lista-de-peers-conectados">#</a></h3>
+<h3 id="-5-view-list-of-connected-peers">✅ 5. View list of connected peers<a hidden class="anchor" aria-hidden="true" href="#-5-view-list-of-connected-peers">#</a></h3>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>nano_node --debug_peers
-</span></span></code></pre></div><p>Salida esperada:</p>
+</span></span></code></pre></div><p>Expected output:</p>
 <pre tabindex="0"><code>[::ffff:178.33.122.56]:7075
 [::ffff:51.81.243.15]:7075
-</code></pre><h1 id="-verificación-manual-del-nodo-nano">🧭 Verificación Manual del Nodo Nano<a hidden class="anchor" aria-hidden="true" href="#-verificación-manual-del-nodo-nano">#</a></h1>
-<p>Última actualización: 2025-06-05 03:37:44</p>
-<p>Verifica manualmente que el nodo esté activo, sin scripts ni monitoreo externo.</p>
+</code></pre><h1 id="-manual-verification-of-the-nano-node">🧭 Manual Verification of the Nano Node<a hidden class="anchor" aria-hidden="true" href="#-manual-verification-of-the-nano-node">#</a></h1>
+<p>Last updated: 2025-06-05 03:37:44</p>
+<p>Manually verify that the node is up, without scripts or external monitoring.</p>
 <table>
   <thead>
       <tr>
-          <th>Nº</th>
-          <th>Comando</th>
-          <th>Qué verifica</th>
-          <th>Resultado esperado</th>
+          <th>No.</th>
+          <th>Command</th>
+          <th>What it checks</th>
+          <th>Expected result</th>
       </tr>
   </thead>
   <tbody>
       <tr>
           <td>1</td>
           <td><code>sudo docker ps</code></td>
-          <td>Que el contenedor esté corriendo</td>
-          <td>Línea con <code>nano_node</code> y estado <code>Up</code></td>
+          <td>That the container is running</td>
+          <td>Line with<code>nano_node</code>and state<code>Up</code></td>
       </tr>
       <tr>
           <td>2</td>
           <td><code>sudo docker exec -it nano_node tail -n 20 /root/Nano/log/node.log</code></td>
-          <td>Que el nodo esté generando logs recientes</td>
-          <td>Líneas recientes con actividad (<code>monitor</code>, etc.)</td>
+          <td>That the node is generating recent logs</td>
+          <td>Recent lines with activity (<code>monitor</code>, etc.)</td>
       </tr>
       <tr>
           <td>3</td>
           <td><code>sudo docker exec -it nano_node grep Peers /root/Nano/log/node.log | tail -n 1</code></td>
-          <td>Que el nodo esté conectado a otros nodos</td>
-          <td>Algo como <code>Peers: 166 (inbound: 72 ...)</code></td>
+          <td>That the node is connected to other nodes</td>
+          <td>Something like<code>Peers: 166 (inbound: 72 ...)</code></td>
       </tr>
   </tbody>
 </table>
 <hr>
-<h2 id="-recomendación">📝 Recomendación<a hidden class="anchor" aria-hidden="true" href="#-recomendación">#</a></h2>
-<p>Realiza esta revisión al menos <strong>una vez al día</strong> si no tienes supervisión automática.</p>
+<h2 id="-recommendation">📝 Recommendation<a hidden class="anchor" aria-hidden="true" href="#-recommendation">#</a></h2>
+<p>Perform this review at least <strong>once a day</strong> if you don&rsquo;t have automatic supervision.</p>
 <hr>
-<p>Estas verificaciones aseguran que el nodo está:</p>
-<ul>
-<li>✅ Sincronizado</li>
-<li>✅ Conectado</li>
-<li>✅ Operativo</li>
-<li>✅ Activo en la red Nano</li>
-</ul>
-<h2 id="-aviso-de-responsabilidad">⚠️ Aviso de responsabilidad<a hidden class="anchor" aria-hidden="true" href="#-aviso-de-responsabilidad">#</a></h2>
-<p>Esta guía ha sido elaborada con el objetivo de documentar comandos prácticos para interactuar con un nodo Nano autoalojado mediante su API JSON-RPC. Aunque se ha verificado cuidadosamente su contenido, <strong>no se garantiza su funcionamiento en todos los entornos</strong> o configuraciones particulares.</p>
-<p><strong>El uso de estos comandos es responsabilidad del usuario.</strong> Se recomienda realizar copias de seguridad antes de modificar configuraciones sensibles o manipular claves privadas.</p>
-<p>Para dudas o problemas, consulta la <a href="https://docs.nano.org/">documentación oficial de Nano</a> o los foros de soporte de la comunidad.</p>
+<p>These checks ensure that the node is:
+-✅ Synchronized
+-✅ Connected
+-✅ Operational
+-✅ Active on the Nano network</p>
+<h2 id="-disclaimer">⚠️ Disclaimer<a hidden class="anchor" aria-hidden="true" href="#-disclaimer">#</a></h2>
+<p>This guide was created to document practical commands to interact with a self-hosted Nano node via its JSON-RPC API. While its content has been carefully verified, <strong>its behavior is not guaranteed in all environments</strong> or custom configurations.</p>
+<p><strong>Use these commands at your own risk.</strong> Always make backups before changing sensitive settings or handling private keys.</p>
+<p>For issues or help, refer to the <a href="https://docs.nano.org/">official Nano documentation</a> or the community forums.</p>
 
 
   </div>
 
   <footer class="post-footer">
     <ul class="post-tags" style="display: flex; justify-content: center; gap: 0.5rem; flex-wrap: wrap; list-style: none; padding: 0; margin: 1.5rem 0;">
-        <li><a href="http://localhost:1313/blog/es/tags/nano/">Nano</a></li>
-        <li><a href="http://localhost:1313/blog/es/tags/criptomonedas/">Criptomonedas</a></li>
-        <li><a href="http://localhost:1313/blog/es/tags/nodo/">Nodo</a></li>
-        <li><a href="http://localhost:1313/blog/es/tags/docker/">Docker</a></li>
-        <li><a href="http://localhost:1313/blog/es/tags/seguridad/">Seguridad</a></li>
+        <li><a href="http://localhost:1313/blog/en/tags/nano/">Nano</a></li>
+        <li><a href="http://localhost:1313/blog/en/tags/cryptocurrencies/">Cryptocurrencies</a></li>
+        <li><a href="http://localhost:1313/blog/en/tags/node/">Node</a></li>
+        <li><a href="http://localhost:1313/blog/en/tags/docker/">Docker</a></li>
+        <li><a href="http://localhost:1313/blog/en/tags/security/">Security</a></li>
     </ul>
 
   <div style="margin-top: 1rem;">
 
 <ul class="share-buttons">
     <li>
-        <a target="_blank" rel="noopener noreferrer" aria-label="share Instalación del Nodo Nano v28.1 on x"
-            href="https://x.com/intent/tweet/?text=Instalaci%c3%b3n%20del%20Nodo%20Nano%20v28.1&amp;url=http%3a%2f%2flocalhost%3a1313%2fblog%2fes%2fposts%2fnano-node-v28.1%2f&amp;hashtags=Nano%2cCriptomonedas%2cNodo%2cDocker%2cSeguridad">
+        <a target="_blank" rel="noopener noreferrer" aria-label="share Installing Nano Node v28.1 on x"
+            href="https://x.com/intent/tweet/?text=Installing%20Nano%20Node%20v28.1&amp;url=http%3a%2f%2flocalhost%3a1313%2fblog%2fen%2fposts%2fnano-node-v28.1%2f&amp;hashtags=Nano%2cCryptocurrencies%2cNode%2cDocker%2cSecurity">
             <svg version="1.1" viewBox="0 0 512 512" xml:space="preserve" height="30px" width="30px" fill="currentColor">
                 <path
                     d="M512 62.554 L 512 449.446 C 512 483.97 483.97 512 449.446 512 L 62.554 512 C 28.03 512 0 483.97 0 449.446 L 0 62.554 C 0 28.03 28.029 0 62.554 0 L 449.446 0 C 483.971 0 512 28.03 512 62.554 Z M 269.951 190.75 L 182.567 75.216 L 56 75.216 L 207.216 272.95 L 63.9 436.783 L 125.266 436.783 L 235.9 310.383 L 332.567 436.783 L 456 436.783 L 298.367 228.367 L 432.367 75.216 L 371.033 75.216 Z M 127.633 110 L 164.101 110 L 383.481 400.065 L 349.5 400.065 Z" />
@@ -512,8 +512,8 @@
         </a>
     </li>
     <li>
-        <a target="_blank" rel="noopener noreferrer" aria-label="share Instalación del Nodo Nano v28.1 on linkedin"
-            href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2flocalhost%3a1313%2fblog%2fes%2fposts%2fnano-node-v28.1%2f&amp;title=Instalaci%c3%b3n%20del%20Nodo%20Nano%20v28.1&amp;summary=Instalaci%c3%b3n%20del%20Nodo%20Nano%20v28.1&amp;source=http%3a%2f%2flocalhost%3a1313%2fblog%2fes%2fposts%2fnano-node-v28.1%2f">
+        <a target="_blank" rel="noopener noreferrer" aria-label="share Installing Nano Node v28.1 on linkedin"
+            href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2flocalhost%3a1313%2fblog%2fen%2fposts%2fnano-node-v28.1%2f&amp;title=Installing%20Nano%20Node%20v28.1&amp;summary=Installing%20Nano%20Node%20v28.1&amp;source=http%3a%2f%2flocalhost%3a1313%2fblog%2fen%2fposts%2fnano-node-v28.1%2f">
             <svg version="1.1" viewBox="0 0 512 512" xml:space="preserve" height="30px" width="30px" fill="currentColor">
                 <path
                     d="M449.446,0c34.525,0 62.554,28.03 62.554,62.554l0,386.892c0,34.524 -28.03,62.554 -62.554,62.554l-386.892,0c-34.524,0 -62.554,-28.03 -62.554,-62.554l0,-386.892c0,-34.524 28.029,-62.554 62.554,-62.554l386.892,0Zm-288.985,423.278l0,-225.717l-75.04,0l0,225.717l75.04,0Zm270.539,0l0,-129.439c0,-69.333 -37.018,-101.586 -86.381,-101.586c-39.804,0 -57.634,21.891 -67.617,37.266l0,-31.958l-75.021,0c0.995,21.181 0,225.717 0,225.717l75.02,0l0,-126.056c0,-6.748 0.486,-13.492 2.474,-18.315c5.414,-13.475 17.767,-27.434 38.494,-27.434c27.135,0 38.007,20.707 38.007,51.037l0,120.768l75.024,0Zm-307.552,-334.556c-25.674,0 -42.448,16.879 -42.448,39.002c0,21.658 16.264,39.002 41.455,39.002l0.484,0c26.165,0 42.452,-17.344 42.452,-39.002c-0.485,-22.092 -16.241,-38.954 -41.943,-39.002Z" />
@@ -521,8 +521,8 @@
         </a>
     </li>
     <li>
-        <a target="_blank" rel="noopener noreferrer" aria-label="share Instalación del Nodo Nano v28.1 on reddit"
-            href="https://reddit.com/submit?url=http%3a%2f%2flocalhost%3a1313%2fblog%2fes%2fposts%2fnano-node-v28.1%2f&title=Instalaci%c3%b3n%20del%20Nodo%20Nano%20v28.1">
+        <a target="_blank" rel="noopener noreferrer" aria-label="share Installing Nano Node v28.1 on reddit"
+            href="https://reddit.com/submit?url=http%3a%2f%2flocalhost%3a1313%2fblog%2fen%2fposts%2fnano-node-v28.1%2f&title=Installing%20Nano%20Node%20v28.1">
             <svg version="1.1" viewBox="0 0 512 512" xml:space="preserve" height="30px" width="30px" fill="currentColor">
                 <path
                     d="M449.446,0c34.525,0 62.554,28.03 62.554,62.554l0,386.892c0,34.524 -28.03,62.554 -62.554,62.554l-386.892,0c-34.524,0 -62.554,-28.03 -62.554,-62.554l0,-386.892c0,-34.524 28.029,-62.554 62.554,-62.554l386.892,0Zm-3.446,265.638c0,-22.964 -18.616,-41.58 -41.58,-41.58c-11.211,0 -21.361,4.457 -28.841,11.666c-28.424,-20.508 -67.586,-33.757 -111.204,-35.278l18.941,-89.121l61.884,13.157c0.756,15.734 13.642,28.29 29.56,28.29c16.407,0 29.706,-13.299 29.706,-29.701c0,-16.403 -13.299,-29.702 -29.706,-29.702c-11.666,0 -21.657,6.792 -26.515,16.578l-69.105,-14.69c-1.922,-0.418 -3.939,-0.042 -5.585,1.036c-1.658,1.073 -2.811,2.761 -3.224,4.686l-21.152,99.438c-44.258,1.228 -84.046,14.494 -112.837,35.232c-7.468,-7.164 -17.589,-11.591 -28.757,-11.591c-22.965,0 -41.585,18.616 -41.585,41.58c0,16.896 10.095,31.41 24.568,37.918c-0.639,4.135 -0.99,8.328 -0.99,12.576c0,63.977 74.469,115.836 166.33,115.836c91.861,0 166.334,-51.859 166.334,-115.836c0,-4.218 -0.347,-8.387 -0.977,-12.493c14.564,-6.47 24.735,-21.034 24.735,-38.001Zm-119.474,108.193c-20.27,20.241 -59.115,21.816 -70.534,21.816c-11.428,0 -50.277,-1.575 -70.522,-21.82c-3.007,-3.008 -3.007,-7.882 0,-10.889c3.003,-2.999 7.882,-3.003 10.885,0c12.777,12.781 40.11,17.317 59.637,17.317c19.522,0 46.86,-4.536 59.657,-17.321c3.016,-2.999 7.886,-2.995 10.885,0.008c3.008,3.011 3.003,7.882 -0.008,10.889Zm-5.23,-48.781c-16.373,0 -29.701,-13.324 -29.701,-29.698c0,-16.381 13.328,-29.714 29.701,-29.714c16.378,0 29.706,13.333 29.706,29.714c0,16.374 -13.328,29.698 -29.706,29.698Zm-160.386,-29.702c0,-16.381 13.328,-29.71 29.714,-29.71c16.369,0 29.689,13.329 29.689,29.71c0,16.373 -13.32,29.693 -29.689,29.693c-16.386,0 -29.714,-13.32 -29.714,-29.693Z" />
@@ -530,8 +530,8 @@
         </a>
     </li>
     <li>
-        <a target="_blank" rel="noopener noreferrer" aria-label="share Instalación del Nodo Nano v28.1 on facebook"
-            href="https://facebook.com/sharer/sharer.php?u=http%3a%2f%2flocalhost%3a1313%2fblog%2fes%2fposts%2fnano-node-v28.1%2f">
+        <a target="_blank" rel="noopener noreferrer" aria-label="share Installing Nano Node v28.1 on facebook"
+            href="https://facebook.com/sharer/sharer.php?u=http%3a%2f%2flocalhost%3a1313%2fblog%2fen%2fposts%2fnano-node-v28.1%2f">
             <svg version="1.1" viewBox="0 0 512 512" xml:space="preserve" height="30px" width="30px" fill="currentColor">
                 <path
                     d="M449.446,0c34.525,0 62.554,28.03 62.554,62.554l0,386.892c0,34.524 -28.03,62.554 -62.554,62.554l-106.468,0l0,-192.915l66.6,0l12.672,-82.621l-79.272,0l0,-53.617c0,-22.603 11.073,-44.636 46.58,-44.636l36.042,0l0,-70.34c0,0 -32.71,-5.582 -63.982,-5.582c-65.288,0 -107.96,39.569 -107.96,111.204l0,62.971l-72.573,0l0,82.621l72.573,0l0,192.915l-191.104,0c-34.524,0 -62.554,-28.03 -62.554,-62.554l0,-386.892c0,-34.524 28.029,-62.554 62.554,-62.554l386.892,0Z" />
@@ -539,8 +539,8 @@
         </a>
     </li>
     <li>
-        <a target="_blank" rel="noopener noreferrer" aria-label="share Instalación del Nodo Nano v28.1 on whatsapp"
-            href="https://api.whatsapp.com/send?text=Instalaci%c3%b3n%20del%20Nodo%20Nano%20v28.1%20-%20http%3a%2f%2flocalhost%3a1313%2fblog%2fes%2fposts%2fnano-node-v28.1%2f">
+        <a target="_blank" rel="noopener noreferrer" aria-label="share Installing Nano Node v28.1 on whatsapp"
+            href="https://api.whatsapp.com/send?text=Installing%20Nano%20Node%20v28.1%20-%20http%3a%2f%2flocalhost%3a1313%2fblog%2fen%2fposts%2fnano-node-v28.1%2f">
             <svg version="1.1" viewBox="0 0 512 512" xml:space="preserve" height="30px" width="30px" fill="currentColor">
                 <path
                     d="M449.446,0c34.525,0 62.554,28.03 62.554,62.554l0,386.892c0,34.524 -28.03,62.554 -62.554,62.554l-386.892,0c-34.524,0 -62.554,-28.03 -62.554,-62.554l0,-386.892c0,-34.524 28.029,-62.554 62.554,-62.554l386.892,0Zm-58.673,127.703c-33.842,-33.881 -78.847,-52.548 -126.798,-52.568c-98.799,0 -179.21,80.405 -179.249,179.234c-0.013,31.593 8.241,62.428 23.927,89.612l-25.429,92.884l95.021,-24.925c26.181,14.28 55.659,21.807 85.658,21.816l0.074,0c98.789,0 179.206,-80.413 179.247,-179.243c0.018,-47.895 -18.61,-92.93 -52.451,-126.81Zm-126.797,275.782l-0.06,0c-26.734,-0.01 -52.954,-7.193 -75.828,-20.767l-5.441,-3.229l-56.386,14.792l15.05,-54.977l-3.542,-5.637c-14.913,-23.72 -22.791,-51.136 -22.779,-79.287c0.033,-82.142 66.867,-148.971 149.046,-148.971c39.793,0.014 77.199,15.531 105.329,43.692c28.128,28.16 43.609,65.592 43.594,105.4c-0.034,82.149 -66.866,148.983 -148.983,148.984Zm81.721,-111.581c-4.479,-2.242 -26.499,-13.075 -30.604,-14.571c-4.105,-1.495 -7.091,-2.241 -10.077,2.241c-2.986,4.483 -11.569,14.572 -14.182,17.562c-2.612,2.988 -5.225,3.364 -9.703,1.12c-4.479,-2.241 -18.91,-6.97 -36.017,-22.23c-13.314,-11.876 -22.304,-26.542 -24.916,-31.026c-2.612,-4.484 -0.279,-6.908 1.963,-9.14c2.016,-2.007 4.48,-5.232 6.719,-7.847c2.24,-2.615 2.986,-4.484 4.479,-7.472c1.493,-2.99 0.747,-5.604 -0.374,-7.846c-1.119,-2.241 -10.077,-24.288 -13.809,-33.256c-3.635,-8.733 -7.327,-7.55 -10.077,-7.688c-2.609,-0.13 -5.598,-0.158 -8.583,-0.158c-2.986,0 -7.839,1.121 -11.944,5.604c-4.105,4.484 -15.675,15.32 -15.675,37.364c0,22.046 16.048,43.342 18.287,46.332c2.24,2.99 31.582,48.227 76.511,67.627c10.685,4.615 19.028,7.371 25.533,9.434c10.728,3.41 20.492,2.929 28.209,1.775c8.605,-1.285 26.499,-10.833 30.231,-21.295c3.732,-10.464 3.732,-19.431 2.612,-21.298c-1.119,-1.869 -4.105,-2.99 -8.583,-5.232Z" />
@@ -548,8 +548,8 @@
         </a>
     </li>
     <li>
-        <a target="_blank" rel="noopener noreferrer" aria-label="share Instalación del Nodo Nano v28.1 on telegram"
-            href="https://telegram.me/share/url?text=Instalaci%c3%b3n%20del%20Nodo%20Nano%20v28.1&amp;url=http%3a%2f%2flocalhost%3a1313%2fblog%2fes%2fposts%2fnano-node-v28.1%2f">
+        <a target="_blank" rel="noopener noreferrer" aria-label="share Installing Nano Node v28.1 on telegram"
+            href="https://telegram.me/share/url?text=Installing%20Nano%20Node%20v28.1&amp;url=http%3a%2f%2flocalhost%3a1313%2fblog%2fen%2fposts%2fnano-node-v28.1%2f">
             <svg version="1.1" xml:space="preserve" viewBox="2 2 28 28" height="30px" width="30px" fill="currentColor">
                 <path
                     d="M26.49,29.86H5.5a3.37,3.37,0,0,1-2.47-1,3.35,3.35,0,0,1-1-2.47V5.48A3.36,3.36,0,0,1,3,3,3.37,3.37,0,0,1,5.5,2h21A3.38,3.38,0,0,1,29,3a3.36,3.36,0,0,1,1,2.46V26.37a3.35,3.35,0,0,1-1,2.47A3.38,3.38,0,0,1,26.49,29.86Zm-5.38-6.71a.79.79,0,0,0,.85-.66L24.73,9.24a.55.55,0,0,0-.18-.46.62.62,0,0,0-.41-.17q-.08,0-16.53,6.11a.59.59,0,0,0-.41.59.57.57,0,0,0,.43.52l4,1.24,1.61,4.83a.62.62,0,0,0,.63.43.56.56,0,0,0,.4-.17L16.54,20l4.09,3A.9.9,0,0,0,21.11,23.15ZM13.8,20.71l-1.21-4q8.72-5.55,8.78-5.55c.15,0,.23,0,.23.16a.18.18,0,0,1,0,.06s-2.51,2.3-7.52,6.8Z" />
@@ -557,8 +557,8 @@
         </a>
     </li>
     <li>
-        <a target="_blank" rel="noopener noreferrer" aria-label="share Instalación del Nodo Nano v28.1 on ycombinator"
-            href="https://news.ycombinator.com/submitlink?t=Instalaci%c3%b3n%20del%20Nodo%20Nano%20v28.1&u=http%3a%2f%2flocalhost%3a1313%2fblog%2fes%2fposts%2fnano-node-v28.1%2f">
+        <a target="_blank" rel="noopener noreferrer" aria-label="share Installing Nano Node v28.1 on ycombinator"
+            href="https://news.ycombinator.com/submitlink?t=Installing%20Nano%20Node%20v28.1&u=http%3a%2f%2flocalhost%3a1313%2fblog%2fen%2fposts%2fnano-node-v28.1%2f">
             <svg version="1.1" xml:space="preserve" width="30px" height="30px" viewBox="0 0 512 512" fill="currentColor"
                 xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
                 <path
@@ -574,7 +574,7 @@
     </main>
     
 <footer class="footer">
-        <span>&copy; 2025 <a href="http://localhost:1313/blog/es/">Blog de Eduardo Alemán</a></span> · 
+        <span>&copy; 2025 <a href="http://localhost:1313/blog/en/">Eduardo Alemán’s Blog</a></span> · 
 
     <span>
         Powered by
@@ -592,7 +592,7 @@
   document.addEventListener('DOMContentLoaded', function () {
     const blocks = document.querySelectorAll('pre > code');
 
-    const lang = "es";
+    const lang = "en";
     const textCopy = lang === "es" ? "Copiar" : "Copy";
     const textCopied = lang === "es" ? "¡Copiado!" : "Copied!";
 
@@ -694,7 +694,7 @@ pre {
   document.addEventListener('DOMContentLoaded', function () {
     const blocks = document.querySelectorAll('pre > code');
 
-    const lang = "es";
+    const lang = "en";
     const textCopy = lang === "es" ? "Copiar" : "Copy";
     const textCopied = lang === "es" ? "¡Copiado!" : "Copied!";
 
