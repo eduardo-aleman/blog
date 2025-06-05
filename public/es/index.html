@@ -195,6 +195,28 @@
 <article class="post-entry"> 
   <header class="entry-header">
     <h2 class="entry-hint-parent">
+      Instalación del Nodo Nano v28.1
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>🪙 Instalación y Configuración de Nodo Nano (V28.1) en Docker Este documento detalla el proceso completo de instalación, configuración y activación de un nodo Nano como representative, incluyendo importación de una wallet externa con seed.
+✅ Información general Versión del nodo: V28.1 Contenedor: Docker (docker compose) Sistema base: Ubuntu 24.04 (Noble) Puerto P2P abierto: 7075 TCP/UDP Cuenta representativa:
+nano_ie9a... Wallet ID:
+5D59... Seed:
+B9D32... Mnemonic (24 palabras):
+crash rabbit disease then daring nice park salad lamp bridge point human found tortoise paper nerve simple enjoy device add decorate trouble sister vast 🐳 Instalación de Docker y Docker Compose sudo apt update sudo apt install -y ca-certificates curl gnupg lsb-release # Clave GPG sudo install -m 0755 -d /etc/apt/keyrings curl -fsSL https://download.docker.com/linux/ubuntu/gpg | \ sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg # Repositorio para Ubuntu 24.04 (noble) echo \ &#34;deb [arch=$(dpkg --print-architecture) \ signed-by=/etc/apt/keyrings/docker.gpg] \ https://download.docker.com/linux/ubuntu \ noble stable&#34; | \ sudo tee /etc/apt/sources.list.d/docker.list &gt; /dev/null # Instalación final sudo apt update sudo apt install -y docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin 📦 Configuración del contenedor Nano mkdir -p ~/nano-node-docker cd ~/nano-node-docker docker-compose.yml services: nano_node: image: nanocurrency/nano:V28.1 container_name: nano_node restart: unless-stopped ports: - &#34;7075:7075/tcp&#34; - &#34;7075:7075/udp&#34; volumes: - ./data:/root/Nano sudo docker compose up -d 🔐 Importación de wallet y cuenta 1. Acceder al contenedor sudo docker exec -it nano_node bash 2. Crear wallet nano_node --wallet_create # Resultado: # 4D... 3. Importar seed nano_node --wallet_change_seed \ --wallet=4D... \ --seed=P6AD... 4. Crear cuenta derivada (desde el seed) nano_node --account_create \ --wallet=4D... # Resultado: # nano_7... 🗳️ Establecer cuenta como Representative nano_node --wallet_representative_set \ --wallet=4D... \ --account=nano_7... nano_node --account_representative_set \ --account=nano_7... \ --representative=nano_7... 💾 Respaldo manual del archivo wallets.ldb cp ~/nano-node-docker/data/Nano/wallets.ldb ~/wallets-respaldo.ldb 🧪 Verificación del nodo sudo docker logs -f nano_node sudo docker exec -it nano_node bash nano_node --diagnostics 📌 Notas La wallet importada es completamente funcional dentro del nodo. La cuenta ya está registrada como representative. El archivo wallets.ldb contiene todas las claves derivadas del seed. Apéndice: Verificación manual del nodo Nano (sin scripts) ✅ 1. Verificar que el contenedor está corriendo sudo docker ps Debe mostrar una línea como:
+…</p>
+  </div>
+  <footer class="entry-footer"><span title='2025-06-04 00:00:00 +0000 UTC'>junio 04 2025</span>&nbsp;·&nbsp;3 minutos
+    &nbsp;·&nbsp;<a class="meta-link" href="/blog/en/nano-node-v28.1/">English</a>
+
+
+  </footer>
+  <a class="entry-link" href="http://localhost:1313/blog/es/posts/nano-node-v28.1/" aria-label="Leer más sobre Instalación del Nodo Nano v28.1"></a>
+</article>
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">
       Diferencias entre XML, Markdown y HTML: usos y dificultades de conversión
     </h2>
   </header>
@@ -203,6 +225,9 @@
 …</p>
   </div>
   <footer class="entry-footer"><span title='2025-06-02 00:00:00 +0000 UTC'>junio 02 2025</span>&nbsp;·&nbsp;3 minutos
+    &nbsp;·&nbsp;<a class="meta-link" href="/blog/en/posts/xml-markdown-html/">English</a>
+
+
   </footer>
   <a class="entry-link" href="http://localhost:1313/blog/es/posts/xml-markdown-html/" aria-label="Leer más sobre Diferencias entre XML, Markdown y HTML: usos y dificultades de conversión"></a>
 </article>
@@ -218,6 +243,9 @@
 …</p>
   </div>
   <footer class="entry-footer"><span title='2025-05-29 00:00:00 +0000 UTC'>mayo 29 2025</span>&nbsp;·&nbsp;3 minutos
+    &nbsp;·&nbsp;<a class="meta-link" href="/blog/en/posts/ubuntu-server-hardening/">English</a>
+
+
   </footer>
   <a class="entry-link" href="http://localhost:1313/blog/es/posts/endurecimiento-servidor-ubuntu/" aria-label="Leer más sobre Endurecimiento de un servidor Ubuntu: pasos esenciales"></a>
 </article>
@@ -233,6 +261,9 @@
 …</p>
   </div>
   <footer class="entry-footer"><span title='2025-05-27 00:00:00 +0000 UTC'>mayo 27 2025</span>&nbsp;·&nbsp;3 minutos
+    &nbsp;·&nbsp;<a class="meta-link" href="/blog/en/posts/nano-node/">English</a>
+
+
   </footer>
   <a class="entry-link" href="http://localhost:1313/blog/es/posts/nano-node/" aria-label="Leer más sobre Comandos útiles con RPC para un nodo Nano"></a>
 </article>
@@ -256,6 +287,8 @@ Un Testigo Clave: El Manuscrito Más Antiguo Conservado de Tucídides
 …</p>
   </div>
   <footer class="entry-footer"><span title='2025-04-27 00:00:00 +0000 UTC'>abril 27 2025</span>&nbsp;·&nbsp;3 minutos
+
+
   </footer>
   <a class="entry-link" href="http://localhost:1313/blog/es/posts/plut.69.2/" aria-label="Leer más sobre Plut. 69.2 y la transmisión del texto de Tucídides"></a>
 </article>
@@ -271,6 +304,8 @@ Comenzamos nuestro viaje hacia la naturaleza de la computación con un paseo por
 …</p>
   </div>
   <footer class="entry-footer"><span title='2025-04-20 00:00:00 +0000 UTC'>abril 20 2025</span>&nbsp;·&nbsp;6 minutos
+
+
   </footer>
   <a class="entry-link" href="http://localhost:1313/blog/es/posts/la-naturaleza-de-la-computaci%C3%B3n/" aria-label="Leer más sobre La naturaleza de la computación (Cristopher Moore y  Stephan Mertens)."></a>
 </article>
@@ -285,6 +320,8 @@ Comenzamos nuestro viaje hacia la naturaleza de la computación con un paseo por
 …</p>
   </div>
   <footer class="entry-footer"><span title='2025-04-11 00:00:00 +0000 UTC'>abril 11 2025</span>&nbsp;·&nbsp;5 minutos
+
+
   </footer>
   <a class="entry-link" href="http://localhost:1313/blog/es/posts/violencia-civilizacion/" aria-label="Leer más sobre De Alejandro a Ucrania: los trabajos de la guerra y la ilusión de la concordia"></a>
 </article>
@@ -308,6 +345,8 @@ En una de sus famosas conferencias de física, Richard Feynman dedica una clase 
 …</p>
   </div>
   <footer class="entry-footer"><span title='2025-04-10 00:00:00 +0000 UTC'>abril 10 2025</span>&nbsp;·&nbsp;4 minutos
+
+
   </footer>
   <a class="entry-link" href="http://localhost:1313/blog/es/posts/identidad-de-euler/" aria-label="Leer más sobre La identidad de Euler"></a>
 </article>
@@ -326,6 +365,8 @@ El ser no es un objeto del pensamiento. El pensar del ser no es cálculo ni prod
 …</p>
   </div>
   <footer class="entry-footer"><span title='2025-03-27 00:00:00 +0000 UTC'>marzo 27 2025</span>&nbsp;·&nbsp;3 minutos
+
+
   </footer>
   <a class="entry-link" href="http://localhost:1313/blog/es/posts/el-pensar-del-ser-en-heidegger/" aria-label="Leer más sobre El pensar del ser en Heidegger"></a>
 </article>
@@ -339,22 +380,10 @@ El ser no es un objeto del pensamiento. El pensar del ser no es cálculo ni prod
     <p>Desde la psychē platónica hasta la teoría cuántica de Penrose, este ensayo traza una historia intelectual de la noción de alma y su vínculo con las teorías modernas de la consciencia.</p>
   </div>
   <footer class="entry-footer"><span title='2025-03-15 00:00:00 +0000 UTC'>marzo 15 2025</span>&nbsp;·&nbsp;5 minutos
+
+
   </footer>
   <a class="entry-link" href="http://localhost:1313/blog/es/posts/de-platon-a-penrose/" aria-label="Leer más sobre De Platón a Penrose: una historia intelectual del alma y la consciencia"></a>
-</article>
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">
-      La regla de los árboles de Leonardo da Vinci
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Los Cuadernos de Leonardo da Vinci, escritos entre 1478 y 1518, ofrecen una ventana privilegiada al pensamiento de uno de los genios más versátiles y profundos del Renacimiento. A lo largo de unas 13.000 páginas —dispersas hoy en varias colecciones conocidas como códices— Leonardo dejó constancia de su inagotable curiosidad intelectual y capacidad de observación: diseños de máquinas de guerra y de vuelo (como el célebre helicóptero o la ballesta gigante), estudios anatómicos, reflexiones filosóficas, teorías ópticas y pictóricas, y hasta listas de vocabulario científico y técnico.
-…</p>
-  </div>
-  <footer class="entry-footer"><span title='2025-02-01 00:00:00 +0000 UTC'>febrero 01 2025</span>&nbsp;·&nbsp;3 minutos
-  </footer>
-  <a class="entry-link" href="http://localhost:1313/blog/es/posts/da-vinci/" aria-label="Leer más sobre La regla de los árboles de Leonardo da Vinci"></a>
 </article>
 <footer class="page-footer">
   <nav class="pagination">

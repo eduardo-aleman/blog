@@ -43,7 +43,7 @@
     <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}…{{ end }}</p>
   </div>
   <footer class="entry-footer">
-    {{- partial "post_meta.html" . }}
+    {{- partial "post-meta.html" . }}
   </footer>
   <a class="entry-link" href="{{ .Permalink }}" aria-label="Leer más sobre {{ .Title }}"></a>
 </article>

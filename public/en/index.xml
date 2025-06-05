@@ -6,8 +6,15 @@
     <description>Recent content on Eduardo Alemán’s Blog</description>
     <generator>Hugo -- 0.147.7</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installing Nano Node v28.1</title>
+      <link>http://localhost:1313/blog/en/nano-node-v28.1/</link>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/en/nano-node-v28.1/</guid>
+      <description>A complete guide to installing a Nano node version 28.1 with Docker, setting up a wallet, and integrating into the network.</description>
+    </item>
     <item>
       <title>Differences Between XML, Markdown, and HTML: Uses and Conversion Challenges</title>
       <link>http://localhost:1313/blog/en/posts/xml-markdown-html/</link>
