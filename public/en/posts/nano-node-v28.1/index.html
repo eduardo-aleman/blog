@@ -307,12 +307,11 @@
                     <a href="#-manual-verification-of-the-nano-node" aria-label="🧭 Manual Verification of the Nano Node">🧭 Manual Verification of the Nano Node</a><ul>
                         
                 <li>
-                    <a href="#-recommendation" aria-label="📝 Recommendation">📝 Recommendation</a></li>
+                    <a href="#-recommendation" aria-label="📝 Recommendation">📝 Recommendation</a></li></ul>
+                </li>
                 <li>
                     <a href="#-disclaimer" aria-label="⚠️ Disclaimer">⚠️ Disclaimer</a>
                 </li>
-            </ul>
-            </li>
             </ul>
         </div>
     </details>
@@ -366,15 +365,15 @@
 </span></span><span style="display:flex;"><span>cd ~/nano-node-docker
 </span></span></code></pre></div><h3 id="docker-composeyml"><code>docker-compose.yml</code><a hidden class="anchor" aria-hidden="true" href="#docker-composeyml">#</a></h3>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yaml" data-lang="yaml"><span style="display:flex;"><span><span style="color:#f92672">services</span>:
-</span></span><span style="display:flex;"><span> <span style="color:#f92672">nano_node</span>:
-</span></span><span style="display:flex;"><span>   <span style="color:#f92672">image</span>: <span style="color:#ae81ff">nanocurrency/nano:V28.1</span>
-</span></span><span style="display:flex;"><span>   <span style="color:#f92672">container_name</span>: <span style="color:#ae81ff">nano_node</span>
-</span></span><span style="display:flex;"><span>   <span style="color:#f92672">restart</span>: <span style="color:#ae81ff">unless-stopped</span>
-</span></span><span style="display:flex;"><span>   <span style="color:#f92672">ports</span>:
-</span></span><span style="display:flex;"><span>     - <span style="color:#e6db74">&#34;7075:7075/tcp&#34;</span>
-</span></span><span style="display:flex;"><span>     - <span style="color:#e6db74">&#34;7075:7075/udp&#34;</span>
-</span></span><span style="display:flex;"><span>   <span style="color:#f92672">volumes</span>:
-</span></span><span style="display:flex;"><span>     - <span style="color:#ae81ff">./data:/root/Nano</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">nano_node</span>:
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">image</span>: <span style="color:#ae81ff">nanocurrency/nano:V28.1</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">container_name</span>: <span style="color:#ae81ff">nano_node</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">restart</span>: <span style="color:#ae81ff">unless-stopped</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">ports</span>:
+</span></span><span style="display:flex;"><span>      - <span style="color:#e6db74">&#34;7075:7075/tcp&#34;</span>
+</span></span><span style="display:flex;"><span>      - <span style="color:#e6db74">&#34;7075:7075/udp&#34;</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">volumes</span>:
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">./data:/root/Nano</span>
 </span></span></code></pre></div><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo docker compose up -d
 </span></span></code></pre></div><hr>
 <h2 id="-wallet-and-account-import">🔐 Wallet and account import<a hidden class="anchor" aria-hidden="true" href="#-wallet-and-account-import">#</a></h2>
@@ -483,7 +482,7 @@
 -✅ Connected
 -✅ Operational
 -✅ Active on the Nano network</p>
-<h2 id="-disclaimer">⚠️ Disclaimer<a hidden class="anchor" aria-hidden="true" href="#-disclaimer">#</a></h2>
+<h1 id="-disclaimer">⚠️ Disclaimer<a hidden class="anchor" aria-hidden="true" href="#-disclaimer">#</a></h1>
 <p>This guide was created to document practical commands to interact with a self-hosted Nano node via its JSON-RPC API. While its content has been carefully verified, <strong>its behavior is not guaranteed in all environments</strong> or custom configurations.</p>
 <p><strong>Use these commands at your own risk.</strong> Always make backups before changing sensitive settings or handling private keys.</p>
 <p>For issues or help, refer to the <a href="https://docs.nano.org/">official Nano documentation</a> or the community forums.</p>

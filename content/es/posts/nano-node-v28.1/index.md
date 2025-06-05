@@ -3,17 +3,17 @@ title: "Instalación del Nodo Nano v28.1"
 translationKey: nano-node-v28-1
 date: 2025-06-04
 draft: false
-tags: 
-    - Nano
-    - Criptomonedas
-    - Nodo
-    - Docker
-    - Seguridad
-categories: 
-    - Tecnología
-    - Referencia
-    - Blockchain
-    - Infraestructura
+tags:
+  - Nano
+  - Criptomonedas
+  - Nodo
+  - Docker
+  - Seguridad
+categories:
+  - Tecnología
+  - Referencia
+  - Blockchain
+  - Infraestructura
 description: "Guía completa para instalar un nodo Nano versión 28.1 con Docker, configurar una wallet e integrarse a la red."
 ---
 
@@ -234,15 +234,16 @@ Salida esperada:
 ```
 
 # 🧭 Verificación Manual del Nodo Nano
+
 Última actualización: 2025-06-05 03:37:44
 
 Verifica manualmente que el nodo esté activo, sin scripts ni monitoreo externo.
 
-| Nº | Comando                                                                 | Qué verifica                                                | Resultado esperado                                |
-|----|-------------------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------------|
-| 1  | `sudo docker ps`                                                        | Que el contenedor esté corriendo                            | Línea con `nano_node` y estado `Up`              |
-| 2  | `sudo docker exec -it nano_node tail -n 20 /root/Nano/log/node.log`    | Que el nodo esté generando logs recientes                   | Líneas recientes con actividad (`monitor`, etc.) |
-| 3  | `sudo docker exec -it nano_node grep Peers /root/Nano/log/node.log \| tail -n 1` | Que el nodo esté conectado a otros nodos                     | Algo como `Peers: 166 (inbound: 72 ...)`         |
+| Nº  | Comando                                                                          | Qué verifica                              | Resultado esperado                               |
+| --- | -------------------------------------------------------------------------------- | ----------------------------------------- | ------------------------------------------------ |
+| 1   | `sudo docker ps`                                                                 | Que el contenedor esté corriendo          | Línea con `nano_node` y estado `Up`              |
+| 2   | `sudo docker exec -it nano_node tail -n 20 /root/Nano/log/node.log`              | Que el nodo esté generando logs recientes | Líneas recientes con actividad (`monitor`, etc.) |
+| 3   | `sudo docker exec -it nano_node grep Peers /root/Nano/log/node.log \| tail -n 1` | Que el nodo esté conectado a otros nodos  | Algo como `Peers: 166 (inbound: 72 ...)`         |
 
 ---
 
@@ -250,16 +251,16 @@ Verifica manualmente que el nodo esté activo, sin scripts ni monitoreo externo.
 
 Realiza esta revisión al menos **una vez al día** si no tienes supervisión automática.
 
-
 ---
 
 Estas verificaciones aseguran que el nodo está:
+
 - ✅ Sincronizado
 - ✅ Conectado
 - ✅ Operativo
 - ✅ Activo en la red Nano
 
-## ⚠️ Aviso de responsabilidad
+# ⚠️ Aviso de responsabilidad
 
 Esta guía ha sido elaborada con el objetivo de documentar comandos prácticos para interactuar con un nodo Nano autoalojado mediante su API JSON-RPC. Aunque se ha verificado cuidadosamente su contenido, **no se garantiza su funcionamiento en todos los entornos** o configuraciones particulares.
 
