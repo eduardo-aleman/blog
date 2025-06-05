@@ -25,8 +25,15 @@
     <item>
       <title>Referencia</title>
       <link>http://localhost:1313/blog/es/categories/referencia/</link>
-      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/es/categories/referencia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tecnología</title>
+      <link>http://localhost:1313/blog/es/categories/tecnolog%C3%ADa/</link>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/categories/tecnolog%C3%ADa/</guid>
       <description></description>
     </item>
     <item>
@@ -34,13 +41,6 @@
       <link>http://localhost:1313/blog/es/categories/seguridad/</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/es/categories/seguridad/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tecnología</title>
-      <link>http://localhost:1313/blog/es/categories/tecnolog%C3%ADa/</link>
-      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/es/categories/tecnolog%C3%ADa/</guid>
       <description></description>
     </item>
     <item>

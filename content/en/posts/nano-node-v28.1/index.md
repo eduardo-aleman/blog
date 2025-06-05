@@ -9,9 +9,12 @@ tags:
    - Node
    - Docker
    - Security
+   - Ubuntu
 categories:
    - Blockchain
    - Infrastructure
+   - Technology
+   - Reference
 description: "A complete guide to installing a Nano node version 28.1 with Docker, setting up a wallet, and integrating into the network."
 ---
 

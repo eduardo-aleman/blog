@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
 <title>Useful RPC Commands for a Nano Node | Eduardo Alemán’s Blog</title>
-<meta name="keywords" content="Nano, Blockchain, RPC, Cryptocurrency, Node, Docker">
+<meta name="keywords" content="Nano, Blockchain, RPC, Cryptocurrency, Node, Docker, Ubuntu, Security">
 <meta name="description" content="Overview of available actions through the JSON-RPC API on a self-hosted Nano node.">
 <meta name="author" content="">
 <link rel="canonical" href="http://localhost:1313/blog/en/posts/nano-node/">
@@ -112,7 +112,7 @@
   "name": "Useful RPC Commands for a Nano Node",
   "description": "Overview of available actions through the JSON-RPC API on a self-hosted Nano node.",
   "keywords": [
-    "Nano", "Blockchain", "RPC", "Cryptocurrency", "Node", "Docker"
+    "Nano", "Blockchain", "RPC", "Cryptocurrency", "Node", "Docker", "Ubuntu", "Security"
   ],
   "articleBody": "Once the Nano node is running and port 7076 is enabled, you can interact with it using HTTP POST requests via the JSON-RPC protocol. Below is a collection of useful commands organized by topic, with inline comments and ready to copy.\n🔍 Node Status 🔹 Node version # Get node and protocol version curl -d '{ \"action\": \"version\" }' -H \"Content-Type: application/json\" http://127.0.0.1:7076 🔹 Basic telemetry # Get general health status of the node curl -d '{ \"action\": \"telemetry\" }' -H \"Content-Type: application/json\" http://127.0.0.1:7076 🔹 Block count # Check total number of blocks on the network curl -d '{ \"action\": \"block_count\" }' -H \"Content-Type: application/json\" http://127.0.0.1:7076 🧭 Network and Peers 🔹 List connected peers # View all peers currently connected to the node curl -d '{ \"action\": \"peers\" }' -H \"Content-Type: application/json\" http://127.0.0.1:7076 🔹 Add a peer manually # Manually add a peer to the node's connection list curl -d '{ \"action\": \"peer_add\", \"address\": \"peering.nano.org\", \"port\": \"7075\" }' \\ -H \"Content-Type: application/json\" http://127.0.0.1:7076 🔐 Accounts and Wallets 🔹 List existing wallets # Show all wallets in the local node curl -d '{ \"action\": \"wallet_list\" }' -H \"Content-Type: application/json\" http://127.0.0.1:7076 🔹 Create a new wallet # Generate a new empty wallet curl -d '{ \"action\": \"wallet_create\" }' -H \"Content-Type: application/json\" http://127.0.0.1:7076 🔹 Create an account in a wallet # Create a new account from the given wallet curl -d '{ \"action\": \"account_create\", \"wallet\": \"\" }' \\ -H \"Content-Type: application/json\" http://127.0.0.1:7076 🔹 Add a private key to a wallet # Import a private key into an existing wallet curl -d '{ \"action\": \"wallet_add\", \"wallet\": \"\", \"key\": \"\" }' \\ -H \"Content-Type: application/json\" http://127.0.0.1:7076 💬 Account Information 🔹 Check balance # Get the available balance of an account curl -d '{ \"action\": \"account_balance\", \"account\": \"\" }' \\ -H \"Content-Type: application/json\" http://127.0.0.1:7076 🔹 Account details # Get general account info (open block, representative, etc.) curl -d '{ \"action\": \"account_info\", \"account\": \"\" }' \\ -H \"Content-Type: application/json\" http://127.0.0.1:7076 🛠 Administration 🔹 Online representatives # View list of connected and online representatives curl -d '{ \"action\": \"representatives_online\" }' \\ -H \"Content-Type: application/json\" http://127.0.0.1:7076 🔹 Manual bootstrap # Start a bootstrap from any available source curl -d '{ \"action\": \"bootstrap_any\" }' \\ -H \"Content-Type: application/json\" http://127.0.0.1:7076 🗂 Resources Official RPC Documentation NanoLooker Explorer Public Node Directory Last updated: 2025-05-27\n⚠️ Disclaimer This guide was created to document practical commands to interact with a self-hosted Nano node via its JSON-RPC API. While its content has been carefully verified, its behavior is not guaranteed in all environments or custom configurations.\nUse these commands at your own risk. Always make backups before changing sensitive settings or handling private keys.\nFor issues or help, refer to the official Nano documentation or the community forums.\n",
   "wordCount" : "453",
@@ -394,6 +394,8 @@
         <li><a href="http://localhost:1313/blog/en/tags/cryptocurrency/">Cryptocurrency</a></li>
         <li><a href="http://localhost:1313/blog/en/tags/node/">Node</a></li>
         <li><a href="http://localhost:1313/blog/en/tags/docker/">Docker</a></li>
+        <li><a href="http://localhost:1313/blog/en/tags/ubuntu/">Ubuntu</a></li>
+        <li><a href="http://localhost:1313/blog/en/tags/security/">Security</a></li>
     </ul>
 
   <div style="margin-top: 1rem;">
@@ -401,7 +403,7 @@
 <ul class="share-buttons">
     <li>
         <a target="_blank" rel="noopener noreferrer" aria-label="share Useful RPC Commands for a Nano Node on x"
-            href="https://x.com/intent/tweet/?text=Useful%20RPC%20Commands%20for%20a%20Nano%20Node&amp;url=http%3a%2f%2flocalhost%3a1313%2fblog%2fen%2fposts%2fnano-node%2f&amp;hashtags=Nano%2cBlockchain%2cRPC%2cCryptocurrency%2cNode%2cDocker">
+            href="https://x.com/intent/tweet/?text=Useful%20RPC%20Commands%20for%20a%20Nano%20Node&amp;url=http%3a%2f%2flocalhost%3a1313%2fblog%2fen%2fposts%2fnano-node%2f&amp;hashtags=Nano%2cBlockchain%2cRPC%2cCryptocurrency%2cNode%2cDocker%2cUbuntu%2cSecurity">
             <svg version="1.1" viewBox="0 0 512 512" xml:space="preserve" height="30px" width="30px" fill="currentColor">
                 <path
                     d="M512 62.554 L 512 449.446 C 512 483.97 483.97 512 449.446 512 L 62.554 512 C 28.03 512 0 483.97 0 449.446 L 0 62.554 C 0 28.03 28.029 0 62.554 0 L 449.446 0 C 483.971 0 512 28.03 512 62.554 Z M 269.951 190.75 L 182.567 75.216 L 56 75.216 L 207.216 272.95 L 63.9 436.783 L 125.266 436.783 L 235.9 310.383 L 332.567 436.783 L 456 436.783 L 298.367 228.367 L 432.367 75.216 L 371.033 75.216 Z M 127.633 110 L 164.101 110 L 383.481 400.065 L 349.5 400.065 Z" />

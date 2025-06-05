@@ -5,6 +5,8 @@ date: 2025-05-27
 categories:
 - Technology
 - Reference
+- Blockchain
+- Infrastructure
 draft: false
 tags:
 - Nano
@@ -13,6 +15,8 @@ tags:
 - Cryptocurrency
 - Node
 - Docker
+- Ubuntu
+- Security
 draft: false
 translationKey: nano-node
 ---

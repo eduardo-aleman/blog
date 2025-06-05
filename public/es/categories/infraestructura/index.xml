@@ -15,5 +15,12 @@
       <guid>http://localhost:1313/blog/es/posts/nano-node-v28.1/</guid>
       <description>Guía completa para instalar un nodo Nano versión 28.1 con Docker, configurar una wallet e integrarse a la red.</description>
     </item>
+    <item>
+      <title>Comandos útiles con RPC para un nodo Nano</title>
+      <link>http://localhost:1313/blog/es/posts/nano-node/</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/posts/nano-node/</guid>
+      <description>Resumen de acciones disponibles mediante la API JSON-RPC en un nodo Nano autoalojado.</description>
+    </item>
   </channel>
 </rss>

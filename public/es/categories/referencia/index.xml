@@ -6,8 +6,15 @@
     <description>Recent content in Referencia on Blog de Eduardo Alemán</description>
     <generator>Hugo -- 0.147.7</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 29 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/es/categories/referencia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Instalación del Nodo Nano v28.1</title>
+      <link>http://localhost:1313/blog/es/posts/nano-node-v28.1/</link>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/posts/nano-node-v28.1/</guid>
+      <description>Guía completa para instalar un nodo Nano versión 28.1 con Docker, configurar una wallet e integrarse a la red.</description>
+    </item>
     <item>
       <title>Endurecimiento de un servidor Ubuntu: pasos esenciales</title>
       <link>http://localhost:1313/blog/es/posts/endurecimiento-servidor-ubuntu/</link>

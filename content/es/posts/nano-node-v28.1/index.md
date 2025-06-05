@@ -10,6 +10,8 @@ tags:
     - Docker
     - Seguridad
 categories: 
+    - Tecnología
+    - Referencia
     - Blockchain
     - Infraestructura
 description: "Guía completa para instalar un nodo Nano versión 28.1 con Docker, configurar una wallet e integrarse a la red."

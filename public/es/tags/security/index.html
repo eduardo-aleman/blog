@@ -5,11 +5,11 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
-<title>Blockchain | Blog de Eduardo Alemán</title>
+<title>Security | Blog de Eduardo Alemán</title>
 <meta name="keywords" content="">
 <meta name="description" content="Blog en español de Eduardo Alemán.">
 <meta name="author" content="">
-<link rel="canonical" href="http://localhost:1313/blog/es/categories/blockchain/">
+<link rel="canonical" href="http://localhost:1313/blog/es/tags/security/">
 <link crossorigin="anonymous" href="/blog/assets/css/stylesheet.a8501b4e1544bf104a4e2647be64df3637f95b6ac25a4298047d87fe0eacffa1.css" integrity="sha256-qFAbThVEvxBKTiZHvmTfNjf5W2rCWkKYBH2H/g6s/6E=" rel="preload stylesheet" as="style">
 <link rel="icon" href="http://localhost:1313/blog/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/blog/favicon-16x16.png">
@@ -18,9 +18,9 @@
 <link rel="mask-icon" href="http://localhost:1313/blog/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/blog/es/categories/blockchain/index.xml">
-<link rel="alternate" hreflang="es" href="http://localhost:1313/blog/es/categories/blockchain/">
-<link rel="alternate" hreflang="en" href="http://localhost:1313/blog/en/categories/blockchain/">
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/blog/es/tags/security/index.xml">
+<link rel="alternate" hreflang="es" href="http://localhost:1313/blog/es/tags/security/">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/blog/en/tags/security/">
 <noscript>
     <style>
         #theme-toggle,
@@ -65,14 +65,14 @@
 
 
 
-<meta property="og:url" content="http://localhost:1313/blog/es/categories/blockchain/">
+<meta property="og:url" content="http://localhost:1313/blog/es/tags/security/">
   <meta property="og:site_name" content="Blog de Eduardo Alemán">
-  <meta property="og:title" content="Blockchain">
+  <meta property="og:title" content="Security">
   <meta property="og:description" content="Blog en español de Eduardo Alemán.">
   <meta property="og:locale" content="es">
   <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Blockchain">
+<meta name="twitter:title" content="Security">
 <meta name="twitter:description" content="Blog en español de Eduardo Alemán.">
 
 
@@ -175,30 +175,8 @@
 </header>
 <main class="main">
 <header class="page-header">
-  <h1>Blockchain</h1>
+  <h1>Security</h1>
 </header>
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">
-      Instalación del Nodo Nano v28.1
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>🪙 Instalación y Configuración de Nodo Nano (V28.1) en Docker Este documento detalla el proceso completo de instalación, configuración y activación de un nodo Nano como representative, incluyendo importación de una wallet externa con seed.
-✅ Información general Versión del nodo: V28.1 Contenedor: Docker (docker compose) Sistema base: Ubuntu 24.04 (Noble) Puerto P2P abierto: 7075 TCP/UDP Cuenta representativa:
-nano_ie9a... Wallet ID:
-5D59... Seed:
-B9D32... Mnemonic (24 palabras):
-crash rabbit disease then daring nice park salad lamp bridge point human found tortoise paper nerve simple enjoy device add decorate trouble sister vast 🐳 Instalación de Docker y Docker Compose sudo apt update sudo apt install -y ca-certificates curl gnupg lsb-release # Clave GPG sudo install -m 0755 -d /etc/apt/keyrings curl -fsSL https://download.docker.com/linux/ubuntu/gpg | \ sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg # Repositorio para Ubuntu 24.04 (noble) echo \ &#34;deb [arch=$(dpkg --print-architecture) \ signed-by=/etc/apt/keyrings/docker.gpg] \ https://download.docker.com/linux/ubuntu \ noble stable&#34; | \ sudo tee /etc/apt/sources.list.d/docker.list &gt; /dev/null # Instalación final sudo apt update sudo apt install -y docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin 📦 Configuración del contenedor Nano mkdir -p ~/nano-node-docker cd ~/nano-node-docker docker-compose.yml services: nano_node: image: nanocurrency/nano:V28.1 container_name: nano_node restart: unless-stopped ports: - &#34;7075:7075/tcp&#34; - &#34;7075:7075/udp&#34; volumes: - ./data:/root/Nano sudo docker compose up -d 🔐 Importación de wallet y cuenta 1. Acceder al contenedor sudo docker exec -it nano_node bash 2. Crear wallet nano_node --wallet_create # Resultado: # 4D... 3. Importar seed nano_node --wallet_change_seed \ --wallet=4D... \ --seed=P6AD... 4. Crear cuenta derivada (desde el seed) nano_node --account_create \ --wallet=4D... # Resultado: # nano_7... 🗳️ Establecer cuenta como Representative nano_node --wallet_representative_set \ --wallet=4D... \ --account=nano_7... nano_node --account_representative_set \ --account=nano_7... \ --representative=nano_7... 💾 Respaldo manual del archivo wallets.ldb cp ~/nano-node-docker/data/Nano/wallets.ldb ~/wallets-respaldo.ldb 🧪 Verificación del nodo sudo docker logs -f nano_node sudo docker exec -it nano_node bash nano_node --diagnostics 📌 Notas La wallet importada es completamente funcional dentro del nodo. La cuenta ya está registrada como representative. El archivo wallets.ldb contiene todas las claves derivadas del seed. Apéndice: Verificación manual del nodo Nano (sin scripts) ✅ 1. Verificar que el contenedor está corriendo sudo docker ps Debe mostrar una línea como:
-…</p>
-  </div>
-  <footer class="entry-footer"><span title='2025-06-04 00:00:00 +0000 UTC'>junio 04 2025</span>&nbsp;·&nbsp;3 minutos
-    &nbsp;·&nbsp;<a class="meta-link" href="/blog/en/posts/nano-node-v28.1/">English</a>
-
-
-  </footer>
-  <a class="entry-link" href="http://localhost:1313/blog/es/posts/nano-node-v28.1/" aria-label="Leer más sobre Instalación del Nodo Nano v28.1"></a>
-</article>
 <article class="post-entry"> 
   <header class="entry-header">
     <h2 class="entry-hint-parent">
