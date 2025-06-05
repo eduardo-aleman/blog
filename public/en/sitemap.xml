@@ -107,16 +107,6 @@
   </url><url>
     <loc>http://localhost:1313/blog/en/tags/security/</loc>
     <lastmod>2025-06-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/blog/es/tags/security/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/en/tags/security/"
-                />
   </url><url>
     <loc>http://localhost:1313/blog/en/tags/</loc>
     <lastmod>2025-06-04T00:00:00+00:00</lastmod>

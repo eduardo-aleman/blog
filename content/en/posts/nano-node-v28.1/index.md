@@ -3,6 +3,11 @@ title: "Installing Nano Node v28.1"
 translationKey: nano-node-v28-1
 date: 2025-06-04
 draft: false
+categories:
+  - Blockchain
+  - Infrastructure
+  - Technology
+  - Reference
 tags:
   - Nano
   - Cryptocurrencies
@@ -10,11 +15,7 @@ tags:
   - Docker
   - Security
   - Ubuntu
-categories:
-  - Blockchain
-  - Infrastructure
-  - Technology
-  - Reference
+
 description: "A complete guide to installing a Nano node version 28.1 with Docker, setting up a wallet, and integrating into the network."
 ---
 

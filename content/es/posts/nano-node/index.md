@@ -16,7 +16,7 @@ tags:
 - Nodo
 - Docker
 - Ubuntu
-- Security
+- Seguridad
 translationKey: nano-node
 ---
 

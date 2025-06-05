@@ -2,6 +2,11 @@
 title: "Instalación del Nodo Nano v28.1"
 translationKey: nano-node-v28-1
 date: 2025-06-04
+categories:
+  - Tecnología
+  - Referencia
+  - Blockchain
+  - Infraestructura
 draft: false
 tags:
   - Nano
@@ -9,11 +14,6 @@ tags:
   - Nodo
   - Docker
   - Seguridad
-categories:
-  - Tecnología
-  - Referencia
-  - Blockchain
-  - Infraestructura
 description: "Guía completa para instalar un nodo Nano versión 28.1 con Docker, configurar una wallet e integrarse a la red."
 ---
 
