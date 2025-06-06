@@ -30,13 +30,6 @@
       <description>Guía práctica para asegurar un servidor Ubuntu: desde deshabilitar el acceso root hasta configurar un ProxyJump reverso y autenticación en dos pasos.</description>
     </item>
     <item>
-      <title>Comandos útiles con RPC para un nodo Nano</title>
-      <link>http://localhost:1313/blog/es/posts/nano-node/</link>
-      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/es/posts/nano-node/</guid>
-      <description>Resumen de acciones disponibles mediante la API JSON-RPC en un nodo Nano autoalojado.</description>
-    </item>
-    <item>
       <title>Plut. 69.2 y la transmisión del texto de Tucídides</title>
       <link>http://localhost:1313/blog/es/posts/plut.69.2/</link>
       <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>

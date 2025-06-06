@@ -263,48 +263,6 @@
                 href="http://localhost:1313/blog/en/tags/ufw/"
                 />
   </url><url>
-    <loc>http://localhost:1313/blog/en/tags/blockchain/</loc>
-    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/blog/es/tags/blockchain/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/en/tags/blockchain/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/blog/en/tags/cryptocurrency/</loc>
-    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/en/tags/rpc/</loc>
-    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/blog/es/tags/rpc/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/en/tags/rpc/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/blog/en/posts/nano-node/</loc>
-    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/blog/es/posts/nano-node/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/en/posts/nano-node/"
-                />
-  </url><url>
     <loc>http://localhost:1313/blog/en/archives/</loc>
     <xhtml:link
                 rel="alternate"
@@ -329,8 +287,6 @@
                 href="http://localhost:1313/blog/en/search/"
                 />
   </url><url>
-    <loc>http://localhost:1313/blog/en/categories/security/</loc>
-  </url><url>
     <loc>http://localhost:1313/blog/en/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -342,7 +298,5 @@
                 hreflang="en"
                 href="http://localhost:1313/blog/en/series/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/blog/en/tags/ubuntu---security/</loc>
   </url>
 </urlset>

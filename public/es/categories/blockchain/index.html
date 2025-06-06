@@ -199,24 +199,6 @@ crash rabbit disease then daring nice park salad lamp bridge point human found t
   </footer>
   <a class="entry-link" href="http://localhost:1313/blog/es/posts/nano-node-v28.1/" aria-label="Leer más sobre Instalación del Nodo Nano v28.1"></a>
 </article>
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">
-      Comandos útiles con RPC para un nodo Nano
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Una vez que el nodo Nano está en ejecución y el puerto 7076 habilitado, es posible interactuar con él mediante peticiones HTTP POST usando el protocolo JSON-RPC. A continuación, se presenta una colección de comandos útiles organizados por temática, con ejemplos comentados y listos para copiar.
-🔍 Estado general del nodo 🔹 Versión del nodo # Obtener la versión del nodo y del protocolo curl -d &#39;{ &#34;action&#34;: &#34;version&#34; }&#39; -H &#34;Content-Type: application/json&#34; http://127.0.0.1:7076 🔹 Telemetría básica # Obtener datos generales del estado de salud del nodo curl -d &#39;{ &#34;action&#34;: &#34;telemetry&#34; }&#39; -H &#34;Content-Type: application/json&#34; http://127.0.0.1:7076 🔹 Conteo de bloques # Ver el número total de bloques en la red curl -d &#39;{ &#34;action&#34;: &#34;block_count&#34; }&#39; -H &#34;Content-Type: application/json&#34; http://127.0.0.1:7076 🧭 Red y Peers 🔹 Listar peers conectados # Ver todos los peers a los que está conectado el nodo curl -d &#39;{ &#34;action&#34;: &#34;peers&#34; }&#39; -H &#34;Content-Type: application/json&#34; http://127.0.0.1:7076 🔹 Agregar manualmente un peer # Agregar un peer manualmente a la lista de conexiones curl -d &#39;{ &#34;action&#34;: &#34;peer_add&#34;, &#34;address&#34;: &#34;peering.nano.org&#34;, &#34;port&#34;: &#34;7075&#34; }&#39; \ -H &#34;Content-Type: application/json&#34; http://127.0.0.1:7076 🔐 Cuentas y Wallets 🔹 Listar wallets existentes # Mostrar todos los wallets en el nodo curl -d &#39;{ &#34;action&#34;: &#34;wallet_list&#34; }&#39; -H &#34;Content-Type: application/json&#34; http://127.0.0.1:7076 🔹 Crear un nuevo wallet # Generar un nuevo wallet vacío curl -d &#39;{ &#34;action&#34;: &#34;wallet_create&#34; }&#39; -H &#34;Content-Type: application/json&#34; http://127.0.0.1:7076 🔹 Crear una cuenta dentro de un wallet # Crear una nueva cuenta a partir del wallet especificado curl -d &#39;{ &#34;action&#34;: &#34;account_create&#34;, &#34;wallet&#34;: &#34;&lt;WALLET_ID&gt;&#34; }&#39; \ -H &#34;Content-Type: application/json&#34; http://127.0.0.1:7076 🔹 Agregar clave privada a un wallet # Importar una clave privada en un wallet existente curl -d &#39;{ &#34;action&#34;: &#34;wallet_add&#34;, &#34;wallet&#34;: &#34;&lt;WALLET_ID&gt;&#34;, &#34;key&#34;: &#34;&lt;PRIVATE_KEY&gt;&#34; }&#39; \ -H &#34;Content-Type: application/json&#34; http://127.0.0.1:7076 💬 Información de cuentas 🔹 Consultar saldo # Obtener el saldo disponible de una cuenta curl -d &#39;{ &#34;action&#34;: &#34;account_balance&#34;, &#34;account&#34;: &#34;&lt;ACCOUNT_ID&gt;&#34; }&#39; \ -H &#34;Content-Type: application/json&#34; http://127.0.0.1:7076 🔹 Información detallada de la cuenta # Obtener información general de la cuenta (bloque abierto, representante, etc.) curl -d &#39;{ &#34;action&#34;: &#34;account_info&#34;, &#34;account&#34;: &#34;&lt;ACCOUNT_ID&gt;&#34; }&#39; \ -H &#34;Content-Type: application/json&#34; http://127.0.0.1:7076 🛠 Administración 🔹 Representantes activos # Ver la lista de representantes conectados y activos curl -d &#39;{ &#34;action&#34;: &#34;representatives_online&#34; }&#39; \ -H &#34;Content-Type: application/json&#34; http://127.0.0.1:7076 🔹 Bootstrap manual # Iniciar bootstrap manual desde cualquier fuente disponible curl -d &#39;{ &#34;action&#34;: &#34;bootstrap_any&#34; }&#39; \ -H &#34;Content-Type: application/json&#34; http://127.0.0.1:7076 🗂 Recursos Documentación oficial de RPC Nano Explorador de red NanoLooker Directorio de nodos públicos Última revisión: 2025-05-27
-…</p>
-  </div>
-  <footer class="entry-footer"><span title='2025-05-27 00:00:00 +0000 UTC'>mayo 27 2025</span>&nbsp;·&nbsp;3 minutos
-    &nbsp;·&nbsp;<a class="meta-link" href="/blog/en/posts/nano-node/">English</a>
-
-
-  </footer>
-  <a class="entry-link" href="http://localhost:1313/blog/es/posts/nano-node/" aria-label="Leer más sobre Comandos útiles con RPC para un nodo Nano"></a>
-</article>
     </main>
     
 <footer class="footer">
