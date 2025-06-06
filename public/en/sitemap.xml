@@ -234,9 +234,6 @@
                 href="http://localhost:1313/blog/en/tags/linux/"
                 />
   </url><url>
-    <loc>http://localhost:1313/blog/en/categories/security/</loc>
-    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/en/tags/servers/</loc>
     <lastmod>2025-05-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -332,6 +329,8 @@
                 href="http://localhost:1313/blog/en/search/"
                 />
   </url><url>
+    <loc>http://localhost:1313/blog/en/categories/security/</loc>
+  </url><url>
     <loc>http://localhost:1313/blog/en/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -343,5 +342,7 @@
                 hreflang="en"
                 href="http://localhost:1313/blog/en/series/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/blog/en/tags/ubuntu---security/</loc>
   </url>
 </urlset>

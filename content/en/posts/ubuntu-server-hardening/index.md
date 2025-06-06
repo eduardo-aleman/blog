@@ -3,7 +3,7 @@ title: "Hardening an Ubuntu Server: Essential Steps"
 date: 2025-05-29
 draft: false
 categories:
-  - Security
+
   - Technology
   - Reference
 tags: 
@@ -13,6 +13,7 @@ tags:
   - Linux 
   - Servers
   - Ubuntu
+  - Security
 description: "Practical guide to securing an Ubuntu server: from disabling root access to setting up reverse ProxyJump and two-factor authentication."
 translationKey: ubuntu-hardening
 ---

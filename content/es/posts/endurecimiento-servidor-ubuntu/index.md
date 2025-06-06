@@ -4,7 +4,6 @@ title: "Endurecimiento de un servidor Ubuntu: pasos esenciales"
 date: 2025-05-29
 draft: false
 categories:
-  - Seguridad
   - Tecnología 
   - Referencia
 tags: 
@@ -14,6 +13,7 @@ tags:
   - Linux 
   - Servidores
   - Ubuntu
+  - Seguridad
 description: "Guía práctica para asegurar un servidor Ubuntu: desde deshabilitar el acceso root hasta configurar un ProxyJump reverso y autenticación en dos pasos."
 translationKey: ubuntu-hardening
 ---

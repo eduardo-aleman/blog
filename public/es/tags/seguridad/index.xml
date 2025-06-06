@@ -16,6 +16,13 @@
       <description>Guía completa para instalar un nodo Nano versión 28.1 con Docker, configurar una wallet e integrarse a la red.</description>
     </item>
     <item>
+      <title>Endurecimiento de un servidor Ubuntu: pasos esenciales</title>
+      <link>http://localhost:1313/blog/es/posts/endurecimiento-servidor-ubuntu/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/posts/endurecimiento-servidor-ubuntu/</guid>
+      <description>Guía práctica para asegurar un servidor Ubuntu: desde deshabilitar el acceso root hasta configurar un ProxyJump reverso y autenticación en dos pasos.</description>
+    </item>
+    <item>
       <title>Comandos útiles con RPC para un nodo Nano</title>
       <link>http://localhost:1313/blog/es/posts/nano-node/</link>
       <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
