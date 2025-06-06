@@ -3,8 +3,6 @@ title: "Hardening an Ubuntu Server: Essential Steps"
 date: 2025-05-29
 draft: false
 categories:
-
-  - Technology
   - Reference
 tags: 
   - SSH

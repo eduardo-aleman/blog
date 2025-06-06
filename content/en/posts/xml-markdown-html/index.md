@@ -2,8 +2,7 @@
 title: "Differences Between XML, Markdown, and HTML: Uses and Conversion Challenges"
 date: 2025-06-02
 draft: false
-category: technology
-  - Technology
+category: 
   - Article
   - Reference
 tags:

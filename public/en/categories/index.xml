@@ -29,12 +29,5 @@
       <guid>http://localhost:1313/blog/en/categories/reference/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Technology</title>
-      <link>http://localhost:1313/blog/en/categories/technology/</link>
-      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/en/categories/technology/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

@@ -6,7 +6,6 @@ draft: false
 categories:
   - Blockchain
   - Infrastructure
-  - Technology
   - Reference
 tags:
   - Nano
