@@ -184,15 +184,11 @@
     </h2>
   </header>
   <div class="entry-content">
-    <p>🪙 Instalación y Configuración de Nodo Nano (V28.1) en Docker Este documento detalla el proceso completo de instalación, configuración y activación de un nodo Nano como representative, incluyendo importación de una wallet externa con seed.
-✅ Información general Versión del nodo: V28.1 Contenedor: Docker (docker compose) Sistema base: Ubuntu 24.04 (Noble) Puerto P2P abierto: 7075 TCP/UDP Cuenta representativa:
-nano_ie9a... Wallet ID:
-5D59... Seed:
-B9D32... Mnemonic (24 palabras):
-crash rabbit disease then daring nice park salad lamp bridge point human found tortoise paper nerve simple enjoy device add decorate trouble sister vast 🐳 Instalación de Docker y Docker Compose sudo apt update sudo apt install -y ca-certificates curl gnupg lsb-release # Clave GPG sudo install -m 0755 -d /etc/apt/keyrings curl -fsSL https://download.docker.com/linux/ubuntu/gpg | \ sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg # Repositorio para Ubuntu 24.04 (noble) echo \ &#34;deb [arch=$(dpkg --print-architecture) \ signed-by=/etc/apt/keyrings/docker.gpg] \ https://download.docker.com/linux/ubuntu \ noble stable&#34; | \ sudo tee /etc/apt/sources.list.d/docker.list &gt; /dev/null # Instalación final sudo apt update sudo apt install -y docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin 📦 Configuración del contenedor Nano mkdir -p ~/nano-node-docker cd ~/nano-node-docker docker-compose.yml services: nano_node: image: nanocurrency/nano:V28.1 container_name: nano_node restart: unless-stopped ports: - &#34;7075:7075/tcp&#34; - &#34;7075:7075/udp&#34; volumes: - ./data:/root/Nano sudo docker compose up -d 🔐 Importación de wallet y cuenta 1. Acceder al contenedor sudo docker exec -it nano_node bash 2. Crear wallet nano_node --wallet_create # Resultado: # 4D... 3. Importar seed nano_node --wallet_change_seed \ --wallet=4D... \ --seed=P6AD... 4. Crear cuenta derivada (desde el seed) nano_node --account_create \ --wallet=4D... # Resultado: # nano_7... 🗳️ Establecer cuenta como Representative nano_node --wallet_representative_set \ --wallet=4D... \ --account=nano_7... nano_node --account_representative_set \ --account=nano_7... \ --representative=nano_7... 💾 Respaldo manual del archivo wallets.ldb cp ~/nano-node-docker/data/Nano/wallets.ldb ~/wallets-respaldo.ldb 🧪 Verificación del nodo sudo docker logs -f nano_node sudo docker exec -it nano_node bash nano_node --diagnostics 📌 Notas La wallet importada es completamente funcional dentro del nodo. La cuenta ya está registrada como representative. El archivo wallets.ldb contiene todas las claves derivadas del seed. Apéndice: Verificación manual del nodo Nano ✅ 1. Verificar que el contenedor está corriendo sudo docker ps Debe mostrar una línea como:
+    <p>Nota importante Un nodo Nano almacena el libro mayor completo de transacciones. Si bien el equipo de Nano está experimentando con la poda (eliminación de datos históricos para reducir el espacio en disco), la principal forma de gestionar el almacenamiento de un nodo Nano es asegurarse de tener suficiente espacio disponible en el disco duro SSD.
+Requisitos de almacenamiento actuales Nodos representativos principales (más del 0,1 % del peso de la votación en línea): Requieren más de 400 GB de espacio libre en un SSD.
 …</p>
   </div>
-  <footer class="entry-footer"><span title='2025-06-04 00:00:00 +0000 UTC'>junio 04 2025</span>&nbsp;·&nbsp;3 minutos
+  <footer class="entry-footer"><span title='2025-06-04 00:00:00 +0000 UTC'>junio 04 2025</span>&nbsp;·&nbsp;5 minutos
     &nbsp;·&nbsp;<a class="meta-link" href="/blog/en/posts/nano-node-v28.1/">English</a>
 
 

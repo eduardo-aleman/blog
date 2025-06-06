@@ -17,9 +17,33 @@ tags:
 description: "Guía completa para instalar un nodo Nano versión 28.1 con Docker, configurar una wallet e integrarse a la red."
 ---
 
-# 🪙 Instalación y Configuración de Nodo Nano (V28.1) en Docker
+## Nota importante
 
-Este documento detalla el proceso completo de instalación, configuración y activación de un nodo Nano como representative, incluyendo importación de una wallet externa con seed.
+Un nodo Nano almacena el libro mayor completo de transacciones. Si bien el equipo de Nano está experimentando con la poda (eliminación de datos históricos para reducir el espacio en disco), la principal forma de gestionar el almacenamiento de un nodo Nano es asegurarse de tener suficiente espacio disponible en el disco duro SSD.
+
+## Requisitos de almacenamiento actuales
+
+- Nodos representativos principales (más del 0,1 % del peso de la votación en línea): Requieren más de 400 GB de espacio libre en un SSD.
+
+- Nodos representativos regulares y sin derecho a voto: También requieren más de 400 GB de espacio libre en un SSD.
+
+## Poda (experimental)
+
+La poda del libro mayor permite eliminar bloques que no son fronteras de cuenta (el último estado de una cuenta). El objetivo es reducir el tamaño del libro mayor, pero la función de poda es actualmente experimental y no está disponible para producción. La poda requiere que se inicie el libro mayor completo inicialmente. Los nodos podados pueden seguir sirviendo como servidores de arranque para los bloques restantes. Tenga en cuenta que la poda no está disponible para los nodos con derecho a voto. 
+
+## Configuración
+
+La configuración del nodo Nano se suele gestionar mediante archivos de configuración TOML. Las opciones específicas para los límites de espacio en disco o la poda, si están disponibles, se encuentran en estos archivos de configuración.
+
+Para obtener más información sobre los parámetros de poda específicos (como min-retain-blocks), consulte la documentación o los archivos de configuración pertinentes (por ejemplo, app.toml en algunos casos).
+
+En resumen, para gestionar los límites de disco duro de un nodo Nano, el objetivo principal es proporcionar suficiente almacenamiento SSD según los requisitos recomendados. La función de poda experimental está en desarrollo para reducir las necesidades de almacenamiento, pero actualmente no se recomienda para nodos de producción.
+
+---
+
+## 🪙 Instalación y Configuración de Nodo Nano (V28.1) en Docker
+
+A continuación el proceso completo de instalación, configuración y activación de un nodo Nano como representative, incluyendo importación de una wallet externa con seed.
 
 ---
 

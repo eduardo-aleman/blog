@@ -18,8 +18,31 @@ tags:
 
 description: "A complete guide to installing a Nano node version 28.1 with Docker, setting up a wallet, and integrating into the network."
 ---
+## Important Note
 
-# 🪙 Installing and Configuring Nano Node (V28.1) in Docker
+A Nano node stores the entire ledger of transactions. While the Nano team is experimenting with pruning (removing historical data to reduce disk space), the primary way to manage storage for a Nano node is by ensuring you have enough space available on your SSD-based hard drive.
+
+## Current Storage Requirements
+
+- Principal Representative Nodes (more than 0.1% of online voting weight): Require 400GB+ of free space on an SSD.
+
+- Non-voting and Regular Representative Nodes: Also require 400GB+ of free space on an SSD.
+
+## Pruning (Experimental)
+
+Ledger pruning allows for the removal of blocks that are not account frontiers (the latest state of an account). The goal is to reduce the ledger size, but the pruning feature is currently experimental and not for production use. Pruning requires a full ledger to be bootstrapped initially. Pruned nodes can still serve as bootstrap servers for remaining blocks. Note that pruning is not available for voting nodes.
+
+### Configuration
+
+Nano node configuration is typically managed through TOML configuration files. Specific settings for disk space limits or pruning, if available, would be found within these configuration files.
+
+For details on specific pruning parameters (like min-retain-blocks), you would consult the relevant documentation or configuration files (e.g., app.toml in some cases).
+
+In summary, to manage hard drive limits for a Nano node, you primarily focus on providing sufficient SSD storage based on the recommended requirements. The experimental pruning feature is an ongoing development to reduce storage needs, but currently, it is not recommended for production nodes.
+
+---
+
+## 🪙 Installing and Configuring Nano Node (V28.1) in Docker
 
 This document details the complete process of installing, configuring, and activating a Nano node as a representative, including importing an external wallet with seed.
 
