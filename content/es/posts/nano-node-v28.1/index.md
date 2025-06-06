@@ -172,7 +172,7 @@ nano_node --diagnostics
 
 ---
 
-## Apéndice: Verificación manual del nodo Nano (sin scripts)
+## Apéndice: Verificación manual del nodo Nano
 
 ### ✅ 1. Verificar que el contenedor está corriendo
 

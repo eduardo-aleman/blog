@@ -178,7 +178,7 @@ nano_node --diagnostics
 
 ---
 
-## Appendix: Manual verification of the Nano node (without scripts)
+## Appendix: Manual verification of the Nano node
 
 ### ✅ 1. Verify that the container is running
 

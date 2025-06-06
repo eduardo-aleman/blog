@@ -16,6 +16,13 @@
       <description>A complete guide to installing a Nano node version 28.1 with Docker, setting up a wallet, and integrating into the network.</description>
     </item>
     <item>
+      <title>Hardening an Ubuntu Server: Essential Steps</title>
+      <link>http://localhost:1313/blog/en/posts/ubuntu-server-hardening/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/en/posts/ubuntu-server-hardening/</guid>
+      <description>Practical guide to securing an Ubuntu server: from disabling root access to setting up reverse ProxyJump and two-factor authentication.</description>
+    </item>
+    <item>
       <title>Useful RPC Commands for a Nano Node</title>
       <link>http://localhost:1313/blog/en/posts/nano-node/</link>
       <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
