@@ -59,7 +59,7 @@ A continuación el proceso completo de instalación, configuración y activació
   `5D59...`
 - **Seed:**  
   `B9D32...`
-- **Mnemonic (24 palabras):**  
+- **Mnemonic (ejemplo con 24 palabras):**  
   `crash rabbit disease then daring nice park salad lamp bridge point human found tortoise paper nerve simple enjoy device add decorate trouble sister vast`
 
 ---
