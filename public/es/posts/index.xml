@@ -6,28 +6,14 @@
     <description>Recent content in Posts on Blog de Eduardo Alemán</description>
     <generator>Hugo -- 0.147.7</generator>
     <language>es</language>
-    <lastBuildDate>Wed, 04 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/es/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Instalación del Nodo Nano v28.1</title>
-      <link>http://localhost:1313/blog/es/posts/nano-node-v28.1/</link>
-      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/es/posts/nano-node-v28.1/</guid>
-      <description>Guía completa para instalar un nodo Nano versión 28.1 con Docker, configurar una wallet e integrarse a la red.</description>
-    </item>
     <item>
       <title>Diferencias entre XML, Markdown y HTML: usos y dificultades de conversión</title>
       <link>http://localhost:1313/blog/es/posts/xml-markdown-html/</link>
       <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/es/posts/xml-markdown-html/</guid>
       <description>Comparativa clara entre XML, Markdown y HTML: para qué sirven, en qué se diferencian y qué obstáculos presenta convertir entre ellos.</description>
-    </item>
-    <item>
-      <title>Endurecimiento de un servidor Ubuntu: pasos esenciales</title>
-      <link>http://localhost:1313/blog/es/posts/endurecimiento-servidor-ubuntu/</link>
-      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/es/posts/endurecimiento-servidor-ubuntu/</guid>
-      <description>Guía práctica para asegurar un servidor Ubuntu: desde deshabilitar el acceso root hasta configurar un ProxyJump reverso y autenticación en dos pasos.</description>
     </item>
     <item>
       <title>Plut. 69.2 y la transmisión del texto de Tucídides</title>
@@ -72,11 +58,25 @@
       <description>De Platón a Penrose: una historia intelectual del alma y la consciencia.</description>
     </item>
     <item>
+      <title>Instalación del Nodo Nano v28.1</title>
+      <link>http://localhost:1313/blog/es/posts/nano-node-v28.1/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/posts/nano-node-v28.1/</guid>
+      <description>Guía completa para instalar un nodo Nano versión 28.1 con Docker, configurar una wallet e integrarse a la red.</description>
+    </item>
+    <item>
       <title>La regla de los árboles de Leonardo da Vinci</title>
       <link>http://localhost:1313/blog/es/posts/da-vinci/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/es/posts/da-vinci/</guid>
       <description>Exploración de una intuición de Leonardo da Vinci sobre la estructura de los árboles, validada cinco siglos después por la biomecánica moderna.</description>
+    </item>
+    <item>
+      <title>Endurecimiento de un servidor Ubuntu: pasos esenciales</title>
+      <link>http://localhost:1313/blog/es/posts/endurecimiento-servidor-ubuntu/</link>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/posts/endurecimiento-servidor-ubuntu/</guid>
+      <description>Guía práctica para asegurar un servidor Ubuntu: desde deshabilitar el acceso root hasta configurar un ProxyJump reverso y autenticación en dos pasos.</description>
     </item>
     <item>
       <title>Resumen del libro “El amanecer de todo: Una nueva historia de la humanidad” de David Graeber y David Wengrow.</title>

@@ -1,7 +1,7 @@
 ---
 title: "Instalación del Nodo Nano v28.1"
 translationKey: nano-node-v28-1
-date: 2025-06-04
+date: 2025-02-01
 categories:
   - Tecnología
   - Referencia

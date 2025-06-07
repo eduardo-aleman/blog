@@ -1,6 +1,6 @@
 ---
 title: "Hardening an Ubuntu Server: Essential Steps"
-date: 2025-05-29
+date: 2025-01-28
 draft: false
 categories:
   - Reference
