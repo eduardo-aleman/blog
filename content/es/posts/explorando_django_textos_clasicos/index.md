@@ -90,6 +90,7 @@ Recientemente he comenzado a aprender **Python 3** y **Django**, explorando su p
 - Incluir validación de TEI/XML con esquemas personalizados.
 
 ---
+
 ## Lecturas recomendadas
 
 - **[Documentación oficial de Django](https://docs.djangoproject.com/es/5.0/)**  
