@@ -26,7 +26,7 @@ Recientemente he comenzado a aprender **Python 3** y **Django**, explorando su p
 
 > "Django es un framework web Python de alto nivel que fomenta el desarrollo rápido y un diseño limpio y pragmático. Desarrollado por desarrolladores experimentados, se encarga de gran parte de las complicaciones del desarrollo web, para que puedas concentrarte en escribir tu aplicación sin tener que reinventar la rueda. Es gratuito y de código abierto." — *Documentación oficial*
 
-### Ventajas principales:
+### Ventajas principales
 
 - **Seguridad**: Django incluye protecciones integradas contra ataques comunes como XSS, CSRF y SQL injection.
 - **Escalabilidad y estabilidad**: Diseñado para aplicaciones grandes y de largo plazo, utilizado por sitios como Instagram y la NASA.
