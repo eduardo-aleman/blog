@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Deployment on Blog de Eduardo Alemán</title>
+    <link>http://localhost:1313/blog/es/tags/deployment/</link>
+    <description>Recent content in Deployment on Blog de Eduardo Alemán</description>
+    <generator>Hugo -- 0.147.7</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 13 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/es/tags/deployment/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Explorando Django y Python para sitios de textos clásicos</title>
+      <link>http://localhost:1313/blog/es/posts/explorando_django_textos_clasicos/</link>
+      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/posts/explorando_django_textos_clasicos/</guid>
+      <description>&lt;p&gt;Recientemente he comenzado a aprender &lt;strong&gt;Python 3&lt;/strong&gt; y &lt;strong&gt;Django&lt;/strong&gt;, explorando su potencial para construir sitios web donde puedan consultarse y descargarse &lt;strong&gt;textos clásicos&lt;/strong&gt; en diversos formatos: XML (para anotaciones estructuradas), HTML (para navegación web), Markdown (para edición flexible) y TXT (para portabilidad). Esta iniciativa forma parte de mis proyectos en &lt;em&gt;Humanidades Digitales&lt;/em&gt;, enfocados en la edición, difusión y preservación del patrimonio textual.&lt;/p&gt;
+&lt;h2 id=&#34;por-qué-django&#34;&gt;¿Por qué Django?&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Django es un framework web Python de alto nivel que fomenta el desarrollo rápido y un diseño limpio y pragmático. Desarrollado por desarrolladores experimentados, se encarga de gran parte de las complicaciones del desarrollo web, para que puedas concentrarte en escribir tu aplicación sin tener que reinventar la rueda. Es gratuito y de código abierto.&amp;rdquo; — &lt;em&gt;Documentación oficial&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

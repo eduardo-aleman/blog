@@ -2,14 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/es/posts/xml-tei-humanidades/</loc>
-    <lastmod>2025-06-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/es/tags/an%C3%A1lisis-textual/</loc>
-    <lastmod>2025-06-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/es/</loc>
-    <lastmod>2025-06-07T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -22,7 +16,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/blog/es/categories/</loc>
-    <lastmod>2025-06-07T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -34,14 +28,20 @@
                 href="http://localhost:1313/blog/es/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/blog/es/categories/codificaci%C3%B3n-textual/</loc>
-    <lastmod>2025-06-07T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/blog/es/tags/certbot/</loc>
+    <lastmod>2025-06-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/es/tags/edici%C3%B3n-digital/</loc>
-    <lastmod>2025-06-07T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/blog/es/tags/deployment/</loc>
+    <lastmod>2025-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/es/categories/desarrollo-web/</loc>
+    <lastmod>2025-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/es/categories/django/</loc>
+    <lastmod>2025-06-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/tags/</loc>
-    <lastmod>2025-06-07T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -53,17 +53,49 @@
                 href="http://localhost:1313/blog/es/tags/"
                 />
   </url><url>
+    <loc>http://localhost:1313/blog/es/posts/explorando_django_textos_clasicos/</loc>
+    <lastmod>2025-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/es/tags/gunicorn/</loc>
+    <lastmod>2025-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/es/tags/html/</loc>
+    <lastmod>2025-06-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/en/tags/html/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/tags/html/"
+                />
+  </url><url>
     <loc>http://localhost:1313/blog/es/categories/humanidades-digitales/</loc>
-    <lastmod>2025-06-07T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/es/tags/interoperabilidad/</loc>
-    <lastmod>2025-06-07T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/blog/es/tags/markdown/</loc>
+    <lastmod>2025-06-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/en/tags/markdown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/blog/es/tags/markdown/"
+                />
   </url><url>
-    <loc>http://localhost:1313/blog/es/tags/marcado-estructurado/</loc>
-    <lastmod>2025-06-07T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/blog/es/tags/nginx/</loc>
+    <lastmod>2025-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/es/tags/postgres/</loc>
+    <lastmod>2025-06-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/posts/</loc>
-    <lastmod>2025-06-07T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -75,11 +107,20 @@
                 href="http://localhost:1313/blog/es/posts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/blog/es/tags/tei/</loc>
-    <lastmod>2025-06-07T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/blog/es/categories/python/</loc>
+    <lastmod>2025-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/es/tags/seguridad/</loc>
+    <lastmod>2025-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/es/categories/textos-cl%C3%A1sicos/</loc>
+    <lastmod>2025-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/es/tags/txt/</loc>
+    <lastmod>2025-06-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/tags/xml/</loc>
-    <lastmod>2025-06-07T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -90,6 +131,27 @@
                 hreflang="es"
                 href="http://localhost:1313/blog/es/tags/xml/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/blog/es/posts/xml-tei-humanidades/</loc>
+    <lastmod>2025-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/es/tags/an%C3%A1lisis-textual/</loc>
+    <lastmod>2025-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/es/categories/codificaci%C3%B3n-textual/</loc>
+    <lastmod>2025-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/es/tags/edici%C3%B3n-digital/</loc>
+    <lastmod>2025-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/es/tags/interoperabilidad/</loc>
+    <lastmod>2025-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/es/tags/marcado-estructurado/</loc>
+    <lastmod>2025-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/es/tags/tei/</loc>
+    <lastmod>2025-06-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/posts/xml-markdown-html/</loc>
     <lastmod>2025-06-02T00:00:00+00:00</lastmod>
@@ -104,34 +166,8 @@
                 href="http://localhost:1313/blog/es/posts/xml-markdown-html/"
                 />
   </url><url>
-    <loc>http://localhost:1313/blog/es/tags/html/</loc>
-    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/en/tags/html/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/blog/es/tags/html/"
-                />
-  </url><url>
     <loc>http://localhost:1313/blog/es/tags/humanidades-digitales/</loc>
     <lastmod>2025-06-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/es/tags/markdown/</loc>
-    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/en/tags/markdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/blog/es/tags/markdown/"
-                />
   </url><url>
     <loc>http://localhost:1313/blog/es/tags/transformaciones/</loc>
     <lastmod>2025-06-02T00:00:00+00:00</lastmod>
@@ -367,9 +403,6 @@
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/tags/regla-de-los-%C3%A1rboles/</loc>
-    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/es/tags/seguridad/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/posts/endurecimiento-servidor-ubuntu/</loc>
