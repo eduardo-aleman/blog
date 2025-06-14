@@ -37,7 +37,7 @@ Recientemente he comenzado a aprender **Python 3** y **Django**, explorando su p
 ---
 ## 1. Servidor Web y Aplicaciones
 
-Este es el software principal para servir tu aplicación Django.
+Este es el software principal que sirve mi aplicación Django.
 
 * **nginx**: Un servidor web de alto rendimiento y proxy inverso. Se utiliza para recibir las peticiones de los visitantes y servirlas directamente (para archivos estáticos como CSS y imágenes) o pasarlas a tu aplicación Django (a través de Gunicorn).
 * **gunicorn**: (Green Unicorn) Es un servidor WSGI (Web Server Gateway Interface) para Python. Actúa como intermediario entre Nginx y tu aplicación Django. Gunicorn gestiona los procesos de la aplicación para que pueda manejar múltiples peticiones simultáneamente.
@@ -53,7 +53,7 @@ Este es el software principal para servir tu aplicación Django.
 
 ## 2. Gestión del Sistema y Core Utilities
 
-Estos son los componentes fundamentales que hacen que el sistema operativo funcione.
+Estos son los componentes fundamentales que hacen que el sistema operativo en mi servidor funcione.
 
 * **apt / dpkg**: El sistema de gestión de paquetes de Debian/Ubuntu. `apt` es la herramienta de alto nivel que usas para instalar, actualizar y eliminar software (`sudo apt install ...`), mientras que `dpkg` es el backend que gestiona los paquetes `.deb`.
 * **systemd**: El sistema de inicio y gestor de servicios para Linux. Es responsable de iniciar el sistema, gestionar los servicios (como Nginx, Gunicorn, PostgreSQL) y registrar los eventos del sistema.
@@ -82,7 +82,7 @@ Herramientas para la conectividad de red, la seguridad y el acceso remoto.
 
 ## 4. Agentes del Proveedor Cloud y Monitorización
 
-Estos paquetes son específicos de tu proveedor de alojamiento (probablemente DigitalOcean, por los nombres).
+Estos paquetes son específicos de mi proveedor de alojamiento (DigitalOcean).
 
 * **cloud-init**: Se ejecuta durante el primer arranque de una máquina virtual en la nube para configurarla automáticamente (por ejemplo, establecer el nombre de host, añadir claves SSH, etc.).
 * **do-agent / droplet-agent**: Agentes de monitorización de DigitalOcean. Recopilan métricas sobre el uso de CPU, memoria y disco de tu Droplet para que puedas ver gráficos en el panel de control de DigitalOcean.
