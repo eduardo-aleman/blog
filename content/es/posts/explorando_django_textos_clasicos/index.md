@@ -134,7 +134,7 @@ El núcleo del sistema operativo.
 
 ---
 
-Este es solo el comienzo de un proyecto mayor para difundir y trabajar textos clásicos con tecnologías modernas. Al combinar **seguridad, escalabilidad y libertad de diseño**, Django me permite construir un entorno robusto y personalizable para *corpusabierto.com*.
+Este es solo el comienzo de un proyecto mayor para difundir y trabajar textos clásicos con tecnologías modernas. Al combinar **seguridad, escalabilidad y libertad de diseño**, Django me permite construir un entorno robusto y personalizable para *[Corpus Abierto](https://corpusabierto.com)*.
 
 ---
 
