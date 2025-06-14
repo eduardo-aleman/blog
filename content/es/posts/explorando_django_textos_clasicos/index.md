@@ -7,6 +7,7 @@ categories:
 - Django
 - Python
 - Textos clásicos
+- Corpus Abierto
 tags:
 - XML
 - HTML

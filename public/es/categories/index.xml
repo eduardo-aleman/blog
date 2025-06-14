@@ -9,6 +9,13 @@
     <lastBuildDate>Fri, 13 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/es/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Corpus Abierto</title>
+      <link>http://localhost:1313/blog/es/categories/corpus-abierto/</link>
+      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/categories/corpus-abierto/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Desarrollo Web</title>
       <link>http://localhost:1313/blog/es/categories/desarrollo-web/</link>
       <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
