@@ -120,8 +120,8 @@
   "keywords": [
     "XML", "HTML", "Markdown", "TXT", "Deployment", "Nginx", "Gunicorn", "Postgres", "Certbot", "Seguridad"
   ],
-  "articleBody": "Recientemente he comenzado a aprender Python 3 y Django, explorando su potencial para construir sitios web donde puedan consultarse y descargarse textos clásicos en diversos formatos: XML (para anotaciones estructuradas), HTML (para navegación web), Markdown (para edición flexible) y TXT (para portabilidad). Esta iniciativa forma parte de mis proyectos en Humanidades Digitales, enfocados en la edición, difusión y preservación del patrimonio textual.\n¿Por qué Django? “Django es un framework web Python de alto nivel que fomenta el desarrollo rápido y un diseño limpio y pragmático. Desarrollado por desarrolladores experimentados, se encarga de gran parte de las complicaciones del desarrollo web, para que puedas concentrarte en escribir tu aplicación sin tener que reinventar la rueda. Es gratuito y de código abierto.” — Documentación oficial\nVentajas principales Seguridad: Django incluye protecciones integradas contra ataques comunes como XSS, CSRF y SQL injection. Escalabilidad y estabilidad: Diseñado para aplicaciones grandes y de largo plazo, utilizado por sitios como Instagram y la NASA. Despliegue profesional: Integra bien con servidores como Nginx y Gunicorn. Gestor de base de datos robusto: Compatible con PostgreSQL, SQLite y otros. Sistema de plantillas: Permite separar lógica y presentación con facilidad. Arquitectura del sitio corpusabierto Paquete Versión Licencia y origen Función principal Django 5.0 Custom (GitHub) Framework web y gestor de base de datos Nginx 1.18.0 Custom Servidor HTTP y proxy inverso Gunicorn 20.1.0 MIT (GitHub) WSGI server para servir Django con eficiencia Certbot 1.21.0 Apache 2 (GitHub) Certificados SSL automáticos de Let’s Encrypt Postgres 14.18 PostgreSQL License Base de datos robusta y escalable Postfix 3.6.4 IBM Public License Agente de transferencia de correo (para alertas, etc.) Primeros pasos para editar el sitio Editar la vista principal:\nArchivo: main/views.py Funciones como home() definen la lógica de cada página. Editar la plantilla HTML:\nArchivo: main/templates/main/home.html Ahí puedes incluir texto, enlaces o contenido en HTML, Markdown o JS. Agregar nuevas rutas:\nArchivo: corpusabierto/urls.py Cada nueva vista requiere un path() registrado. Gestionar archivos estáticos:\nCSS, JS e imágenes van en la carpeta static/ Comando para recopilar estáticos: python manage.py collectstatic Migraciones y base de datos:\nAplicar migraciones: python manage.py migrate Crear nuevas apps: python manage.py startapp nueva_app Subir cambios al servidor:\nUsar git add . \u0026\u0026 git commit -m \"Cambios\" \u0026\u0026 git push Luego reiniciar Gunicorn y Nginx en el servidor. Desarrollo local:\nEjecutar python manage.py runserver para pruebas. Asegurarse de incluir 127.0.0.1 en ALLOWED_HOSTS para evitar errores 400. Próximos pasos Crear una sección para explorar corpus por autor, época o formato. Agregar motores de búsqueda textual o por lema. Integrar visualizaciones (mapas, gráficos) usando JS o bibliotecas de Python. Automatizar los despliegues desde GitHub con WebHooks. Incluir validación de TEI/XML con esquemas personalizados. Lecturas recomendadas Documentación oficial de Django\nGuía completa para aprender y profundizar en Django, desde lo básico hasta temas avanzados como seguridad, despliegue y rendimiento.\nTwo Scoops of Django\nLibro práctico sobre buenas prácticas de diseño con Django, muy recomendado para desarrolladores que buscan mantener sus proyectos escalables.\nDeploying Django with Gunicorn and Nginx\nTutorial paso a paso sobre cómo configurar un servidor de producción usando Gunicorn y Nginx. Muy útil para entender los componentes involucrados.\nLet’s Encrypt + Certbot\nPágina oficial del proyecto Certbot, con guías para instalar certificados SSL gratuitos en servidores con Nginx o Apache.\nPostgreSQL Documentation\nManual oficial del sistema de base de datos PostgreSQL, ideal si planeas escalar tu aplicación o trabajar con datos estructurados complejos.\nDigital Humanities and the Web\nArtículo de Debates in the Digital Humanities que explora el potencial de las tecnologías web para proyectos académicos en humanidades.\nEste es solo el comienzo de un proyecto mayor para difundir y trabajar textos clásicos con tecnologías modernas. Al combinar seguridad, escalabilidad y libertad de diseño, Django me permite construir un entorno robusto y personalizable para corpusabierto.com.\nDisclaimer: Este proyecto se encuentra en fase exploratoria y educativa. Las configuraciones descritas reflejan decisiones de aprendizaje, no necesariamente recomendaciones definitivas de producción. El sitio corpusabierto.com puede evolucionar conforme se desarrollen nuevas herramientas o se adquieran nuevas competencias.\n",
-  "wordCount" : "661",
+  "articleBody": "Recientemente he comenzado a aprender Python 3 y Django, explorando su potencial para construir sitios web donde puedan consultarse y descargarse textos clásicos en diversos formatos: XML (para anotaciones estructuradas), HTML (para navegación web), Markdown (para edición flexible) y TXT (para portabilidad). Esta iniciativa forma parte de mis proyectos en Humanidades Digitales, enfocados en la edición, difusión y preservación del patrimonio textual.\n¿Por qué Django? “Django es un framework web Python de alto nivel que fomenta el desarrollo rápido y un diseño limpio y pragmático. Desarrollado por desarrolladores experimentados, se encarga de gran parte de las complicaciones del desarrollo web, para que puedas concentrarte en escribir tu aplicación sin tener que reinventar la rueda. Es gratuito y de código abierto.” — Documentación oficial\nVentajas principales Seguridad: Django incluye protecciones integradas contra ataques comunes como XSS, CSRF y SQL injection. Escalabilidad y estabilidad: Diseñado para aplicaciones grandes y de largo plazo, utilizado por sitios como Instagram y la NASA. Despliegue profesional: Integra bien con servidores como Nginx y Gunicorn. Gestor de base de datos robusto: Compatible con PostgreSQL, SQLite y otros. Sistema de plantillas: Permite separar lógica y presentación con facilidad. 1. Servidor Web y Aplicaciones Este es el software principal para servir tu aplicación Django.\nnginx: Un servidor web de alto rendimiento y proxy inverso. Se utiliza para recibir las peticiones de los visitantes y servirlas directamente (para archivos estáticos como CSS y imágenes) o pasarlas a tu aplicación Django (a través de Gunicorn). gunicorn: (Green Unicorn) Es un servidor WSGI (Web Server Gateway Interface) para Python. Actúa como intermediario entre Nginx y tu aplicación Django. Gunicorn gestiona los procesos de la aplicación para que pueda manejar múltiples peticiones simultáneamente. certbot: Una herramienta esencial para obtener e instalar automáticamente certificados SSL/TLS de Let’s Encrypt. Esto permite que tu sitio funcione con HTTPS, cifrando el tráfico entre los usuarios y tu servidor. postgresql / postgresql-14: Un potente sistema de gestión de bases de datos relacionales de código abierto. Tu aplicación Django probablemente utiliza esta base de datos para almacenar y recuperar datos (usuarios, publicaciones, etc.). python3: La versión principal del intérprete de Python instalada en el sistema, que es el lenguaje en el que está escrito Django. python3-pip: El gestor de paquetes para Python. Se usa para instalar librerías y dependencias que tu proyecto Django necesita (como Django, Psycopg2, etc.). python3-venv: Herramienta para crear entornos virtuales aislados. Es una buena práctica usarla para que las dependencias de tu proyecto no entren en conflicto con las del sistema. python3-psycopg2: Un adaptador de base de datos de PostgreSQL para Python. Permite que tu aplicación Django se comunique con la base de datos PostgreSQL. El resto de paquetes python3-* son librerías y dependencias, muchas de ellas necesarias para que certbot y otras herramientas de Python funcionen correctamente. 2. Gestión del Sistema y Core Utilities Estos son los componentes fundamentales que hacen que el sistema operativo funcione.\napt / dpkg: El sistema de gestión de paquetes de Debian/Ubuntu. apt es la herramienta de alto nivel que usas para instalar, actualizar y eliminar software (sudo apt install ...), mientras que dpkg es el backend que gestiona los paquetes .deb. systemd: El sistema de inicio y gestor de servicios para Linux. Es responsable de iniciar el sistema, gestionar los servicios (como Nginx, Gunicorn, PostgreSQL) y registrar los eventos del sistema. sudo: Permite a los usuarios autorizados ejecutar comandos como superusuario (root), lo cual es necesario para tareas administrativas. bash: El intérprete de comandos por defecto. Es la terminal que usas para interactuar con el servidor. coreutils / util-linux: Colecciones de herramientas básicas de línea de comandos de GNU/Linux, como ls, cp, mv, rm, mount, fdisk, etc. cron: Un demonio para ejecutar tareas programadas. Se usa para automatizar tareas repetitivas, como copias de seguridad o la renovación de certificados SSL. build-essential / gcc / g++ / make: Herramientas de compilación. Son necesarias para construir software desde su código fuente. A menudo, las librerías de Python con extensiones en C las necesitan durante la instalación. git: Sistema de control de versiones distribuido. Esencial para gestionar el código fuente de tu aplicación. 3. Red y Seguridad Herramientas para la conectividad de red, la seguridad y el acceso remoto.\nopenssh-server: Permite la conexión remota segura a tu servidor a través del protocolo SSH (Secure Shell). Así es como te conectas con ssh eduardo@.... ufw (Uncomplicated Firewall): Una interfaz fácil de usar para gestionar el firewall de Linux (iptables). Te permite controlar qué tráfico de red está permitido entrar o salir del servidor. apparmor: Un módulo de seguridad del kernel de Linux que restringe las capacidades de los programas, limitando el daño potencial en caso de una vulnerabilidad. openssl: Una biblioteca de criptografía que proporciona funciones de SSL/TLS. Es fundamental para casi toda la comunicación segura en el servidor, incluyendo HTTPS y SSH. fail2ban (No instalado, pero relacionado): Aunque no está en tu lista, es una herramienta comúnmente usada junto a UFW para bloquear automáticamente direcciones IP que intentan ataques de fuerza bruta. netplan.io: La herramienta estándar en Ubuntu Server para configurar la red. curl / wget: Herramientas de línea de comandos para transferir datos desde o hacia un servidor, comúnmente usadas para descargar archivos o probar APIs. 4. Agentes del Proveedor Cloud y Monitorización Estos paquetes son específicos de tu proveedor de alojamiento (probablemente DigitalOcean, por los nombres).\ncloud-init: Se ejecuta durante el primer arranque de una máquina virtual en la nube para configurarla automáticamente (por ejemplo, establecer el nombre de host, añadir claves SSH, etc.). do-agent / droplet-agent: Agentes de monitorización de DigitalOcean. Recopilan métricas sobre el uso de CPU, memoria y disco de tu Droplet para que puedas ver gráficos en el panel de control de DigitalOcean. htop: Un visor interactivo de procesos. Es una versión mejorada del comando top y es muy útil para ver en tiempo real qué procesos están consumiendo más CPU o memoria. logrotate: Rota, comprime y elimina los archivos de registro del sistema y de las aplicaciones para evitar que ocupen todo el espacio en disco. sysstat: Recopila y muestra estadísticas de rendimiento del sistema, como la actividad de la CPU, el disco y la red a lo largo del tiempo. 5. Kernel de Linux y Módulos El núcleo del sistema operativo.\nlinux-image-5.15…: La imagen del kernel de Linux, que es el núcleo del sistema operativo. Gestiona el hardware, los procesos y los recursos del sistema. linux-headers-…: Los archivos de cabecera del kernel. Son necesarios para compilar módulos del kernel o software que interactúa directamente con él. linux-modules-…: Módulos que añaden funcionalidades al kernel, como controladores para hardware específico o sistemas de archivos. Próximos pasos Crear una sección para explorar corpus por autor, época o formato. Agregar motores de búsqueda textual o por lema. Integrar visualizaciones (mapas, gráficos) usando JS o bibliotecas de Python. Automatizar los despliegues desde GitHub con WebHooks. Incluir validación de TEI/XML con esquemas personalizados. Lecturas recomendadas Documentación oficial de Django\nGuía completa para aprender y profundizar en Django, desde lo básico hasta temas avanzados como seguridad, despliegue y rendimiento.\nTwo Scoops of Django\nLibro práctico sobre buenas prácticas de diseño con Django, muy recomendado para desarrolladores que buscan mantener sus proyectos escalables.\nDeploying Django with Gunicorn and Nginx\nTutorial paso a paso sobre cómo configurar un servidor de producción usando Gunicorn y Nginx. Muy útil para entender los componentes involucrados.\nLet’s Encrypt + Certbot\nPágina oficial del proyecto Certbot, con guías para instalar certificados SSL gratuitos en servidores con Nginx o Apache.\nPostgreSQL Documentation\nManual oficial del sistema de base de datos PostgreSQL, ideal si planeas escalar tu aplicación o trabajar con datos estructurados complejos.\nDigital Humanities and the Web\nArtículo de Debates in the Digital Humanities que explora el potencial de las tecnologías web para proyectos académicos en humanidades.\nEste es solo el comienzo de un proyecto mayor para difundir y trabajar textos clásicos con tecnologías modernas. Al combinar seguridad, escalabilidad y libertad de diseño, Django me permite construir un entorno robusto y personalizable para corpusabierto.com.\nDisclaimer: Este proyecto se encuentra en fase exploratoria y educativa. Las configuraciones descritas reflejan decisiones de aprendizaje, no necesariamente recomendaciones definitivas de producción. El sitio Corpus Abierto puede evolucionar conforme se desarrollen nuevas herramientas o se adquieran nuevas competencias.\n",
+  "wordCount" : "1366",
   "inLanguage": "es",
   "datePublished": "2025-06-13T00:00:00Z",
   "dateModified": "2025-06-13T00:00:00Z",
@@ -245,7 +245,7 @@
     <h1 class="post-title entry-hint-parent">
       Explorando Django y Python para sitios de textos clásicos
     </h1>
-    <div class="post-meta"><span title='2025-06-13 00:00:00 +0000 UTC'>junio 13 2025</span>&nbsp;·&nbsp;4 minutos
+    <div class="post-meta"><span title='2025-06-13 00:00:00 +0000 UTC'>junio 13 2025</span>&nbsp;·&nbsp;7 minutos
 
 
 
@@ -264,9 +264,15 @@
                     <a href="#ventajas-principales" aria-label="Ventajas principales">Ventajas principales</a></li></ul>
                 </li>
                 <li>
-                    <a href="#arquitectura-del-sitio-corpusabierto" aria-label="Arquitectura del sitio corpusabierto">Arquitectura del sitio corpusabierto</a></li>
+                    <a href="#1-servidor-web-y-aplicaciones" aria-label="1. Servidor Web y Aplicaciones">1. Servidor Web y Aplicaciones</a></li>
                 <li>
-                    <a href="#primeros-pasos-para-editar-el-sitio" aria-label="Primeros pasos para editar el sitio">Primeros pasos para editar el sitio</a></li>
+                    <a href="#2-gesti%c3%b3n-del-sistema-y-core-utilities" aria-label="2. Gestión del Sistema y Core Utilities">2. Gestión del Sistema y Core Utilities</a></li>
+                <li>
+                    <a href="#3-red-y-seguridad" aria-label="3. Red y Seguridad">3. Red y Seguridad</a></li>
+                <li>
+                    <a href="#4-agentes-del-proveedor-cloud-y-monitorizaci%c3%b3n" aria-label="4. Agentes del Proveedor Cloud y Monitorización">4. Agentes del Proveedor Cloud y Monitorización</a></li>
+                <li>
+                    <a href="#5-kernel-de-linux-y-m%c3%b3dulos" aria-label="5. Kernel de Linux y Módulos">5. Kernel de Linux y Módulos</a></li>
                 <li>
                     <a href="#pr%c3%b3ximos-pasos" aria-label="Próximos pasos">Próximos pasos</a></li>
                 <li>
@@ -290,108 +296,65 @@
 <li><strong>Sistema de plantillas</strong>: Permite separar lógica y presentación con facilidad.</li>
 </ul>
 <hr>
-<h2 id="arquitectura-del-sitio-corpusabierto">Arquitectura del sitio <code>corpusabierto</code><a hidden class="anchor" aria-hidden="true" href="#arquitectura-del-sitio-corpusabierto">#</a></h2>
-<table>
-  <thead>
-      <tr>
-          <th>Paquete</th>
-          <th>Versión</th>
-          <th>Licencia y origen</th>
-          <th>Función principal</th>
-      </tr>
-  </thead>
-  <tbody>
-      <tr>
-          <td>Django</td>
-          <td>5.0</td>
-          <td>Custom (GitHub)</td>
-          <td>Framework web y gestor de base de datos</td>
-      </tr>
-      <tr>
-          <td>Nginx</td>
-          <td>1.18.0</td>
-          <td>Custom</td>
-          <td>Servidor HTTP y proxy inverso</td>
-      </tr>
-      <tr>
-          <td>Gunicorn</td>
-          <td>20.1.0</td>
-          <td>MIT (GitHub)</td>
-          <td>WSGI server para servir Django con eficiencia</td>
-      </tr>
-      <tr>
-          <td>Certbot</td>
-          <td>1.21.0</td>
-          <td>Apache 2 (GitHub)</td>
-          <td>Certificados SSL automáticos de Let&rsquo;s Encrypt</td>
-      </tr>
-      <tr>
-          <td>Postgres</td>
-          <td>14.18</td>
-          <td>PostgreSQL License</td>
-          <td>Base de datos robusta y escalable</td>
-      </tr>
-      <tr>
-          <td>Postfix</td>
-          <td>3.6.4</td>
-          <td>IBM Public License</td>
-          <td>Agente de transferencia de correo (para alertas, etc.)</td>
-      </tr>
-  </tbody>
-</table>
+<h2 id="1-servidor-web-y-aplicaciones">1. Servidor Web y Aplicaciones<a hidden class="anchor" aria-hidden="true" href="#1-servidor-web-y-aplicaciones">#</a></h2>
+<p>Este es el software principal para servir tu aplicación Django.</p>
+<ul>
+<li><strong>nginx</strong>: Un servidor web de alto rendimiento y proxy inverso. Se utiliza para recibir las peticiones de los visitantes y servirlas directamente (para archivos estáticos como CSS y imágenes) o pasarlas a tu aplicación Django (a través de Gunicorn).</li>
+<li><strong>gunicorn</strong>: (Green Unicorn) Es un servidor WSGI (Web Server Gateway Interface) para Python. Actúa como intermediario entre Nginx y tu aplicación Django. Gunicorn gestiona los procesos de la aplicación para que pueda manejar múltiples peticiones simultáneamente.</li>
+<li><strong>certbot</strong>: Una herramienta esencial para obtener e instalar automáticamente certificados SSL/TLS de Let&rsquo;s Encrypt. Esto permite que tu sitio funcione con HTTPS, cifrando el tráfico entre los usuarios y tu servidor.</li>
+<li><strong>postgresql / postgresql-14</strong>: Un potente sistema de gestión de bases de datos relacionales de código abierto. Tu aplicación Django probablemente utiliza esta base de datos para almacenar y recuperar datos (usuarios, publicaciones, etc.).</li>
+<li><strong>python3</strong>: La versión principal del intérprete de Python instalada en el sistema, que es el lenguaje en el que está escrito Django.
+<ul>
+<li><code>python3-pip</code>: El gestor de paquetes para Python. Se usa para instalar librerías y dependencias que tu proyecto Django necesita (como Django, Psycopg2, etc.).</li>
+<li><code>python3-venv</code>: Herramienta para crear entornos virtuales aislados. Es una buena práctica usarla para que las dependencias de tu proyecto no entren en conflicto con las del sistema.</li>
+<li><code>python3-psycopg2</code>: Un adaptador de base de datos de PostgreSQL para Python. Permite que tu aplicación Django se comunique con la base de datos PostgreSQL.</li>
+<li>El resto de paquetes <code>python3-*</code> son librerías y dependencias, muchas de ellas necesarias para que <code>certbot</code> y otras herramientas de Python funcionen correctamente.</li>
+</ul>
+</li>
+</ul>
 <hr>
-<h2 id="primeros-pasos-para-editar-el-sitio">Primeros pasos para editar el sitio<a hidden class="anchor" aria-hidden="true" href="#primeros-pasos-para-editar-el-sitio">#</a></h2>
-<ol>
-<li>
-<p><strong>Editar la vista principal</strong>:</p>
+<h2 id="2-gestión-del-sistema-y-core-utilities">2. Gestión del Sistema y Core Utilities<a hidden class="anchor" aria-hidden="true" href="#2-gestión-del-sistema-y-core-utilities">#</a></h2>
+<p>Estos son los componentes fundamentales que hacen que el sistema operativo funcione.</p>
 <ul>
-<li>Archivo: <code>main/views.py</code></li>
-<li>Funciones como <code>home()</code> definen la lógica de cada página.</li>
+<li><strong>apt / dpkg</strong>: El sistema de gestión de paquetes de Debian/Ubuntu. <code>apt</code> es la herramienta de alto nivel que usas para instalar, actualizar y eliminar software (<code>sudo apt install ...</code>), mientras que <code>dpkg</code> es el backend que gestiona los paquetes <code>.deb</code>.</li>
+<li><strong>systemd</strong>: El sistema de inicio y gestor de servicios para Linux. Es responsable de iniciar el sistema, gestionar los servicios (como Nginx, Gunicorn, PostgreSQL) y registrar los eventos del sistema.</li>
+<li><strong>sudo</strong>: Permite a los usuarios autorizados ejecutar comandos como superusuario (root), lo cual es necesario para tareas administrativas.</li>
+<li><strong>bash</strong>: El intérprete de comandos por defecto. Es la terminal que usas para interactuar con el servidor.</li>
+<li><strong>coreutils / util-linux</strong>: Colecciones de herramientas básicas de línea de comandos de GNU/Linux, como <code>ls</code>, <code>cp</code>, <code>mv</code>, <code>rm</code>, <code>mount</code>, <code>fdisk</code>, etc.</li>
+<li><strong>cron</strong>: Un demonio para ejecutar tareas programadas. Se usa para automatizar tareas repetitivas, como copias de seguridad o la renovación de certificados SSL.</li>
+<li><strong>build-essential / gcc / g++ / make</strong>: Herramientas de compilación. Son necesarias para construir software desde su código fuente. A menudo, las librerías de Python con extensiones en C las necesitan durante la instalación.</li>
+<li><strong>git</strong>: Sistema de control de versiones distribuido. Esencial para gestionar el código fuente de tu aplicación.</li>
 </ul>
-</li>
-<li>
-<p><strong>Editar la plantilla HTML</strong>:</p>
+<hr>
+<h2 id="3-red-y-seguridad">3. Red y Seguridad<a hidden class="anchor" aria-hidden="true" href="#3-red-y-seguridad">#</a></h2>
+<p>Herramientas para la conectividad de red, la seguridad y el acceso remoto.</p>
 <ul>
-<li>Archivo: <code>main/templates/main/home.html</code></li>
-<li>Ahí puedes incluir texto, enlaces o contenido en HTML, Markdown o JS.</li>
+<li><strong>openssh-server</strong>: Permite la conexión remota segura a tu servidor a través del protocolo SSH (Secure Shell). Así es como te conectas con <code>ssh eduardo@...</code>.</li>
+<li><strong>ufw (Uncomplicated Firewall)</strong>: Una interfaz fácil de usar para gestionar el firewall de Linux (<code>iptables</code>). Te permite controlar qué tráfico de red está permitido entrar o salir del servidor.</li>
+<li><strong>apparmor</strong>: Un módulo de seguridad del kernel de Linux que restringe las capacidades de los programas, limitando el daño potencial en caso de una vulnerabilidad.</li>
+<li><strong>openssl</strong>: Una biblioteca de criptografía que proporciona funciones de SSL/TLS. Es fundamental para casi toda la comunicación segura en el servidor, incluyendo HTTPS y SSH.</li>
+<li><strong>fail2ban</strong> (No instalado, pero relacionado): Aunque no está en tu lista, es una herramienta comúnmente usada junto a UFW para bloquear automáticamente direcciones IP que intentan ataques de fuerza bruta.</li>
+<li><strong>netplan.io</strong>: La herramienta estándar en Ubuntu Server para configurar la red.</li>
+<li><strong>curl / wget</strong>: Herramientas de línea de comandos para transferir datos desde o hacia un servidor, comúnmente usadas para descargar archivos o probar APIs.</li>
 </ul>
-</li>
-<li>
-<p><strong>Agregar nuevas rutas</strong>:</p>
+<hr>
+<h2 id="4-agentes-del-proveedor-cloud-y-monitorización">4. Agentes del Proveedor Cloud y Monitorización<a hidden class="anchor" aria-hidden="true" href="#4-agentes-del-proveedor-cloud-y-monitorización">#</a></h2>
+<p>Estos paquetes son específicos de tu proveedor de alojamiento (probablemente DigitalOcean, por los nombres).</p>
 <ul>
-<li>Archivo: <code>corpusabierto/urls.py</code></li>
-<li>Cada nueva vista requiere un <code>path()</code> registrado.</li>
+<li><strong>cloud-init</strong>: Se ejecuta durante el primer arranque de una máquina virtual en la nube para configurarla automáticamente (por ejemplo, establecer el nombre de host, añadir claves SSH, etc.).</li>
+<li><strong>do-agent / droplet-agent</strong>: Agentes de monitorización de DigitalOcean. Recopilan métricas sobre el uso de CPU, memoria y disco de tu Droplet para que puedas ver gráficos en el panel de control de DigitalOcean.</li>
+<li><strong>htop</strong>: Un visor interactivo de procesos. Es una versión mejorada del comando <code>top</code> y es muy útil para ver en tiempo real qué procesos están consumiendo más CPU o memoria.</li>
+<li><strong>logrotate</strong>: Rota, comprime y elimina los archivos de registro del sistema y de las aplicaciones para evitar que ocupen todo el espacio en disco.</li>
+<li><strong>sysstat</strong>: Recopila y muestra estadísticas de rendimiento del sistema, como la actividad de la CPU, el disco y la red a lo largo del tiempo.</li>
 </ul>
-</li>
-<li>
-<p><strong>Gestionar archivos estáticos</strong>:</p>
+<hr>
+<h2 id="5-kernel-de-linux-y-módulos">5. Kernel de Linux y Módulos<a hidden class="anchor" aria-hidden="true" href="#5-kernel-de-linux-y-módulos">#</a></h2>
+<p>El núcleo del sistema operativo.</p>
 <ul>
-<li>CSS, JS e imágenes van en la carpeta <code>static/</code></li>
-<li>Comando para recopilar estáticos: <code>python manage.py collectstatic</code></li>
+<li><strong>linux-image-5.15&hellip;</strong>: La imagen del kernel de Linux, que es el núcleo del sistema operativo. Gestiona el hardware, los procesos y los recursos del sistema.</li>
+<li><strong>linux-headers-&hellip;</strong>: Los archivos de cabecera del kernel. Son necesarios para compilar módulos del kernel o software que interactúa directamente con él.</li>
+<li><strong>linux-modules-&hellip;</strong>: Módulos que añaden funcionalidades al kernel, como controladores para hardware específico o sistemas de archivos.</li>
 </ul>
-</li>
-<li>
-<p><strong>Migraciones y base de datos</strong>:</p>
-<ul>
-<li>Aplicar migraciones: <code>python manage.py migrate</code></li>
-<li>Crear nuevas apps: <code>python manage.py startapp nueva_app</code></li>
-</ul>
-</li>
-<li>
-<p><strong>Subir cambios al servidor</strong>:</p>
-<ul>
-<li>Usar <code>git add . &amp;&amp; git commit -m &quot;Cambios&quot; &amp;&amp; git push</code></li>
-<li>Luego reiniciar Gunicorn y Nginx en el servidor.</li>
-</ul>
-</li>
-<li>
-<p><strong>Desarrollo local</strong>:</p>
-<ul>
-<li>Ejecutar <code>python manage.py runserver</code> para pruebas.</li>
-<li>Asegurarse de incluir <code>127.0.0.1</code> en <code>ALLOWED_HOSTS</code> para evitar errores 400.</li>
-</ul>
-</li>
-</ol>
 <hr>
 <h2 id="próximos-pasos">Próximos pasos<a hidden class="anchor" aria-hidden="true" href="#próximos-pasos">#</a></h2>
 <ul>
@@ -433,7 +396,7 @@ Artículo de <em>Debates in the Digital Humanities</em> que explora el potencial
 <p>Este es solo el comienzo de un proyecto mayor para difundir y trabajar textos clásicos con tecnologías modernas. Al combinar <strong>seguridad, escalabilidad y libertad de diseño</strong>, Django me permite construir un entorno robusto y personalizable para <em>corpusabierto.com</em>.</p>
 <hr>
 <blockquote>
-<p><strong>Disclaimer</strong>: Este proyecto se encuentra en fase exploratoria y educativa. Las configuraciones descritas reflejan decisiones de aprendizaje, no necesariamente recomendaciones definitivas de producción. El sitio <em>corpusabierto.com</em> puede evolucionar conforme se desarrollen nuevas herramientas o se adquieran nuevas competencias.</p></blockquote>
+<p><strong>Disclaimer</strong>: Este proyecto se encuentra en fase exploratoria y educativa. Las configuraciones descritas reflejan decisiones de aprendizaje, no necesariamente recomendaciones definitivas de producción. El sitio <em><a href="https://corpusabierto.com">Corpus Abierto</a></em> puede evolucionar conforme se desarrollen nuevas herramientas o se adquieran nuevas competencias.</p></blockquote>
 
 
   </div>

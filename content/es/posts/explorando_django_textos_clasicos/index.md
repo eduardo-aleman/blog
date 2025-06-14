@@ -35,49 +35,70 @@ Recientemente he comenzado a aprender **Python 3** y **Django**, explorando su p
 - **Sistema de plantillas**: Permite separar lógica y presentación con facilidad.
 
 ---
+## 1. Servidor Web y Aplicaciones
 
-## Arquitectura del sitio `corpusabierto`
+Este es el software principal para servir tu aplicación Django.
 
-| Paquete  | Versión | Licencia y origen  | Función principal                                      |
-| -------- | ------- | ------------------ | ------------------------------------------------------ |
-| Django   | 5.0     | Custom (GitHub)    | Framework web y gestor de base de datos                |
-| Nginx    | 1.18.0  | Custom             | Servidor HTTP y proxy inverso                          |
-| Gunicorn | 20.1.0  | MIT (GitHub)       | WSGI server para servir Django con eficiencia          |
-| Certbot  | 1.21.0  | Apache 2 (GitHub)  | Certificados SSL automáticos de Let's Encrypt          |
-| Postgres | 14.18   | PostgreSQL License | Base de datos robusta y escalable                      |
-| Postfix  | 3.6.4   | IBM Public License | Agente de transferencia de correo (para alertas, etc.) |
+* **nginx**: Un servidor web de alto rendimiento y proxy inverso. Se utiliza para recibir las peticiones de los visitantes y servirlas directamente (para archivos estáticos como CSS y imágenes) o pasarlas a tu aplicación Django (a través de Gunicorn).
+* **gunicorn**: (Green Unicorn) Es un servidor WSGI (Web Server Gateway Interface) para Python. Actúa como intermediario entre Nginx y tu aplicación Django. Gunicorn gestiona los procesos de la aplicación para que pueda manejar múltiples peticiones simultáneamente.
+* **certbot**: Una herramienta esencial para obtener e instalar automáticamente certificados SSL/TLS de Let's Encrypt. Esto permite que tu sitio funcione con HTTPS, cifrando el tráfico entre los usuarios y tu servidor.
+* **postgresql / postgresql-14**: Un potente sistema de gestión de bases de datos relacionales de código abierto. Tu aplicación Django probablemente utiliza esta base de datos para almacenar y recuperar datos (usuarios, publicaciones, etc.).
+* **python3**: La versión principal del intérprete de Python instalada en el sistema, que es el lenguaje en el que está escrito Django.
+    * `python3-pip`: El gestor de paquetes para Python. Se usa para instalar librerías y dependencias que tu proyecto Django necesita (como Django, Psycopg2, etc.).
+    * `python3-venv`: Herramienta para crear entornos virtuales aislados. Es una buena práctica usarla para que las dependencias de tu proyecto no entren en conflicto con las del sistema.
+    * `python3-psycopg2`: Un adaptador de base de datos de PostgreSQL para Python. Permite que tu aplicación Django se comunique con la base de datos PostgreSQL.
+    * El resto de paquetes `python3-*` son librerías y dependencias, muchas de ellas necesarias para que `certbot` y otras herramientas de Python funcionen correctamente.
 
 ---
 
-## Primeros pasos para editar el sitio
+## 2. Gestión del Sistema y Core Utilities
 
-1. **Editar la vista principal**:
-   - Archivo: `main/views.py`
-   - Funciones como `home()` definen la lógica de cada página.
+Estos son los componentes fundamentales que hacen que el sistema operativo funcione.
 
-2. **Editar la plantilla HTML**:
-   - Archivo: `main/templates/main/home.html`
-   - Ahí puedes incluir texto, enlaces o contenido en HTML, Markdown o JS.
+* **apt / dpkg**: El sistema de gestión de paquetes de Debian/Ubuntu. `apt` es la herramienta de alto nivel que usas para instalar, actualizar y eliminar software (`sudo apt install ...`), mientras que `dpkg` es el backend que gestiona los paquetes `.deb`.
+* **systemd**: El sistema de inicio y gestor de servicios para Linux. Es responsable de iniciar el sistema, gestionar los servicios (como Nginx, Gunicorn, PostgreSQL) y registrar los eventos del sistema.
+* **sudo**: Permite a los usuarios autorizados ejecutar comandos como superusuario (root), lo cual es necesario para tareas administrativas.
+* **bash**: El intérprete de comandos por defecto. Es la terminal que usas para interactuar con el servidor.
+* **coreutils / util-linux**: Colecciones de herramientas básicas de línea de comandos de GNU/Linux, como `ls`, `cp`, `mv`, `rm`, `mount`, `fdisk`, etc.
+* **cron**: Un demonio para ejecutar tareas programadas. Se usa para automatizar tareas repetitivas, como copias de seguridad o la renovación de certificados SSL.
+* **build-essential / gcc / g++ / make**: Herramientas de compilación. Son necesarias para construir software desde su código fuente. A menudo, las librerías de Python con extensiones en C las necesitan durante la instalación.
+* **git**: Sistema de control de versiones distribuido. Esencial para gestionar el código fuente de tu aplicación.
 
-3. **Agregar nuevas rutas**:
-   - Archivo: `corpusabierto/urls.py`
-   - Cada nueva vista requiere un `path()` registrado.
+---
 
-4. **Gestionar archivos estáticos**:
-   - CSS, JS e imágenes van en la carpeta `static/`
-   - Comando para recopilar estáticos: `python manage.py collectstatic`
+## 3. Red y Seguridad
 
-5. **Migraciones y base de datos**:
-   - Aplicar migraciones: `python manage.py migrate`
-   - Crear nuevas apps: `python manage.py startapp nueva_app`
+Herramientas para la conectividad de red, la seguridad y el acceso remoto.
 
-6. **Subir cambios al servidor**:
-   - Usar `git add . && git commit -m "Cambios" && git push`
-   - Luego reiniciar Gunicorn y Nginx en el servidor.
+* **openssh-server**: Permite la conexión remota segura a tu servidor a través del protocolo SSH (Secure Shell). Así es como te conectas con `ssh eduardo@...`.
+* **ufw (Uncomplicated Firewall)**: Una interfaz fácil de usar para gestionar el firewall de Linux (`iptables`). Te permite controlar qué tráfico de red está permitido entrar o salir del servidor.
+* **apparmor**: Un módulo de seguridad del kernel de Linux que restringe las capacidades de los programas, limitando el daño potencial en caso de una vulnerabilidad.
+* **openssl**: Una biblioteca de criptografía que proporciona funciones de SSL/TLS. Es fundamental para casi toda la comunicación segura en el servidor, incluyendo HTTPS y SSH.
+* **fail2ban** (No instalado, pero relacionado): Aunque no está en tu lista, es una herramienta comúnmente usada junto a UFW para bloquear automáticamente direcciones IP que intentan ataques de fuerza bruta.
+* **netplan.io**: La herramienta estándar en Ubuntu Server para configurar la red.
+* **curl / wget**: Herramientas de línea de comandos para transferir datos desde o hacia un servidor, comúnmente usadas para descargar archivos o probar APIs.
 
-7. **Desarrollo local**:
-   - Ejecutar `python manage.py runserver` para pruebas.
-   - Asegurarse de incluir `127.0.0.1` en `ALLOWED_HOSTS` para evitar errores 400.
+---
+
+## 4. Agentes del Proveedor Cloud y Monitorización
+
+Estos paquetes son específicos de tu proveedor de alojamiento (probablemente DigitalOcean, por los nombres).
+
+* **cloud-init**: Se ejecuta durante el primer arranque de una máquina virtual en la nube para configurarla automáticamente (por ejemplo, establecer el nombre de host, añadir claves SSH, etc.).
+* **do-agent / droplet-agent**: Agentes de monitorización de DigitalOcean. Recopilan métricas sobre el uso de CPU, memoria y disco de tu Droplet para que puedas ver gráficos en el panel de control de DigitalOcean.
+* **htop**: Un visor interactivo de procesos. Es una versión mejorada del comando `top` y es muy útil para ver en tiempo real qué procesos están consumiendo más CPU o memoria.
+* **logrotate**: Rota, comprime y elimina los archivos de registro del sistema y de las aplicaciones para evitar que ocupen todo el espacio en disco.
+* **sysstat**: Recopila y muestra estadísticas de rendimiento del sistema, como la actividad de la CPU, el disco y la red a lo largo del tiempo.
+
+---
+
+## 5. Kernel de Linux y Módulos
+
+El núcleo del sistema operativo.
+
+* **linux-image-5.15...**: La imagen del kernel de Linux, que es el núcleo del sistema operativo. Gestiona el hardware, los procesos y los recursos del sistema.
+* **linux-headers-...**: Los archivos de cabecera del kernel. Son necesarios para compilar módulos del kernel o software que interactúa directamente con él.
+* **linux-modules-...**: Módulos que añaden funcionalidades al kernel, como controladores para hardware específico o sistemas de archivos.
 
 ---
 
@@ -117,4 +138,4 @@ Este es solo el comienzo de un proyecto mayor para difundir y trabajar textos cl
 
 ---
 
-> **Disclaimer**: Este proyecto se encuentra en fase exploratoria y educativa. Las configuraciones descritas reflejan decisiones de aprendizaje, no necesariamente recomendaciones definitivas de producción. El sitio *corpusabierto.com* puede evolucionar conforme se desarrollen nuevas herramientas o se adquieran nuevas competencias.
+> **Disclaimer**: Este proyecto se encuentra en fase exploratoria y educativa. Las configuraciones descritas reflejan decisiones de aprendizaje, no necesariamente recomendaciones definitivas de producción. El sitio *[Corpus Abierto](https://corpusabierto.com)* puede evolucionar conforme se desarrollen nuevas herramientas o se adquieran nuevas competencias.
