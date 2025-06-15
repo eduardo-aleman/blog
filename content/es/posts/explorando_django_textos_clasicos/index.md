@@ -35,7 +35,10 @@ Recientemente he comenzado a aprender **Python 3** y **Django**, explorando su p
 - **Gestor de base de datos robusto**: Compatible con PostgreSQL, SQLite y otros.
 - **Sistema de plantillas**: Permite separar lógica y presentación con facilidad.
 
+A continuación una breve lista del software que utilizo en mi servidor Ubuntu.
+
 ---
+
 ## 1. Servidor Web y Aplicaciones
 
 Este es el software principal que sirve mi aplicación Django.
