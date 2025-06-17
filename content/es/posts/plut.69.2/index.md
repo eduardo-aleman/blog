@@ -7,9 +7,6 @@ categories:
 - Historia
 - Manuscritos
 - Artículo
-cover:
-  image: carta_2r.webp
-  alt: Folio del manuscrito Plut. 69.2 de Tucídides
 tags:
 - Plutarco
 - Biografía
