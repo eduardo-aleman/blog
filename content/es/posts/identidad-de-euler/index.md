@@ -7,11 +7,6 @@ categories:
 description: Un recorrido por la célebre identidad de Euler, sus orígenes en el interés
   compuesto, su relación con el número e y su belleza en el contexto de las funciones
   trigonométricas y los números complejos.
-cover:
-  image: euler_identidad.webp
-  alt: Retrato digital de Leonhard Euler frente a un pizarrón con su identidad matemática
-  relative: false
-  hidden: false
 draft: false
 categories:
 - Genios
