@@ -6,20 +6,20 @@
     <description>Recent content in Categorías on Blog de Eduardo Alemán</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 13 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jun 2025 11:00:00 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/es/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Desarrollo Web</title>
+      <link>http://localhost:1313/blog/es/categories/desarrollo-web/</link>
+      <pubDate>Thu, 19 Jun 2025 11:00:00 -0400</pubDate>
+      <guid>http://localhost:1313/blog/es/categories/desarrollo-web/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Corpus Abierto</title>
       <link>http://localhost:1313/blog/es/categories/corpus-abierto/</link>
       <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/es/categories/corpus-abierto/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Desarrollo Web</title>
-      <link>http://localhost:1313/blog/es/categories/desarrollo-web/</link>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/es/categories/desarrollo-web/</guid>
       <description></description>
     </item>
     <item>
