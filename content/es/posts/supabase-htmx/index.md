@@ -6,9 +6,9 @@ tags:
   - Supabase
   - HTMX
   - Edge Functions
-  - Tutorial
 categories:
   - Desarrollo Web
+  - Tutorial
 ---
 
 Partimos de que ya he creado las tablas `authors`, `texts` y `texts_contents` con sus triggers de `updated_at`.

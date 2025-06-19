@@ -12,6 +12,7 @@ tags:
   - Marcado estructurado
   - Interoperabilidad
   - Análisis textual
+  - Referencia
 description: "Una introducción a los textos codificados en XML-TEI, su utilidad académica y su papel en la interoperabilidad de proyectos de Humanidades Digitales."
 ---
 
