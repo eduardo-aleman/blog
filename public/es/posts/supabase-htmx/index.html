@@ -6,14 +6,22 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
 <title>Integración de Supabase Edge Functions con HTMX | Blog de Eduardo Alemán</title>
-<meta name="keywords" content="Supabase, HTMX, Edge Functions">
-<meta name="description" content="Partimos de que ya he creado las tablas authors, texts y texts_contents con sus triggers de updated_at.
-A continuación detallo los pasos para exponer tu contenido TEI-XML a través de una Supabase Edge Function y consumirlo con HTMX:
+<meta name="keywords" content="Supabase, HTMX, Edge Functions, Tutorial">
+<meta name="description" content="Partimos de que ya existen las tablas authors, texts y texts_contents con sus triggers de updated_at.
+Prerrequisitos
+
+Node.js (&gt;=14) con npm y npx.
+Docker Desktop en macOS (o Docker Engine en Linux/Windows).
+Cuenta y proyecto activos en Supabase.
+
+Pasos detallados
 1. Crear la función RPC en la base de datos
 
-Abre el SQL Editor de tu proyecto en Supabase.
-Ejecuta el siguiente script (ajusta los XPaths según tu estructura TEI):
 
+Accede al SQL Editor en Supabase.
+
+
+Ejecuta este script (ajusta los XPaths a tu TEI):
 create or replace function public.rpc_get_text_chapter(
   p_text_id   uuid,
   p_chapter_n text
@@ -26,7 +34,7 @@ returns table (
   translator_name     text,
   original_edition    text,
   translation_edition text
-) 
+)
 language sql stable as
 $$
 with 
@@ -101,17 +109,10 @@ from tc, ns;
 $$;
 
 grant execute on function public.rpc_get_text_chapter(uuid, text) to authenticated;
+
+
 2. Instalar y configurar Supabase CLI
-npm install -g supabase
-supabase login
-supabase link --project-ref &lt;YOUR_PROJECT_REF&gt;
-
-&lt;YOUR_PROJECT_REF&gt; lo encuentras en Settings → API de tu proyecto.
-
-3. Crear la Edge Function
-
-
-En tu carpeta local, crea:">
+Puedes usar npx o instalar globalmente:">
 <meta name="author" content="">
 <link rel="canonical" href="http://localhost:1313/blog/es/posts/supabase-htmx/">
 <link crossorigin="anonymous" href="/blog/assets/css/stylesheet.a8501b4e1544bf104a4e2647be64df3637f95b6ac25a4298047d87fe0eacffa1.css" integrity="sha256-qFAbThVEvxBKTiZHvmTfNjf5W2rCWkKYBH2H/g6s/6E=" rel="preload stylesheet" as="style">
@@ -170,9 +171,10 @@ En tu carpeta local, crea:">
 <meta property="og:url" content="http://localhost:1313/blog/es/posts/supabase-htmx/">
   <meta property="og:site_name" content="Blog de Eduardo Alemán">
   <meta property="og:title" content="Integración de Supabase Edge Functions con HTMX">
-  <meta property="og:description" content="Partimos de que ya he creado las tablas authors, texts y texts_contents con sus triggers de updated_at.
-A continuación detallo los pasos para exponer tu contenido TEI-XML a través de una Supabase Edge Function y consumirlo con HTMX:
-1. Crear la función RPC en la base de datos Abre el SQL Editor de tu proyecto en Supabase. Ejecuta el siguiente script (ajusta los XPaths según tu estructura TEI): create or replace function public.rpc_get_text_chapter( p_text_id uuid, p_chapter_n text ) returns table ( original_text text, translation_text text, original_notes text, translator_notes text, translator_name text, original_edition text, translation_edition text ) language sql stable as $$ with ns as ( select array[ array[&#39;tei&#39;,&#39;http://www.tei-c.org/ns/1.0&#39;], array[&#39;xml&#39;,&#39;http://www.w3.org/XML/1998/namespace&#39;] ] as xmlns ), tc as ( select tei_xml from public.texts_contents where text_id = p_text_id ) select array_to_string( xpath( format( &#39;//tei:div[@type=&#34;section&#34; and @n=&#34;%s&#34;]/tei:seg[@xml:lang=&#34;gr&#34;]/text()&#39;, p_chapter_n ), tc.tei_xml, ns.xmlns ), &#39;&#39; ) as original_text, array_to_string( xpath( format( &#39;//tei:div[@type=&#34;section&#34; and @n=&#34;%s&#34;]/tei:seg[@xml:lang=&#34;es&#34;]/text()&#39;, p_chapter_n ), tc.tei_xml, ns.xmlns ), &#39;&#39; ) as translation_text, array_to_string( xpath( format( &#39;//tei:div[@type=&#34;section&#34; and @n=&#34;%s&#34;]//tei:app/tei:rdg//text()&#39;, p_chapter_n ), tc.tei_xml, ns.xmlns ), E&#39;\n&#39; ) as original_notes, array_to_string( xpath( format( &#39;//tei:div[@type=&#34;section&#34; and @n=&#34;%s&#34;]//tei:note[@resp=&#34;translator&#34;]/text()&#39;, p_chapter_n ), tc.tei_xml, ns.xmlns ), E&#39;\n&#39; ) as translator_notes, (xpath( &#39;//tei:respStmt[@resp=&#34;translator&#34;]/tei:name/text()&#39;, tc.tei_xml, ns.xmlns ))[1]::text as translator_name, (xpath( &#39;//tei:editionStmt/tei:edition/text()&#39;, tc.tei_xml, ns.xmlns ))[1]::text as original_edition, (xpath( &#39;//tei:extent[../@unit=&#34;translation&#34;]/text()&#39;, tc.tei_xml, ns.xmlns ))[1]::text as translation_edition from tc, ns; $$; grant execute on function public.rpc_get_text_chapter(uuid, text) to authenticated; 2. Instalar y configurar Supabase CLI npm install -g supabase supabase login supabase link --project-ref &lt;YOUR_PROJECT_REF&gt; &lt;YOUR_PROJECT_REF&gt; lo encuentras en Settings → API de tu proyecto. 3. Crear la Edge Function En tu carpeta local, crea:">
+  <meta property="og:description" content="Partimos de que ya existen las tablas authors, texts y texts_contents con sus triggers de updated_at.
+Prerrequisitos Node.js (&gt;=14) con npm y npx. Docker Desktop en macOS (o Docker Engine en Linux/Windows). Cuenta y proyecto activos en Supabase. Pasos detallados 1. Crear la función RPC en la base de datos Accede al SQL Editor en Supabase.
+Ejecuta este script (ajusta los XPaths a tu TEI):
+create or replace function public.rpc_get_text_chapter( p_text_id uuid, p_chapter_n text ) returns table ( original_text text, translation_text text, original_notes text, translator_notes text, translator_name text, original_edition text, translation_edition text ) language sql stable as $$ with ns as ( select array[ array[&#39;tei&#39;,&#39;http://www.tei-c.org/ns/1.0&#39;], array[&#39;xml&#39;,&#39;http://www.w3.org/XML/1998/namespace&#39;] ] as xmlns ), tc as ( select tei_xml from public.texts_contents where text_id = p_text_id ) select array_to_string( xpath( format( &#39;//tei:div[@type=&#34;section&#34; and @n=&#34;%s&#34;]/tei:seg[@xml:lang=&#34;gr&#34;]/text()&#39;, p_chapter_n ), tc.tei_xml, ns.xmlns ), &#39;&#39; ) as original_text, array_to_string( xpath( format( &#39;//tei:div[@type=&#34;section&#34; and @n=&#34;%s&#34;]/tei:seg[@xml:lang=&#34;es&#34;]/text()&#39;, p_chapter_n ), tc.tei_xml, ns.xmlns ), &#39;&#39; ) as translation_text, array_to_string( xpath( format( &#39;//tei:div[@type=&#34;section&#34; and @n=&#34;%s&#34;]//tei:app/tei:rdg//text()&#39;, p_chapter_n ), tc.tei_xml, ns.xmlns ), E&#39;\n&#39; ) as original_notes, array_to_string( xpath( format( &#39;//tei:div[@type=&#34;section&#34; and @n=&#34;%s&#34;]//tei:note[@resp=&#34;translator&#34;]/text()&#39;, p_chapter_n ), tc.tei_xml, ns.xmlns ), E&#39;\n&#39; ) as translator_notes, (xpath( &#39;//tei:respStmt[@resp=&#34;translator&#34;]/tei:name/text()&#39;, tc.tei_xml, ns.xmlns ))[1]::text as translator_name, (xpath( &#39;//tei:editionStmt/tei:edition/text()&#39;, tc.tei_xml, ns.xmlns ))[1]::text as original_edition, (xpath( &#39;//tei:extent[../@unit=&#34;translation&#34;]/text()&#39;, tc.tei_xml, ns.xmlns ))[1]::text as translation_edition from tc, ns; $$; grant execute on function public.rpc_get_text_chapter(uuid, text) to authenticated; 2. Instalar y configurar Supabase CLI Puedes usar npx o instalar globalmente:">
   <meta property="og:locale" content="es">
   <meta property="og:type" content="article">
     <meta property="article:section" content="posts">
@@ -181,15 +183,24 @@ A continuación detallo los pasos para exponer tu contenido TEI-XML a través de
     <meta property="article:tag" content="Supabase">
     <meta property="article:tag" content="HTMX">
     <meta property="article:tag" content="Edge Functions">
+    <meta property="article:tag" content="Tutorial">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Integración de Supabase Edge Functions con HTMX">
-<meta name="twitter:description" content="Partimos de que ya he creado las tablas authors, texts y texts_contents con sus triggers de updated_at.
-A continuación detallo los pasos para exponer tu contenido TEI-XML a través de una Supabase Edge Function y consumirlo con HTMX:
+<meta name="twitter:description" content="Partimos de que ya existen las tablas authors, texts y texts_contents con sus triggers de updated_at.
+Prerrequisitos
+
+Node.js (&gt;=14) con npm y npx.
+Docker Desktop en macOS (o Docker Engine en Linux/Windows).
+Cuenta y proyecto activos en Supabase.
+
+Pasos detallados
 1. Crear la función RPC en la base de datos
 
-Abre el SQL Editor de tu proyecto en Supabase.
-Ejecuta el siguiente script (ajusta los XPaths según tu estructura TEI):
 
+Accede al SQL Editor en Supabase.
+
+
+Ejecuta este script (ajusta los XPaths a tu TEI):
 create or replace function public.rpc_get_text_chapter(
   p_text_id   uuid,
   p_chapter_n text
@@ -202,7 +213,7 @@ returns table (
   translator_name     text,
   original_edition    text,
   translation_edition text
-) 
+)
 language sql stable as
 $$
 with 
@@ -277,17 +288,10 @@ from tc, ns;
 $$;
 
 grant execute on function public.rpc_get_text_chapter(uuid, text) to authenticated;
+
+
 2. Instalar y configurar Supabase CLI
-npm install -g supabase
-supabase login
-supabase link --project-ref &lt;YOUR_PROJECT_REF&gt;
-
-&lt;YOUR_PROJECT_REF&gt; lo encuentras en Settings → API de tu proyecto.
-
-3. Crear la Edge Function
-
-
-En tu carpeta local, crea:">
+Puedes usar npx o instalar globalmente:">
 
 
 <script type="application/ld+json">
@@ -316,12 +320,12 @@ En tu carpeta local, crea:">
   "@type": "BlogPosting",
   "headline": "Integración de Supabase Edge Functions con HTMX",
   "name": "Integración de Supabase Edge Functions con HTMX",
-  "description": "Partimos de que ya he creado las tablas authors, texts y texts_contents con sus triggers de updated_at.\nA continuación detallo los pasos para exponer tu contenido TEI-XML a través de una Supabase Edge Function y consumirlo con HTMX:\n1. Crear la función RPC en la base de datos Abre el SQL Editor de tu proyecto en Supabase. Ejecuta el siguiente script (ajusta los XPaths según tu estructura TEI): create or replace function public.rpc_get_text_chapter( p_text_id uuid, p_chapter_n text ) returns table ( original_text text, translation_text text, original_notes text, translator_notes text, translator_name text, original_edition text, translation_edition text ) language sql stable as $$ with ns as ( select array[ array[\u0026#39;tei\u0026#39;,\u0026#39;http://www.tei-c.org/ns/1.0\u0026#39;], array[\u0026#39;xml\u0026#39;,\u0026#39;http://www.w3.org/XML/1998/namespace\u0026#39;] ] as xmlns ), tc as ( select tei_xml from public.texts_contents where text_id = p_text_id ) select array_to_string( xpath( format( \u0026#39;//tei:div[@type=\u0026#34;section\u0026#34; and @n=\u0026#34;%s\u0026#34;]/tei:seg[@xml:lang=\u0026#34;gr\u0026#34;]/text()\u0026#39;, p_chapter_n ), tc.tei_xml, ns.xmlns ), \u0026#39;\u0026#39; ) as original_text, array_to_string( xpath( format( \u0026#39;//tei:div[@type=\u0026#34;section\u0026#34; and @n=\u0026#34;%s\u0026#34;]/tei:seg[@xml:lang=\u0026#34;es\u0026#34;]/text()\u0026#39;, p_chapter_n ), tc.tei_xml, ns.xmlns ), \u0026#39;\u0026#39; ) as translation_text, array_to_string( xpath( format( \u0026#39;//tei:div[@type=\u0026#34;section\u0026#34; and @n=\u0026#34;%s\u0026#34;]//tei:app/tei:rdg//text()\u0026#39;, p_chapter_n ), tc.tei_xml, ns.xmlns ), E\u0026#39;\\n\u0026#39; ) as original_notes, array_to_string( xpath( format( \u0026#39;//tei:div[@type=\u0026#34;section\u0026#34; and @n=\u0026#34;%s\u0026#34;]//tei:note[@resp=\u0026#34;translator\u0026#34;]/text()\u0026#39;, p_chapter_n ), tc.tei_xml, ns.xmlns ), E\u0026#39;\\n\u0026#39; ) as translator_notes, (xpath( \u0026#39;//tei:respStmt[@resp=\u0026#34;translator\u0026#34;]/tei:name/text()\u0026#39;, tc.tei_xml, ns.xmlns ))[1]::text as translator_name, (xpath( \u0026#39;//tei:editionStmt/tei:edition/text()\u0026#39;, tc.tei_xml, ns.xmlns ))[1]::text as original_edition, (xpath( \u0026#39;//tei:extent[../@unit=\u0026#34;translation\u0026#34;]/text()\u0026#39;, tc.tei_xml, ns.xmlns ))[1]::text as translation_edition from tc, ns; $$; grant execute on function public.rpc_get_text_chapter(uuid, text) to authenticated; 2. Instalar y configurar Supabase CLI npm install -g supabase supabase login supabase link --project-ref \u0026lt;YOUR_PROJECT_REF\u0026gt; \u0026lt;YOUR_PROJECT_REF\u0026gt; lo encuentras en Settings → API de tu proyecto. 3. Crear la Edge Function En tu carpeta local, crea:\n",
+  "description": "Partimos de que ya existen las tablas authors, texts y texts_contents con sus triggers de updated_at.\nPrerrequisitos Node.js (\u0026gt;=14) con npm y npx. Docker Desktop en macOS (o Docker Engine en Linux/Windows). Cuenta y proyecto activos en Supabase. Pasos detallados 1. Crear la función RPC en la base de datos Accede al SQL Editor en Supabase.\nEjecuta este script (ajusta los XPaths a tu TEI):\ncreate or replace function public.rpc_get_text_chapter( p_text_id uuid, p_chapter_n text ) returns table ( original_text text, translation_text text, original_notes text, translator_notes text, translator_name text, original_edition text, translation_edition text ) language sql stable as $$ with ns as ( select array[ array[\u0026#39;tei\u0026#39;,\u0026#39;http://www.tei-c.org/ns/1.0\u0026#39;], array[\u0026#39;xml\u0026#39;,\u0026#39;http://www.w3.org/XML/1998/namespace\u0026#39;] ] as xmlns ), tc as ( select tei_xml from public.texts_contents where text_id = p_text_id ) select array_to_string( xpath( format( \u0026#39;//tei:div[@type=\u0026#34;section\u0026#34; and @n=\u0026#34;%s\u0026#34;]/tei:seg[@xml:lang=\u0026#34;gr\u0026#34;]/text()\u0026#39;, p_chapter_n ), tc.tei_xml, ns.xmlns ), \u0026#39;\u0026#39; ) as original_text, array_to_string( xpath( format( \u0026#39;//tei:div[@type=\u0026#34;section\u0026#34; and @n=\u0026#34;%s\u0026#34;]/tei:seg[@xml:lang=\u0026#34;es\u0026#34;]/text()\u0026#39;, p_chapter_n ), tc.tei_xml, ns.xmlns ), \u0026#39;\u0026#39; ) as translation_text, array_to_string( xpath( format( \u0026#39;//tei:div[@type=\u0026#34;section\u0026#34; and @n=\u0026#34;%s\u0026#34;]//tei:app/tei:rdg//text()\u0026#39;, p_chapter_n ), tc.tei_xml, ns.xmlns ), E\u0026#39;\\n\u0026#39; ) as original_notes, array_to_string( xpath( format( \u0026#39;//tei:div[@type=\u0026#34;section\u0026#34; and @n=\u0026#34;%s\u0026#34;]//tei:note[@resp=\u0026#34;translator\u0026#34;]/text()\u0026#39;, p_chapter_n ), tc.tei_xml, ns.xmlns ), E\u0026#39;\\n\u0026#39; ) as translator_notes, (xpath( \u0026#39;//tei:respStmt[@resp=\u0026#34;translator\u0026#34;]/tei:name/text()\u0026#39;, tc.tei_xml, ns.xmlns ))[1]::text as translator_name, (xpath( \u0026#39;//tei:editionStmt/tei:edition/text()\u0026#39;, tc.tei_xml, ns.xmlns ))[1]::text as original_edition, (xpath( \u0026#39;//tei:extent[../@unit=\u0026#34;translation\u0026#34;]/text()\u0026#39;, tc.tei_xml, ns.xmlns ))[1]::text as translation_edition from tc, ns; $$; grant execute on function public.rpc_get_text_chapter(uuid, text) to authenticated; 2. Instalar y configurar Supabase CLI Puedes usar npx o instalar globalmente:\n",
   "keywords": [
-    "Supabase", "HTMX", "Edge Functions"
+    "Supabase", "HTMX", "Edge Functions", "Tutorial"
   ],
-  "articleBody": "Partimos de que ya he creado las tablas authors, texts y texts_contents con sus triggers de updated_at.\nA continuación detallo los pasos para exponer tu contenido TEI-XML a través de una Supabase Edge Function y consumirlo con HTMX:\n1. Crear la función RPC en la base de datos Abre el SQL Editor de tu proyecto en Supabase. Ejecuta el siguiente script (ajusta los XPaths según tu estructura TEI): create or replace function public.rpc_get_text_chapter( p_text_id uuid, p_chapter_n text ) returns table ( original_text text, translation_text text, original_notes text, translator_notes text, translator_name text, original_edition text, translation_edition text ) language sql stable as $$ with ns as ( select array[ array['tei','http://www.tei-c.org/ns/1.0'], array['xml','http://www.w3.org/XML/1998/namespace'] ] as xmlns ), tc as ( select tei_xml from public.texts_contents where text_id = p_text_id ) select array_to_string( xpath( format( '//tei:div[@type=\"section\" and @n=\"%s\"]/tei:seg[@xml:lang=\"gr\"]/text()', p_chapter_n ), tc.tei_xml, ns.xmlns ), '' ) as original_text, array_to_string( xpath( format( '//tei:div[@type=\"section\" and @n=\"%s\"]/tei:seg[@xml:lang=\"es\"]/text()', p_chapter_n ), tc.tei_xml, ns.xmlns ), '' ) as translation_text, array_to_string( xpath( format( '//tei:div[@type=\"section\" and @n=\"%s\"]//tei:app/tei:rdg//text()', p_chapter_n ), tc.tei_xml, ns.xmlns ), E'\\n' ) as original_notes, array_to_string( xpath( format( '//tei:div[@type=\"section\" and @n=\"%s\"]//tei:note[@resp=\"translator\"]/text()', p_chapter_n ), tc.tei_xml, ns.xmlns ), E'\\n' ) as translator_notes, (xpath( '//tei:respStmt[@resp=\"translator\"]/tei:name/text()', tc.tei_xml, ns.xmlns ))[1]::text as translator_name, (xpath( '//tei:editionStmt/tei:edition/text()', tc.tei_xml, ns.xmlns ))[1]::text as original_edition, (xpath( '//tei:extent[../@unit=\"translation\"]/text()', tc.tei_xml, ns.xmlns ))[1]::text as translation_edition from tc, ns; $$; grant execute on function public.rpc_get_text_chapter(uuid, text) to authenticated; 2. Instalar y configurar Supabase CLI npm install -g supabase supabase login supabase link --project-ref lo encuentras en Settings → API de tu proyecto. 3. Crear la Edge Function En tu carpeta local, crea:\nsupabase/ └─ functions/ └─ text-chapter/ └─ index.ts En index.ts pega:\nimport { serve } from \"https://deno.land/std@0.177.0/http/server.ts\"; import { createClient } from \"https://esm.sh/@supabase/supabase-js@2\"; const sb = createClient( Deno.env.get(\"SUPABASE_URL\")!, Deno.env.get(\"SUPABASE_SERVICE_ROLE_KEY\")! ); serve(async (req) =\u003e { const url = new URL(req.url); const textId = url.searchParams.get(\"textId\"); const chapter = url.searchParams.get(\"chapter\"); if (!textId || !chapter) { return new Response(\"Missing params\", { status: 400 }); } const { data, error } = await sb .rpc(\"rpc_get_text_chapter\", { p_text_id: textId, p_chapter_n: chapter }) .single(); if (error || !data) { return new Response(\"Error loading chapter\", { status: 500 }); } const html = ` Original (Griego) ${data.original_text}\nNotas Críticas ${data.original_notes} Edición: ${data.original_edition}\nTraducción (Español) ${data.translation_text}\nNotas del Traductor ${data.translator_notes} Traducido por: ${data.translator_name}\nEdición: ${data.translation_edition}\n`; return new Response(html, { headers: { \"Content-Type\": \"text/html; charset=utf-8\" }, }); }); 4. Definir variables de entorno En tu dashboard Settings → API, copia:\nSUPABASE_URL SERVICE ROLE KEY Y en tu entorno local (.env o export):\nexport SUPABASE_URL=\"https://.supabase.co\" export SUPABASE_SERVICE_ROLE_KEY=\"\" 5. Desplegar la función cd supabase/functions/text-chapter supabase functions deploy text-chapter Al acabar verás una URL como:\nhttps://.functions.supabase.co/text-chapter 6. Consumir desde HTMX En tu plantilla HTML de Hugo, añade:\n\u003cdiv id=\"chapter-container\" hx-get=\"https://.functions.supabase.co/text-chapter?textId={{ .Params.textId }}\u0026chapter={{ .Params.chapterN }}\" hx-trigger=\"load\" hx-target=\"#chapter-container\" hx-swap=\"innerHTML\" \u003e Cargando capítulo… \u003c/div\u003e 7. Pruebas y ajustes Verifica que los parámetros (textId, chapter) se pasen correctamente. Ajusta los XPaths en la función RPC si tu TEI varía. Añade estilos de Tailwind o clases de Hugo según tu tema. Descargo de responsabilidad: este tutorial se ofrece “tal cual” sin garantías. Adapta rutas, XPaths y configuraciones a tu proyecto. No me responsabilizo por posibles cambios en la API de Supabase o en tu entorno de despliegue.\n",
-  "wordCount" : "556",
+  "articleBody": "Partimos de que ya existen las tablas authors, texts y texts_contents con sus triggers de updated_at.\nPrerrequisitos Node.js (\u003e=14) con npm y npx. Docker Desktop en macOS (o Docker Engine en Linux/Windows). Cuenta y proyecto activos en Supabase. Pasos detallados 1. Crear la función RPC en la base de datos Accede al SQL Editor en Supabase.\nEjecuta este script (ajusta los XPaths a tu TEI):\ncreate or replace function public.rpc_get_text_chapter( p_text_id uuid, p_chapter_n text ) returns table ( original_text text, translation_text text, original_notes text, translator_notes text, translator_name text, original_edition text, translation_edition text ) language sql stable as $$ with ns as ( select array[ array['tei','http://www.tei-c.org/ns/1.0'], array['xml','http://www.w3.org/XML/1998/namespace'] ] as xmlns ), tc as ( select tei_xml from public.texts_contents where text_id = p_text_id ) select array_to_string( xpath( format( '//tei:div[@type=\"section\" and @n=\"%s\"]/tei:seg[@xml:lang=\"gr\"]/text()', p_chapter_n ), tc.tei_xml, ns.xmlns ), '' ) as original_text, array_to_string( xpath( format( '//tei:div[@type=\"section\" and @n=\"%s\"]/tei:seg[@xml:lang=\"es\"]/text()', p_chapter_n ), tc.tei_xml, ns.xmlns ), '' ) as translation_text, array_to_string( xpath( format( '//tei:div[@type=\"section\" and @n=\"%s\"]//tei:app/tei:rdg//text()', p_chapter_n ), tc.tei_xml, ns.xmlns ), E'\\n' ) as original_notes, array_to_string( xpath( format( '//tei:div[@type=\"section\" and @n=\"%s\"]//tei:note[@resp=\"translator\"]/text()', p_chapter_n ), tc.tei_xml, ns.xmlns ), E'\\n' ) as translator_notes, (xpath( '//tei:respStmt[@resp=\"translator\"]/tei:name/text()', tc.tei_xml, ns.xmlns ))[1]::text as translator_name, (xpath( '//tei:editionStmt/tei:edition/text()', tc.tei_xml, ns.xmlns ))[1]::text as original_edition, (xpath( '//tei:extent[../@unit=\"translation\"]/text()', tc.tei_xml, ns.xmlns ))[1]::text as translation_edition from tc, ns; $$; grant execute on function public.rpc_get_text_chapter(uuid, text) to authenticated; 2. Instalar y configurar Supabase CLI Puedes usar npx o instalar globalmente:\n# Con npx npx supabase@latest login npx supabase@latest link --project-ref # Ó globalmente npm install -g supabase supabase login supabase link --project-ref Para pruebas locales con Docker Desktop:\nsupabase start 3. Crear la Edge Function Crea el directorio local:\nsupabase/functions/text-chapter/index.ts En index.ts pega:\nimport { serve } from \"https://deno.land/std@0.177.0/http/server.ts\"; import { createClient } from \"https://esm.sh/@supabase/supabase-js@2\"; const sb = createClient( Deno.env.get(\"SUPABASE_URL\")!, Deno.env.get(\"SUPABASE_SERVICE_ROLE_KEY\")! ); serve(async (req) =\u003e { const url = new URL(req.url); const textId = url.searchParams.get(\"textId\"); const chapter = url.searchParams.get(\"chapter\"); if (!textId || !chapter) { return new Response(\"Missing params\", { status: 400 }); } const { data, error } = await sb .rpc(\"rpc_get_text_chapter\", { p_text_id: textId, p_chapter_n: chapter }) .single(); if (error || !data) { return new Response(\"Error loading chapter\", { status: 500 }); } const html = ` Original (Griego) ${data.original_text}\nNotas Críticas ${data.original_notes} Edición: ${data.original_edition}\nTraducción (Español) ${data.translation_text}\nNotas del Traductor ${data.translator_notes} Traducido por: ${data.translator_name}\nEdición: ${data.translation_edition}\n`; return new Response(html, { headers: { \"Content-Type\": \"text/html; charset=utf-8\" }, }); }); 4. Configurar variables de entorno export SUPABASE_URL=\"https://.supabase.co\" export SUPABASE_SERVICE_ROLE_KEY=\"\" 5. Desplegar la función cd supabase/functions/text-chapter supabase functions deploy text-chapter Al terminar verás la URL de la función.\n6. Consumir desde HTMX En tu HTML, agrega:\n\u003cdiv id=\"chapter-container\" hx-get=\"https://.functions.supabase.co/text-chapter?textId={{textId}}\u0026chapter={{chapterN}}\" hx-trigger=\"load\" hx-target=\"#chapter-container\" hx-swap=\"innerHTML\" \u003e Cargando capítulo… \u003c/div\u003e 7. Pruebas y ajustes Verifica textId y chapter. Ajusta XPaths. Instala Docker Desktop si no lo tenías. Descargo de responsabilidad: este tutorial se ofrece “tal cual” sin garantías. Adapta comandos y rutas a tu entorno.\n",
+  "wordCount" : "503",
   "inLanguage": "es",
   "datePublished": "2025-06-19T11:00:00-04:00",
   "dateModified": "2025-06-19T11:00:00-04:00",
@@ -458,13 +462,18 @@ En tu carpeta local, crea:">
 
         <div class="inner"><ul>
                 <li>
+                    <a href="#prerrequisitos" aria-label="Prerrequisitos">Prerrequisitos</a></li>
+                <li>
+                    <a href="#pasos-detallados" aria-label="Pasos detallados">Pasos detallados</a><ul>
+                        
+                <li>
                     <a href="#1-crear-la-funci%c3%b3n-rpc-en-la-base-de-datos" aria-label="1. Crear la función RPC en la base de datos">1. Crear la función RPC en la base de datos</a></li>
                 <li>
                     <a href="#2-instalar-y-configurar-supabase-cli" aria-label="2. Instalar y configurar Supabase CLI">2. Instalar y configurar Supabase CLI</a></li>
                 <li>
                     <a href="#3-crear-la-edge-function" aria-label="3. Crear la Edge Function">3. Crear la Edge Function</a></li>
                 <li>
-                    <a href="#4-definir-variables-de-entorno" aria-label="4. Definir variables de entorno">4. Definir variables de entorno</a></li>
+                    <a href="#4-configurar-variables-de-entorno" aria-label="4. Configurar variables de entorno">4. Configurar variables de entorno</a></li>
                 <li>
                     <a href="#5-desplegar-la-funci%c3%b3n" aria-label="5. Desplegar la función">5. Desplegar la función</a></li>
                 <li>
@@ -473,17 +482,27 @@ En tu carpeta local, crea:">
                     <a href="#7-pruebas-y-ajustes" aria-label="7. Pruebas y ajustes">7. Pruebas y ajustes</a>
                 </li>
             </ul>
+            </li>
+            </ul>
         </div>
     </details>
 </div>
 
-  <div class="post-content"><p>Partimos de que ya he creado las tablas <code>authors</code>, <code>texts</code> y <code>texts_contents</code> con sus triggers de <code>updated_at</code>.</p>
-<p>A continuación detallo los pasos para exponer tu contenido TEI-XML a través de una Supabase Edge Function y consumirlo con HTMX:</p>
-<h2 id="1-crear-la-función-rpc-en-la-base-de-datos">1. Crear la función RPC en la base de datos<a hidden class="anchor" aria-hidden="true" href="#1-crear-la-función-rpc-en-la-base-de-datos">#</a></h2>
+  <div class="post-content"><p><strong>Partimos de que ya existen las tablas</strong> <code>authors</code>, <code>texts</code> y <code>texts_contents</code> <strong>con sus triggers de</strong> <code>updated_at</code>.</p>
+<h2 id="prerrequisitos">Prerrequisitos<a hidden class="anchor" aria-hidden="true" href="#prerrequisitos">#</a></h2>
+<ul>
+<li><strong>Node.js</strong> (&gt;=14) con <code>npm</code> y <code>npx</code>.</li>
+<li><strong>Docker Desktop</strong> en macOS (o Docker Engine en Linux/Windows).</li>
+<li><strong>Cuenta y proyecto</strong> activos en Supabase.</li>
+</ul>
+<h2 id="pasos-detallados">Pasos detallados<a hidden class="anchor" aria-hidden="true" href="#pasos-detallados">#</a></h2>
+<h3 id="1-crear-la-función-rpc-en-la-base-de-datos">1. Crear la función RPC en la base de datos<a hidden class="anchor" aria-hidden="true" href="#1-crear-la-función-rpc-en-la-base-de-datos">#</a></h3>
 <ol>
-<li>Abre el <strong>SQL Editor</strong> de tu proyecto en Supabase.</li>
-<li>Ejecuta el siguiente script (ajusta los XPaths según tu estructura TEI):</li>
-</ol>
+<li>
+<p>Accede al <strong>SQL Editor</strong> en Supabase.</p>
+</li>
+<li>
+<p>Ejecuta este script (ajusta los XPaths a tu TEI):</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sql" data-lang="sql"><span style="display:flex;"><span><span style="color:#66d9ef">create</span> <span style="color:#66d9ef">or</span> <span style="color:#66d9ef">replace</span> <span style="color:#66d9ef">function</span> <span style="color:#66d9ef">public</span>.rpc_get_text_chapter(
 </span></span><span style="display:flex;"><span>  p_text_id   uuid,
 </span></span><span style="display:flex;"><span>  p_chapter_n text
@@ -496,7 +515,7 @@ En tu carpeta local, crea:">
 </span></span><span style="display:flex;"><span>  translator_name     text,
 </span></span><span style="display:flex;"><span>  original_edition    text,
 </span></span><span style="display:flex;"><span>  translation_edition text
-</span></span><span style="display:flex;"><span>) 
+</span></span><span style="display:flex;"><span>)
 </span></span><span style="display:flex;"><span><span style="color:#66d9ef">language</span> <span style="color:#66d9ef">sql</span> <span style="color:#66d9ef">stable</span> <span style="color:#66d9ef">as</span>
 </span></span><span style="display:flex;"><span><span style="color:#960050;background-color:#1e0010">$$</span>
 </span></span><span style="display:flex;"><span><span style="color:#66d9ef">with</span> 
@@ -571,24 +590,28 @@ En tu carpeta local, crea:">
 </span></span><span style="display:flex;"><span><span style="color:#960050;background-color:#1e0010">$$</span>;
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span><span style="color:#66d9ef">grant</span> <span style="color:#66d9ef">execute</span> <span style="color:#66d9ef">on</span> <span style="color:#66d9ef">function</span> <span style="color:#66d9ef">public</span>.rpc_get_text_chapter(uuid, text) <span style="color:#66d9ef">to</span> authenticated;
-</span></span></code></pre></div><h2 id="2-instalar-y-configurar-supabase-cli">2. Instalar y configurar Supabase CLI<a hidden class="anchor" aria-hidden="true" href="#2-instalar-y-configurar-supabase-cli">#</a></h2>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>npm install -g supabase
+</span></span></code></pre></div></li>
+</ol>
+<h3 id="2-instalar-y-configurar-supabase-cli">2. Instalar y configurar Supabase CLI<a hidden class="anchor" aria-hidden="true" href="#2-instalar-y-configurar-supabase-cli">#</a></h3>
+<p>Puedes usar <strong>npx</strong> o instalar globalmente:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#75715e"># Con npx</span>
+</span></span><span style="display:flex;"><span>npx supabase@latest login
+</span></span><span style="display:flex;"><span>npx supabase@latest link --project-ref &lt;TU_PROJECT_REF&gt;
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Ó globalmente</span>
+</span></span><span style="display:flex;"><span>npm install -g supabase
 </span></span><span style="display:flex;"><span>supabase login
-</span></span><span style="display:flex;"><span>supabase link --project-ref &lt;YOUR_PROJECT_REF&gt;
-</span></span></code></pre></div><ul>
-<li><code>&lt;YOUR_PROJECT_REF&gt;</code> lo encuentras en <strong>Settings → API</strong> de tu proyecto.</li>
-</ul>
-<h2 id="3-crear-la-edge-function">3. Crear la Edge Function<a hidden class="anchor" aria-hidden="true" href="#3-crear-la-edge-function">#</a></h2>
+</span></span><span style="display:flex;"><span>supabase link --project-ref &lt;TU_PROJECT_REF&gt;
+</span></span></code></pre></div><p>Para pruebas locales con Docker Desktop:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>supabase start
+</span></span></code></pre></div><h3 id="3-crear-la-edge-function">3. Crear la Edge Function<a hidden class="anchor" aria-hidden="true" href="#3-crear-la-edge-function">#</a></h3>
 <ol>
 <li>
-<p>En tu carpeta local, crea:</p>
-<pre tabindex="0"><code>supabase/
-└─ functions/
-   └─ text-chapter/
-      └─ index.ts
+<p>Crea el directorio local:</p>
+<pre tabindex="0"><code>supabase/functions/text-chapter/index.ts
 </code></pre></li>
 <li>
-<p>En <strong><code>index.ts</code></strong> pega:</p>
+<p>En <code>index.ts</code> pega:</p>
 </li>
 </ol>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-ts" data-lang="ts"><span style="display:flex;"><span><span style="color:#66d9ef">import</span> { <span style="color:#a6e22e">serve</span> } <span style="color:#66d9ef">from</span> <span style="color:#e6db74">&#34;https://deno.land/std@0.177.0/http/server.ts&#34;</span>;
@@ -639,39 +662,32 @@ En tu carpeta local, crea:">
 </span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">headers</span><span style="color:#f92672">:</span> { <span style="color:#e6db74">&#34;Content-Type&#34;</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#34;text/html; charset=utf-8&#34;</span> },
 </span></span><span style="display:flex;"><span>  });
 </span></span><span style="display:flex;"><span>});
-</span></span></code></pre></div><h2 id="4-definir-variables-de-entorno">4. Definir variables de entorno<a hidden class="anchor" aria-hidden="true" href="#4-definir-variables-de-entorno">#</a></h2>
-<p>En tu dashboard <strong>Settings → API</strong>, copia:</p>
-<ul>
-<li><code>SUPABASE_URL</code></li>
-<li><code>SERVICE ROLE KEY</code></li>
-</ul>
-<p>Y en tu entorno local (<code>.env</code> o export):</p>
+</span></span></code></pre></div><h3 id="4-configurar-variables-de-entorno">4. Configurar variables de entorno<a hidden class="anchor" aria-hidden="true" href="#4-configurar-variables-de-entorno">#</a></h3>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>export SUPABASE_URL<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;https://&lt;tu-proyecto&gt;.supabase.co&#34;</span>
 </span></span><span style="display:flex;"><span>export SUPABASE_SERVICE_ROLE_KEY<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;&lt;tu-service-role-key&gt;&#34;</span>
-</span></span></code></pre></div><h2 id="5-desplegar-la-función">5. Desplegar la función<a hidden class="anchor" aria-hidden="true" href="#5-desplegar-la-función">#</a></h2>
+</span></span></code></pre></div><h3 id="5-desplegar-la-función">5. Desplegar la función<a hidden class="anchor" aria-hidden="true" href="#5-desplegar-la-función">#</a></h3>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>cd supabase/functions/text-chapter
 </span></span><span style="display:flex;"><span>supabase functions deploy text-chapter
-</span></span></code></pre></div><p>Al acabar verás una URL como:</p>
-<pre tabindex="0"><code>https://&lt;project&gt;.functions.supabase.co/text-chapter
-</code></pre><h2 id="6-consumir-desde-htmx">6. Consumir desde HTMX<a hidden class="anchor" aria-hidden="true" href="#6-consumir-desde-htmx">#</a></h2>
-<p>En tu plantilla HTML de Hugo, añade:</p>
+</span></span></code></pre></div><p>Al terminar verás la URL de la función.</p>
+<h3 id="6-consumir-desde-htmx">6. Consumir desde HTMX<a hidden class="anchor" aria-hidden="true" href="#6-consumir-desde-htmx">#</a></h3>
+<p>En tu HTML, agrega:</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>&lt;<span style="color:#f92672">div</span>
 </span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">id</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;chapter-container&#34;</span>
-</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">hx-get</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;https://&lt;project&gt;.functions.supabase.co/text-chapter?textId={{ .Params.textId }}&amp;chapter={{ .Params.chapterN }}&#34;</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">hx-get</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;https://&lt;project&gt;.functions.supabase.co/text-chapter?textId={{textId}}&amp;chapter={{chapterN}}&#34;</span>
 </span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">hx-trigger</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;load&#34;</span>
 </span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">hx-target</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;#chapter-container&#34;</span>
 </span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">hx-swap</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;innerHTML&#34;</span>
 </span></span><span style="display:flex;"><span>&gt;
 </span></span><span style="display:flex;"><span>  Cargando capítulo…
 </span></span><span style="display:flex;"><span>&lt;/<span style="color:#f92672">div</span>&gt;
-</span></span></code></pre></div><h2 id="7-pruebas-y-ajustes">7. Pruebas y ajustes<a hidden class="anchor" aria-hidden="true" href="#7-pruebas-y-ajustes">#</a></h2>
+</span></span></code></pre></div><h3 id="7-pruebas-y-ajustes">7. Pruebas y ajustes<a hidden class="anchor" aria-hidden="true" href="#7-pruebas-y-ajustes">#</a></h3>
 <ul>
-<li>Verifica que los parámetros (<code>textId</code>, <code>chapter</code>) se pasen correctamente.</li>
-<li>Ajusta los XPaths en la función RPC si tu TEI varía.</li>
-<li>Añade estilos de Tailwind o clases de Hugo según tu tema.</li>
+<li>Verifica <code>textId</code> y <code>chapter</code>.</li>
+<li>Ajusta XPaths.</li>
+<li>Instala Docker Desktop si no lo tenías.</li>
 </ul>
 <hr>
-<p><strong>Descargo de responsabilidad</strong>: este tutorial se ofrece “tal cual” sin garantías. Adapta rutas, XPaths y configuraciones a tu proyecto. No me responsabilizo por posibles cambios en la API de Supabase o en tu entorno de despliegue.</p>
+<p><strong>Descargo de responsabilidad</strong>: este tutorial se ofrece “tal cual” sin garantías. Adapta comandos y rutas a tu entorno.</p>
 
 
   </div>
@@ -681,6 +697,7 @@ En tu carpeta local, crea:">
         <li><a href="http://localhost:1313/blog/es/tags/supabase/">Supabase</a></li>
         <li><a href="http://localhost:1313/blog/es/tags/htmx/">HTMX</a></li>
         <li><a href="http://localhost:1313/blog/es/tags/edge-functions/">Edge Functions</a></li>
+        <li><a href="http://localhost:1313/blog/es/tags/tutorial/">Tutorial</a></li>
     </ul>
 
   <div style="margin-top: 1rem;">
@@ -688,7 +705,7 @@ En tu carpeta local, crea:">
 <ul class="share-buttons">
     <li>
         <a target="_blank" rel="noopener noreferrer" aria-label="share Integración de Supabase Edge Functions con HTMX on x"
-            href="https://x.com/intent/tweet/?text=Integraci%c3%b3n%20de%20Supabase%20Edge%20Functions%20con%20HTMX&amp;url=http%3a%2f%2flocalhost%3a1313%2fblog%2fes%2fposts%2fsupabase-htmx%2f&amp;hashtags=Supabase%2cHTMX%2cEdgeFunctions">
+            href="https://x.com/intent/tweet/?text=Integraci%c3%b3n%20de%20Supabase%20Edge%20Functions%20con%20HTMX&amp;url=http%3a%2f%2flocalhost%3a1313%2fblog%2fes%2fposts%2fsupabase-htmx%2f&amp;hashtags=Supabase%2cHTMX%2cEdgeFunctions%2cTutorial">
             <svg version="1.1" viewBox="0 0 512 512" xml:space="preserve" height="30px" width="30px" fill="currentColor">
                 <path
                     d="M512 62.554 L 512 449.446 C 512 483.97 483.97 512 449.446 512 L 62.554 512 C 28.03 512 0 483.97 0 449.446 L 0 62.554 C 0 28.03 28.029 0 62.554 0 L 449.446 0 C 483.971 0 512 28.03 512 62.554 Z M 269.951 190.75 L 182.567 75.216 L 56 75.216 L 207.216 272.95 L 63.9 436.783 L 125.266 436.783 L 235.9 310.383 L 332.567 436.783 L 456 436.783 L 298.367 228.367 L 432.367 75.216 L 371.033 75.216 Z M 127.633 110 L 164.101 110 L 383.481 400.065 L 349.5 400.065 Z" />
