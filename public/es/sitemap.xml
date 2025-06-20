@@ -53,6 +53,9 @@
     <loc>http://localhost:1313/blog/es/posts/supabase-htmx/</loc>
     <lastmod>2025-06-19T11:00:00-04:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/blog/es/tags/notutorial/</loc>
+    <lastmod>2025-06-19T11:00:00-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/es/posts/</loc>
     <lastmod>2025-06-19T11:00:00-04:00</lastmod>
     <xhtml:link
@@ -67,9 +70,6 @@
                 />
   </url><url>
     <loc>http://localhost:1313/blog/es/tags/supabase/</loc>
-    <lastmod>2025-06-19T11:00:00-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/es/tags/tutorial/</loc>
     <lastmod>2025-06-19T11:00:00-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/es/tags/certbot/</loc>

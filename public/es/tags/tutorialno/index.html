@@ -5,11 +5,11 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
-<title>Etiquetas | Blog de Eduardo Alemán</title>
+<title>TutorialNo | Blog de Eduardo Alemán</title>
 <meta name="keywords" content="">
-<meta name="description" content="Entradas agrupadas por etiquetas">
+<meta name="description" content="Blog en español de Eduardo Alemán.">
 <meta name="author" content="">
-<link rel="canonical" href="http://localhost:1313/blog/es/tags/">
+<link rel="canonical" href="http://localhost:1313/blog/es/tags/tutorialno/">
 <link crossorigin="anonymous" href="/blog/assets/css/stylesheet.a8501b4e1544bf104a4e2647be64df3637f95b6ac25a4298047d87fe0eacffa1.css" integrity="sha256-qFAbThVEvxBKTiZHvmTfNjf5W2rCWkKYBH2H/g6s/6E=" rel="preload stylesheet" as="style">
 <link rel="icon" href="http://localhost:1313/blog/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/blog/favicon-16x16.png">
@@ -18,9 +18,8 @@
 <link rel="mask-icon" href="http://localhost:1313/blog/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/blog/es/tags/index.xml">
-<link rel="alternate" hreflang="es" href="http://localhost:1313/blog/es/tags/">
-<link rel="alternate" hreflang="en" href="http://localhost:1313/blog/en/tags/">
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/blog/es/tags/tutorialno/index.xml">
+<link rel="alternate" hreflang="es" href="http://localhost:1313/blog/es/tags/tutorialno/">
 <noscript>
     <style>
         #theme-toggle,
@@ -65,15 +64,15 @@
 
 
 
-<meta property="og:url" content="http://localhost:1313/blog/es/tags/">
+<meta property="og:url" content="http://localhost:1313/blog/es/tags/tutorialno/">
   <meta property="og:site_name" content="Blog de Eduardo Alemán">
-  <meta property="og:title" content="Etiquetas">
-  <meta property="og:description" content="Entradas agrupadas por etiquetas">
+  <meta property="og:title" content="TutorialNo">
+  <meta property="og:description" content="Blog en español de Eduardo Alemán.">
   <meta property="og:locale" content="es">
   <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Etiquetas">
-<meta name="twitter:description" content="Entradas agrupadas por etiquetas">
+<meta name="twitter:title" content="TutorialNo">
+<meta name="twitter:description" content="Blog en español de Eduardo Alemán.">
 
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" integrity="sha384-mll67QQWvQ+1QKp6lQw6Q3pQ9Qw6Q3pQ9Qw6Q3pQ9Qw6Q3pQ9Qw6Q3pQ9Qw6Q3pQ" crossorigin="anonymous">
@@ -175,233 +174,27 @@
 </header>
 <main class="main">
 <header class="page-header">
-  <h1>Etiquetas</h1>
-  <div class="post-description">
-    Entradas agrupadas por etiquetas
-  </div>
+  <h1>TutorialNo</h1>
 </header>
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">
+      Integración de Supabase Edge Functions con HTMX
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Partimos de que ya existen las tablas authors, texts y texts_contents con sus triggers de updated_at.
+Prerrequisitos Node.js (&gt;=14) con npm y npx. Docker Desktop en macOS (o Docker Engine en Linux/Windows). Cuenta y proyecto activos en Supabase. Pasos detallados 1. Crear la función RPC en la base de datos Accede al SQL Editor en Supabase.
+Ejecuta este script (ajusta los XPaths a tu TEI):
+create or replace function public.rpc_get_text_chapter( p_text_id uuid, p_chapter_n text ) returns table ( original_text text, translation_text text, original_notes text, translator_notes text, translator_name text, original_edition text, translation_edition text ) language sql stable as $$ with ns as ( select array[ array[&#39;tei&#39;,&#39;http://www.tei-c.org/ns/1.0&#39;], array[&#39;xml&#39;,&#39;http://www.w3.org/XML/1998/namespace&#39;] ] as xmlns ), tc as ( select tei_xml from public.texts_contents where text_id = p_text_id ) select array_to_string( xpath( format( &#39;//tei:div[@type=&#34;section&#34; and @n=&#34;%s&#34;]/tei:seg[@xml:lang=&#34;gr&#34;]/text()&#39;, p_chapter_n ), tc.tei_xml, ns.xmlns ), &#39;&#39; ) as original_text, array_to_string( xpath( format( &#39;//tei:div[@type=&#34;section&#34; and @n=&#34;%s&#34;]/tei:seg[@xml:lang=&#34;es&#34;]/text()&#39;, p_chapter_n ), tc.tei_xml, ns.xmlns ), &#39;&#39; ) as translation_text, array_to_string( xpath( format( &#39;//tei:div[@type=&#34;section&#34; and @n=&#34;%s&#34;]//tei:app/tei:rdg//text()&#39;, p_chapter_n ), tc.tei_xml, ns.xmlns ), E&#39;\n&#39; ) as original_notes, array_to_string( xpath( format( &#39;//tei:div[@type=&#34;section&#34; and @n=&#34;%s&#34;]//tei:note[@resp=&#34;translator&#34;]/text()&#39;, p_chapter_n ), tc.tei_xml, ns.xmlns ), E&#39;\n&#39; ) as translator_notes, (xpath( &#39;//tei:respStmt[@resp=&#34;translator&#34;]/tei:name/text()&#39;, tc.tei_xml, ns.xmlns ))[1]::text as translator_name, (xpath( &#39;//tei:editionStmt/tei:edition/text()&#39;, tc.tei_xml, ns.xmlns ))[1]::text as original_edition, (xpath( &#39;//tei:extent[../@unit=&#34;translation&#34;]/text()&#39;, tc.tei_xml, ns.xmlns ))[1]::text as translation_edition from tc, ns; $$; grant execute on function public.rpc_get_text_chapter(uuid, text) to authenticated; 2. Instalar y configurar Supabase CLI Puedes usar npx o instalar globalmente:
+…</p>
+  </div>
+  <footer class="entry-footer"><span title='2025-06-19 11:00:00 -0400 -0400'>junio 19 2025</span>&nbsp;·&nbsp;3 minutos
 
-<ul class="terms-tags">
-    <li>
-      <a href="/blog/es/tags/academia/">Academia <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/alejandro-magno/">Alejandro Magno <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/anales/">Anales <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/anarquismo/">Anarquismo <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/arte-renacentista/">Arte Renacentista <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/certbot/">Certbot <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/christophe-eloy/">Christophe Eloy <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/ciencias-sociales/">Ciencias Sociales <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/ciudad-estado/">Ciudad-Estado <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/conciencia/">Conciencia <sup><strong>2</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/criptomonedas/">Criptomonedas <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/cristianismo/">Cristianismo <sup><strong>2</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/cuadernos/">Cuadernos <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/david-graeber/">David Graeber <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/david-wengrow/">David Wengrow <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/democracia-antigua/">Democracia Antigua <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/deployment/">Deployment <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/docker/">Docker <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/edge-functions/">Edge Functions <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/estructura-literaria/">Estructura Literaria <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/euler/">Euler <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/existencia/">Existencia <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/fail2ban/">Fail2Ban <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/grecia/">Grecia <sup><strong>2</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/guerra/">Guerra <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/gunicorn/">Gunicorn <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/heidegger/">Heidegger <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/herman-hansen/">Herman Hansen <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/historia-bizantina/">Historia Bizantina <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/historia-romana/">Historia Romana <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/html/">HTML <sup><strong>2</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/htmx/">HTMX <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/humanidades-digitales/">Humanidades Digitales <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/idealismo/">Idealismo <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/identidades/">Identidades <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/imperialismo/">Imperialismo <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/imperio-romano-de-oriente/">Imperio Romano De Oriente <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/interoperabilidad/">Interoperabilidad <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/juliano/">Juliano <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/justinianeo/">Justinianeo <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/leonardo-da-vinci/">Leonardo Da Vinci <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/linux/">Linux <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/marcado-estructurado/">Marcado Estructurado <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/markdown/">Markdown <sup><strong>2</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/nano/">Nano <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/nginx/">Nginx <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/nodo/">Nodo <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/notutorial/">NoTutorial <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/paganismo/">Paganismo <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/penrose/">Penrose <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/platonismo/">Platonismo <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/plutarco/">Plutarco <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/polis/">Polis <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/postgres/">Postgres <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/prehistoria/">Prehistoria <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/procopio/">Procopio <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/referencia/">Referencia <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/roma/">Roma <sup><strong>2</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/ronald-syme/">Ronald Syme <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/seguridad/">Seguridad <sup><strong>3</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/ser/">Ser <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/servidores/">Servidores <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/siglo-vi/">Siglo VI <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/ssh/">SSH <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/supabase/">Supabase <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/tei/">TEI <sup><strong>2</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/tito-flaminino/">Tito Flaminino <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/transformaciones/">Transformaciones <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/txt/">TXT <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/ubuntu/">Ubuntu <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/ucrania/">Ucrania <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/ufw/">UFW <sup><strong>1</strong></sup></a>
-    </li>
-    <li>
-      <a href="/blog/es/tags/xml/">XML <sup><strong>3</strong></sup></a>
-    </li>
-</ul>
+
+  </footer>
+  <a class="entry-link" href="http://localhost:1313/blog/es/posts/supabase-htmx/" aria-label="Leer más sobre Integración de Supabase Edge Functions con HTMX"></a>
+</article>
     </main>
     
 <footer class="footer">

@@ -6,7 +6,7 @@ tags:
   - Supabase
   - HTMX
   - Edge Functions
-  - Tutorial
+  - NoTutorial
 categories:
   - Desarrollo Web
 ---
@@ -237,4 +237,4 @@ En tu HTML, agrega:
 
 ---
 
-**Descargo de responsabilidad**: este tutorial se ofrece “tal cual” sin garantías. Adapta comandos y rutas a tu entorno.
+**Descargo de responsabilidad**: este no es un tutorial, solo una descripción de una parte de un proyecto y se ofrece “tal cual” sin garantías. Si usas la información, adapta comandos y rutas a tu entorno.
