@@ -6,8 +6,36 @@
     <description>Recent content on Blog de Eduardo Alemán</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>es</language>
-    <lastBuildDate>Sat, 21 Jun 2025 15:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 21 Jun 2025 16:00:00 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Los mejores recursos para aprender CSS, Sass, htmx, JavaScript y Python</title>
+      <link>http://localhost:1313/blog/es/posts/herramientas/programar/</link>
+      <pubDate>Sat, 21 Jun 2025 16:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/blog/es/posts/herramientas/programar/</guid>
+      <description>&lt;p&gt;En este artículo encontrarás una selección de recursos gratuitos y de alta calidad para aprender:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;CSS &amp;amp; Sass&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;JavaScript&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;htmx&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bootstrap&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;1-freecodecamp&#34;&gt;1. freeCodeCamp&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href=&#34;https://www.freecodecamp.org/&#34;&gt;https://www.freecodecamp.org/&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;Qué ofrece:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Currículo interactivo con proyectos reales desde el primer día.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CSS &amp;amp; Sass:&lt;/strong&gt; Incluye módulos de Responsive Web Design, Flexbox, Grid y preprocesadores (Sass).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;JavaScript:&lt;/strong&gt; Fundamentos, ES6+, manipulación del DOM y más.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Python:&lt;/strong&gt; Certificación “Scientific Computing with Python” enfocada en automatización y análisis de datos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;2-mdn-web-docs&#34;&gt;2. MDN Web Docs&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href=&#34;https://developer.mozilla.org/&#34;&gt;https://developer.mozilla.org/&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;Qué ofrece:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Paquetes instalados con Homebrew</title>
       <link>http://localhost:1313/blog/es/posts/herramientas/</link>
