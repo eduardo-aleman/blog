@@ -1,7 +1,7 @@
 ---
 title: "Integración de Supabase Edge Functions con HTMX"
 date: 2025-06-19T11:00:00-04:00
-draft: false
+draft: true
 tags:
   - Supabase
   - HTMX

@@ -4,7 +4,7 @@
     <title>Tecnología on Blog de Eduardo Alemán</title>
     <link>http://localhost:1313/blog/es/categories/tecnolog%C3%ADa/</link>
     <description>Recent content in Tecnología on Blog de Eduardo Alemán</description>
-    <generator>Hugo -- 0.147.8</generator>
+    <generator>Hugo -- 0.147.9</generator>
     <language>es</language>
     <lastBuildDate>Sun, 20 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/es/categories/tecnolog%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
@@ -14,13 +14,6 @@
       <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/es/posts/la-naturaleza-de-la-computaci%C3%B3n/</guid>
       <description>Cómo Leonhard Euler resolvió el problema de los puentes de Königsberg y fundó una nueva forma de pensar: la teoría de grafos.</description>
-    </item>
-    <item>
-      <title>Instalación del Nodo Nano v28.1</title>
-      <link>http://localhost:1313/blog/es/posts/nano-node-v28.1/</link>
-      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/es/posts/nano-node-v28.1/</guid>
-      <description>Guía completa para instalar un nodo Nano versión 28.1 con Docker, configurar una wallet e integrarse a la red.</description>
     </item>
     <item>
       <title>Endurecimiento de un servidor Ubuntu: pasos esenciales</title>

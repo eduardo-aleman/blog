@@ -1,6 +1,7 @@
 ---
 title: "Explorando Django y Python para sitios de textos clásicos"
 date: 2025-06-13
+draft: true
 categories:
 - Desarrollo web
 - Humanidades digitales

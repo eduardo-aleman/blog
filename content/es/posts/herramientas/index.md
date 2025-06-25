@@ -1,7 +1,7 @@
 ---
 title: "Paquetes instalados con Homebrew"
 date: 2025-06-21T15:00:00-07:00
-draft: false
+draft: true
 description: "Listado de paquetes instalados mediante Homebrew con sus versiones y una breve descripción de cada uno."
 tags:
   - homebrew

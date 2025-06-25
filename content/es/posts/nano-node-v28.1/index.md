@@ -7,7 +7,7 @@ categories:
   - Referencia
   - Blockchain
   - Infraestructura
-draft: false
+draft: true
 tags:
   - Nano
   - Criptomonedas

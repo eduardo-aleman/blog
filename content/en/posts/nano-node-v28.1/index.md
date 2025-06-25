@@ -2,7 +2,7 @@
 title: "Installing Nano Node v28.1"
 translationKey: nano-node-v28-1
 date: 2025-02-04
-draft: false
+draft: true
 categories:
   - Blockchain
   - Infrastructure

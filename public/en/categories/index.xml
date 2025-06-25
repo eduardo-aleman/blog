@@ -4,28 +4,14 @@
     <title>Categories on Eduardo Alemán’s Blog</title>
     <link>http://localhost:1313/blog/en/categories/</link>
     <description>Recent content in Categories on Eduardo Alemán’s Blog</description>
-    <generator>Hugo -- 0.147.8</generator>
+    <generator>Hugo -- 0.147.9</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/en/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Blockchain</title>
-      <link>http://localhost:1313/blog/en/categories/blockchain/</link>
-      <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/en/categories/blockchain/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Infrastructure</title>
-      <link>http://localhost:1313/blog/en/categories/infrastructure/</link>
-      <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/en/categories/infrastructure/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Reference</title>
       <link>http://localhost:1313/blog/en/categories/reference/</link>
-      <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/en/categories/reference/</guid>
       <description></description>
     </item>

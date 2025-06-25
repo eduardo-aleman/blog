@@ -4,7 +4,7 @@
     <title>Eduardo Alemán’s Blog</title>
     <link>http://localhost:1313/blog/en/</link>
     <description>Recent content on Eduardo Alemán’s Blog</description>
-    <generator>Hugo -- 0.147.8</generator>
+    <generator>Hugo -- 0.147.9</generator>
     <language>en</language>
     <lastBuildDate>Mon, 02 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/en/index.xml" rel="self" type="application/rss+xml" />
@@ -14,13 +14,6 @@
       <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/en/posts/xml-markdown-html/</guid>
       <description>A clear comparison of XML, Markdown, and HTML: what they are used for, how they differ, and what challenges arise when converting between them.</description>
-    </item>
-    <item>
-      <title>Installing Nano Node v28.1</title>
-      <link>http://localhost:1313/blog/en/posts/nano-node-v28.1/</link>
-      <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/en/posts/nano-node-v28.1/</guid>
-      <description>A complete guide to installing a Nano node version 28.1 with Docker, setting up a wallet, and integrating into the network.</description>
     </item>
     <item>
       <title>Hardening an Ubuntu Server: Essential Steps</title>
