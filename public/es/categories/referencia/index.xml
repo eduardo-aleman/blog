@@ -6,8 +6,15 @@
     <description>Recent content in Referencia on Blog de Eduardo Alemán</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 27 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/es/categories/referencia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tabla Completa y Detallada del Alfabeto Griego</title>
+      <link>http://localhost:1313/blog/es/posts/alfabeto-griego/</link>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/es/posts/alfabeto-griego/</guid>
+      <description>Una tabla de referencia completa del alfabeto griego que combina información en español e inglés, incluyendo equivalentes, pronunciación y formas mayúsculas y minúsculas.</description>
+    </item>
     <item>
       <title>Endurecimiento de un servidor Ubuntu: pasos esenciales</title>
       <link>http://localhost:1313/blog/es/posts/endurecimiento-servidor-ubuntu/</link>
