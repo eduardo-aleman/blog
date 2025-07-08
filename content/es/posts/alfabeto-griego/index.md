@@ -1,5 +1,5 @@
 ---
-title: Tabla Completa y Detallada del Alfabeto Griego
+title: Tabla completa y detallada del alfabeto griego
 date: 2025-07-07
 description: Una tabla de referencia completa del alfabeto griego que combina información
   en español e inglés, incluyendo equivalentes, pronunciación y formas mayúsculas
@@ -19,7 +19,7 @@ tags:
 
 Aquí tienes una tabla de referencia completa del alfabeto griego, ideal para estudiantes y entusiastas de los idiomas. Esta tabla combina información de fuentes en español e inglés para ofrecer una visión detallada de cada letra.
 
-### Alfabeto Griego (Versión Detallada)
+### Alfabeto Griego
 
 | Mayúscula | Minúscula | Nombre Griego | Nombre en Castellano | Equivalente Español | Pronunciación (Español) | Nombre en inglés | Equivalente Inglés | Pronunciación (English Guide) |
 | :---: | :---: | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
