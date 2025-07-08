@@ -52,5 +52,4 @@ Aquí tienes una tabla de referencia completa del alfabeto griego, ideal para es
 
 #### Notas Adicionales
 
-* **Digamma (Ϝ):** Después de épsilon venía la letra digamma (Ϝ), que sonaba como la 'w' en inglés, hasta que cayó en desuso.
 * **Sigma (Σ):** Sigma tiene la forma **ς** solo cuando es la última letra de una palabra; de lo contrario, aparece como **σ**. Algunos académicos, especialmente aquellos que trabajan con manuscritos fragmentarios, prefieren usar una **c**, una sigma "lunar", que tiene la misma forma independientemente de su posición en la palabra. Su forma mayúscula es C.
