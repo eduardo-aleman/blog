@@ -22,4 +22,6 @@ El primero, CorpusAbierto, es un proyecto para compartir una colección de texto
 
 El segundo proyecto, Griego Ático, son lecciones que uso para aprender el griego clásico, basándome en diferentes fuentes y que consolido en lecciones detalladas para usuarios interesados en aprender este idioma importantísimo en el desarrollo de la cultura occidental. El sitio está disponible en https://griegoatico.com.
 
+Este segundo usa además como tema, PaperMod, el mismo que uso para este blog.
+
 verano de 2025.
