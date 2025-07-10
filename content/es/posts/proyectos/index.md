@@ -13,6 +13,7 @@ tags:
 - lingüística
 - filología
 - letras griegas
+- historiografía grecoromana
 ---
 
 He decidido diseñar los dos proyectos de Humanidades digitales que envisionaba usando Hugo. Ya he completado las plantillas y publicado algunas páginas.  
