@@ -10,7 +10,7 @@ summary: Desde la psychē platónica hasta la teoría cuántica de Penrose, este
 draft: false
 description: 'De Platón a Penrose: una historia intelectual del alma y la consciencia.'
 tags:
-- filosofía
+- Filosofía
 - Penrose
 - Platonismo
 - Conciencia
