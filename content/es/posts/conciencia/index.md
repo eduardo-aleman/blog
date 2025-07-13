@@ -1,6 +1,6 @@
 ---
 title: 'Sincronía fisiológica y la consciencia'
-date: 2025-03-15
+date: 2025-07-12
 categories:
 - Filosofía
 - Artículo
