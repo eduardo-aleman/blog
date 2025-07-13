@@ -1,5 +1,5 @@
 ---
-title: 'Sincronía fisiológica y la consciencia'
+title: 'Sincronía fisiológica, entrelazamiento cuántico y consciencia'
 date: 2025-07-12
 categories:
 - Filosofía
