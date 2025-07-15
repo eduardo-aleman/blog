@@ -1,12 +1,47 @@
-# Node modules (if using JS tools)
-/node_modules/
-
-# OS / Editor junk
-.DS_Store
+# Ignore node_modules directory
+node_modules/
+# Ignore log files
+*.log
+# Ignore environment variable files
+.env
+# Ignore build directories
+dist/
+# Ignore coverage reports
+coverage/
+# Ignore temporary files
+*.tmp
+# Ignore IDE specific files
+.idea/
+# Ignore OS generated files
 Thumbs.db
+.DS_Store
+# Ignore editor specific files
+.vscode/
+# Ignore test files
+*.test.js
+# Ignore package lock files
+package-lock.json
+# Ignore yarn lock files
+yarn.lock
+# Ignore npm debug files
+npm-debug.log*
+# Ignore test output files
+test-output/
+# Ignore build artifacts and Hugo output
+build/
+# Ignore configuration files
+config.json
+# Ignore cache directories
+.cache/
+# Ignore documentation files
+docs/
+public/
+# Ignore backup files
+*.bak
+# Ignore compiled files
+*.o
+# Ignore binary files
+*.exe
 *.log
 *.swp
 *.swo
-
-# VSCode
-.vscode/
