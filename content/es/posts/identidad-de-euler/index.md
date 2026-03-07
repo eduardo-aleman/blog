@@ -77,7 +77,7 @@ $$
 
 La identidad de Euler no es solo una curiosidad matemática. Encierra profundas conexiones entre distintas áreas del pensamiento: la geometría del círculo, los números complejos, el análisis matemático y la estructura misma del razonamiento matemático.
 
-*Un puente entre mundos
+*Un puente entre mundos*
 
 Que \\(\pi\\), que representa la razón entre la circunferencia y el diámetro de un círculo, aparezca en una ecuación junto con \\(e\\) y \\(i\\), podría parecer a primera vista sorprendente. Pero todo cobra sentido cuando entendemos que los números complejos pueden representarse como puntos en el plano, y que multiplicar por \\(e^{i\theta}\\) equivale a rotar un punto un ángulo \\(\theta\\) en sentido contrario a las agujas del reloj.
 
