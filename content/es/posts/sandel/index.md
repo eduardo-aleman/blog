@@ -9,7 +9,7 @@ tags: ["reseña", "filosofía", "política", "meritocracia", "Michael Sandel"]
 categories: ["Reseñas"]
 
 cover:
-  image: "images/sandel_book_tyranny_of_merit_cover.jpg"
+  image: "/sandel_book_tyranny_of_merit_cover.jpg"
   alt: "Portada del libro La tiranía del mérito"
   caption: "La tiranía del mérito — Michael Sandel (2020)"
   relative: true
