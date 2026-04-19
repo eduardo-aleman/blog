@@ -8,12 +8,6 @@ description: "A review of Michael Sandel's critique of meritocracy and his argum
 tags: ["book review", "philosophy", "politics", "meritocracy", "Michael Sandel"]
 categories: ["Book Reviews"]
 
-cover:
-  image: "/sandel_book_tyranny_of_merit_cover.jpg"
-  alt: "The Tyranny of Merit book cover"
-  caption: "The Tyranny of Merit — Michael Sandel (2020)"
-  relative: true
-
 ShowToc: true
 TocOpen: false
 ShowReadingTime: true
