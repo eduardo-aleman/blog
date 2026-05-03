@@ -4,7 +4,6 @@ date: 2026-05-02
 draft: false
 author: "Eduardo Alemán"
 description: "An exploration of the intellectual battle between Arius and Athanasius of Alexandria, examining whether Arius was truly 'wrong' by the standards of logic and theology."
-
 tags:
   - history
   - theology
@@ -13,7 +12,6 @@ tags:
   - Arianism
 categories:
   - Essays
-
 ShowToc: true
 TocOpen: false
 ShowReadingTime: true

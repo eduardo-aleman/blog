@@ -4,7 +4,6 @@ date: 2026-05-02
 draft: false
 author: "Eduardo Alemán"
 description: "Una exploración de la batalla intelectual entre Arrio y Atanasio de Alejandría, examinando si Arrio estaba realmente 'equivocado' según los estándares de la lógica y la teología."
-
 tags:
 - historia
 - teología
@@ -13,7 +12,6 @@ tags:
 - Arrianismo
 categories:
 - Ensayos
-
 ShowToc: true
 TocOpen: false
 ShowReadingTime: true
