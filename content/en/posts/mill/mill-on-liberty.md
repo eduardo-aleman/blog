@@ -4,7 +4,7 @@ author: "John Stuart Mill"
 year: 1859
 type: overview
 draft: false
-date: 2026-05-02
+date: 2026-05-01
 tags:
   - Mill
   - Liberalism
@@ -41,4 +41,3 @@ arguments:
 ---
 
 <iframe src="https://embed.kumu.io/1e23cb4aff623ac832081d0a2d0f10fc" width="940" height="600" frameborder="0"></iframe>
-
