@@ -26,6 +26,7 @@ Para determinar si Arrio estaba "equivocado", debemos analizar el conflicto a tr
 ## 1. Consistencia Lógica: La Fuerza Arriana
 
 Desde una perspectiva puramente silogística, Arrio tenía la ventaja. Su argumento se basaba en una comprensión lineal y de sentido común sobre la paternidad:
+
 1. Si un Padre engendra a un Hijo, el que engendra debe preceder al engendrado.
 2. Por lo tanto, hubo un tiempo en que el Hijo no existía.
 3. Si el Hijo tiene un principio, no puede ser coeterno con el Padre.
@@ -38,7 +39,7 @@ La facción ortodoxa no argumentó necesariamente que la lógica de Arrio fuera 
 
 Si Jesús fuera un ser creado —incluso el más perfecto— no podría cerrar la brecha entre un Dios santo y la humanidad. El Concilio de Nicea (325 d.C.) finalmente adoptó el término *homoousios* (de la misma sustancia) para describir la relación.
 
-[Image of the Shield of the Trinity diagram]
+[Image of the Shield of the Trinity diagram](/content/es/posts/arrianismo/grosseteste-trinity-diagram.jpg)
 
 ## 3. Matices Lingüísticos: La Batalla de los Términos
 
@@ -47,6 +48,7 @@ Todo el debate a menudo giraba en torno a la palabra griega *monogenes*. Mientra
 ## Conclusión
 
 ¿Estaba Arrio equivocado?
+
 - **Por Lógica:** No. Su razonamiento era consistente con la observación humana.
 - **Por Teología:** Sí, según la Iglesia institucional. Su visión era vista como algo que socavaba el poder divino requerido para la salvación humana.
 

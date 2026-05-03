@@ -26,6 +26,7 @@ To determine if Arius was "wrong," we must look through three distinct lenses: l
 ## 1. Logical Consistency: The Arian Strength
 
 From a purely syllogistic perspective, Arius held the high ground. His argument was built on a linear, common-sense understanding of paternity:
+
 1. If a Father begets a Son, the begetter must precede the begotten.
 2. Therefore, there was a time when the Son was not.
 3. If the Son has a beginning, he cannot be co-eternal with the Father.
@@ -38,7 +39,7 @@ The orthodox party did not necessarily argue that Arius's logic was "bad"; they 
 
 If Jesus were a created being—even the most perfect one—he could not bridge the gap between a holy God and humanity. The Council of Nicaea (325 CE) eventually adopted the term *homoousios* (of the same substance) to describe the relationship. 
 
-[Image of the Shield of the Trinity diagram]
+[Image of the Shield of the Trinity diagram](/content/en/posts/arianism/grosseteste-trinity-diagram.jpg)
 
 ## 3. Linguistic Nuance: The Battle of Terms
 
@@ -47,6 +48,7 @@ The entire debate often hinged on the Greek word *monogenes*. While Arius transl
 ## Conclusion
 
 Was Arius wrong? 
+
 - **By Logic:** No. His reasoning was consistent with human observation.
 - **By Theology:** Yes, according to the institutional Church. His view was seen as undermining the divine power required for human salvation.
 
