@@ -5,19 +5,18 @@ draft: false
 author: "Eduardo Alemán"
 description: "Una exploración de la batalla intelectual entre Arrio y Atanasio de Alejandría, examinando si Arrio estaba realmente 'equivocado' según los estándares de la lógica y la teología."
 tags:
-- historia
-- teología
-- filosofía
-- Concilio de Nicea
-- Arrianismo
+  - historia
+  - teología
+  - filosofía
+  - Concilio de Nicea
+  - Arrianismo
 categories:
-- Ensayos
+  - Ensayos
 ShowToc: true
 TocOpen: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
-
 translationKey: "arianism"
 canonicalURL: ""
 ---
