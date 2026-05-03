@@ -5,8 +5,14 @@ draft: false
 author: "Eduardo Alemán"
 description: "Una exploración de la batalla intelectual entre Arrio y Atanasio de Alejandría, examinando si Arrio estaba realmente 'equivocado' según los estándares de la lógica y la teología."
 
-tags: ["historia", "teología", "filosofía", "Concilio de Nicea", "Arrianismo"]
-categories: ["Ensayos"]
+tags:
+- historia
+- teología
+- filosofía
+- Concilio de Nicea
+- Arrianismo
+categories:
+- Ensayos
 
 ShowToc: true
 TocOpen: false
@@ -23,7 +29,7 @@ El conflicto entre Arrio y la facción ortodoxa, liderada principalmente por Ata
 
 Para determinar si Arrio estaba "equivocado", debemos analizar el conflicto a través de tres lentes distintos: la consistencia lógica, la tradición teológica y los matices lingüísticos.
 
-## 1. Consistencia Lógica: La Fuerza Arriana
+## Consistencia Lógica: La Fuerza Arriana
 
 Desde una perspectiva puramente silogística, Arrio tenía la ventaja. Su argumento se basaba en una comprensión lineal y de sentido común sobre la paternidad:
 
@@ -33,15 +39,15 @@ Desde una perspectiva puramente silogística, Arrio tenía la ventaja. Su argume
 
 Esta lógica protegía la unidad absoluta de Dios (monoteísmo) de parecer dividida en múltiples partes. Para muchos en el siglo IV, esta era la forma más racional de interpretar las escrituras.
 
-## 2. Tradición Teológica: El Contraargumento Ortodoxo
+## Tradición Teológica: El Contraargumento Ortodoxo
 
 La facción ortodoxa no argumentó necesariamente que la lógica de Arrio fuera "mala"; argumentaron que era *insuficiente*. Su preocupación no era la lógica formal, sino la **Soteriología** (el estudio de la salvación).
 
 Si Jesús fuera un ser creado —incluso el más perfecto— no podría cerrar la brecha entre un Dios santo y la humanidad. El Concilio de Nicea (325 d.C.) finalmente adoptó el término *homoousios* (de la misma sustancia) para describir la relación.
 
-[Image of the Shield of the Trinity diagram](/content/es/posts/arrianismo/grosseteste-trinity-diagram.jpg)
+[Image of the Shield of the Trinity diagram](grosseteste-trinity-diagram.jpg)
 
-## 3. Matices Lingüísticos: La Batalla de los Términos
+## Matices Lingüísticos: La Batalla de los Términos
 
 Todo el debate a menudo giraba en torno a la palabra griega *monogenes*. Mientras que Arrio traducía esto como "unigénito" (implicando un punto de origen), la parte ortodoxa sostenía que significaba "único" o "singular en su clase". Esta ambigüedad lingüística permitió que ambos bandos usaran las mismas escrituras para llegar a conclusiones opuestas.
 
