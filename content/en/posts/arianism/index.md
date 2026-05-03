@@ -17,7 +17,7 @@ TocOpen: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
-
+translationKey: "arianism"
 canonicalURL: ""
 ---
 
