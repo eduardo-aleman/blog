@@ -1,20 +1,20 @@
 ---
-title: 'From Alexander to Ukraine: the labors of war and the illusion of concord'
+title: "From Alexander to Ukraine: the labors of war and the illusion of concord"
 date: 2025-04-11
 draft: false
 categories:
-- History
-- Article
+  - "History"
+  - "Article"
 tags:
-- War
-- Alexander the Great
-- Ukraine
-- Geopolitics
-- Imperialism
-- Globalization
+  - "War"
+  - "Alexander the Great"
+  - "Ukraine"
+  - "Geopolitics"
+  - "Imperialism"
+  - "Globalization"
 series:
-- Violence and Civilization
-description: "Una reflexión crítica sobre la guerra desde Alejandro Magno hasta el siglo XXI, a través de la historia, el mito y la geopolítica contemporánea."
+  - "Violence and Civilization"
+description: "A critical reflection on war from Alexander the Great to the twenty-first century, through history, myth, and contemporary geopolitics."
 translationKey: alexander-ukraine-war
 ---
 

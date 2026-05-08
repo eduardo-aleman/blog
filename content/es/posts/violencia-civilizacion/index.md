@@ -1,21 +1,21 @@
 ---
-title: 'De Alejandro a Ucrania: los trabajos de la guerra y la ilusión de la concordia'
+title: "De Alejandro a Ucrania: los trabajos de la guerra y la ilusión de la concordia"
 date: 2025-04-11
 draft: false
 categories:
-- Historia
-- Artículo
+  - "Historia"
+  - "Artículo"
 tags:
-- Guerra
-- Alejandro Magno
-- Ucrania
-- Geopolítica
-- Imperialismo
-- Globalización
+  - "Guerra"
+  - "Alejandro Magno"
+  - "Ucrania"
+  - "Geopolítica"
+  - "Imperialismo"
+  - "Globalización"
 series:
-- Violencia y civilización
+  - "Violencia y civilización"
 description: "Una reflexión crítica sobre la guerra desde Alejandro Magno hasta el siglo XXI, a través de la historia, el mito y la geopolítica contemporánea."
-- translationKey: alexander-ukraine-war
+translationKey: alexander-ukraine-war
 ---
 
 La historia, se dice, está en los ojos del espectador. Los persas, desde luego, no pudieron haber experimentado la conquista liderada por Alejandro de Macedonia —y sus falanges— del mismo modo que los macedonios o los romanos. Cuando Persépolis ardió bajo las órdenes de un Alejandro embriagado (¿o calculador?), el Imperio persa caía definitivamente. Miles fueron masacrados, esclavizados o desplazados. Poco importan las leyendas de asimilación que nos transmitieron —como las de un Alejandro que respetaba las costumbres autóctonas de los vencidos o se indignara ante la destrucción de la tumba de Darío, que luego mandaría a reparar—: la devastación y el caos que marcaron cada etapa de sus campañas hasta el río Ganges bastan para definir su legado. Aunque visionario, Alejandro debió de ser también un megalómano cruel y despiadado.
