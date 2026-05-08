@@ -19,8 +19,8 @@ defaults:
     shell: bash
 
 env:
-  # Required until configure-pages, upload-pages-artifact, and deploy-pages
-  # ship native Node.js 24 releases (open issues on all three repos)
+  # Still required: upload-pages-artifact@v3 internally pins upload-artifact@v4 (Node 20)
+  # Remove this once upload-pages-artifact ships a Node 24 native release
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
@@ -30,7 +30,7 @@ jobs:
       HUGO_VERSION: 0.147.0
     steps:
       - name: Checkout source code and submodules
-        uses: actions/checkout@v5  # v5 natively targets Node.js 24
+        uses: actions/checkout@v5  # native Node 24
         with:
           submodules: recursive
 
@@ -44,7 +44,7 @@ jobs:
 
       - name: Setup GitHub Pages
         id: pages
-        uses: actions/configure-pages@v5  # no Node 24 release yet
+        uses: actions/configure-pages@v6  # native Node 24
 
       - name: Install Node.js dependencies
         run: |
@@ -62,7 +62,7 @@ jobs:
             --baseURL "${{ steps.pages.outputs.base_url }}/"
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3  # no Node 24 release yet
+        uses: actions/upload-pages-artifact@v3  # no Node 24 release yet; triggers the remaining warning
         with:
           path: ./public
 
@@ -75,4 +75,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4  # no Node 24 release yet
+        uses: actions/deploy-pages@v4
