@@ -34,4 +34,4 @@ Finalmente:
 
 ---
 
-*Los fragmentos citados corresponden a la traducción al español de* La soberanía del bien *(Routledge, 1970).*
+*Los fragmentos citados corresponden a la traducción al español (mía) de* La soberanía del bien *(Routledge, 1970).*

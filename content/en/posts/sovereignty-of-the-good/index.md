@@ -34,4 +34,4 @@ Finally:
 
 ---
 
-*Quoted passages restored from Murdoch's original English as published in* The Sovereignty of Good *(Routledge, 1970).*
+*Quoted passages from Murdoch's* The Sovereignty of Good *(Routledge, 1970).*
