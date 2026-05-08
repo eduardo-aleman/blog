@@ -19,7 +19,9 @@ defaults:
     shell: bash
 
 env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true  # Opt into Node.js 24 for all actions
+  # Required until configure-pages, upload-pages-artifact, and deploy-pages
+  # ship native Node.js 24 releases (open issues on all three repos)
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   build:
@@ -28,7 +30,7 @@ jobs:
       HUGO_VERSION: 0.147.0
     steps:
       - name: Checkout source code and submodules
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5  # v5 natively targets Node.js 24
         with:
           submodules: recursive
 
@@ -42,7 +44,7 @@ jobs:
 
       - name: Setup GitHub Pages
         id: pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v5  # no Node 24 release yet
 
       - name: Install Node.js dependencies
         run: |
@@ -60,7 +62,7 @@ jobs:
             --baseURL "${{ steps.pages.outputs.base_url }}/"
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v3  # no Node 24 release yet
         with:
           path: ./public
 
@@ -73,4 +75,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v4  # no Node 24 release yet
