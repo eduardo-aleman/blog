@@ -31,9 +31,9 @@ Logical Consistency: The Arian Strength
 
 From a purely syllogistic perspective, Arius held the high ground. His argument was built on a linear, common-sense understanding of paternity:
 
-  1. If a Father begets a Son, the begetter must precede the begotten.
-  2. Therefore, there was a time when the Son was not.
-  3. If the Son has a beginning, he cannot be co-eternal with the Father.
+1. If a Father begets a Son, the begetter must precede the begotten.
+2. Therefore, there was a time when the Son was not.
+3. If the Son has a beginning, he cannot be co-eternal with the Father.
 
 This logic protected the absolute oneness of God (monotheism) from appearing to be split into multiple parts. For many in the 4th century, this was the most rational way to interpret the scriptures.
 
