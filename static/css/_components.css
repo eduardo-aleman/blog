@@ -667,8 +667,9 @@
 }
 
 .navigation-container {
-  padding: 20px 40px 0 40px;
-  max-width: 600px;
+  padding: 20px 0 0 0;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 .navigation-list {
@@ -723,6 +724,8 @@
 
 .navigation-list {
   max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .navigation-item {
