@@ -11,8 +11,9 @@ tags:
 - Roma
 - Imperio tardío
 - Cristianismo
-summary: "Introducción a El último emperador pagano de H. C. Teitler."
+summary: "Introducción a El último emperador pagano de H. C. Teitler. Traducción de Eduardo Alemán."
 image: /images/posts/julian-teitler/Juliano_Solido_Bizantino.png
+caption: "Gold solidus coin featuring the Roman Emperor Julian, also known as Julian the Apostate. Julian was the last non-Christian ruler of the Roman Empire, reigning from 361 to 363 AD. The coin features a pearl-diademed, draped, and cuirassed bust of Julian facing right. The inscription reads FL CL IVLIANVS P F AVG,' standing for Flavius Claudius Julianus Pius Felix Augustus. This specific coin was likely minted in Antioch (modern-day Antakya, Turkey)."
 ---
 
 Introducción
