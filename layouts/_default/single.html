@@ -69,7 +69,6 @@
   </footer>
 
   <!-- Navigation to next/previous articles -->
-  {{ $paginator := .Paginate (where .Site.RegularPages "Kind" "page") }}
   <nav class="article-nav">
     {{ if .PrevInSection }}
       <div class="article-nav__prev">
