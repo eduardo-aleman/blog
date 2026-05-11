@@ -8,7 +8,7 @@
     {{ $editorial := where $pages "Params.category" "editorial" }}
     {{ $microessays := where $pages "Params.category" "!=" "editorial" }}
     
-    <section class="section essays-grid-section">
+    <section class="essays-grid-section">
       <div class="essays-grid">
         <!-- Left column: first 3 microessays -->
         {{ range first 3 (sort $microessays "Date" "desc") }}
