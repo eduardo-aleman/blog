@@ -12,7 +12,7 @@ tags:
 - Imperio tardío
 - Cristianismo
 summary: "Introducción a El último emperador pagano de H. C. Teitler."
-image: /images/posts/julian-teitler/Juliano_Solido_Bizantino.webp
+image: /images/posts/julian-teitler/Juliano_Solido_Bizantino.png
 ---
 
 Introducción
