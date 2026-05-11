@@ -20,7 +20,7 @@
     </nav>
     
     <!-- Navigation Actions -->
-
+    <div class="nav-actions">
       <!-- Navigation Link -->
       {{ $navPath := cond (eq .Lang "es") "navegacion" "navigation" }}
       <a href="{{ .Site.BaseURL }}{{ .Lang }}/{{ $navPath }}/" class="header-nav-link">
