@@ -1,0 +1,84 @@
+baseURL = 'https://blog.ealeman.com/'
+title = 'Eduardo Alemán - Blog'
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+enableRobotsTXT = true
+enableSitemap = true
+timeZone = 'America/Los_Angeles'
+
+# Outputs configuration for RSS and other formats
+[outputs]
+  home = ["HTML", "JSON", "RSS"]
+  section = ["HTML", "RSS"]
+  page = ["HTML"]
+
+# Site parameters
+[params]
+  description = 'Editorial writing in English and Spanish'
+  author = 'Eduardo Alemán'
+  defaultTheme = 'light'
+  
+  [params.social]
+    twitter = ''
+    mastodon = ''
+    github = ''
+
+# Languages configuration
+[languages]
+
+  [languages.en]
+    label = 'English'
+    locale = 'en-us'
+    weight = 1
+    contentDir = 'content/en'
+    
+    [languages.en.params]
+      description = 'Editorial writing and essays'
+    
+    [[languages.en.menu.main]]
+      name = 'Essays'
+      url = '/en/essays/'
+      weight = 10
+    
+    [[languages.en.menu.main]]
+      name = 'About'
+      url = '/en/about/'
+      weight = 20
+
+  [languages.es]
+    label = 'Español'
+    locale = 'es'
+    weight = 2
+    contentDir = 'content/es'
+    
+    [languages.es.params]
+      description = 'Escritura editorial y ensayos'
+    
+    [[languages.es.menu.main]]
+      name = 'Ensayos'
+      url = '/es/ensayos/'
+      weight = 10
+    
+    [[languages.es.menu.main]]
+      name = 'Acerca de'
+      url = '/es/about/'
+      weight = 20
+
+# Markup settings
+[markup]
+  [markup.highlight]
+    style = 'friendly'
+    lineNos = false
+  
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
+
+# Module configuration (for future Hugo Modules support)
+[build]
+  writeStats = true
+
+# Security for Google Fonts
+[security]
+  [security.funcs]
+    getenv = ['^HUGO_', '^PATH$']

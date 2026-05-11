@@ -1,27 +1,80 @@
-{{- if lt hugo.Version "0.146.0" }}
-{{- errorf "=> hugo v0.146.0 or greater is required for hugo-PaperMod to build " }}
-{{- end -}}
-
 <!DOCTYPE html>
-<html lang="{{ site.Language }}" dir="{{ .Language.LanguageDirection | default "auto" }}">
-
+<html lang="{{ .Lang }}" data-theme="light">
 <head>
-    {{- partial "head.html" . }}
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>
+    {{- if .IsHome -}}
+      {{ .Site.Title }}
+    {{- else -}}
+      {{ .Title }} – {{ .Site.Title }}
+    {{- end -}}
+  </title>
+  
+  <meta name="description" content="{{ .Description | default .Summary }}">
+  <meta name="author" content="{{ .Site.Params.author }}">
+  <meta name="theme-color" content="#faf7f2">
+  
+  <!-- Open Graph -->
+  <meta property="og:title" content="{{ .Title | default .Site.Title }}">
+  <meta property="og:description" content="{{ .Description | default .Summary }}">
+  <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+  <meta property="og:url" content="{{ .Permalink }}">
+  {{- if .Params.image }}
+  <meta property="og:image" content="{{ .Params.image | absURL }}">
+  {{- end }}
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ .Title | default .Site.Title }}">
+  <meta name="twitter:description" content="{{ .Description | default .Summary }}">
+  {{- if .Params.image }}
+  <meta name="twitter:image" content="{{ .Params.image | absURL }}">
+  {{- end }}
+  
+  <!-- Canonical URL -->
+  <link rel="canonical" href="{{ .Permalink }}">
+  
+  <!-- CSS -->
+  <link rel="stylesheet" href="/css/main.css">
+  
+  <!-- Preload fonts -->
+  <link rel="preload" as="font" href="https://fonts.gstatic.com/s/cormorantgaramond/v8/Cormorant_Garamond-Regular.ttf" type="font/ttf" crossorigin>
+  <link rel="preload" as="font" href="https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHAPMtMYvESEJ_oAMZIoZKNAzj6gAs.woff2" type="font/woff2" crossorigin>
+  
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" href="{{ .Site.BaseURL }}{{ .Lang }}/index.xml">
+  
+  <!-- Favicon -->
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  
+  <!-- Dark mode script (no FOUC) -->
+  <script>
+    (function() {
+      const theme = localStorage.getItem('theme-preference');
+      if (theme === 'dark' || (!theme && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+        document.documentElement.setAttribute('data-theme', 'dark');
+      }
+    })();
+  </script>
 </head>
-
-<body class="
-{{- if (or (ne .Kind `page` ) (eq .Layout `archives`) (eq .Layout `search`)) -}}
-{{- print "list" -}}
-{{- end -}}
-{{- if eq site.Params.defaultTheme `dark` -}}
-{{- print " dark" }}
-{{- end -}}
-" id="top">
-    {{- partialCached "header.html" . .Page -}}
-    <main class="main">
-        {{- block "main" . }}{{ end }}
-    </main>
-    {{ partialCached "footer.html" . .Layout .Kind (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}}
+<body>
+  <!-- Skip to main content link -->
+  <a href="#main-content" class="skip-link">Skip to main content</a>
+  
+  <!-- Header -->
+  {{ partial "header.html" . }}
+  
+  <!-- Main content -->
+  <main id="main-content">
+    {{ block "main" . }}{{ end }}
+  </main>
+  
+  <!-- Footer -->
+  {{ partial "footer.html" . }}
+  
+  <!-- Theme toggle script -->
+  <script src="/js/theme-toggle.js"></script>
 </body>
-
 </html>

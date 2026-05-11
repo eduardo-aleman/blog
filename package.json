@@ -1,0 +1,10 @@
+{
+  "name": "ea-journal",
+  "version": "1.0.0",
+  "description": "Bilingual editorial blog with Hugo",
+  "main": "hugo.toml",
+  "note": "This project uses Homebrew for Hugo only. No npm dependencies required.",
+  "author": "Eduardo A. Leman",
+  "license": "MIT"
+}
+

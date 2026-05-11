@@ -1,65 +1,84 @@
-{{- define "main" }}
-
-{{- if .Title }}
-<header class="page-header">
-  <h1>{{ .Title }}</h1>
-  {{- if .Description }}
-  <div class="post-description">
-    {{ .Description | markdownify }}
-  </div>
-  {{- end }}
-</header>
-{{- end }}
-
-{{- if .Content }}
-<div class="post-content">
-  {{- if not (.Param "disableAnchoredHeadings") }}
-    {{- partial "anchored_headings.html" .Content -}}
-  {{- else }}
-    {{ .Content }}
-  {{- end }}
-</div>
-{{- end }}
-
-{{- $pages := .Pages }}
-{{- if .IsHome }}
-  {{- $pages = site.RegularPages }}
-{{- end }}
-{{- $paginator := .Paginate $pages }}
-
-{{- range $paginator.Pages }}
-<article class="post-entry">
-  {{- $isHidden := (.Param "cover.hiddenInList") | default (.Param "cover.hidden") | default false }}
-  {{- partial "cover.html" (dict "cxt" . "IsSingle" false "isHidden" $isHidden) }}
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">
-      {{ .Title }}
-      {{- if .Draft }}
-      <span class="entry-hint" title="Draft">DRAFT</span>
-      {{- end }}
-    </h2>
+{{ define "main" }}
+<div class="page-grid">
+  <!-- Section Header -->
+  <header class="section archive-header">
+    <h1 class="archive-header__title">
+      {{ .Title | default "All Essays" }}
+    </h1>
+    {{ with .Summary }}
+    <p class="archive-header__description">
+      {{ . }}
+    </p>
+    {{ end }}
+    <p class="archive-header__count">
+      {{ len .Pages }} {{ i18n "essays" | default "essays" }}
+    </p>
   </header>
-  <div class="entry-content">
-    <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}…{{ end }}</p>
-  </div>
-  <footer class="entry-footer">
-    {{- partial "post-meta.html" . }}
-  </footer>
-  <a class="entry-link" href="{{ .Permalink }}" aria-label="Leer más sobre {{ .Title }}"></a>
-</article>
-{{- end }}
 
-{{- if gt $paginator.TotalPages 1 }}
-<footer class="page-footer">
-  <nav class="pagination">
-    {{- if $paginator.HasPrev }}
-    <a class="prev" href="{{ $paginator.Prev.URL }}">← Anterior</a>
-    {{- end }}
-    {{- if $paginator.HasNext }}
-    <a class="next" href="{{ $paginator.Next.URL }}">Siguiente →</a>
-    {{- end }}
-  </nav>
-</footer>
-{{- end }}
+  <!-- Archive List -->
+  <section class="section archive">
+    {{ if .Pages }}
+      <div class="archive-list">
+        {{ range .Pages.ByPublishDate.Reverse }}
+          <article class="archive-item">
+            <div class="archive-item__content">
+              <h2 class="archive-item__title">
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+              </h2>
+              
+              <div class="archive-item__excerpt">
+                {{ .Summary | plainify | truncate 250 }}
+              </div>
+              
+              <div class="archive-item__meta">
+                {{ .ReadingTime }} {{ i18n "minRead" | default "min read" }}
+                {{ $terms := .GetTerms "tags" }}
+                {{ if $terms }}
+                  <span class="archive-item__separator">•</span>
+                  {{ range first 2 $terms }}
+                    <a href="{{ .Permalink }}" class="archive-item__tag">{{ .Title }}</a>
+                  {{ end }}
+                {{ end }}
+              </div>
+            </div>
+            
+            <time datetime="{{ .Date.Format "2006-01-02" }}" class="archive-item__date">
+              {{ .Date.Format "Jan 2, 2006" }}
+            </time>
+          </article>
+        {{ end }}
+      </div>
+    {{ else }}
+      <div style="text-align: center; padding: var(--space-4xl) 0;">
+        <p style="font-size: var(--step-1); color: var(--text-secondary); margin-bottom: var(--space-2xl);">
+          {{ i18n "noArticles" | default "No articles found." }}
+        </p>
+        <a href="{{ .Site.BaseURL }}" class="button">
+          {{ i18n "backToHome" | default "Back to Home" }}
+        </a>
+      </div>
+    {{ end }}
+  </section>
 
-{{- end }}
+  <!-- Pagination -->
+  {{ if gt .Paginator.TotalPages 1 }}
+    <nav class="section pagination" aria-label="Pagination">
+      {{ if .Paginator.HasPrev }}
+        <a href="{{ .Paginator.Prev.URL }}" class="pagination__link pagination__prev">
+          ← {{ i18n "previousPage" | default "Previous" }}
+        </a>
+      {{ end }}
+      
+      <span class="pagination__info">
+        {{ i18n "page" | default "Page" }} {{ .Paginator.PageNumber }} {{ i18n "of" | default "of" }} {{ .Paginator.TotalPages }}
+      </span>
+      
+      {{ if .Paginator.HasNext }}
+        <a href="{{ .Paginator.Next.URL }}" class="pagination__link pagination__next">
+          {{ i18n "nextPage" | default "Next" }} →
+        </a>
+      {{ end }}
+    </nav>
+  {{ end }}
+</div>
+{{ end }}

@@ -1,0 +1,273 @@
+/* ====== DARK MODE STYLES ====== */
+
+html[data-theme="dark"],
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme="light"]) {
+    /* Variables are already redefined in _variables.css */
+    /* This file adds any dark-mode-specific overrides */
+  }
+}
+
+/* ====== DARK MODE TOGGLE INDICATOR ====== */
+
+.theme-toggle {
+  position: relative;
+}
+
+.theme-toggle .sun,
+.theme-toggle .moon {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  transition: opacity var(--transition-normal);
+}
+
+.theme-toggle .sun {
+  opacity: 1;
+}
+
+.theme-toggle .moon {
+  opacity: 0;
+}
+
+html[data-theme="dark"] .theme-toggle .sun {
+  opacity: 0;
+}
+
+html[data-theme="dark"] .theme-toggle .moon {
+  opacity: 1;
+}
+
+/* Respect system preference when no explicit theme is set */
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme="light"]) .theme-toggle .sun {
+    opacity: 0;
+  }
+
+  html:not([data-theme="light"]) .theme-toggle .moon {
+    opacity: 1;
+  }
+}
+
+/* ====== ENHANCED DARK MODE CONTRAST ====== */
+
+html[data-theme="dark"] {
+  /* Slightly increase contrast in dark mode for readability */
+  --text: #f5f1ea;        /* Lighter text in dark mode */
+  --muted: #b8b4aa;       /* Lighter muted text */
+  --border: #4a4743;      /* Darker border for contrast */
+}
+
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme="light"]) {
+    --text: #f5f1ea;
+    --muted: #b8b4aa;
+    --border: #4a4743;
+  }
+}
+
+/* ====== DARK MODE IMAGE TREATMENT ====== */
+
+html[data-theme="dark"] img {
+  opacity: 0.95;
+  transition: opacity var(--transition-normal);
+}
+
+html[data-theme="dark"] img:hover {
+  opacity: 1;
+}
+
+/* Optional: Invert or adjust images in dark mode */
+html[data-theme="dark"] img[data-invert="true"] {
+  filter: invert(1) hue-rotate(180deg);
+}
+
+/* ====== DARK MODE CODE BLOCKS ====== */
+
+html[data-theme="dark"] code {
+  background-color: rgba(0, 0, 0, 0.3);
+  color: #e8e3d8;
+}
+
+html[data-theme="dark"] pre {
+  background-color: rgba(0, 0, 0, 0.3);
+  border-left-color: var(--border);
+}
+
+/* ====== DARK MODE FORM STYLING ====== */
+
+html[data-theme="dark"] input,
+html[data-theme="dark"] textarea,
+html[data-theme="dark"] select {
+  background-color: rgba(0, 0, 0, 0.2);
+  border-color: var(--border);
+  color: var(--text);
+}
+
+html[data-theme="dark"] input::placeholder,
+html[data-theme="dark"] textarea::placeholder {
+  color: var(--muted);
+}
+
+html[data-theme="dark"] input:focus,
+html[data-theme="dark"] textarea:focus,
+html[data-theme="dark"] select:focus {
+  background-color: rgba(0, 0, 0, 0.3);
+  border-color: var(--text);
+}
+
+/* ====== DARK MODE CARD STYLING ====== */
+
+html[data-theme="dark"] .card,
+html[data-theme="dark"] .article-card {
+  background-color: var(--bg-alt);
+  border-color: var(--border);
+}
+
+html[data-theme="dark"] .card:hover,
+html[data-theme="dark"] .article-card:hover {
+  background-color: var(--bg-tertiary);
+}
+
+/* ====== DARK MODE BUTTON STYLING ====== */
+
+html[data-theme="dark"] .button {
+  border-color: var(--text);
+  color: var(--text);
+}
+
+html[data-theme="dark"] .button:hover {
+  background-color: var(--text);
+  color: var(--bg);
+}
+
+html[data-theme="dark"] .button.primary {
+  background-color: var(--text);
+  color: var(--bg);
+}
+
+html[data-theme="dark"] .button.primary:hover {
+  background-color: var(--accent);
+}
+
+/* ====== DARK MODE LINK STYLING ====== */
+
+html[data-theme="dark"] a {
+  color: inherit;
+}
+
+html[data-theme="dark"] .prose a::after {
+  background-color: currentColor;
+}
+
+html[data-theme="dark"] .prose a:hover::after {
+  opacity: 0.4;
+}
+
+/* ====== DARK MODE ALERT STYLING ====== */
+
+html[data-theme="dark"] .alert--success {
+  background-color: rgba(45, 80, 22, 0.15);
+  border-left-color: #4a8c2a;
+  color: #90ee90;
+}
+
+html[data-theme="dark"] .alert--error {
+  background-color: rgba(139, 45, 45, 0.15);
+  border-left-color: #d46a6a;
+  color: #ff9999;
+}
+
+html[data-theme="dark"] .alert--info {
+  background-color: rgba(0, 0, 0, 0.3);
+  border-left-color: var(--text);
+  color: var(--text);
+}
+
+html[data-theme="dark"] .alert--warning {
+  background-color: rgba(180, 130, 32, 0.15);
+  border-left-color: #daa520;
+  color: #ffd700;
+}
+
+/* ====== DARK MODE SMOOTH TRANSITIONS ====== */
+
+html,
+body,
+* {
+  transition: background-color var(--transition-normal), color var(--transition-normal), border-color var(--transition-normal);
+}
+
+/* Don't transition on initial page load */
+html.instant-load,
+html.instant-load * {
+  transition-duration: 0ms !important;
+}
+
+/* ====== DARK MODE UTILITY CLASSES ====== */
+
+/* Force light mode for specific elements if needed */
+.light-mode {
+  --bg: #faf7f2;
+  --text: #1d1d1d;
+  --muted: #6e6a64;
+  --border: #d8d2c8;
+}
+
+/* Force dark mode for specific elements if needed */
+.dark-mode {
+  --bg: #0f0d0a;
+  --text: #f5f1ea;
+  --muted: #9b9a96;
+  --border: #3d3a37;
+}
+
+/* ====== DARK MODE ACCESSIBILITY ====== */
+
+@media (prefers-color-scheme: dark) {
+  /* Ensure focus rings are visible in dark mode */
+  html:not([data-theme="light"]) :focus-visible {
+    outline-color: var(--text);
+  }
+
+  /* Ensure sufficient contrast in dark mode */
+  html:not([data-theme="light"]) body {
+    color: var(--text);
+    background-color: var(--bg);
+  }
+
+  html:not([data-theme="light"]) a {
+    text-decoration-color: currentColor;
+  }
+}
+
+/* ====== THEME TRANSITION MANAGEMENT ====== */
+
+/* Prevent FOUC (Flash of Unstyled Content) during theme switch */
+html {
+  transition: background-color var(--transition-normal), color var(--transition-normal);
+}
+
+body {
+  transition: background-color var(--transition-normal), color var(--transition-normal);
+}
+
+/* Ensure all color transitions are smooth */
+.site-header,
+.site-footer,
+.card,
+.article-card,
+.button,
+input,
+textarea,
+select {
+  transition: background-color var(--transition-normal), color var(--transition-normal), border-color var(--transition-normal);
+}
+
+/* Avoid transition on interactive elements during user interaction */
+input:active,
+button:active,
+textarea:active {
+  transition: none;
+}

@@ -1,73 +1,123 @@
-{{- define "main" }}
-
-<article class="post-single">
-  <header class="post-header">
-    {{ partial "breadcrumbs.html" . }}
-    <h1 class="post-title entry-hint-parent">
-      {{ .Title }}
-      {{- if .Draft }}
-      <span class="entry-hint" title="Draft">
-        <svg xmlns="http://www.w3.org/2000/svg" height="35" viewBox="0 -960 960 960" fill="currentColor">
-          <path d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z"/>
-        </svg>
-      </span>
-      {{- end }}
-    </h1>
-    {{- if .Description }}
-    <div class="post-description">
-      {{ .Description }}
+{{ define "main" }}
+<article class="page-grid">
+  <!-- Hero Section -->
+  <header class="section article-hero">
+    <div class="article-hero__content">
+      <h1 class="article-title">{{ .Title }}</h1>
+      
+      <div class="article-meta">
+        <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+          {{ .Date.Format "January 2, 2006" }}
+        </time>
+        <span class="article-meta__divider">•</span>
+        <span>{{ .ReadingTime }} {{ i18n "minRead" | default "min read" }}</span>
+      </div>
     </div>
-    {{- end }}
-    {{- if not (.Param "hideMeta") }}
-    <div class="post-meta">
-      {{- partial "post-meta.html" . -}}
-      {{- partial "edit_post.html" . -}}
-      {{- partial "post_canonical.html" . -}}
-    </div>
-    {{- end }}
   </header>
 
-  {{- $isHidden := (.Param "cover.hiddenInSingle") | default (.Param "cover.hidden") | default false }}
-  {{- partial "cover.html" (dict "cxt" . "IsSingle" true "isHidden" $isHidden) }}
-
-  {{- if (.Param "ShowToc") }}
-  {{- partial "toc.html" . }}
-  {{- end }}
-
-  {{- if .Content }}
-  <div class="post-content">
-    {{- if not (.Param "disableAnchoredHeadings") }}
-    {{- partial "anchored_headings.html" .Content -}}
-    {{- else }}{{ .Content }}{{ end }}
+  <!-- Featured Image (if provided) -->
+  {{ with .Params.image }}
+  <div class="section article-image">
+    <img 
+      src="{{ . }}" 
+      alt="Featured image for {{ $.Title }}"
+      class="hero-image"
+      loading="eager"
+    >
   </div>
-  {{- end }}
+  {{ end }}
 
-  <footer class="post-footer">
-  {{- if (.Param "ShowPostNavLinks") }}
-    {{- partial "post_nav_links.html" . }}
-  {{- end }}
-
-  {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
-  {{- with ($.GetTerms $tags) }}
-    <ul class="post-tags" style="display: flex; justify-content: center; gap: 0.5rem; flex-wrap: wrap; list-style: none; padding: 0; margin: 1.5rem 0;">
-      {{- range . }}
-        <li><a href="{{ .Permalink }}">{{ .Data.Term }}</a></li>
-      {{- end }}
-    </ul>
-  {{- end }}
-
-  <div style="margin-top: 1rem;">
-    {{- if (and site.Params.ShowShareButtons (ne .Params.disableShare true)) }}
-      {{- partial "share_icons.html" . -}}
-    {{- end }}
+  <!-- Article Content -->
+  <div class="section prose">
+    {{ .Content }}
   </div>
-</footer>
 
+  <!-- Article Footer -->
+  <footer class="section article-footer">
+    <div class="article-footer__bio">
+      {{ if .Params.author }}
+      <div class="bio">
+        <h3>{{ i18n "about" | default "About" }} {{ .Params.author }}</h3>
+        {{ if .Params.bio }}
+        <p>{{ .Params.bio }}</p>
+        {{ end }}
+      </div>
+      {{ end }}
+    </div>
 
+    <!-- Tags -->
+    {{ $terms := .GetTerms "tags" }}
+    {{ if $terms }}
+    <div class="article-tags">
+      <h4>{{ i18n "tags" | default "Tags" }}</h4>
+      <div style="display: flex; flex-wrap: wrap; gap: var(--space-md); margin-top: var(--space-md);">
+        {{ range $terms }}
+          <a href="{{ .Permalink }}" class="badge">{{ .Title }}</a>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+  </footer>
 
-  {{- if (.Param "comments") }}
-  {{- partial "comments.html" . }}
-  {{- end }}
+  <!-- Related Articles -->
+  {{ $related := .Site.RegularPages.Related . | first 3 }}
+  {{ if $related }}
+  <section class="section">
+    <h2>{{ i18n "relatedArticles" | default "Related Articles" }}</h2>
+    
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: var(--gap-generous); margin-top: var(--space-2xl);">
+      {{ range $related }}
+        <article class="article-card">
+          {{ with .Params.image }}
+            <img 
+              src="{{ . }}" 
+              alt="{{ .Title }}"
+              class="article-card__image"
+              loading="lazy"
+            >
+          {{ end }}
+          
+          <header class="article-card__header">
+            <h3 class="article-card__title">
+              <a href="{{ .Permalink }}">{{ .Title }}</a>
+            </h3>
+            <div class="article-card__meta">
+              <time datetime="{{ .Date.Format "2006-01-02" }}">
+                {{ .Date.Format "January 2, 2006" }}
+              </time>
+            </div>
+          </header>
+          
+          <p class="article-card__excerpt">
+            {{ .Summary | plainify | truncate 100 }}
+          </p>
+          
+          <footer class="article-card__footer">
+            <a href="{{ .Permalink }}" class="article-card__link">
+              {{ i18n "readMore" | default "Read More" }} →
+            </a>
+          </footer>
+        </article>
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+
+  <!-- Navigation -->
+  <nav class="section article-nav" style="display: flex; justify-content: space-between; padding: var(--space-3xl) 0; border-top: 1px solid var(--border);">
+    {{ with .PrevInSection }}
+      <a href="{{ .Permalink }}" style="display: flex; flex-direction: column; gap: var(--space-sm);">
+        <span style="font-size: var(--step--1); color: var(--muted);">← {{ i18n "previousArticle" | default "Previous" }}</span>
+        <strong>{{ .Title }}</strong>
+      </a>
+    {{ end }}
+    
+    {{ with .NextInSection }}
+      <a href="{{ .Permalink }}" style="display: flex; flex-direction: column; gap: var(--space-sm); text-align: right;">
+        <span style="font-size: var(--step--1); color: var(--muted);">{{ i18n "nextArticle" | default "Next" }} →</span>
+        <strong>{{ .Title }}</strong>
+      </a>
+    {{ end }}
+  </nav>
 </article>
-
-{{- end }}{{/* end main */}}
+{{ end }}

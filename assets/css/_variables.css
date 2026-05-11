@@ -1,0 +1,117 @@
+:root {
+  /* ====== TYPOGRAPHY SCALE ====== */
+  --step--2: clamp(0.75rem, 0.7rem + 0.15vw, 0.85rem);
+  --step--1: clamp(0.85rem, 0.8rem + 0.2vw, 0.95rem);
+  --step-0: clamp(1rem, 0.95rem + 0.3vw, 1.15rem);     /* body copy */
+  --step-1: clamp(1.35rem, 1.1rem + 1vw, 1.8rem);      /* h4, subheading */
+  --step-2: clamp(1.8rem, 1.5rem + 1.5vw, 2.8rem);     /* h3 */
+  --step-3: clamp(2.5rem, 2rem + 3vw, 4.5rem);         /* h2 */
+  --step-4: clamp(4rem, 3rem + 6vw, 8rem);             /* h1, hero */
+
+  /* ====== FONT FAMILIES ====== */
+  --serif-primary: "Cormorant Garamond", serif;
+  --serif-fallback: "Georgia", "Garamond", serif;
+  --sans-meta: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --mono: "Monaco", "Courier New", monospace;
+
+  /* ====== SPACING SCALE ====== */
+  --space-xs: 0.25rem;    /* 4px */
+  --space-sm: 0.5rem;     /* 8px */
+  --space-md: 1rem;       /* 16px */
+  --space-lg: 1.5rem;     /* 24px */
+  --space-xl: 2rem;       /* 32px */
+  --space-2xl: 3rem;      /* 48px */
+  --space-3xl: 4rem;      /* 64px */
+  --space-4xl: 6rem;      /* 96px */
+  --space-5xl: 8rem;      /* 128px */
+  --space-6xl: 12rem;     /* 192px */
+
+  /* Gap ratios */
+  --gap-compact: 1.5rem;  /* 24px */
+  --gap-normal: 2rem;     /* 32px */
+  --gap-generous: 3rem;   /* 48px */
+  --gap-heroic: 6rem;     /* 96px */
+
+  /* ====== LIGHT MODE COLORS ====== */
+  --bg: #faf7f2;
+  --bg-alt: #f5f1ea;
+  --bg-tertiary: #f0ebe5;
+  --text: #1d1d1d;
+  --text-secondary: #2d2d2d;
+  --muted: #6e6a64;
+  --border: #d8d2c8;
+  --accent: #000000;
+  --link-hover: rgba(29, 29, 29, 0.65);
+  --overlay-dark: rgba(29, 29, 29, 0.05);
+  --overlay-muted: rgba(110, 106, 100, 0.1);
+
+  /* ====== DARK MODE COLORS ====== */
+  --dark-bg: #0f0d0a;
+  --dark-bg-alt: #1a1714;
+  --dark-bg-tertiary: #252420;
+  --dark-text: #f5f1ea;
+  --dark-text-secondary: #e8e3d8;
+  --dark-muted: #9b9a96;
+  --dark-border: #3d3a37;
+  --dark-accent: #ffffff;
+  --dark-link-hover: rgba(245, 241, 242, 0.65);
+  --dark-overlay-light: rgba(245, 241, 242, 0.05);
+  --dark-overlay-muted: rgba(155, 154, 150, 0.1);
+
+  /* ====== BREAKPOINTS ====== */
+  --breakpoint-sm: 480px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 1024px;
+  --breakpoint-xl: 1280px;
+  --breakpoint-2xl: 1600px;
+
+  /* ====== TRANSITIONS ====== */
+  --transition-fast: 160ms ease;
+  --transition-normal: 200ms ease;
+  --transition-slow: 300ms ease;
+
+  /* ====== SHADOWS (minimal) ====== */
+  --shadow-sm: 0 2px 4px rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 8px rgba(0, 0, 0, 0.08);
+}
+
+/* Dark mode toggle */
+html[data-theme="dark"] {
+  --bg: var(--dark-bg);
+  --bg-alt: var(--dark-bg-alt);
+  --bg-tertiary: var(--dark-bg-tertiary);
+  --text: var(--dark-text);
+  --text-secondary: var(--dark-text-secondary);
+  --muted: var(--dark-muted);
+  --border: var(--dark-border);
+  --accent: var(--dark-accent);
+  --link-hover: var(--dark-link-hover);
+  --overlay-dark: var(--dark-overlay-light);
+  --overlay-muted: var(--dark-overlay-muted);
+}
+
+/* Respect user's system preference */
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme="light"]) {
+    --bg: var(--dark-bg);
+    --bg-alt: var(--dark-bg-alt);
+    --bg-tertiary: var(--dark-bg-tertiary);
+    --text: var(--dark-text);
+    --text-secondary: var(--dark-text-secondary);
+    --muted: var(--dark-muted);
+    --border: var(--dark-border);
+    --accent: var(--dark-accent);
+    --link-hover: var(--dark-link-hover);
+    --overlay-dark: var(--dark-overlay-light);
+    --overlay-muted: var(--dark-overlay-muted);
+  }
+}
+
+/* Reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    --transition-fast: 0.01ms ease !important;
+    --transition-normal: 0.01ms ease !important;
+    --transition-slow: 0.01ms ease !important;
+  }
+}

@@ -1,0 +1,51 @@
+{{ define "main" }}
+<div class="page-grid">
+  <!-- Essays Grid (9 items) -->
+  {{ $allPages := .Site.RegularPages }}
+  {{ $pages := where $allPages "Kind" "page" }}
+  {{ if gt (len $pages) 0 }}
+  <section class="section essays-grid-section">
+    <div class="essays-grid">
+      {{ range first 9 (sort $pages "Date" "desc") }}
+        <article class="essay-grid-item">
+          {{ with .Params.image }}
+            <div class="essay-grid-item__image-wrapper">
+              <img 
+                src="{{ . }}" 
+                alt="{{ $.Title }}"
+                class="essay-grid-item__image"
+                loading="lazy"
+              >
+            </div>
+          {{ end }}
+          
+          <div class="essay-grid-item__content">
+            <p class="essay-grid-item__summary">
+              {{ .Summary | plainify | truncate 200 }}
+            </p>
+            
+            <div class="essay-grid-item__meta">
+              <time datetime="{{ .Date.Format "2006-01-02" }}">
+                {{ .Date.Format "January 2, 2006" }}
+              </time>
+              <span class="essay-grid-item__reading-time">
+                {{ .ReadingTime }} {{ i18n "minRead" | default "min read" }}
+              </span>
+            </div>
+          </div>
+        </article>
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+
+  <!-- View All Link -->
+  {{ if gt (len $pages) 9 }}
+  <section class="section" style="text-align: center;">
+    <a href="{{ .Site.BaseURL }}{{ .Lang }}/essays/" class="button">
+      {{ i18n "viewAll" | default "View All Essays" }}
+    </a>
+  </section>
+  {{ end }}
+</div>
+{{ end }}

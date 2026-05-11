@@ -1,0 +1,464 @@
+/* ====== RESPONSIVE DESIGN ====== */
+
+/* Mobile first approach */
+/* Base styles are defined in other files; these are overrides */
+
+/* ====== TABLET (768px+) ====== */
+
+@media (min-width: 768px) {
+  /* Increase padding and spacing on tablet */
+  body {
+    padding: 0 var(--space-xl);
+  }
+
+  .container {
+    padding-left: var(--space-xl);
+    padding-right: var(--space-xl);
+  }
+
+  .section {
+    padding: var(--space-4xl) 0;
+  }
+
+  /* Header adjustments */
+  .site-header .container {
+    gap: var(--gap-generous);
+  }
+
+  /* Show desktop navigation on tablet */
+  .nav-menu {
+    display: flex !important;
+  }
+
+  .menu-toggle {
+    display: none !important;
+  }
+
+  /* Grid adjustments */
+  .editorial-section {
+    grid-template-columns: repeat(6, 1fr);
+    gap: var(--gap-normal);
+  }
+
+  /* Article cards in 2-column layout */
+  .article-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--gap-generous);
+  }
+
+  /* Footer adjustments */
+  .footer-content {
+    grid-template-columns: repeat(6, 1fr);
+  }
+
+  .footer-section {
+    grid-column: span 2;
+  }
+}
+
+/* ====== DESKTOP (1024px+) ====== */
+
+@media (min-width: 1024px) {
+  body {
+    padding: 0 var(--space-2xl);
+  }
+
+  .container {
+    max-width: 1400px;
+    padding-left: var(--space-2xl);
+    padding-right: var(--space-2xl);
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .section {
+    padding: var(--space-5xl) 0;
+  }
+
+  /* Full width grid */
+  .editorial-section {
+    grid-template-columns: repeat(12, 1fr);
+    gap: var(--gap-generous);
+  }
+
+  /* 3-column article grid with asymmetry */
+  .article-grid {
+    grid-template-columns: repeat(12, 1fr);
+    gap: var(--gap-generous);
+  }
+
+  .article-grid .article-card:nth-child(1) {
+    grid-column: 1 / 7;
+  }
+
+  .article-grid .article-card:nth-child(2) {
+    grid-column: 7 / 10;
+  }
+
+  .article-grid .article-card:nth-child(3) {
+    grid-column: 10 / 13;
+  }
+
+  .article-grid .article-card:nth-child(n+4) {
+    grid-column: span 4;
+  }
+
+  /* Footer full width */
+  .footer-content {
+    grid-template-columns: repeat(12, 1fr);
+  }
+
+  .footer-section {
+    grid-column: span 4;
+  }
+
+  /* Hero section with asymmetry */
+  .hero {
+    grid-template-columns: repeat(12, 1fr);
+  }
+
+  .hero__content {
+    grid-column: 1 / 9;
+  }
+
+  .hero__meta {
+    grid-column: 9 / 13;
+  }
+}
+
+/* ====== LARGE DESKTOP (1280px+) ====== */
+
+@media (min-width: 1280px) {
+  .container {
+    max-width: 1280px;
+  }
+
+  .section {
+    padding: var(--space-6xl) 0;
+  }
+}
+
+/* ====== EXTRA LARGE DESKTOP (1600px+) ====== */
+
+@media (min-width: 1600px) {
+  .container {
+    max-width: 1400px;
+  }
+
+  /* Allow larger typography on ultra-wide screens */
+  h1 {
+    font-size: var(--step-4);
+  }
+
+  h2 {
+    font-size: var(--step-3);
+  }
+}
+
+/* ====== MOBILE SPECIFIC (max-width: 767px) ====== */
+
+@media (max-width: 767px) {
+  /* Reduce base padding */
+  body {
+    padding: 0 var(--space-md);
+  }
+
+  .container {
+    padding-left: var(--space-md);
+    padding-right: var(--space-md);
+  }
+
+  /* Reduce section padding on mobile */
+  .section {
+    padding: var(--space-3xl) 0;
+  }
+
+  .section + .section {
+    border-top: 1px solid var(--border);
+  }
+
+  /* Header stacking */
+  .site-header .container {
+    grid-template-columns: auto 1fr;
+    gap: var(--space-md);
+  }
+
+  .nav-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    flex-direction: column;
+    gap: var(--space-lg);
+    padding: var(--space-xl);
+    background: var(--bg);
+    border-bottom: 1px solid var(--border);
+    margin: 0;
+  }
+
+  .nav-menu.active {
+    display: flex;
+  }
+
+  /* Reduce gap on mobile */
+  .editorial-section {
+    grid-template-columns: 1fr;
+    gap: var(--gap-normal);
+    padding: var(--space-3xl) 0;
+  }
+
+  /* Single column layout for articles */
+  .article-grid {
+    grid-template-columns: 1fr;
+    gap: var(--gap-normal);
+  }
+
+  .article-grid .article-card {
+    grid-column: auto !important;
+  }
+
+  /* Footer single column */
+  .footer-content {
+    grid-template-columns: 1fr;
+  }
+
+  .footer-section {
+    grid-column: auto;
+  }
+
+  .footer-bottom {
+    flex-direction: column;
+    gap: var(--space-xl);
+    text-align: center;
+  }
+
+  /* Typography adjustments */
+  h1 {
+    font-size: clamp(1.8rem, 5vw, 2.8rem);
+    line-height: 1.1;
+  }
+
+  h2 {
+    font-size: clamp(1.35rem, 4vw, 1.8rem);
+    margin-top: var(--space-3xl);
+  }
+
+  h3 {
+    font-size: clamp(1.1rem, 3vw, 1.35rem);
+  }
+
+  /* Form adjustments */
+  .form-group {
+    margin-bottom: var(--space-xl);
+  }
+
+  /* Card padding reduction */
+  .article-card,
+  .card,
+  .card__header,
+  .card__body,
+  .card__footer {
+    padding: var(--space-lg);
+  }
+
+  /* Button sizing */
+  .button {
+    width: 100%;
+    text-align: center;
+  }
+
+  /* Archive list adjustments */
+  .archive-item {
+    grid-template-columns: 1fr;
+    gap: var(--space-md);
+  }
+
+  .archive-item__date {
+    text-align: left;
+  }
+
+  /* Table adjustments */
+  table {
+    font-size: var(--step--1);
+  }
+
+  th,
+  td {
+    padding: var(--space-md) var(--space-sm);
+  }
+
+  /* Hero image aspect ratio */
+  .hero-image {
+    aspect-ratio: 4 / 3;
+  }
+
+  .hero-image.cinematic {
+    aspect-ratio: 16 / 9;
+  }
+}
+
+/* ====== SMALL MOBILE (max-width: 479px) ====== */
+
+@media (max-width: 479px) {
+  /* Extra reduction on very small screens */
+  body {
+    padding: 0 var(--space-sm);
+  }
+
+  .container {
+    padding-left: var(--space-sm);
+    padding-right: var(--space-sm);
+  }
+
+  .section {
+    padding: var(--space-2xl) 0;
+  }
+
+  /* Reduce typography further */
+  h1 {
+    font-size: clamp(1.5rem, 5vw, 2rem);
+    margin-bottom: var(--space-lg);
+  }
+
+  h2 {
+    font-size: clamp(1.1rem, 3vw, 1.5rem);
+    margin-top: var(--space-2xl);
+  }
+
+  h3 {
+    font-size: clamp(0.95rem, 2.5vw, 1.1rem);
+  }
+
+  /* Reduce card padding */
+  .article-card,
+  .card {
+    padding: var(--space-lg);
+  }
+
+  .article-card__header,
+  .article-card__body,
+  .article-card__footer {
+    padding: var(--space-md);
+  }
+
+  /* Language switcher adjustments */
+  .lang-switcher {
+    border-left: none;
+    border-top: 1px solid var(--border);
+    padding-left: 0;
+    padding-top: var(--space-sm);
+    margin-top: var(--space-sm);
+    width: 100%;
+  }
+
+  /* Navigation actions stacking */
+  .nav-actions {
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .theme-toggle {
+    width: 100%;
+  }
+
+  /* Full-width buttons */
+  .button {
+    width: 100%;
+    margin-bottom: var(--space-md);
+  }
+
+  /* Reduce divider spacing */
+  .divider {
+    margin: var(--space-2xl) 0;
+  }
+}
+
+/* ====== TOUCH DEVICE OPTIMIZATION ====== */
+
+@media (hover: none) {
+  /* Remove hover effects on touch devices */
+  a:hover {
+    opacity: 1;
+  }
+
+  .button:hover {
+    background-color: transparent;
+    color: var(--text);
+  }
+
+  .nav-menu a:hover {
+    opacity: 1;
+  }
+
+  /* Instead, use active/focus states */
+  a:active,
+  .button:active,
+  .nav-menu a:active {
+    opacity: var(--link-hover);
+  }
+}
+
+/* ====== HIGH DPI SCREENS ====== */
+
+@media (-webkit-min-device-pixel-ratio: 2),
+  (min-resolution: 192dpi) {
+  /* Slightly thicker borders for clarity */
+  .border,
+  .border-t,
+  .border-b {
+    border-width: 1px;
+  }
+
+  /* Smooth rendering */
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+/* ====== ORIENTATION ADJUSTMENTS ====== */
+
+@media (orientation: landscape) and (max-height: 600px) {
+  /* Reduce padding on mobile landscape */
+  .section {
+    padding: var(--space-xl) 0;
+  }
+
+  h1 {
+    font-size: clamp(1.5rem, 4vw, 2rem);
+    margin-bottom: var(--space-md);
+  }
+}
+
+/* ====== PRINT RESPONSIVE ====== */
+
+@media print {
+  body {
+    padding: 0;
+    margin: 0;
+  }
+
+  .container {
+    max-width: 100%;
+    padding: 0;
+  }
+
+  nav,
+  .site-header,
+  .site-footer,
+  .theme-toggle,
+  .menu-toggle {
+    display: none;
+  }
+
+  main {
+    max-width: 100%;
+  }
+
+  .article-card {
+    page-break-inside: avoid;
+    border: 1px solid black;
+    margin-bottom: var(--space-2xl);
+  }
+}
