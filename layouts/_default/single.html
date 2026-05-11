@@ -20,7 +20,7 @@
   <figure class="article-image">
     <img 
       src="{{ . }}" 
-      alt="Featured image for {{ $.Title }}"
+      alt="{{ .Params.image_alt | default (printf "Featured image for %s" .Title) }}"
       class="hero-image"
       loading="eager"
     >
