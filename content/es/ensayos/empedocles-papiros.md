@@ -10,7 +10,7 @@ tags:
   - arqueología
 categories:
   - Mundo Antiguo
-summary: "Un fragmento de papiro identificado recientemente en El Cairo resulta ser parte del mismo rollo antiguo que el famoso Empédocles de Estrasburgo — juntos, nos ofrecen el único manuscrito superviviente de la Physica."
+summary: "Un fragmento de papiro identificado recientemente en El Cairo resulta ser parte del mismo rollo antiguo que el famoso Empédocles de Estrasburgo."
 cover:
   image: ""
   alt: "Fragmento de P.Fouad inv. 218, el Empédocles de El Cairo"
