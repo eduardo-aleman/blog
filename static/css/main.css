@@ -20,10 +20,6 @@ img {
   height: auto;
 }
 
-img[loading="lazy"] {
-  background-color: var(--bg-alt);
-}
-
 /* SVG styling */
 svg {
   display: inline-block;
