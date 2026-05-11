@@ -604,6 +604,12 @@
   align-items: center;
 }
 
+.tag-list li {
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+}
+
 .tag {
   display: inline-block;
   padding: var(--space-sm) var(--space-md);
