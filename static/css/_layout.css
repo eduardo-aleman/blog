@@ -41,6 +41,13 @@ main {
   gap: var(--gap-generous);
 }
 
+/* Desktop nav-actions stay right aligned */
+.nav-actions {
+  display: flex;
+  align-items: center;
+  gap: var(--space-lg);
+}
+
 /* Mobile header - stack vertically */
 @media (max-width: 768px) {
   .site-header .container {
@@ -56,9 +63,8 @@ main {
 
   .nav-actions {
     grid-column: 1 / -1;
-    display: flex;
+    flex-direction: row;
     justify-content: space-between;
-    align-items: center;
     width: 100%;
     gap: var(--space-md);
     border-top: 1px solid var(--border);
@@ -76,7 +82,11 @@ main {
   }
 
   .theme-toggle {
-    flex-shrink: 0;
+    display: none;
+  }
+
+  .menu-toggle {
+    display: none;
   }
 }
 
