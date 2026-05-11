@@ -21,6 +21,11 @@
     
     <!-- Navigation Actions -->
     <div class="nav-actions">
+      <!-- Navigation Link -->
+      <a href="{{ .Site.BaseURL }}{{ .Lang }}/navigation/" class="header-nav-link">
+        {{ i18n "navigation" | default "Navigation" }}
+      </a>
+      
       <!-- Language Switcher -->
       <div class="lang-switcher">
         {{ $currentLang := .Page.Lang }}
