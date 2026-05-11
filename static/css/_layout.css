@@ -211,7 +211,7 @@ html[data-theme="dark"] .theme-toggle .moon {
 /* ====== SITE FOOTER ====== */
 
 .site-footer {
-  margin-top: auto;
+  margin-top: var(--space-3xl);
   border-top: 1px solid var(--border);
   padding: var(--space-xl) 0 var(--space-lg);
   background-color: var(--bg-alt);

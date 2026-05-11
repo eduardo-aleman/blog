@@ -418,7 +418,7 @@
   display: grid;
   grid-template-columns: 1fr 1.4fr 1fr;
   gap: var(--space-2xl);
-  margin-bottom: var(--space-3xl);
+  margin-bottom: var(--space-4xl);
 }
 
 .essay-grid-item {
