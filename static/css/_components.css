@@ -355,10 +355,15 @@
 .tag-list {
   display: flex;
   flex-wrap: wrap;
+  align-items: center;
   gap: var(--space-md);
   list-style: none;
   margin: 0;
   padding: 0;
+}
+
+.tag-list li {
+  margin: 0;
 }
 
 .tag {
