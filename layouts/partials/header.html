@@ -19,12 +19,11 @@
       {{ end }}
     </nav>
     
-    <!-- Navigation Actions -->
-    <div class="nav-actions">
-      <!-- Navigation Link -->
+    <!-- Navigation Link -->
       {{ $navPath := cond (eq .Lang "es") "navegacion" "navigation" }}
+      {{ $navLabel := cond (eq .Lang "es") "Navegación" "Navigation" }}
       <a href="{{ .Site.BaseURL }}{{ .Lang }}/{{ $navPath }}/" class="header-nav-link">
-        {{ i18n "navigation" | default "Navigation" }}
+        {{ $navLabel }}
       </a>
       
       <!-- Language Switcher -->
