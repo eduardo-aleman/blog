@@ -17,14 +17,17 @@
 
   <!-- Featured Image (if provided) -->
   {{ with .Params.image }}
-  <div class="article-image">
+  <figure class="article-image">
     <img 
       src="{{ . }}" 
       alt="Featured image for {{ $.Title }}"
       class="hero-image"
       loading="eager"
     >
-  </div>
+  {{ with $.Params.image_caption }}
+    <figcaption>{{ . }}</figcaption>
+  {{ end }}
+  </figure>
   {{ end }}
 
   <!-- Article Content -->
