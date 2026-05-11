@@ -103,18 +103,18 @@
 /* ====== SECTIONS ====== */
 
 .section {
-  padding: var(--space-3xl) 0;
+  padding: var(--space-xl) 0; /* REDUCED from 3xl to prevent massive gaps between blocks */
 }
 
 @media (min-width: 768px) {
   .section {
-    padding: var(--space-4xl) 0;
+    padding: var(--space-2xl) 0; /* REDUCED from 4xl */
   }
 }
 
 @media (min-width: 1024px) {
   .section {
-    padding: var(--space-5xl) 0;
+    padding: var(--space-3xl) 0; /* REDUCED from 5xl */
   }
 }
 
@@ -128,7 +128,7 @@
   display: grid;
   grid-template-columns: repeat(12, 1fr);
   gap: var(--gap-generous);
-  padding: var(--space-4xl) 0;
+  padding: var(--space-2xl) 0; /* REDUCED from 4xl */
 }
 
 @media (max-width: 1024px) {
@@ -142,7 +142,7 @@
   .editorial-section {
     grid-template-columns: 1fr;
     gap: var(--gap-normal);
-    padding: var(--space-3xl) 0;
+    padding: var(--space-xl) 0; /* REDUCED from 3xl */
   }
 }
 
