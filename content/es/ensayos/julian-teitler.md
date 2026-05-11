@@ -24,7 +24,7 @@ Corrían más rumores sobre la muerte de Juliano. La "leyenda de la lanza" del p
 
 <figure>
 
-![](../../../static/images/posts/julian-teitler/St._Mercurios_Killing_King_Oleonus_St._Mercurios_Killing_Emperor_Julian_the_Apostate_3309043161-1024x676.webp)
+![](/images/posts/julian-teitler/St._Mercurios_Killing_King_Oleonus_St._Mercurios_Killing_Emperor_Julian_the_Apostate_3309043161-1024x676.webp)
 
 <figcaption>
 
