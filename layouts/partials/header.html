@@ -1,100 +1,43 @@
 <header class="site-header">
   <div class="container">
-    <!-- Brand/Logo -->
+    <!-- Brand / Title -->
     <a href="{{ .Site.BaseURL }}" class="nav-brand">
       {{ .Site.Title }}
     </a>
-    
-    <!-- Navigation Menu -->
-    <nav class="nav-menu" id="nav-menu">
-      {{ $current := . }}
-      {{ range .Site.Menus.main }}
-        {{ $isActive := or (eq $current.RelPermalink .URL) (eq $current.Section .Name) }}
-        <a 
-          href="{{ .URL }}" 
-          class="nav-menu__link{{ if $isActive }} active{{ end }}"
-        >
-          {{ .Name }}
-        </a>
-      {{ end }}
-    </nav>
-    
-    <!-- Navigation Actions -->
+
+    <!-- Navigation Actions (right side) -->
     <div class="nav-actions">
       <!-- Navigation Link -->
       {{ $navPath := cond (eq .Lang "es") "navegacion" "navigation" }}
+      {{ $navLabel := cond (eq .Lang "es") "Navegación" "Navigation" }}
       <a href="{{ .Site.BaseURL }}{{ .Lang }}/{{ $navPath }}/" class="header-nav-link">
-        {{ i18n "navigation" | default "Navigation" }}
+        {{ $navLabel }}
       </a>
       
-      <!-- Language Switcher -->
+      <!-- Language Switcher (en/es only) -->
       <div class="lang-switcher">
         {{ $currentLang := .Page.Lang }}
-        {{ $langNames := dict "en" "English" "es" "Español" }}
         
-        {{ range slice "en" "es" }}
-          {{ $langCode := . }}
-          {{ $isActive := eq $langCode $currentLang }}
-          {{ $langURL := cond (eq $langCode "en") "/" (printf "/%s/" $langCode) }}
-          
-          <a 
-            href="{{ $langURL }}"
-            class="lang-switch{{ if $isActive }} active{{ end }}"
-            {{ if $isActive }}aria-current="page"{{ end }}
-          >
-            {{ index $langNames $langCode }}
-          </a>
-          {{ if not (eq $langCode "es") }}
-            <span class="lang-switcher__separator">/</span>
-          {{ end }}
+        {{ if eq $currentLang "en" }}
+          <span class="lang-switch active" aria-current="page">en</span>
+        {{ else }}
+          <a href="/" class="lang-switch">en</a>
+        {{ end }}
+        
+        <span class="lang-switcher__separator">/</span>
+        
+        {{ if eq $currentLang "es" }}
+          <span class="lang-switch active" aria-current="page">es</span>
+        {{ else }}
+          <a href="/es/" class="lang-switch">es</a>
         {{ end }}
       </div>
-      
+
       <!-- Theme Toggle -->
-      <button 
-        class="theme-toggle" 
-        id="theme-toggle"
-        aria-label="Toggle dark mode"
-        aria-pressed="false"
-      >
-        <span class="sun" aria-hidden="true">◯</span>
-        <span class="moon" aria-hidden="true">◐</span>
-      </button>
-      
-      <!-- Menu Toggle (Mobile) -->
-      <button 
-        class="menu-toggle" 
-        id="menu-toggle"
-        aria-label="Toggle navigation menu"
-        aria-expanded="false"
-        aria-controls="nav-menu"
-      >
-        Menu
+      <button class="theme-toggle" aria-label="Toggle theme" title="Toggle dark mode">
+        <span class="sun">◯</span>
+        <span class="moon">◐</span>
       </button>
     </div>
   </div>
 </header>
-
-<!-- Mobile menu toggle script -->
-<script>
-  (function() {
-    const menuToggle = document.getElementById('menu-toggle');
-    const navMenu = document.getElementById('nav-menu');
-    
-    if (!menuToggle || !navMenu) return;
-    
-    menuToggle.addEventListener('click', function() {
-      const isExpanded = menuToggle.getAttribute('aria-expanded') === 'true';
-      menuToggle.setAttribute('aria-expanded', !isExpanded);
-      navMenu.classList.toggle('active');
-    });
-    
-    // Close menu when a link is clicked
-    navMenu.querySelectorAll('a').forEach(link => {
-      link.addEventListener('click', function() {
-        menuToggle.setAttribute('aria-expanded', 'false');
-        navMenu.classList.remove('active');
-      });
-    });
-  })();
-</script>

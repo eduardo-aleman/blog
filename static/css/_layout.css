@@ -435,3 +435,14 @@ main {
     padding-top: var(--gap-generous);
   }
 }
+
+/* Hide dark mode and menu on mobile */
+@media (max-width: 768px) {
+  .theme-toggle {
+    display: none !important;
+  }
+
+  .menu-toggle {
+    display: none !important;
+  }
+}
