@@ -52,22 +52,6 @@
       </div>
     {{ end }}
 
-    <!-- Related Articles -->
-    {{ $related := .Site.RegularPages.Related . | first 3 }}
-    {{ if $related }}
-      <div class="article-footer__related">
-        <h3>{{ i18n "relatedArticles" | default "Related Articles" }}</h3>
-        <ul class="related-list">
-          {{ range $related }}
-            <li>
-              <a href="{{ .Permalink }}">{{ .Title }}</a>
-            </li>
-          {{ end }}
-        </ul>
-      </div>
-    {{ end }}
-  </footer>
-
   <!-- Navigation to next/previous articles -->
   <nav class="article-nav">
     {{ if .PrevInSection }}
