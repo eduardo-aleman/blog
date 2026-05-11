@@ -410,11 +410,13 @@
 
 .essays-grid-section {
   padding: 0;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 .essays-grid {
   display: grid;
-  grid-template-columns: 1fr 1.3fr 1fr;
+  grid-template-columns: 1fr 1.4fr 1fr;
   gap: var(--space-2xl);
 }
 
