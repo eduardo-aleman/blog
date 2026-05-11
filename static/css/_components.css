@@ -409,7 +409,7 @@
 /* ====== ESSAY GRID SECTION ====== */
 
 .essays-grid-section {
-  padding: var(--space-xl) 0 0 0;
+  padding: var(--space-2xl) 0 0 0;
   max-width: 1200px;
   margin: 0 auto;
 }
