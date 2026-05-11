@@ -627,7 +627,8 @@
 
 .prose {
   padding: var(--space-md) 0 var(--space-2xl) 0;
-  max-width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 .prose p,
@@ -648,10 +649,14 @@
 
 .article-hero {
   padding: var(--space-sm) 0;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 .article-image {
   padding: var(--space-md) 0;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 .hero-image {
@@ -664,6 +669,8 @@
 .article-footer {
   padding: var(--space-md) 0 var(--space-lg) 0;
   border-top: 1px solid var(--border);
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 .navigation-container {
