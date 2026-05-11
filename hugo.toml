@@ -1,5 +1,5 @@
 baseURL = 'https://blog.ealeman.com/'
-title = 'Eduardo Alemán - Blog'
+title = 'Eduardo Alemán'
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = true
 enableRobotsTXT = true
@@ -14,7 +14,7 @@ timeZone = 'America/Los_Angeles'
 
 # Site parameters
 [params]
-  description = 'Editorial writing in English and Spanish'
+  description = 'Essays in English and Spanish'
   author = 'Eduardo Alemán'
   defaultTheme = 'light'
   
@@ -39,11 +39,6 @@ timeZone = 'America/Los_Angeles'
       name = 'Essays'
       url = '/en/essays/'
       weight = 10
-    
-    [[languages.en.menu.main]]
-      name = 'About'
-      url = '/en/about/'
-      weight = 20
 
   [languages.es]
     label = 'Español'
@@ -58,11 +53,6 @@ timeZone = 'America/Los_Angeles'
       name = 'Ensayos'
       url = '/es/ensayos/'
       weight = 10
-    
-    [[languages.es.menu.main]]
-      name = 'Acerca de'
-      url = '/es/about/'
-      weight = 20
 
 # Markup settings
 [markup]
