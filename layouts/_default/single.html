@@ -34,17 +34,6 @@
 
   <!-- Article Footer -->
   <footer class="section article-footer">
-    <div class="article-footer__bio">
-      {{ if .Params.author }}
-      <div class="bio">
-        <h3>{{ i18n "about" | default "About" }} {{ .Params.author }}</h3>
-        {{ if .Params.bio }}
-        <p>{{ .Params.bio }}</p>
-        {{ end }}
-      </div>
-      {{ end }}
-    </div>
-
     <!-- Tags -->
     {{ $terms := .GetTerms "tags" }}
     {{ if $terms }}
