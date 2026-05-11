@@ -20,9 +20,10 @@
     </nav>
     
     <!-- Navigation Actions -->
-    <div class="nav-actions">
+
       <!-- Navigation Link -->
-      <a href="{{ .Site.BaseURL }}{{ .Lang }}/navigation/" class="header-nav-link">
+      {{ $navPath := cond (eq .Lang "es") "navegacion" "navigation" }}
+      <a href="{{ .Site.BaseURL }}{{ .Lang }}/{{ $navPath }}/" class="header-nav-link">
         {{ i18n "navigation" | default "Navigation" }}
       </a>
       
