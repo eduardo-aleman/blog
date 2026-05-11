@@ -2,7 +2,7 @@
 title: "El arte de la moderación editorial"
 description: "Sobre la importancia de decir menos y significar más en el diseño y la escritura"
 date: 2026-05-10
-draft: false
+draft: true
 summary: "El lujo en la web se comunica usualmente a través de la tipografía, la moderación, el espaciado, la confianza y el silencio, no a través de la decoración."
 author: "Eduardo Alemán"
 bio: "Eduardo escribe sobre diseño, cultura editorial e ideas. Este es su primer ensayo en el blog."
