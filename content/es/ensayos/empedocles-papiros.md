@@ -10,8 +10,7 @@ tags:
   - arqueología
 categories:
   - Mundo Antiguo
-description: "Un fragmento de papiro identificado recientemente en El Cairo resulta ser parte del mismo rollo antiguo que el famoso Empédocles de Estrasburgo — juntos, nos ofrecen el único manuscrito superviviente de la Physica."
-summary: "La identificación de P.Fouad inv. 218 como fragmento de la Physica de Empédocles, realizada por Nathan Carlig, revela que los papiros de El Cairo y Estrasburgo son dos piezas supervivientes de un mismo rollo antiguo — la única copia manuscrita conocida de este poema filosófico perdido."
+summary: "Un fragmento de papiro identificado recientemente en El Cairo resulta ser parte del mismo rollo antiguo que el famoso Empédocles de Estrasburgo — juntos, nos ofrecen el único manuscrito superviviente de la Physica."
 cover:
   image: ""
   alt: "Fragmento de P.Fouad inv. 218, el Empédocles de El Cairo"
