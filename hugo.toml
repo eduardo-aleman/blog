@@ -34,16 +34,6 @@ timeZone = 'America/Los_Angeles'
     
     [languages.en.params]
       description = 'Editorial writing and essays'
-    
-    [[languages.en.menu.main]]
-      name = 'Essays'
-      url = '/en/essays/'
-      weight = 10
-    
-    [[languages.en.menu.main]]
-      name = 'About'
-      url = '/en/about/'
-      weight = 20
 
   [languages.es]
     label = 'Español'
