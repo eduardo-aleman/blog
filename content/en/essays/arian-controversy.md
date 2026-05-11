@@ -21,13 +21,13 @@ translationKey: "arianism"
 canonicalURL: ""
 ---
 
-## The Great Intellectual Divide
+The Great Intellectual Divide
 
 The conflict between Arius and the orthodox party, spearheaded by Athanasius of Alexandria, stands as one of the most significant intellectual and theological battles in Western history. It was not merely a dispute over words, but a fundamental disagreement on the nature of reality and the relationship between the Creator and the Created.
 
 To determine if Arius was "wrong," we must look through three distinct lenses: logical consistency, theological tradition, and linguistic nuance.
 
-## Logical Consistency: The Arian Strength
+Logical Consistency: The Arian Strength
 
 From a purely syllogistic perspective, Arius held the high ground. His argument was built on a linear, common-sense understanding of paternity:
 
@@ -37,7 +37,7 @@ From a purely syllogistic perspective, Arius held the high ground. His argument 
 
 This logic protected the absolute oneness of God (monotheism) from appearing to be split into multiple parts. For many in the 4th century, this was the most rational way to interpret the scriptures.
 
-## Theological Tradition: The Orthodox Counter-Argument
+Theological Tradition: The Orthodox Counter-Argument
 
 The orthodox party did not necessarily argue that Arius's logic was "bad"; they argued it was *insufficient*. Their concern was not formal logic, but **Soteriology** (the study of salvation). 
 
@@ -45,11 +45,11 @@ If Jesus were a created being—even the most perfect one—he could not bridge 
 
 [Image of the Shield of the Trinity diagram](grosseteste-trinity-diagram.jpg)
 
-## Linguistic Nuance: The Battle of Terms
+Linguistic Nuance: The Battle of Terms
 
 The entire debate often hinged on the Greek word *monogenes*. While Arius translated this as "only begotten" (implying a point of origin), the orthodox party argued it meant "unique" or "one-of-a-kind." This linguistic ambiguity allowed both sides to use the same scriptures to reach opposite conclusions.
 
-## Conclusion
+Conclusion
 
 Was Arius wrong? 
 

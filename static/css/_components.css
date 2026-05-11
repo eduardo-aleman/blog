@@ -412,6 +412,7 @@
   padding: 0;
   max-width: 1200px;
   margin: 0 auto;
+  margin-top: 0;
 }
 
 .essays-grid {
@@ -597,6 +598,7 @@
   font-weight: 500;
   margin: 0 0 var(--space-md) 0;
   line-height: 1.2;
+  max-width: 800px;
 }
 
 .article-meta {
@@ -604,6 +606,7 @@
   gap: var(--space-md);
   font-size: var(--step--1);
   color: var(--muted);
+  max-width: 800px;
 }
 
 .article-meta__divider {
@@ -626,8 +629,8 @@
 }
 
 .prose {
-  padding: var(--space-md) 0 var(--space-2xl) 0;
-  max-width: 1200px;
+  padding: 0 0 var(--space-2xl) 0;
+  max-width: 800px;
   margin: 0 auto;
 }
 
@@ -648,7 +651,7 @@
 }
 
 .article-hero {
-  padding: var(--space-sm) 0;
+  padding: 0;
   max-width: 1200px;
   margin: 0 auto;
 }
