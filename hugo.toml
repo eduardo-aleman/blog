@@ -14,7 +14,7 @@ timeZone = 'America/Los_Angeles'
 
 # Site parameters
 [params]
-  description = 'Essays in English and Spanish'
+  description = 'Editorial writing in English and Spanish'
   author = 'Eduardo Alemán'
   defaultTheme = 'light'
   
@@ -34,6 +34,16 @@ timeZone = 'America/Los_Angeles'
     
     [languages.en.params]
       description = 'Editorial writing and essays'
+    
+    [[languages.en.menu.main]]
+      name = 'Essays'
+      url = '/en/essays/'
+      weight = 10
+    
+    [[languages.en.menu.main]]
+      name = 'About'
+      url = '/en/about/'
+      weight = 20
 
   [languages.es]
     label = 'Español'
@@ -43,6 +53,16 @@ timeZone = 'America/Los_Angeles'
     
     [languages.es.params]
       description = 'Escritura editorial y ensayos'
+    
+    [[languages.es.menu.main]]
+      name = 'Ensayos'
+      url = '/es/ensayos/'
+      weight = 10
+    
+    [[languages.es.menu.main]]
+      name = 'Acerca de'
+      url = '/es/about/'
+      weight = 20
 
 # Markup settings
 [markup]
