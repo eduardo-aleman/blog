@@ -1,4 +1,4 @@
 ---
 title: "Ensayos"
-description: "Una colección de ensayos editoriales y reflexiones"
+description: "Una colección de ensayos y reflexiones"
 ---

@@ -1,4 +1,4 @@
 ---
 title: "Essays"
-description: "A collection of editorial essays and thoughts"
+description: "A collection of essays and thoughts"
 ---
