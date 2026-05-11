@@ -43,16 +43,6 @@ timeZone = 'America/Los_Angeles'
     
     [languages.es.params]
       description = 'Escritura editorial y ensayos'
-    
-    [[languages.es.menu.main]]
-      name = 'Ensayos'
-      url = '/es/ensayos/'
-      weight = 10
-    
-    [[languages.es.menu.main]]
-      name = 'Acerca de'
-      url = '/es/about/'
-      weight = 20
 
 # Markup settings
 [markup]
