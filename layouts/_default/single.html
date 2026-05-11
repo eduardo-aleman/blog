@@ -1,7 +1,7 @@
 {{ define "main" }}
 <article class="page-grid">
   <!-- Hero Section -->
-  <header class="section article-hero">
+  <header class="article-hero">
     <div class="article-hero__content">
       <h1 class="article-title">{{ .Title }}</h1>
       
@@ -17,7 +17,7 @@
 
   <!-- Featured Image (if provided) -->
   {{ with .Params.image }}
-  <div class="section article-image">
+  <div class="article-image">
     <img 
       src="{{ . }}" 
       alt="Featured image for {{ $.Title }}"
@@ -28,12 +28,12 @@
   {{ end }}
 
   <!-- Article Content -->
-  <div class="section prose">
+  <div class="prose">
     {{ .Content }}
   </div>
 
   <!-- Article Footer -->
-  <footer class="section article-footer">
+  <footer class="article-footer">
     <!-- Tags -->
     {{ $terms := .GetTerms "tags" }}
     {{ if $terms }}
