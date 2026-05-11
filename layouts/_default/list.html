@@ -19,7 +19,7 @@
 
   <!-- Articles List -->
   <div class="prose">
-    {{ $paginator := .Paginate (where .Pages "Kind" "page" | reverse) }}
+    {{ $paginator := .Paginate (where .Pages "Kind" "page") }}
     
     {{ if $paginator.Pages }}
       <div class="articles-list">
