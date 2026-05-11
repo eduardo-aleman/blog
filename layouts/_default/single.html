@@ -20,13 +20,13 @@
   <figure class="article-image">
     <img 
       src="{{ . }}" 
-      alt="{{ .Params.image_alt | default (printf "Featured image for %s" .Title) }}"
+      alt="{{ $.Params.image_alt | default (printf "Featured image for %s" $.Title) }}"
       class="hero-image"
       loading="eager"
     >
-  {{ with $.Params.image_caption }}
+    {{ with $.Params.image_caption }}
     <figcaption>{{ . }}</figcaption>
-  {{ end }}
+    {{ end }}
   </figure>
   {{ end }}
 
@@ -40,75 +40,51 @@
     <!-- Tags -->
     {{ $terms := .GetTerms "tags" }}
     {{ if $terms }}
-    <div class="article-tags">
-      <h4>{{ i18n "tags" | default "Tags" }}</h4>
-      <div style="display: flex; flex-wrap: wrap; gap: var(--space-md); margin-top: var(--space-md);">
-        {{ range $terms }}
-          <a href="{{ .Permalink }}" class="badge">{{ .Title }}</a>
-        {{ end }}
+      <div class="article-footer__tags">
+        <h3>{{ i18n "tags" | default "Tags" }}</h3>
+        <ul class="tag-list">
+          {{ range $terms }}
+            <li>
+              <a href="{{ .Permalink }}" class="tag">{{ .LinkTitle }}</a>
+            </li>
+          {{ end }}
+        </ul>
       </div>
-    </div>
+    {{ end }}
+
+    <!-- Related Articles -->
+    {{ $related := .Site.RegularPages.Related . | first 3 }}
+    {{ if $related }}
+      <div class="article-footer__related">
+        <h3>{{ i18n "relatedArticles" | default "Related Articles" }}</h3>
+        <ul class="related-list">
+          {{ range $related }}
+            <li>
+              <a href="{{ .Permalink }}">{{ .Title }}</a>
+            </li>
+          {{ end }}
+        </ul>
+      </div>
     {{ end }}
   </footer>
 
-  <!-- Related Articles -->
-  {{ $related := .Site.RegularPages.Related . | first 3 }}
-  {{ if $related }}
-  <section class="section">
-    <h2>{{ i18n "relatedArticles" | default "Related Articles" }}</h2>
-    
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: var(--gap-generous); margin-top: var(--space-2xl);">
-      {{ range $related }}
-        <article class="article-card">
-          {{ with .Params.image }}
-            <img 
-              src="{{ . }}" 
-              alt="{{ .Title }}"
-              class="article-card__image"
-              loading="lazy"
-            >
-          {{ end }}
-          
-          <header class="article-card__header">
-            <h3 class="article-card__title">
-              <a href="{{ .Permalink }}">{{ .Title }}</a>
-            </h3>
-            <div class="article-card__meta">
-              <time datetime="{{ .Date.Format "2006-01-02" }}">
-                {{ .Date.Format "January 2, 2006" }}
-              </time>
-            </div>
-          </header>
-          
-          <p class="article-card__excerpt">
-            {{ .Summary | plainify | truncate 100 }}
-          </p>
-          
-          <footer class="article-card__footer">
-            <a href="{{ .Permalink }}" class="article-card__link">
-              {{ i18n "readMore" | default "Read More" }} →
-            </a>
-          </footer>
-        </article>
-      {{ end }}
-    </div>
-  </section>
-  {{ end }}
-
-  <!-- Navigation -->
-  <nav class="section article-nav" style="display: flex; justify-content: space-between; padding: var(--space-3xl) 0; border-top: 1px solid var(--border);">
-    {{ with .PrevInSection }}
-      <a href="{{ .Permalink }}" style="display: flex; flex-direction: column; gap: var(--space-sm);">
-        <span style="font-size: var(--step--1); color: var(--muted);">← {{ i18n "previousArticle" | default "Previous" }}</span>
-        <strong>{{ .Title }}</strong>
-      </a>
+  <!-- Navigation to next/previous articles -->
+  {{ $paginator := .Paginate (where .Site.RegularPages "Kind" "page") }}
+  <nav class="article-nav">
+    {{ if .PrevInSection }}
+      <div class="article-nav__prev">
+        <a href="{{ .PrevInSection.Permalink }}" rel="prev">
+          ← {{ .PrevInSection.Title }}
+        </a>
+      </div>
     {{ end }}
     
-    {{ with .NextInSection }}
-      <a href="{{ .Permalink }}" style="display: flex; flex-direction: column; gap: var(--space-sm); text-align: right;">
-        <span style="font-size: var(--step--1); color: var(--muted);">{{ i18n "nextArticle" | default "Next" }} →</span>
-        <strong>{{ .Title }}</strong>
-      </a>
+    {{ if .NextInSection }}
+      <div class="article-nav__next">
+        <a href="{{ .NextInSection.Permalink }}" rel="next">
+          {{ .NextInSection.Title }} →
+        </a>
+      </div>
     {{ end }}
   </nav>
 </article>
