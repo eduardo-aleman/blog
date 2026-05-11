@@ -41,11 +41,18 @@ main {
   gap: var(--gap-generous);
 }
 
-/* Desktop nav-actions stay right aligned */
+.nav-brand {
+  grid-column: 1;
+  text-align: left;
+}
+
+/* Desktop nav-actions on right */
 .nav-actions {
+  grid-column: 3;
   display: flex;
   align-items: center;
   gap: var(--space-lg);
+  justify-content: flex-end;
 }
 
 /* Mobile header - stack vertically */
