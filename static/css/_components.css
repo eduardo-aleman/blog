@@ -492,6 +492,7 @@
   border-radius: 0;
   margin-bottom: var(--space-md);
   order: -1;
+  background: transparent;
 }
 
 .essay-grid-item__image {
