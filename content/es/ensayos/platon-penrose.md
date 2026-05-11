@@ -8,7 +8,7 @@ summary: Desde la psychē platónica hasta la teoría cuántica de Penrose, este
   traza una historia intelectual de la noción de alma y su vínculo con las teorías
   modernas de la consciencia.
 draft: false
-description: 'De Platón a Penrose: una historia intelectual del alma y la consciencia.'
+summary: "Desde Platón hasta Penrose, la historia del alma y de la consciencia ha oscilado entre la trascendencia metafísica y la inmanencia funcional, entre el conocimiento del Bien y la información integrada, entre la inmortalidad espiritual y los colapsos cuánticos."
 tags:
 - Filosofía
 - Penrose

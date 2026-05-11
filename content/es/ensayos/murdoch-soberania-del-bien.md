@@ -3,6 +3,7 @@ title: "Iris Murdoch sobre la metáfora: la soberanía del bien"
 date: 2026-05-07
 translationKey: murdoch-metaphor
 tags: [filosofía, ética, iris-murdoch, metáfora, filosofía-moral]
+summary: "Iris Murdoch tenía una perspectiva singular sobre las metáforas, que exploró con frecuencia en sus escritos filosóficos."
 ---
 
 Iris Murdoch tenía una perspectiva singular sobre las metáforas, que exploró con frecuencia en sus escritos filosóficos. En *La metafísica como guía para la moral*, profundiza en el papel del pensamiento metafórico en la configuración de nuestra comprensión de la realidad y de nuestra vida moral.
