@@ -11,7 +11,7 @@ tags:
 - Roma
 - Imperio tardío
 - Cristianismo
-summary: "Traducción de El último emperador pagano de H. C. Teitler (Introducción)"
+summary: "Introducción a El último emperador pagano de H. C. Teitler."
 ---
 
 ### Introducción
