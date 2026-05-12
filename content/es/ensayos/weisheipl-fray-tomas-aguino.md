@@ -32,11 +32,9 @@ Es mi sincera esperanza que este libro pueda ayudar a la búsqueda de la verdad 
 
 La vida de Fray Tomás de Aquino se extiende a mediados de los cincuenta años del siglo XIII, 1224/5-74. Su vida y obra reflejan la vitalidad de pensamiento y espíritu que eran típicos de la época. Suya fue una vida corta en la que se fusiona la quietud de la contemplación con la fiebre de la actividad. Cuando uno reflexiona sobre la obra de la vida de Tomás dentro de los designios de la divina providencia, no podemos dejar de aplicarle las palabras de Sabiduría 4, 13-14:
 
-*Alcanzando en breve la perfección, llenó largos años.*
-
-*Su alma era del agrado del Señor,*
-
-*por eso se apresuró a sacarle de entre la maldad.*
+> *Alcanzando en breve la perfección, llenó largos años.*
+> *Su alma era del agrado del Señor,*
+> *por eso se apresuró a sacarle de entre la maldad.*
 
 Incluso los hombres que no son tomistas deben detenerse y maravillarse ante la vida de este santo que dirigió todas sus energías a la búsqueda de la verdad.
 
