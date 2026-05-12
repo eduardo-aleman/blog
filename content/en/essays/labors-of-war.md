@@ -14,7 +14,7 @@ tags:
   - "Globalization"
 series:
   - "Violence and Civilization"
-description: "A critical reflection on war from Alexander the Great to the twenty-first century, through history, myth, and contemporary geopolitics."
+summary: "A critical reflection on war from Alexander the Great to the twenty-first century, through history, myth, and contemporary geopolitics."
 translationKey: alexander-ukraine-war
 ---
 
