@@ -40,4 +40,5 @@ arguments:
       and human development.
 ---
 
-<iframe src="https://embed.kumu.io/cb16139e466de23bd71fca457967e7e9" width="940" height="600" frameborder="0"></iframe>
+Writing...
+
