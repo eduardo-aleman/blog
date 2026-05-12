@@ -163,9 +163,14 @@ sup a.footnote-ref {
   margin-right: 0;
   padding: 0;
   
-  /* Subtle styling */
-  font-size: 0.875em;
-  font-weight: 500;
+  /* Very small size to minimize line spacing impact */
+  font-size: 0.65em;
+  font-weight: 600;
+  line-height: 1;
+  
+  /* Compact vertical spacing */
+  vertical-align: super;
+  
   color: var(--color-primary, #0066cc);
   
   /* Smooth transition for hover effects */
