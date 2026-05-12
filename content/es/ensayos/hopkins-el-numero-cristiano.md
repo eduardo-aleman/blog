@@ -55,7 +55,7 @@ Otros estudiosos no han sido tan cautelosos como Harnack, pero en general han se
 
 Tenemos un punto final. Ahora necesitamos un principio. Es obvio que el cristianismo comenzó siendo pequeño. ¡Y Orígenes lo dice (_Contra Celso_ 3. 10)! Hagamos una estimación arbitraria de que en el año d. C. 40 alrededor de mil personas eran cristianas 14 –aunque, por supuesto, en esta etapa de la evolución cristiana es probable que se hubieran imaginado a sí mismos como judíos que también creían en la divinidad de Jesús. En realidad, no hay mucho que dependa de los números exactos ni al principio ni al final, como quedará claro cuando consideremos la figura 12. 1 y la tabla 12. 1. Nuestro objetivo principal en general en este artículo es pensar en las implicaciones del crecimiento cristiano, no medirlo con precisión (eso es imposible), ni siquiera explicarlo.[^15]
 
-![Figure 12.1. A speculative graph showing the growth of Christianity at a constant growth rate from ad 40–350 (3.35 per cent per annum) (semi-log scale).](/images/posts/hopkins-el-numero-cristiano/fig12.1.jpg)
+![Figure 12.1. A speculative graph showing the growth of Christianity at a constant growth rate from ad 40–350 (3.35 per cent per annum) (semi-log scale).](/images/posts/hopkins-el-numero-cristiano/fig12.1.png)
 
 Figura 12. 1. Un gráfico especulativo que muestra el crecimiento del cristianismo a una tasa de crecimiento constante entre el 40 y el 350 d. C. (3, 35 por ciento anual) (escala semilogarítmica).
 
@@ -63,7 +63,7 @@ La figura 12. 1 establece una línea de crecimiento constante implícita por sim
 
 Tabla 12. 1. Algunos números intersticiales de cristianos, del 40 al 178.
 
-![Tabla 12.1. Números cristianos implícitos en intervalos sucesivos entre el año 50 y el 350 d. C.](/images/posts/hopkins-el-numero-cristiano/tab12.1.jpg)
+![Tabla 12.1. Números cristianos implícitos en intervalos sucesivos entre el año 50 y el 350 d. C.](/images/posts/hopkins-el-numero-cristiano/tab12.1.png)
 
 Tabla 12.1. Números cristianos implícitos en intervalos sucesivos entre el año 50 y el 350 d. C.
 
