@@ -33,7 +33,7 @@ timeZone = 'America/Los_Angeles'
     contentDir = 'content/en'
     
     [languages.en.params]
-      description = 'Editorial writing and essays'
+      description = 'Editorial writing, essays, and translations'
 
   [languages.es]
     label = 'Español'
@@ -42,7 +42,7 @@ timeZone = 'America/Los_Angeles'
     contentDir = 'content/es'
     
     [languages.es.params]
-      description = 'Escritura editorial y ensayos'
+      description = 'Escritura editorial, ensayos y traducciones'
 
 # Markup settings
 [markup]

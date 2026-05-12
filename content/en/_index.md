@@ -1,4 +1,4 @@
 ---
 title: "Eduardo Alemán"
-description: "Editorial writing and essays on design, culture, and ideas"
+description: "Editorial writing, essays, and translations"
 ---
