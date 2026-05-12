@@ -19,6 +19,7 @@ Fray Tomás de Aquino.
 Su vida, pensamiento, y obras.  
 Jaime A. Weisheipl, O.P. (*Ordinis Praedicatorum*).  
 Instituto Pontificio de Estudios Medievales de Toronto.
+Finalista de los National Book Awards de 1975 en la categoría de Biografía.
 
 Prefacio
 
