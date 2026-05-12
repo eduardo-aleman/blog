@@ -151,4 +151,108 @@ svg {
   gap: var(--space-xl);
 }
 
+/* ====== FOOTNOTES STYLING ====== */
+
+/* Footnote reference (superscript link in text) */
+sup a.footnote-ref {
+  /* Remove default link styling */
+  text-decoration: none;
+  
+  /* Tight spacing - no extra margins */
+  margin-left: 0.05em;
+  margin-right: 0;
+  padding: 0;
+  
+  /* Subtle styling */
+  font-size: 0.875em;
+  font-weight: 500;
+  color: var(--color-primary, #0066cc);
+  
+  /* Smooth transition for hover effects */
+  transition: color 200ms ease;
+}
+
+/* Hover state - no underline, subtle color change */
+sup a.footnote-ref:hover {
+  text-decoration: none;
+  cursor: pointer;
+  color: var(--color-primary-dark, #0052a3);
+  background-color: transparent;
+}
+
+/* Active/visited state */
+sup a.footnote-ref:visited {
+  color: var(--color-primary, #0066cc);
+}
+
+/* Focus state for accessibility */
+sup a.footnote-ref:focus {
+  outline: 2px solid var(--color-primary, #0066cc);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+/* Footnotes section at the bottom */
+.footnotes {
+  margin-top: var(--space-2xl);
+  padding-top: var(--space-lg);
+  border-top: 1px solid var(--color-border, #e5e7eb);
+  font-size: 0.95em;
+  color: var(--color-text-secondary, #666);
+}
+
+.footnotes ol {
+  margin: 0;
+  padding-left: var(--space-lg);
+}
+
+.footnotes li {
+  margin-bottom: var(--space-md);
+  line-height: 1.6;
+}
+
+/* Footnote content paragraph styling */
+.footnotes li p {
+  margin: 0;
+  display: inline;
+}
+
+/* Footnote backref (link back to text) */
+.footnotes a.footnote-backref {
+  text-decoration: none;
+  color: var(--color-primary, #0066cc);
+  margin-left: 0.3em;
+  font-weight: 500;
+  transition: color 200ms ease;
+}
+
+.footnotes a.footnote-backref:hover {
+  text-decoration: none;
+  color: var(--color-primary-dark, #0052a3);
+}
+
+/* Dark mode adjustments for footnotes */
+@media (prefers-color-scheme: dark) {
+  sup a.footnote-ref {
+    color: var(--color-primary-light, #66b3ff);
+  }
+  
+  sup a.footnote-ref:hover {
+    color: var(--color-primary-lighter, #99ccff);
+  }
+  
+  .footnotes {
+    border-top-color: var(--color-border-dark, #404040);
+    color: var(--color-text-secondary-dark, #999);
+  }
+  
+  .footnotes a.footnote-backref {
+    color: var(--color-primary-light, #66b3ff);
+  }
+  
+  .footnotes a.footnote-backref:hover {
+    color: var(--color-primary-lighter, #99ccff);
+  }
+}
+
 /* ====== END OF STYLESHEET ====== */
