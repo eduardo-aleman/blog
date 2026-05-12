@@ -11,7 +11,7 @@ tags:
 - Roma
 - Imperio tardío
 - Cristianismo
-summary: "Traducción mía de la introducción del fascinante libro sobre la vida de Juliano el Apóstata."
+summary: "Traducción mía de la introducción del libro sobre la corta vida de Juliano el Apóstata."
 ---
 <!--
 image: /images/posts/julian-teitler/Juliano_Solido_Bizantino.png
