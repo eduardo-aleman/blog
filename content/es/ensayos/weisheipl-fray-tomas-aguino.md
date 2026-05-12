@@ -1,5 +1,5 @@
 ---
-title: Fray Tomás de Aquino (Jaime A. Weisheipl).
+title: Fray Tomás de Aquino (Jaime A. Weisheipl)
 date: '2024-06-14'
 categories:
 - Filosofía
