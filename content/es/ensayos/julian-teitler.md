@@ -1,5 +1,5 @@
 ---
-title: El último emperador pagano (H. C. Teitler).
+title: Introducción de 'El último emperador pagano' de H. C. Teitler
 date: '2024-04-16'
 categories:
 - Traducciones
@@ -11,7 +11,7 @@ tags:
 - Roma
 - Imperio tardío
 - Cristianismo
-summary: "Introducción a El último emperador pagano de H. C. Teitler. Traducción de Eduardo Alemán."
+summary: "Traducción mía de la introducción del fascinante libro sobre la vida de Juliano el Apóstata."
 ---
 <!--
 image: /images/posts/julian-teitler/Juliano_Solido_Bizantino.png
