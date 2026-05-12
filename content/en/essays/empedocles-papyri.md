@@ -17,55 +17,49 @@ cover:
   alt: "Fragment of P.Fouad inv. 218, the Empedocles of Cairo"
   caption: "Fragment of P.Fouad inv. 218 (Université de Liège / N. Carlig)"
   relative: false
-showToc: true
-TocOpen: false
 ---
 
-A Papyrus Long Overlooked
+A Papyrus Long Overlooked: The Reunited Voice of Empedocles
 
-Sitting unrecognised in the archives of the French Institute of Oriental Archaeology (IFAO) in Cairo, a fragment of papyrus roughly two thousand years old had been waiting for the right reader. That reader turned out to be **Nathan Carlig**, a papyrologist at the University of Liège, who identified the document — catalogued as **P.Fouad inv. 218** — as containing thirty previously unknown verses from the *Physica*, the great philosophical poem of the pre-Socratic thinker **Empedocles of Agrigentum** (5th century BCE).
+Sitting unrecognized in the archives of the French Institute of Oriental Archaeology (IFAO) in Cairo, a two-thousand-year-old fragment of papyrus had been waiting for the right reader. That reader was Nathan Carlig, a papyrologist at the University of Liège. He identified the document—cataloged as P.Fouad inv. 218—as containing thirty previously unknown verses from the *Physica*, the foundational philosophical poem by the pre-Socratic thinker Empedocles of Agrigentum (5th century BCE).
 
-The discovery is significant on its own terms. Until now, everything we knew about Empedocles came through indirect channels: quotations embedded in Plato, paraphrases in Aristotle, allusions in Plutarch. These sources are invaluable, but they inevitably filter and reshape what they transmit. P.Fouad inv. 218 offers something different — direct access to Empedocles' own words, without the mediation of later interpreters.
+Beyond the Filter of Antiquity
 
-But the fragment's significance deepens considerably once you understand its relationship to another papyrus, one already well known to scholars: the so-called **Strasbourg Empedocles**.
+The discovery is a landmark in classical studies. Until now, our understanding of Empedocles was "second-hand," filtered through indirect channels: quotations in Plato, paraphrases in Aristotle, or allusions in Plutarch. While invaluable, these sources inevitably reshaped Empedocles' thought to fit their own agendas. P.Fouad inv. 218 offers the rare "holy grail" of philology: unmediated access to the philosopher’s original hexameters.
 
-The Strasbourg Papyrus: A Landmark of 1999
+The Strasbourg Connection: One Scroll, Two Cities
 
-The Strasbourg papyrus (P.Strasb. Gr. inv. 1665–1666) made headlines in the world of classical studies when it was published in 1999. Dating to the end of the 1st century CE, it was the first direct textual testimony ever found for the *Physica* — Empedocles' account of the natural world, composed in hexameter verse. Before that publication, no one had ever read a line of Empedocles in manuscript form. The Strasbourg fragments offered new verses and fresh insight into the philosopher's conception of the cosmic cycle.
+The significance of the Cairo fragment deepens when paired with the famous Strasbourg Empedocles (P.Strasb. Gr. inv. 1665–1666). Published in 1999, the Strasbourg papyrus was the first direct manuscript evidence of the *Physica* ever found, offering fresh insight into Empedocles’ cosmic cycle.
 
-For over two decades, those fragments stood alone as the sole surviving manuscript witness to the poem.
+For over two decades, those fragments were thought to be the sole survivors. However, Carlig’s research reveals a more compelling story: the Cairo and Strasbourg papyri are not just related—they are fragments of the same ancient scroll.
 
-One Scroll, Two Cities
+At some point in antiquity, a single copy of the *Physica* was damaged or divided. One section traveled to Strasbourg; another remained in Egypt. The material evidence—the physical texture of the papyrus, the specific scribal hand, and the poetic meter—all confirm that these two pieces, separated for two millennia, are parts of a single original manuscript. Together, they constitute the only known primary copy of Empedocles’ masterwork.
 
-This is where Carlig's identification of P.Fouad inv. 218 becomes especially compelling. The Cairo and Strasbourg papyri are not two independent manuscript traditions. They are, according to Carlig, **fragments of the same ancient scroll**.
+Effluences and the Mechanics of Vision
 
-At some point in antiquity, a single papyrus roll containing a copy of the *Physica* was damaged, dispersed, or divided. Parts of it eventually made their way to Strasbourg; another section ended up in the IFAO archive in Cairo. For more than a century, neither fragment was recognised for what it was in relation to the other.
+While the Strasbourg fragments focused on cosmology, P.Fouad inv. 218 explores Empedocles’ theory of effluences (*aporrhoai*) and sensory perception.
 
-The material and palaeographic evidence — the physical characteristics of the papyrus, the scribal hand, and crucially the poetic content — all converge to support the conclusion that both fragments derive from the same original manuscript. Together, they constitute the **only known copy** of Empedocles' *Physica*.
+Empedocles proposed a strikingly materialist theory: objects constantly emit streams of fine particles. We "see" or "smell" because these particles pass through precisely shaped pores in our sense organs. The newly recovered verses provide the first opportunity to read Empedocles’ own articulation of this mechanical bridge between the mind and the physical world.
 
-What the Cairo Fragment Contains
+A Legacy Redefined
 
-The thirty verses in P.Fouad inv. 218 cover ground not found in the Strasbourg material. Where the Strasbourg fragments shed light on Empedocles' cosmology and the cosmic cycle, the Cairo papyrus deals with his **theory of effluences** (*aporrhoai*) and its application to **sensory perception**, particularly vision.
+The analysis of this text has sent ripples through the history of philosophy, revealing:
 
-Empedocles held that objects continuously emit streams of fine particles, and that perception occurs when these particles pass through corresponding pores in the sense organs — a strikingly materialist account of how we come to know the world. The newly recovered verses give us Empedocles articulating this theory in his own words for the first time.
+Direct Sources: It likely served as the primary source for specific passages in Plutarch.
 
-The implications for the history of philosophy are considerable. Analysis of the text has revealed:
+Missing Links: It identifies conceptual parallels in Plato and Theophrastus (Aristotle's successor).
 
-- A probable **direct source** for a passage in Plutarch (2nd century CE)
-- Conceptual parallels with a dialogue by **Plato** and a text by **Theophrastus**, disciple of Aristotle (both 4th century BCE)
-- Previously unnoticed echoes in the comic poet **Aristophanes** and the Roman philosopher-poet **Lucretius**
-- Evidence that Empedocles may be considered a **forerunner of the atomists**, in particular Democritus of Abdera
+Literary Echoes: It highlights previously unnoticed influences on the playwright Aristophanes and the Roman poet Lucretius.
 
-The Edition
+Scientific Ancestry: It reinforces Empedocles’ role as a crucial forerunner to the atomists, such as Democritus.
 
-The *editio princeps* — the first critical edition, translation, and commentary — has been published as:
+The New Edition
 
-> Carlig, N., Martin, A., & Primavesi, O. (2025). *L'Empédocle du Caire (P.Fouad inv. 218). Introduction, texte, commentaire*. Papyrologica Bruxellensia, 44. Brussels: Association Égyptologique Reine Élisabeth.
+The *editio princeps* (the first critical edition and commentary) provides the full context of this "reunion":
 
-The volume is available via the University of Liège open repository at [hdl.handle.net/2268/329390](https://hdl.handle.net/2268/329390).
+Carlig, N., Martin, A., & Primavesi, O. (2025). *L'Empédocle du Caire (P.Fouad inv. 218). Introduction, texte, commentaire.* Papyrologica Bruxellensia, 44. Brussels.
+*Available via the University of Liège repository: hdl.handle.net/2268/329390*
 
-A Second Renaissance
+A "Second Renaissance"
 
-Carlig has invoked a phrase coined by the papyrologist Peter Parsons to describe what finds like this one represent: a *second Renaissance*. Just as humanist scholars of the 15th and 16th centuries scoured European monasteries and libraries to recover lost classical texts, modern papyrologists comb archives in Cairo, Oxford, and elsewhere, recovering voices long thought silent.
-
-P.Fouad inv. 218 and the Strasbourg papyrus, read together as the two surviving fragments of a single ancient scroll, are a vivid demonstration of what that recovery can look like — two pieces of one puzzle, separated for two millennia, finally reunited on the page.
+Carlig’s find embodies what papyrologists call a second Renaissance. Much like the 15th-century humanists who rediscovered lost classics in monastic libraries, modern scholars are now recovering silent voices from the sands of Egypt and the depths of digital archives. P.Fouad inv. 218 and the Strasbourg papyrus are two pieces of a single ancient puzzle—finally reunited on the modern page.
