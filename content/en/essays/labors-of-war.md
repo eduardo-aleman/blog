@@ -36,7 +36,7 @@ In his dialogue *Critias*, Plato alludes to a mythical era in which war was an i
 
 > "The labors of war were then common to women and to men…"
 
-In 335 BCE, just a few years after Plato's death, the labors of war would again be ordinary in the Hellenic world. They also seemed necessary, at least within the Macedonian court, to consolidate what they called *concord among the Greeks*, or Panhellenism.
+In 335 BCE, just a few years after Plato's death, the labors of war would again be ordinary in the Hellenic world. They also seemed necessary, at least within the Macedonian court, to consolidate what they called *concord among the Greeks*, or Panhellenism. Alexander solidifies his rule by destroying the rebellious city of Thebes and selling its population into slavery, a harsh action that deterred further Greek revolts and secured his power base. Concurrently, Aristotle returned to Athens to found his philosophical school, the Lyceum.
 
 At the close of the twentieth century, enthusiasts of globalization were celebrating the end of history — or at least of the history that made war an inevitable constant. With the fall of the Berlin Wall, the ideology of globalization — a kind of contemporary Panhellenism — reached its peak. Globalization was not merely an economic phenomenon: it symbolized a civilizational hope. The growth of commercial, financial, and cultural exchanges between nations projected the possibility of a pacified history. The incorporation of new states into financial systems and military blocs established by the United States and Europe was happening rapidly. It seemed that the old dream of concord was finally being realized.
 
