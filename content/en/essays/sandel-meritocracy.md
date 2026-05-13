@@ -1,19 +1,19 @@
 ---
 title: "Book Review: The Tyranny of Merit by Michael Sandel"
 date: 2026-03-18
-summary: "A review of Michael Sandel's critique of meritocracy and his argument that the \"rhetoric of rising\" has deepened social division and eroded the dignity of work."
+summary: 'A review of Michael Sandel''s critique of meritocracy and his argument that the "rhetoric of rising" has deepened social division and eroded the dignity of work.'
 categories:
-    - Microessays
-tags: 
-    - book review
-    - philosophy
-    - politics
-    - meritocracy
+  - Microessays
+tags:
+  - book review
+  - philosophy
+  - politics
+  - meritocracy
 ---
 
 Michael Sandel is not against success; he is against the story we tell about it.
 
-In *The Tyranny of Merit* (2020), the Harvard political philosopher argues that meritocracy—long celebrated as the fairest way to organize society—has curdled into a source of hubris for those at the top and humiliation for those left behind. The result, he contends, is not merely a wealth gap, but a profound moral and political crisis that helped fuel the populist upheavals of the last decade.
+In _The Tyranny of Merit_ (2020), the Harvard political philosopher argues that meritocracy—long celebrated as the fairest way to organize society—has curdled into a source of hubris for those at the top and humiliation for those left behind. The result, he contends, is not merely a wealth gap, but a profound moral and political crisis that helped fuel the populist upheavals of the last decade.
 
 **The Core Argument**
 
@@ -43,4 +43,4 @@ This is a powerful framework, but Sandel’s choice to foreground Honneth over M
 
 **Verdict**
 
-This choice comes at a cost. By sidestepping Marx, Sandel also bypasses the hard-edged economic analysis that might explain how to dismantle these structures. The result is a book that is more powerful as a cultural autopsy than as a guide to transformation. Nevertheless, *The Tyranny of Merit* is a vital intervention. It forces us to rethink not just how society distributes rewards, but what values should guide that distribution in the first place.
+This choice comes at a cost. By sidestepping Marx, Sandel also bypasses the hard-edged economic analysis that might explain how to dismantle these structures. The result is a book that is more powerful as a cultural autopsy than as a guide to transformation. Nevertheless, _The Tyranny of Merit_ is a vital intervention. It forces us to rethink not just how society distributes rewards, but what values should guide that distribution in the first place.

@@ -1,19 +1,20 @@
 ---
-title: Introducción de 'El último emperador pagano' de H. C. Teitler
-date: '2026-04-16'
+title: "Introducción de 'El último emperador pagano' de H. C. Teitler"
+date: 2026-04-16
 summary: "Primera entrega de la traducción completa de la obra de H.C. Teitler. Esta introducción plantea el conflicto central del libro: la reconstrucción de la verdadera figura de Juliano frente a la distorsión de las leyendas paganas y cristianas sobre su muerte y su política religiosa."
 categories:
-    - Editorial
+  - Editorial
 tags:
-    - paganismo
-    - roma
-    - imperio tardío
-    - cristianismo
-    - traducción
+  - paganismo
+  - roma
+  - imperio tardío
+  - cristianismo
+  - traducción
 image: /images/posts/juliano-teitler/Juliano_Solidus.jpg
 image_alt: "Sólido raro de oro acuñado en Roma entre los años 355 y 357 d. C., que representa a Juliano cuando este ostentaba aún el título de César."
 image_caption: "Sólido de oro acuñado en Roma hacia el año 356 d. C., durante el reinado de Flavio Juliano (Juliano el Apóstata). El anverso muestra un retrato imberbe del joven emperador mirando hacia la izquierda, con la inscripción 'DN·CL·IULIANUS NC' (Dominus Noster Claudius Iulianus Nobillissimus Caesar) dispuesta alrededor del borde. El reverso presenta un diseño más complejo y cargado de simbolismo, en el que se representan las figuras personificadas de Roma y Constantinopla de pie una junto a la otra, acompañadas por la inscripción 'FEL·TEMP·REPARATIO' (Feliz renovación de los tiempos). El sólido constituía la principal denominación de oro del Bajo Imperio Romano, reservada para transacciones de alto valor y como símbolo tangible de la autoridad y la ideología imperiales. Aunque Juliano se convertiría más tarde en el último emperador romano no cristiano, esta moneda —perteneciente a su etapa temprana como César— revela el mensaje propagandístico de la época: enfatizar la continuidad entre el pasado clásico de Roma y el presente del imperio cristiano, al tiempo que invoca la esperanza de un futuro próspero."
 ---
+
 <!--
 image: /images/posts/julian-teitler/Juliano_Solidus.jpg
 image_alt: "Gold solidus coin featuring the Roman Emperor Julian, also known as Julian the Apostate."

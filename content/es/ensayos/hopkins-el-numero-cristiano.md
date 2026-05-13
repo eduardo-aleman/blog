@@ -1,14 +1,14 @@
 ---
-title: El número cristiano y sus implicaciones (Keith Hopkins)
-date: '2024-07-04'
-summary: Un análisis estadístico que examina la población cristiana primitiva en el Imperio Romano, argumentando que fue pequeña hasta finales del siglo II, con crecimiento acelerado durante las persecuciones del siglo III y después de la conversión de Constantino en el IV.
+title: "El número cristiano y sus implicaciones (Keith Hopkins)"
+date: 2026-01-04
+summary: "Un análisis estadístico que examina la población cristiana primitiva en el Imperio Romano, argumentando que fue pequeña hasta finales del siglo II, con crecimiento acelerado durante las persecuciones del siglo III y después de la conversión de Constantino en el IV."
 categories:
-    - Editorial
+  - Editorial
 tags:
-    - cristianismo
-    - estadística
-    - ciencias sociales
-    - traducción
+  - cristianismo
+  - estadística
+  - ciencias sociales
+  - traducción
 ---
 
 **Introducción**
@@ -159,7 +159,6 @@ Complementariamente, la retórica de la sencillez y el llamamiento a los tontos 
 \* Publicado por primera vez en Journal of Early Christian Studies 6 (1998) 185–226 (= Hopkins 1998).
 
 \*\* 〈Tert. _Scap_. , ed. V. Bulhart, CSEL 76, Vienna, 1957; Origen, _C. Cels_. , ed. M. Marcovich, _Vigiliae Christianae_ supplement 54, Leiden, 2001. 〉
-
 
 [^1]: Stark (1996: 4-13) utiliza una táctica similar. Su libro me pareció sugerente, útil y provocativo. Mi deuda con su pensamiento impregna este artículo, aunque difiero de él en énfasis e interpretación.
 

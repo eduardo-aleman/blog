@@ -4,17 +4,17 @@ date: 2026-05-07
 summary: "Iris Murdoch tenía una perspectiva singular sobre las metáforas, que exploró con frecuencia en sus escritos filosóficos."
 categories:
   - Microessays
-tags: 
-    - filosofía
-    - ética
-    - metáfora
-    - filosofía moral
-    - traducción
+tags:
+  - filosofía
+  - ética
+  - metáfora
+  - filosofía moral
+  - traducción
 translationKey: murdoch-metaphor
 image: /images/posts/murdoch-soberania-del-bien/iris_murdoch.webp
 ---
 
-Iris Murdoch tenía una perspectiva singular sobre las metáforas, que exploró con frecuencia en sus escritos filosóficos. En *La metafísica como guía para la moral*, profundiza en el papel del pensamiento metafórico en la configuración de nuestra comprensión de la realidad y de nuestra vida moral.
+Iris Murdoch tenía una perspectiva singular sobre las metáforas, que exploró con frecuencia en sus escritos filosóficos. En _La metafísica como guía para la moral_, profundiza en el papel del pensamiento metafórico en la configuración de nuestra comprensión de la realidad y de nuestra vida moral.
 
 Murdoch sostenía que las metáforas no son meros recursos lingüísticos, sino instrumentos esenciales con los que percibimos y damos sentido al mundo. Lejos de ser decorativas u ornamentales, pueden moldear profundamente nuestro pensamiento e influir en la manera en que nos relacionamos con la realidad.
 
@@ -42,4 +42,4 @@ Finalmente:
 
 ---
 
-*Los fragmentos citados corresponden a la traducción al español (mía) de* La soberanía del bien *(Routledge, 1970).*
+_Los fragmentos citados corresponden a la traducción al español (mía) de_ La soberanía del bien _(Routledge, 1970)._

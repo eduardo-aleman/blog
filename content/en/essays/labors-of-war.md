@@ -1,6 +1,6 @@
 ---
 title: "From Alexander to Ukraine: the labors of war and the illusion of concord"
-date: 2025-04-11
+date: 2026-03-11
 summary: "A critical reflection on war from Alexander the Great to the twenty-first century, through history, myth, and contemporary geopolitics."
 categories:
   - Microessays
@@ -22,9 +22,9 @@ Brian Bosworth, in his brilliant essay comparing Alexander to Hernán Cortés, r
 >
 > Few commanders have been more expert than Alexander at creating the conditions for wholesale massacre, and his troops developed a terrible efficiency in killing. The conquest came at a high price in blood and agony. It may be that vast areas of the west fell into his hands without serious resistance, but from the great Sogdian revolt in the summer of 329 to his invasion of Makran in October 325 there was almost continuous fighting, tens of cities destroyed, and entire populations, civilian and military alike, massacred."
 
-Others, however, argue that we should not be hasty in judging Alexander; to do so would be anachronistic. After all, wars of conquest were as common as they were *necessary* in his time. Without his campaigns, cities like Alexandria — with its great library and Neoplatonic school — would never have been founded. The routes of cultural and economic exchange between East and West could not have been established. With the entry of Aristotle's pupil and his fearsome legions into the Balkans, Egypt, Syria, Babylon, and India, history was simply *progressing* in its drive to integrate the human species.
+Others, however, argue that we should not be hasty in judging Alexander; to do so would be anachronistic. After all, wars of conquest were as common as they were _necessary_ in his time. Without his campaigns, cities like Alexandria — with its great library and Neoplatonic school — would never have been founded. The routes of cultural and economic exchange between East and West could not have been established. With the entry of Aristotle's pupil and his fearsome legions into the Balkans, Egypt, Syria, Babylon, and India, history was simply _progressing_ in its drive to integrate the human species.
 
-In his dialogue *Critias*, Plato alludes to a mythical era in which war was an inherent part of human life:
+In his dialogue _Critias_, Plato alludes to a mythical era in which war was an inherent part of human life:
 
 > "The labors of war were then common to women and to men…"
 
@@ -32,12 +32,12 @@ By 335 BCE, shortly after Plato’s passing, war had returned to the heart of Gr
 
 At the close of the twentieth century, enthusiasts of globalization celebrated the "end of history"—or at least the end of history as a cycle of inevitable slaughter. With the fall of the Berlin Wall, the ideology of globalization—a sort of contemporary Panhellenism—reached its zenith. It was never merely an economic phenomenon; it was a civilizational hope. The expansion of commercial, financial, and cultural exchanges projected the image of a pacified future. As new states were rapidly integrated into Western financial systems and military blocs, the ancient dream of universal concord seemed finally within reach.
 
-Yet, just as Plato’s dismissal of the *labors of war* proved premature, the peace of the globalists was fleeting. Twenty-first-century globalization, much like its fourth-century BCE predecessor, could not outrun violence. Less than a decade after history’s supposed conclusion, the nightmare of inevitable war re-emerged—ironically in the very territories where Alexander’s phalanxes once marched: Afghanistan, Iraq, Libya, and Syria. Persepolis was burning again. While some argue these were not wars of conquest, that claim falters when confronted with the hundreds of thousands of civilians killed in Iraq under the banner of resource security.
+Yet, just as Plato’s dismissal of the _labors of war_ proved premature, the peace of the globalists was fleeting. Twenty-first-century globalization, much like its fourth-century BCE predecessor, could not outrun violence. Less than a decade after history’s supposed conclusion, the nightmare of inevitable war re-emerged—ironically in the very territories where Alexander’s phalanxes once marched: Afghanistan, Iraq, Libya, and Syria. Persepolis was burning again. While some argue these were not wars of conquest, that claim falters when confronted with the hundreds of thousands of civilians killed in Iraq under the banner of resource security.
 
-Today, the theater is Ukraine. The Russian invasion—sanitized by the Kremlin as a *special military operation*—acts as a violent negation of the post-1945 order. While Ukrainians defend a model of European integration, Moscow invokes an anti-globalist narrative rooted in a mythologized past. Vladimir Putin’s assertions of a primordial *historical unity* between Russians and Ukrainians serve as a chilling example of this revisionist vision.
+Today, the theater is Ukraine. The Russian invasion—sanitized by the Kremlin as a _special military operation_—acts as a violent negation of the post-1945 order. While Ukrainians defend a model of European integration, Moscow invokes an anti-globalist narrative rooted in a mythologized past. Vladimir Putin’s assertions of a primordial _historical unity_ between Russians and Ukrainians serve as a chilling example of this revisionist vision.
 
 The integrative narrative that once linked Alexander to concord, or globalization to peace, has vanished. In its place, violence has resurfaced as the primary engine of history. If the twenty-first century ultimately yields a nuclear confrontation between powers, it will indeed be the end of history—not as a triumph of ideals, but as a finality of existence.
 
 **References**
 
-Bosworth, B. (2000). *A Tale of Two Empires: Hernan Cortes and Alexander the Great*. In A. B. Bosworth & E. J. Baynham (Eds.), *Alexander the Great in Fact and Fiction* (Vol. 1, pp. 23–49). Oxford University Press.
+Bosworth, B. (2000). _A Tale of Two Empires: Hernan Cortes and Alexander the Great_. In A. B. Bosworth & E. J. Baynham (Eds.), _Alexander the Great in Fact and Fiction_ (Vol. 1, pp. 23–49). Oxford University Press.

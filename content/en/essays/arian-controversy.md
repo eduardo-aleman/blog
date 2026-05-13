@@ -33,17 +33,17 @@ This logic protected the absolute oneness of God (monotheism) from appearing to 
 
 **Theological Tradition: The Orthodox Counter-Argument**
 
-The orthodox party did not necessarily argue that Arius's logic was "bad"; they argued it was *insufficient*. Their concern was not formal logic, but **Soteriology** (the study of salvation). 
+The orthodox party did not necessarily argue that Arius's logic was "bad"; they argued it was _insufficient_. Their concern was not formal logic, but **Soteriology** (the study of salvation).
 
-If Jesus were a created being—even the most perfect one—he could not bridge the gap between a holy God and humanity. The Council of Nicaea (325 CE) eventually adopted the term *homoousios* (of the same substance) to describe the relationship. 
+If Jesus were a created being—even the most perfect one—he could not bridge the gap between a holy God and humanity. The Council of Nicaea (325 CE) eventually adopted the term _homoousios_ (of the same substance) to describe the relationship.
 
 **Linguistic Nuance: The Battle of Terms**
 
-The entire debate often hinged on the Greek word *monogenes*. While Arius translated this as "only begotten" (implying a point of origin), the orthodox party argued it meant "unique" or "one-of-a-kind." This linguistic ambiguity allowed both sides to use the same scriptures to reach opposite conclusions.
+The entire debate often hinged on the Greek word _monogenes_. While Arius translated this as "only begotten" (implying a point of origin), the orthodox party argued it meant "unique" or "one-of-a-kind." This linguistic ambiguity allowed both sides to use the same scriptures to reach opposite conclusions.
 
 **Conclusion**
 
-Was Arius wrong? 
+Was Arius wrong?
 
 - **By Logic:** No. His reasoning was consistent with human observation.
 - **By Theology:** Yes, according to the institutional Church. His view was seen as undermining the divine power required for human salvation.
