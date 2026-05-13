@@ -2,8 +2,6 @@
 title: "The Arian Controversy: Logic, Tradition, and the Nature of the Divine"
 date: 2026-05-02
 summary: "An exploration of the intellectual battle between Arius and Athanasius of Alexandria, examining whether Arius was truly 'wrong' by the standards of logic and theology."
-categories:
-  - Microessays
 tags:
   - history
   - theology

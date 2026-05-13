@@ -2,8 +2,6 @@
 title: "Two Pieces of the Same Scroll: The Cairo Papyrus and the Strasbourg Empedocles"
 date: 2026-04-11
 summary: "Nathan Carlig's identification of P.Fouad inv. 218 as a fragment of Empedocles' Physica reveals that the Cairo and Strasbourg papyri are two surviving pieces of a single ancient scroll — the only known manuscript copy of this lost philosophical poem."
-categories:
-  - Microessays
 tags:
   - papyrology
   - ancient philosophy

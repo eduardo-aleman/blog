@@ -2,8 +2,6 @@
 title: "Iris Murdoch on Metaphor: The Sovereignty of the Good"
 date: 2026-05-07
 summary: "Murdoch argues that morality is not about following rules, but about a disciplined, imaginative way of seeing reality that requires us to pierce the 'cloud' of our own selfishness to truly encounter the 'Good'."
-categories:
-  - Microessays
 tags:
   - philosophy
   - ethics
