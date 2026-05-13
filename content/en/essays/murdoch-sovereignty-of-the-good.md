@@ -9,7 +9,6 @@ tags:
   - ethics
   - metaphor
   - virtue ethics
-translationKey: murdoch-metaphor
 image: /images/posts/murdoch-soberania-del-bien/iris_murdoch.webp
 ---
 

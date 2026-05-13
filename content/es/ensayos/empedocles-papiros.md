@@ -16,11 +16,11 @@ image_caption: "Papiros fragmentarios de la Physika de Empédocles (siglo V a.C.
 
 **Un papiro largamente ignorado**
 
-Guardado sin ser reconocido en los archivos del Instituto Francés de Arqueología Oriental (IFAO) de El Cairo, un fragmento de papiro de aproximadamente dos mil años de antigüedad esperaba al lector capaz de descifrar su verdadera naturaleza. Ese lector resultó ser **Nathan Carlig**, papiólogo de la Universidad de Lieja, quien identificó el documento — catalogado como **P.Fouad inv. 218** — como portador de treinta versos hasta entonces desconocidos de la _Physica_, el gran poema filosófico del pensador presocrático **Empédocles de Agrigento** (siglo V a. C.).
+Guardado sin ser reconocido en los archivos del Instituto Francés de Arqueología Oriental (IFAO) de El Cairo, un fragmento de papiro de aproximadamente dos mil años de antigüedad esperaba al lector capaz de descifrar su verdadera naturaleza. Ese lector resultó ser Nathan Carlig, papiólogo de la Universidad de Lieja, quien identificó el documento — catalogado como P.Fouad inv. 218 — como portador de treinta versos hasta entonces desconocidos de la _Physica_, el gran poema filosófico del pensador presocrático Empédocles de Agrigento (siglo V a. C.).
 
 El descubrimiento es significativo por sí mismo. Hasta ahora, todo lo que sabíamos sobre Empédocles nos llegaba a través de canales indirectos: citas intercaladas en Platón, paráfrasis en Aristóteles, alusiones en Plutarco. Estas fuentes son inestimables, pero inevitablemente filtran y reconfiguran lo que transmiten. P.Fouad inv. 218 ofrece algo distinto: acceso directo a las propias palabras de Empédocles, sin la mediación de intérpretes posteriores.
 
-Pero la importancia del fragmento se profundiza considerablemente una vez que se comprende su relación con otro papiro ya bien conocido por los especialistas: el llamado **Empédocles de Estrasburgo**.
+Pero la importancia del fragmento se profundiza considerablemente una vez que se comprende su relación con otro papiro ya bien conocido por los especialistas: el llamado Empédocles de Estrasburgo.
 
 **El papiro de Estrasburgo: un hito de 1999**
 

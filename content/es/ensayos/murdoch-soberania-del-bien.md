@@ -10,7 +10,6 @@ tags:
   - metáfora
   - filosofía moral
   - traducción
-translationKey: murdoch-metaphor
 image: /images/posts/murdoch-soberania-del-bien/iris_murdoch.webp
 ---
 
