@@ -12,10 +12,9 @@ categories:
   - Ancient World
 description: "A newly identified papyrus fragment in Cairo turns out to be part of the same ancient scroll as the famous Strasbourg Empedocles — together, they give us the only surviving manuscript of the Physica."
 summary: "Nathan Carlig's identification of P.Fouad inv. 218 as a fragment of Empedocles' Physica reveals that the Cairo and Strasbourg papyri are two surviving pieces of a single ancient scroll — the only known manuscript copy of this lost philosophical poem."
-cover:
-  image: "/images/posts/empedocles-papyri/Empedocles_Physika_Papyri.jpg"
-  image_caption: "Fragmentary papyri of Empedocles' Physika (5th century BCE), among the oldest textual witnesses to Presocratic philosophy. Left: P. Strasb. gr. Inv. 1665-1666; Right: P. Fouad inv. 218. These papyri, recovered from Egyptian archaeological contexts, preserve portions of Empedocles' cosmological poem on the four roots (elements) and the cosmic forces of Love and Strife."
-  relative: false
+image: "/images/posts/empedocles-papyri/Empedocles_Physika_Papyri.jpg"
+image_caption: "Fragmentary papyri of Empedocles' Physika (5th century BCE), among the oldest textual witnesses to Presocratic philosophy. Left: P. Strasb. gr. Inv. 1665-1666; Right: P. Fouad inv. 218. These papyri, recovered from Egyptian archaeological contexts, preserve portions of Empedocles' cosmological poem on the four roots (elements) and the cosmic forces of Love and Strife."
+relative: false
 ---
 
 **A Papyrus Long Overlooked: The Reunited Voice of Empedocles**
