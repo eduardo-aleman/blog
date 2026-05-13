@@ -1,5 +1,5 @@
 ---
-title: "From Alexander to Ukraine"
+title: "From Alexander to Ukraine: the labors of war and the illusion of concord"
 date: 2026-03-11
 summary: "A critical reflection on war from Alexander the Great to the twenty-first century, through history, myth, and contemporary geopolitics."
 tags:
