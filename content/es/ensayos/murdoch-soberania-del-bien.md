@@ -11,6 +11,7 @@ tags:
     - filosofía moral
     - traducción
 translationKey: murdoch-metaphor
+image: /images/posts/murdoch-soberania-del-bien/iris_murdoch.webp
 ---
 
 Iris Murdoch tenía una perspectiva singular sobre las metáforas, que exploró con frecuencia en sus escritos filosóficos. En *La metafísica como guía para la moral*, profundiza en el papel del pensamiento metafórico en la configuración de nuestra comprensión de la realidad y de nuestra vida moral.
