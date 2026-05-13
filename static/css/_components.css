@@ -474,10 +474,8 @@
 .essay-grid-item__title a {
   color: var(--text);
   text-decoration: none;
-}
-
-.essay-grid-item__title a {
-  justify-content: flex-start;
+  justify-content: flex-start !important;
+  align-items: flex-start !important;
 }
 
 .essay-grid-item__title a:hover {
