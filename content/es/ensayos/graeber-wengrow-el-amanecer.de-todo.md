@@ -22,7 +22,7 @@ La prehistoria comenzó hace unos 200,000 años, pero los autores David Graeber 
 
 > _La pregunta clave:_ > Si durante la mayor parte de su historia la humanidad experimentó con distintas formas de organización social, ¿por qué la inmensa mayoría vivimos hoy bajo una forma tan específica —y a menudo opresiva— como el Estado moderno?
 
-Capítulo 1: El adiós al "Estado de Naturaleza"
+**Capítulo 1: El adiós al "Estado de Naturaleza"**
 
 - _Mitos políticos:_ Se exploran las ideas de Hobbes (el humano violento) y Rousseau (el humano noble corrompido). Para los autores, ambas visiones son mitos que justifican el derrotismo y el _statu quo_.
 - _La Crítica Indígena:_ Se documenta cómo los líderes americanos del siglo XVII influyeron en la Ilustración.
@@ -32,19 +32,19 @@ Capítulo 1: El adiós al "Estado de Naturaleza"
 
 > “¿Qué pasaría si, en lugar de contar una historia sobre cómo nuestra especie se cayó de algún estado idílico de igualdad, nos preguntamos cómo llegamos a quedar atrapados en grilletes conceptuales tan estrechos que ya no podemos ni siquiera imaginar la posibilidad de reinventarnos?”
 
-Capítulo 2: Libertad e Ilustración
+**Capítulo 2: Libertad e Ilustración**
 
 - _Conversación Global:_ La Ilustración no fue un logro puramente europeo; nació del debate con otras culturas que poseían concepciones de autonomía mucho más radicales.
 - _Igualdad vs. Libertad:_ Los indígenas norteamericanos no luchaban por la "igualdad" (un concepto contable/legal europeo), sino por la _autonomía individual_: que nadie pudiera forzar a otro a hacer algo contra su voluntad.
 - _El mito del "Salvaje Estúpido":_ Se critica cómo la historia oficial ha tratado a las sociedades antiguas como si estuvieran en una "infancia" intelectual, cuando en realidad eran políticamente sofisticadas.
 
-Capítulo 3: Flexibilidad política y variabilidad estacional
+**Capítulo 3: Flexibilidad política y variabilidad estacional**
 
 - _Sociedades cambiantes:_ Se presenta evidencia de pueblos que eran jerárquicos en una estación (para cazar o realizar rituales) y radicalmente igualitarios en otra.
 - _Conciencia política:_ Esto demuestra que los humanos no eran prisioneros de sus estructuras sociales; eran capaces de cambiar de sistema político por voluntad propia.
 - _Monumentalismo sin Estado:_ Hallazgos como _Göbekli Tepe_ demuestran que se pueden realizar grandes obras de ingeniería sin necesidad de una autoridad centralizada o agricultura a gran escala.
 
-Capítulo 4: Las tres libertades fundamentales
+**Capítulo 4: Las tres libertades fundamentales**
 
 Los autores proponen que la historia humana se basa en la pérdida de tres libertades básicas que casi todos los pueblos antiguos poseían:
 

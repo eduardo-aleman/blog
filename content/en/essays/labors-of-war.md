@@ -46,6 +46,6 @@ Today, the theater is Ukraine. The Russian invasion—sanitized by the Kremlin a
 
 The integrative narrative that once linked Alexander to concord, or globalization to peace, has vanished. In its place, violence has resurfaced as the primary engine of history. If the twenty-first century ultimately yields a nuclear confrontation between powers, it will indeed be the end of history—not as a triumph of ideals, but as a finality of existence.
 
-References
+**References**
 
 Bosworth, B. (2000). *A Tale of Two Empires: Hernan Cortes and Alexander the Great*. In A. B. Bosworth & E. J. Baynham (Eds.), *Alexander the Great in Fact and Fiction* (Vol. 1, pp. 23–49). Oxford University Press.
