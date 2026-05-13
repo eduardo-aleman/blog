@@ -1,21 +1,17 @@
 ---
 title: "Dos fragmentos del mismo rollo: el papiro de El Cairo y el Empédocles de Estrasburgo"
 date: 2026-04-11
-draft: false
+summary: "Un fragmento de papiro identificado recientemente en El Cairo resulta ser parte del mismo rollo antiguo que el famoso Empédocles de Estrasburgo."
+categories:
+  - Microessays
 tags:
   - papirología
   - filosofía antigua
   - empédocles
   - estudios clásicos
   - arqueología
-categories:
-  - Mundo Antiguo
-summary: "Un fragmento de papiro identificado recientemente en El Cairo resulta ser parte del mismo rollo antiguo que el famoso Empédocles de Estrasburgo."
 image: "/images/posts/empedocles-papiros/Empedocles_Physika_Papyri_es.jpg"
 image_caption: "Papiros fragmentarios de la Physika de Empédocles (siglo V a.C.), entre los testimonios textuales más antiguos de la filosofía presocrática. Izquierda: P. Strasb. gr. Inv. 1665-1666; Derecha: P. Fouad inv. 218. Estos papiros, recuperados de contextos arqueológicos egipcios, preservan porciones del poema cosmológico de Empédocles sobre las cuatro raíces (elementos) y las fuerzas cósmicas del Amor y la Discordia."
-relative: false
-showToc: true
-TocOpen: false
 ---
 
 **Un papiro largamente ignorado**

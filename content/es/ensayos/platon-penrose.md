@@ -1,19 +1,16 @@
 ---
 title: 'De Platón a Penrose: una historia intelectual del alma y la consciencia'
 date: 2025-03-15
-categories:
-- Filosofía
-- Artículo
-draft: false
 summary: "Desde Platón hasta Penrose, la historia del alma y de la consciencia ha oscilado entre la trascendencia metafísica y la inmanencia funcional, entre el conocimiento del Bien y la información integrada, entre la inmortalidad espiritual y los colapsos cuánticos."
+categories:
+  - Microensayo
 tags:
-- Filosofía
-- Penrose
-- Platonismo
-- Conciencia
-- Computación
-- Mecánica cuántica
-- Neurofisiología
+- filosofía
+- platonismo
+- conciencia
+- computación
+- mecánica cuántica
+- neurofisiología
 ---
 La historia de la filosofía es, en buena medida, una meditación continua sobre la pregunta más radical que puede hacerse el ser humano: ¿quién soy yo? Desde las primeras concepciones del alma en la Grecia clásica hasta las modernas teorías de la consciencia en la ciencia cognitiva y la física cuántica, esta cuestión ha adquirido formas conceptuales cada vez más sofisticadas, pero nunca ha dejado de interrogar el misterio de la subjetividad. Este ensayo propone una travesía intelectual que parte de la *psychē* platónica, pasa por la forma sustancial de Aristóteles y el alma teológica de Tomás de Aquino, hasta llegar a las teorías contemporáneas de la consciencia, representadas de manera paradigmática por Roger Penrose.
 

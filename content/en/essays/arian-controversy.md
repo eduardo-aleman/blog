@@ -1,24 +1,16 @@
 ---
 title: "The Arian Controversy: Logic, Tradition, and the Nature of the Divine"
 date: 2026-05-02
-draft: false
-author: "Eduardo Alemán"
 summary: "An exploration of the intellectual battle between Arius and Athanasius of Alexandria, examining whether Arius was truly 'wrong' by the standards of logic and theology."
+categories:
+  - Microessays
 tags:
   - history
   - theology
   - philosophy
   - Council of Nicaea
   - Arianism
-categories:
-  - Microessays
-ShowToc: true
-TocOpen: false
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
 translationKey: "arianism"
-canonicalURL: ""
 image: "/images/posts/arian-controversy/Ravenna_Arian_Baptistry.jpg"
 image_caption: "Mosaic ceiling of the Arian Baptistery in Ravenna, Italy, dating back to the late 5th or early 6th century. It depicts the baptism of Christ by John the Baptist in the Jordan River, with a personification of the river represented by an elderly man holding a reed. Surrounding the baptism scene are the twelve Apostles, stylized with white robes and palm leaves, separated by lush palm trees. The baptistery was constructed by the Ostrogothic King Theodoric the Great for the Arian Christian community in Ravenna. Today, it is registered as a UNESCO World Heritage site, showcasing rare examples of Arian Christian art."
 ---
