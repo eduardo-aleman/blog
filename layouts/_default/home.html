@@ -8,10 +8,14 @@
     {{ $editorial := where $pages "Params.category" "editorial" }}
     {{ $microessays := where $pages "Params.category" "!=" "editorial" }}
     
+    <!-- Cache sorted results to use consistently across columns -->
+    {{ $sortedMicro := sort $microessays "Date" "desc" }}
+    {{ $sortedEditorial := sort $editorial "Date" "desc" }}
+    
     <section class="essays-grid-section">
       <div class="essays-grid">
         <!-- Left column: first 3 microessays -->
-        {{ range first 3 (sort $microessays "Date" "desc") }}
+        {{ range first 3 $sortedMicro }}
           <article class="essay-grid-item">
             {{ with .Params.image }}
               <div class="essay-grid-item__image-wrapper">
@@ -46,7 +50,7 @@
         {{ end }}
         
         <!-- Middle column: editorial essays (wider) -->
-        {{ range first 3 (sort $editorial "Date" "desc") }}
+        {{ range first 3 $sortedEditorial }}
           <article class="essay-grid-item essay-grid-item--wide">
             {{ with .Params.image }}
               <div class="essay-grid-item__image-wrapper">
@@ -81,7 +85,7 @@
         {{ end }}
         
         <!-- Right column: remaining microessays -->
-        {{ range first 3 (after 3 (sort $microessays "Date" "desc")) }}
+        {{ range first 3 (after 3 $sortedMicro) }}
           <article class="essay-grid-item">
             {{ with .Params.image }}
               <div class="essay-grid-item__image-wrapper">

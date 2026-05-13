@@ -7,11 +7,11 @@
 
     <!-- Navigation Actions (right side) -->
     <div class="nav-actions">
-      <!-- Navigation Link -->
-      {{ $navPath := cond (eq .Lang "es") "navegacion" "navigation" }}
-      {{ $navLabel := cond (eq .Lang "es") "Navegación" "Navigation" }}
-      <a href="{{ .Site.BaseURL }}{{ .Lang }}/{{ $navPath }}/" class="header-nav-link">
-        {{ $navLabel }}
+      <!-- Archive Link -->
+      {{ $archivePath := cond (eq .Lang "es") "archivo" "archive" }}
+      {{ $archiveLabel := cond (eq .Lang "es") "Archivo" "Archive" }}
+      <a href="{{ .Site.BaseURL }}{{ .Lang }}/{{ $archivePath }}/" class="header-nav-link">
+        {{ $archiveLabel }}
       </a>
       
       <!-- Language Switcher (en/es only) -->
