@@ -6,6 +6,7 @@ categories:
   - Microessays
 tags:
   - war
+  - globalization
 translationKey: alexander-ukraine-war
 ---
 

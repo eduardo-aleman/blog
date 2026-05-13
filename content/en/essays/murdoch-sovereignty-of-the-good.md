@@ -7,9 +7,8 @@ categories:
 tags: 
     - philosophy
     - ethics
-    - iris-murdoch
     - metaphor
-    - moral-philosophy
+    - virtue ethics
 translationKey: murdoch-metaphor
 ---
 

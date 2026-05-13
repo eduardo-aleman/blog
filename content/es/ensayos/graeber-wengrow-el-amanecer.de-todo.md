@@ -5,12 +5,10 @@ summary: "Notas y reflecciones capítulo por capítulo del libro de David Graebe
 categories:
   - Editorial
 tags:
-  - David Graeber
-  - David Wengrow
-  - Prehistoria
-  - Anarquismo
-  - Antropología
-  - Arqueología
+  - prehistoria
+  - anarquismo
+  - antropología
+  - arqueología
 ---
 
 La idea central de _El amanecer de todo_ es que la especie humana ha estado experimentando con diversas formas de organización social desde sus orígenes. El _Homo sapiens_, tal como afirmó Aristóteles, es un _animal político_. A lo largo de los siglos, el ser humano ha debido escoger, negociar e imaginar distintas formas de convivencia, lo que ha definido su _ethos_.

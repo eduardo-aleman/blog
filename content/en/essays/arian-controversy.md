@@ -8,8 +8,8 @@ tags:
   - history
   - theology
   - philosophy
-  - Council of Nicaea
-  - Arianism
+  - council of nicaea
+  - arianism
 translationKey: "arianism"
 image: "/images/posts/arian-controversy/Ravenna_Arian_Baptistry.jpg"
 image_caption: "Mosaic ceiling of the Arian Baptistery in Ravenna, Italy, dating back to the late 5th or early 6th century. It depicts the baptism of Christ by John the Baptist in the Jordan River, with a personification of the river represented by an elderly man holding a reed. Surrounding the baptism scene are the twelve Apostles, stylized with white robes and palm leaves, separated by lush palm trees. The baptistery was constructed by the Ostrogothic King Theodoric the Great for the Arian Christian community in Ravenna. Today, it is registered as a UNESCO World Heritage site, showcasing rare examples of Arian Christian art."
