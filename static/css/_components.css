@@ -474,8 +474,9 @@
 .essay-grid-item__title a {
   color: var(--text);
   text-decoration: none;
+  display: flex !important;
   justify-content: flex-start !important;
-  align-items: flex-start !important;
+  width: 100% !important;
 }
 
 .essay-grid-item__title a:hover {
