@@ -476,6 +476,10 @@
   text-decoration: none;
 }
 
+.essay-grid-item__title a {
+  justify-content: flex-start;
+}
+
 .essay-grid-item__title a:hover {
   color: var(--accent);
 }
