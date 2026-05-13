@@ -552,6 +552,12 @@
   margin: 0 auto;
 }
 
+.article-hero__content {
+  text-align: left;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
 .article-image {
   padding: 0;
   max-width: 800px;
