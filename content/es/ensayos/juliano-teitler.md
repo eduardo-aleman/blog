@@ -3,6 +3,7 @@ title: Introducción de 'El último emperador pagano' de H. C. Teitler
 date: '2026-04-16'
 categories:
 - Traducciones
+- Editorial
 draft: false
 type: posts
 tags:

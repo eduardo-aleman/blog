@@ -5,6 +5,7 @@ categories:
   - Historia
   - Resumen
   - Notas
+  - Editorial
 draft: false
 tags:
   - David Graeber

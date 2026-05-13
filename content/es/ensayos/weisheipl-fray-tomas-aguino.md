@@ -4,6 +4,7 @@ date: '2024-07-28'
 categories:
 - Filosofía
 - Traducción
+- Editorial
 draft: false
 type: posts
 tags:
