@@ -95,14 +95,24 @@ small {
 
 /* ====== TOUCH TARGET SIZE ====== */
 
-/* Ensure minimum 44px touch target */
-a,
+/* Ensure minimum 44px touch target for LINKS (without centering) */
+a {
+  min-height: 44px;
+  min-width: 44px;
+  display: inline-flex;
+  align-items: center;
+  /* NOTE: justify-content removed to preserve text flow for title links
+     Links should flow naturally with text direction, not be centered */
+}
+
+/* Ensure minimum 44px touch target for BUTTONS (with centering) */
 button {
   min-height: 44px;
   min-width: 44px;
   display: inline-flex;
   align-items: center;
   justify-content: center;
+  /* Buttons center their content, which is appropriate */
 }
 
 .nav-menu a {
