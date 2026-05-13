@@ -3,7 +3,11 @@
   <!-- Hero Section -->
   <header class="article-hero">
     <div class="article-hero__content">
-      <h1 class="article-title">{{ .Title }}</h1>
+      <h1 class="article-title">
+        <!-- Wrap title in link (like list.html does) for consistency -->
+        <!-- aria-current="page" indicates this link points to the current page -->
+        <a href="{{ .Permalink }}" aria-current="page">{{ .Title }}</a>
+      </h1>
       
       <div class="article-meta">
         <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">

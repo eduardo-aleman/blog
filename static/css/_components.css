@@ -532,6 +532,21 @@
   margin: 0 0 var(--space-sm) 0;
   line-height: 1.2;
   max-width: 800px;
+  text-align: left;  /* Guarantee left alignment */
+}
+
+/* Ensure article title links are always left-aligned */
+.article-title a {
+  color: inherit;
+  text-decoration: none;
+  display: block;  /* Block ensures full-width clickable area */
+  text-align: left !important;
+  justify-content: flex-start !important;
+  width: 100% !important;
+}
+
+.article-title a:hover {
+  color: var(--accent);
 }
 
 .article-meta {
