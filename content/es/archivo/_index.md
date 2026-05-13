@@ -1,5 +1,5 @@
 ---
 title: "Archivo"
 permalink: "/es/archivo/"
-layout: "single"
+layout: "archive"
 ---

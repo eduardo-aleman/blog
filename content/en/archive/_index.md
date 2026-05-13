@@ -1,7 +1,5 @@
 ---
 title: "Archive"
-type: "archive"
+permalink: "/en/archive/"
 layout: "archive"
-outputs:
-  - html
 ---
