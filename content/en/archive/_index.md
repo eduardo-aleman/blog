@@ -1,7 +1,6 @@
 ---
 title: "Archive"
-type: "archive"
-layout: "archive"
+layout: "single"
 outputs:
   - html
 ---
