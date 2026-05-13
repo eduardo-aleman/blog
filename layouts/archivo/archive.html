@@ -1,0 +1,19 @@
+{{ define "main" }}
+<article class="page-grid">
+  <div class="navigation-container">
+    {{ $allPages := .Site.RegularPages }}
+    {{ $pages := where $allPages "Kind" "page" }}
+    
+    {{ if gt (len $pages) 0 }}
+      <div class="navigation-list">
+        {{ range sort $pages "Date" "desc" }}
+          <div class="navigation-item">
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+            <span class="navigation-date">{{ .Date.Format "January 2, 2006" }}</span>
+          </div>
+        {{ end }}
+      </div>
+    {{ end }}
+  </div>
+</article>
+{{ end }}
