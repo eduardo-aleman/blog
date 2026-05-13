@@ -12,9 +12,12 @@ tags:
 - Imperio tardío
 - Cristianismo
 summary: "Primera entrega de la traducción completa de la obra de H.C. Teitler. Esta introducción plantea el conflicto central del libro: la reconstrucción de la verdadera figura de Juliano frente a la distorsión de las leyendas paganas y cristianas sobre su muerte y su política religiosa."
+image: /images/posts/julian-teitler/Juliano_Solidus.jpg
+image_alt: "Gold solidus coin featuring the Roman Emperor Julian, also known as Julian the Apostate."
+image_caption: "Gold solidus coin featuring the Roman Emperor Julian, also known as Julian the Apostate. Julian was the last non-Christian ruler of the Roman Empire, reigning from 361 to 363 AD. The coin features a pearl-diademed, draped, and cuirassed bust of Julian facing right. The inscription reads 'FL CL IVLIANVS P F AVG,' standing for Flavius Claudius Julianus Pius Felix Augustus. This specific coin was likely minted in Antioch (modern-day Antakya, Turkey)."
 ---
 <!--
-image: /images/posts/julian-teitler/Juliano_Solido_Bizantino.png
+image: /images/posts/julian-teitler/Juliano_Solidus.jpg
 image_alt: "Gold solidus coin featuring the Roman Emperor Julian, also known as Julian the Apostate."
 image_caption: "Gold solidus coin featuring the Roman Emperor Julian, also known as Julian the Apostate. Julian was the last non-Christian ruler of the Roman Empire, reigning from 361 to 363 AD. The coin features a pearl-diademed, draped, and cuirassed bust of Julian facing right. The inscription reads 'FL CL IVLIANVS P F AVG,' standing for Flavius Claudius Julianus Pius Felix Augustus. This specific coin was likely minted in Antioch (modern-day Antakya, Turkey)."
 -->
