@@ -1,6 +1,6 @@
 ---
 title: "Iris Murdoch on Metaphor: The Sovereignty of the Good"
-date: 2026-03-07
+date: 2026-05-07
 summary: "Murdoch argues that morality is not about following rules, but about a disciplined, imaginative way of seeing reality that requires us to pierce the 'cloud' of our own selfishness to truly encounter the 'Good'."
 categories:
     - Microessays
@@ -10,6 +10,7 @@ tags:
     - metaphor
     - virtue ethics
 translationKey: murdoch-metaphor
+image: /images/posts/murdoch-soberania-del-bien/iris_murdoch.webp
 ---
 
 Iris Murdoch held a singular, transformative perspective on metaphor. In her seminal work, *Metaphysics as a Guide to Morals*, she explores how metaphorical thinking does not merely describe our reality—it fundamentally constructs our moral lives.

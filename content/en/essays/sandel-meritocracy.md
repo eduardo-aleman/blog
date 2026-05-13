@@ -1,6 +1,6 @@
 ---
 title: "Book Review: The Tyranny of Merit by Michael Sandel"
-date: 2026-04-18
+date: 2026-03-18
 summary: "A review of Michael Sandel's critique of meritocracy and his argument that the \"rhetoric of rising\" has deepened social division and eroded the dignity of work."
 categories:
     - Microessays
