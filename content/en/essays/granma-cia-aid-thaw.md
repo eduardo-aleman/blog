@@ -27,9 +27,7 @@ In a formal "Information from the Revolutionary Government" notice, *Granma* con
 For over 60 years, the CIA has been the primary villain in Cuban state media, typically associated with terms like *agresión* (aggression) and *subversión*. This article breaks that mold by:
 
 * **Normalizing the Adversary:** Reporting the visit as a routine "political dialogue" rather than a hostile intrusion.
-
 * **Bilateral Cooperation:** Explicitly stating an interest in "developing bilateral cooperation between law enforcement agencies."
-
 * **Addressing the SSOT List:** Directly arguing that Cuba is not a threat to US national security—the core requirement for removal from the **State Sponsors of Terrorism (SSOT)** list.
 
 The meeting’s participants, "its counterpart at the Ministry of the Interior", confirm this is a direct security channel rather than a traditional diplomatic one.
