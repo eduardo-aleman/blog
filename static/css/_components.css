@@ -430,17 +430,6 @@
   position: relative;
 }
 
-.essay-grid-item::after {
-  content: "⸎";
-  position: absolute;
-  bottom: -16px;
-  left: 50%;
-  transform: translateX(-50%);
-  color: var(--muted);
-  font-size: 0.8em;
-  display: block;
-}
-
 .essay-grid-item:last-child::after {
   display: none;
 }
