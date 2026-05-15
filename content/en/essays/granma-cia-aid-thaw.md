@@ -1,7 +1,7 @@
 ---
 title: "Two Unprecedented Granma Articles: A Cold War Thaw on Communist Cuba's Front Page"
 date: 2026-05-14
-summary: "On May 14, 2026, Granma published two articles that break decisively with six decades of Cuban editorial line: one openly confirming that CIA Director John Ratcliffe visited Havana at Washington's request to meet with Cuba's Interior Ministry, and another in which President Díaz-Canel publicly says Cuba would accept a $100 million US aid offer. Read together, they reveal a two-track negotiation — a security/intelligence channel handled by spies and police, and a humanitarian/political channel mediated by the Vatican — unfolding against the backdrop of an island that has literally run out of fuel after the US-led toppling of Venezuela's Maduro in January cut off Cuba's oil lifeline. The deeper signal is editorial: when Granma reports the CIA director's visit as routine bilateral engagement rather than imperialist aggression, the party line is moving in advance of the policy."
+summary: "On May 14, 2026, Cuba’s Granma signaled a historic shift in the party line by reporting a visit from CIA Director John Ratcliffe and President Díaz-Canel’s willingness to accept $100 million in US aid. Faced with a total fuel collapse following the fall of the Maduro regime in Venezuela, Havana is pursuing a two-track negotiation: a security channel with US intelligence and a humanitarian path mediated by the Vatican. By framing the CIA’s presence as routine engagement rather than 'imperialist aggression,' the state media is signaling a definitive break with decades of isolationist policy."
 categories:
   - Editorial
 tags:
