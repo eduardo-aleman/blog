@@ -1,16 +1,16 @@
 ---
-title: 'La Polis: Una introducción a la antigua ciudad-estado griega (Herman Hansen De Mogen).'
-date: '2026-02-12'
+title: "La Polis: Una introducción a la antigua ciudad-estado griega (Herman Hansen De Mogen)."
+date: "2026-02-12"
 summary: "This is a Spanish translation of the opening chapters of Mogens Herman Hansen's Polis: An Introduction to the Ancient Greek City-State — itself an expanded English version of his 2004 Danish original — prefaced by a dedication to John Crook, who collaborated with Hansen on the translation work over more than three decades."
 categories:
-- Editorial
+  - Editorial
 draft: false
 tags:
-- polis
-- grecia
-- ciudad-estado
-- democracia antigua
-- traducción
+  - polis
+  - grecia
+  - ciudad-estado
+  - democracia antigua
+  - traducción
 image: "/images/posts/hansen-polis-introduccion/acropolis.jpg"
 image_caption: "Acrópolis de Atenas: una ciudadela histórica situada sobre un promontorio rocoso que domina la ciudad de Atenas, Grecia. El sitio alberga varias estructuras antiguas de gran importancia, destacando especialmente el Partenón, el gran templo columnado visible en la cima. Polis (plural: poleis) refers to a self-governing city-state, while acropolis comes from akro (highest/edge) and polis (city). Memoria de mi visita en el 2007."
 ---
@@ -39,7 +39,7 @@ Esta breve reseña está diseñada para un amplio grupo de lectores interesados 
 
 [^intro2]: Defino un estado como un territorio determinado, una población determinado y un gobierno central institucionalizado con el derecho exclusivo de establecer y hacer cumplir un orden legal dentro del territorio sobre la población; ver _infra_ 7 con n. 3, 63–5 y Hansen (1998) 114–23.
 
-[^intro3]: El término inglés "ciudad-estado" probablemente fue acuñado en 1885 como una traducción del término alemán _Stadtstaat_ en relación con la traducción al inglés de J. Bluntschli, _Allgemeine Staatslehre_, 6ª ed. (Berlín, 1886), 63 = _Theory of the State_ (Londres, 1885), 60. El término alemán _Stadtstaat_ probablemente fue acuñado en 1842 como una traducción del término danés _Bysta_t (_by_ = ciudad; cf. Derby) en relación con la traducción al alemán de J. N. Madvig, _Blik på Oldtidens Statsforfatninger med Hensyn til Udviklingen af Monarkiet og en omfattende Statsorganisme_ (Copenhague, 1840) = _Blicke auf die Staatsverfassung des Altertums, mit Rücksicht auf die Entwicklung der Monarchie und eines umfassenden Staatsorganismus_, in _Archiv für Geschichte, Statistik, Kunde der Verwaltung und Landesrechte der Herzogthümer Schleswig_, Holstein y Lauenburg (Kiel, 1842), 42. El término francés _cité-État_ y el término italiano _cittá-stato_ ambos se derivan de _Stadtstaat_ y/o _city-state_, y ninguno de los dos está atestiguado antes del siglo XX (Hansen (1998) 15-16). Los términos _Bystat_ y _Stadtstaat_ se aplicaron por primera vez a Roma en el período republicano, y sólo más tarde se transfirieron a descripciones, principalmente, de la antigua _polis_ griega y de la _città_ en la Italia medieval. Fue sólo a partir de 1950, como consecuencia de la nueva comprensión del urbanismo como un fenómeno global, que los conceptos de ciudad-estado, _Stadtstaat_, etc. se han extendido a las civilizaciones mesoamericana, africana y asiática (_30 CSC_: 604 con nn. 32-4).
+[^intro3]: El término inglés "ciudad-estado" probablemente fue acuñado en 1885 como una traducción del término alemán _Stadtstaat_ en relación con la traducción al inglés de J. Bluntschli, _Allgemeine Staatslehre_, 6ª ed. (Berlín, 1886), 63 = _Theory of the State_ (Londres, 1885), 60. El término alemán _Stadtstaat_ probablemente fue acuñado en 1842 como una traducción del término danés _Bysta_t (\_by_ = ciudad; cf. Derby) en relación con la traducción al alemán de J. N. Madvig, _Blik på Oldtidens Statsforfatninger med Hensyn til Udviklingen af Monarkiet og en omfattende Statsorganisme_ (Copenhague, 1840) = _Blicke auf die Staatsverfassung des Altertums, mit Rücksicht auf die Entwicklung der Monarchie und eines umfassenden Staatsorganismus_, in _Archiv für Geschichte, Statistik, Kunde der Verwaltung und Landesrechte der Herzogthümer Schleswig_, Holstein y Lauenburg (Kiel, 1842), 42. El término francés _cité-État_ y el término italiano _cittá-stato_ ambos se derivan de _Stadtstaat_ y/o _city-state_, y ninguno de los dos está atestiguado antes del siglo XX (Hansen (1998) 15-16). Los términos _Bystat_ y _Stadtstaat_ se aplicaron por primera vez a Roma en el período republicano, y sólo más tarde se transfirieron a descripciones, principalmente, de la antigua _polis_ griega y de la _città_ en la Italia medieval. Fue sólo a partir de 1950, como consecuencia de la nueva comprensión del urbanismo como un fenómeno global, que los conceptos de ciudad-estado, _Stadtstaat_, etc. se han extendido a las civilizaciones mesoamericana, africana y asiática (_30 CSC_: 604 con nn. 32-4).
 
 [^intro4]: Cuatro excepciones recomendables son la investigación de Ruschenbusch sobre el número de _poleis_ (1985), _Jenseits von Athen und Sparta_ de Gehrke (1986), _Cités et royaumes du monde grec: espace et politique_ de Bertrand (1992) y el libro de Brock y Hodkinson (eds.), _Alternatives to Athens_ (2000).
 

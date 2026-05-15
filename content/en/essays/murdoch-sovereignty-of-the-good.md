@@ -40,4 +40,4 @@ Instead, she proposes that the good involves a kind of moral perception that all
 
 > "Goodness is connected with the acceptance of real death and real chance and real transience... The acceptance of death is an acceptance of our own nothingness, which is an automatic spur to concern ourselves with what is not ourselves. The good man is humble; he is very unlike the neo-Kantian great Lucifer. He is much more like the Kierkegaard tax-collector... The humble man, because he sees himself as nothing, can see other things as they are. He sees the pointlessness of virtue as well as its unique value and the endless extent of its demand."
 
-*Passages quoted from Iris Murdoch, **The Sovereignty of Good** (Routledge, 1970).*
+_Passages quoted from Iris Murdoch, **The Sovereignty of Good** (Routledge, 1970)._
