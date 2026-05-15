@@ -62,9 +62,7 @@ The shift comes as Cuba faces a critical fuel deficit following the collapse of 
 ### Indicators to Watch
 
 1. **SSOT Status:** Removal from the State Sponsors of Terrorism list remains Havana's primary goal to unlock international banking.
-
 2. **Prisoner Releases:** Continued Vatican-mediated pardons would confirm the "Humanitarian Track" is progressing.
-
 3. **Domestic Framing:** Look for follow-up *Granma* op-eds that provide the ideological justification for this "pragmatic engagement" to maintain party cadre loyalty.
 
 ---
