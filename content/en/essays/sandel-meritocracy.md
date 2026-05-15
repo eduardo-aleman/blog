@@ -7,6 +7,7 @@ tags:
   - philosophy
   - politics
   - meritocracy
+image: "/images/posts/sandel-meritocracy/MichaelSandel.jpg"
 ---
 
 Michael Sandel is not against success; he is against the story we tell about it.
