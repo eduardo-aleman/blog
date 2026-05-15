@@ -126,8 +126,6 @@ En segundo lugar, con la creación de los estados federales se abrió una brecha
 
 En tercer lugar, una de las bases de la economía moderna es la urbanización. En los países industrializados, entre el 80 y el 90 por ciento de la población vive en ciudades,[^cap1-19] pero hace 250 años ocurría lo contrario: entre el 80 y el 90 por ciento de la población vivía en la tierra o en aldeas, y sólo entre el 10 y el 20 por ciento vivía en las ciudades.[^cap1-20] Una economía de subsistencia generalmente se encuentra en comunidades con baja urbanización, mientras que las economías de mercado van con comunidades con alta urbanización. Ahora bien, si hay algo que caracteriza a las culturas de las ciudades-estado en términos socioeconómicos es la urbanización y los mercados. Un buen ejemplo es la ciudad-estado de Assur en el norte de Mesopotamia y su centro comercial en Kanesh en Asia Menor, que en 1900 a. C. era el centro de todo el comercio de la región, en oro, plata, estaño y textiles.[^cap1-21] La investigación del Polis Centre sobre las treinta y siete culturas de ciudades-estado muestra que el economista británico John Hicks tenía razón en su afirmación (a menudo contradicha) de que la economía de mercado moderna surgió en las ciudades-estado.[^cap1-22]
 
-### Notas
-
 [^cap1-1]: Este capítulo es una versión revisada y muy abreviada de mi Introducción y Conclusión en _30 CSC_: 11–34 y 597–623, y mi Introducción en _6 CSC_: 7–21. En la presente encuesta, las notas y referencias se han reducido al mínimo. La documentación completa se puede encontrar en los dos libros enumerados anteriormente.
 
 [^cap1-2]: Mellaart (1967; 1975); Mieroop (1997) 26. Sobre la diferencia entre una ciudad y un pueblo, ver _infra_ 67–9 y 89–90.
