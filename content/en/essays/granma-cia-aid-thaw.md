@@ -43,9 +43,7 @@ The second article reproduces a statement from President Miguel Díaz-Canel rega
 ### Key Signal Changes
 
 * **Acceptance of Aid:** Reversing the historical precedent of rejecting US assistance as a "Trojan horse," Díaz-Canel states that the offer "will find no obstacles or ingratitude from Cuba."
-
 * **The Vatican Channel:** The President’s specific mention of the "rich and productive" experience working with the Catholic Church acknowledges the mediation that has already facilitated the release of political prisoners this year.
-
 * **Urgent Priorities:** The text identifies "fuels, food, and medicines" as the primary needs, acknowledging the severity of the current internal crisis.
 
 ---
