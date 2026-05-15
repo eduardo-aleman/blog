@@ -385,6 +385,7 @@ html[data-theme="dark"] .theme-toggle .moon {
   font-family: var(--sans-meta);
   font-size: 0.75rem;
   color: var(--muted);
+  margin-top: var(--space-xl);    /* separation from anything above (e.g. tag list) */
   margin-bottom: var(--space-sm);
 }
 
