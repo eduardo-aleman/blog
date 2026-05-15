@@ -379,31 +379,6 @@ html[data-theme="dark"] .theme-toggle .moon {
   }
 }
 
-/* ====== BREADCRUMBS ====== */
-
-.breadcrumb {
-  font-family: var(--sans-meta);
-  font-size: 0.75rem;
-  color: var(--muted);
-  margin-top: var(--space-xl);    /* separation from anything above (e.g. tag list) */
-  margin-bottom: var(--space-sm);
-}
-
-.breadcrumb a {
-  color: var(--text);
-  text-decoration: none;
-  transition: opacity var(--transition-normal);
-}
-
-.breadcrumb a:hover {
-  opacity: var(--link-hover);
-}
-
-.breadcrumb__separator {
-  margin: 0 var(--space-sm);
-  color: var(--border);
-}
-
 /* ====== MAIN CONTENT AREA ====== */
 
 main {

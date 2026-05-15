@@ -609,6 +609,7 @@
 .tag-list {
   list-style: none;
   margin: 0;
+  margin-bottom: var(--space-xl);   /* separation from whatever follows below */
   padding: 0;
   display: flex;
   flex-wrap: wrap;
