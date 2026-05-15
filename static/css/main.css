@@ -222,8 +222,10 @@ sup a.footnote-ref:focus-visible {
 .footnotes {
   margin-top: 0;
   padding-top: var(--space-lg);
-  font-size: 1rem; /* This forces it to exactly 16px (the html root size) */
-  color: var(--muted);
+  font-family: var(--sans-meta), sans-serif; /* Use the cleaner sans-serif */
+  font-size: 1.1rem; /* Slightly larger than standard body text */
+  font-weight: 450;  /* A bit more "meat" on the letters */
+  color: var(--text); /* Use full text color instead of --muted for better contrast */
 }
 
 .footnotes ol {
