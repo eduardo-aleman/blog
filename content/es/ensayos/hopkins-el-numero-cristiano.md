@@ -2,6 +2,8 @@
 title: "El número cristiano y sus implicaciones (Keith Hopkins)"
 date: 2026-01-04
 summary: "Un análisis estadístico que examina la población cristiana primitiva en el Imperio Romano, argumentando que fue pequeña hasta finales del siglo II, con crecimiento acelerado durante las persecuciones del siglo III y después de la conversión de Constantino en el IV."
+categories:
+  - Editorial
 tags:
   - cristianismo
   - estadística
