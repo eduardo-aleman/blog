@@ -3,9 +3,9 @@
   --step--2: clamp(0.7rem, 0.65rem + 0.1vw, 0.8rem);
   --step--1: clamp(0.8rem, 0.75rem + 0.15vw, 0.9rem);
   --step-0: clamp(0.95rem, 0.9rem + 0.25vw, 1.1rem);     /* body copy */
-  --step-1: clamp(1.1rem, 1rem + 0.7vw, 1.5rem);        /* h4, subheading */
-  --step-2: clamp(1.4rem, 1.2rem + 1vw, 2.2rem);        /* h3 */
-  --step-3: clamp(1.8rem, 1.5rem + 2vw, 3rem);          /* h2 */
+  --step-1: clamp(1rem, 0.95rem + 0.4vw, 1.2rem);       /* h4, subheading */
+  --step-2: clamp(1.15rem, 1.05rem + 0.7vw, 1.6rem);    /* h3 */
+  --step-3: clamp(1.4rem, 1.2rem + 1.2vw, 2.1rem);      /* h2 */
   --step-4: clamp(2.5rem, 2rem + 4vw, 4.5rem);          /* h1, hero */
 
   /* ====== FONT FAMILIES ====== */
