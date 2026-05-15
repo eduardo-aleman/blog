@@ -1,6 +1,14 @@
 /* ====== BLOG CSS ====== */
 /* Main entry point - imports all modular CSS */
 
+/* External: Google Fonts.
+   MUST be the first @import in the stylesheet (CSS spec requires
+   @import rules to precede all other rules except @charset).
+   Loading here, at the top of the entry stylesheet, is more reliable
+   than nesting it inside a sub-file. For best performance, mirror this
+   with a <link rel="stylesheet" ...> in your HTML <head>. */
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600&family=Inter:wght@300;400;500;600;700&display=swap');
+
 @import "_variables.css";
 @import "_reset.css";
 @import "_typography.css";

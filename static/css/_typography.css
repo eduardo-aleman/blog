@@ -1,12 +1,10 @@
 /* ====== FONT LOADING ====== */
 
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600&family=Inter:wght@300;400;500;600;700&display=swap');
-
-/* Override serif-fallback with primary font if loaded */
-.wf-active body,
-body.wf-active {
-  font-family: var(--serif-primary);
-}
+/* Google Fonts are now loaded from main.css (an @import at the top of the
+   entry stylesheet is the most reliable place — nested @imports in
+   sub-files are fragile under various CSS pipelines). You can ALSO add a
+   <link rel="stylesheet" href="..."> in <head> for earlier discovery;
+   the @import here remains as a safety net. */
 
 /* ====== HEADINGS ====== */
 
@@ -219,27 +217,9 @@ h6 {
 
 /* ====== FONT LOADING FALLBACK ====== */
 
-/* Ensure primary serif loads */
-@font-face {
-  font-family: "Cormorant Garamond";
-  font-style: normal;
-  font-weight: 400;
-  src: url('https://fonts.gstatic.com/s/cormorantgaramond/v8/Cormorant_Garamond-Regular.ttf') format('truetype');
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Cormorant Garamond";
-  font-style: normal;
-  font-weight: 600;
-  src: url('https://fonts.gstatic.com/s/cormorantgaramond/v8/Cormorant_Garamond-SemiBold.ttf') format('truetype');
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Cormorant Garamond";
-  font-style: italic;
-  font-weight: 400;
-  src: url('https://fonts.gstatic.com/s/cormorantgaramond/v8/Cormorant_Garamond-Italic.ttf') format('truetype');
-  font-display: swap;
-}
+/* No manual @font-face declarations here.
+   Previous versions hardcoded paths like
+     https://fonts.gstatic.com/s/cormorantgaramond/v8/Cormorant_Garamond-Regular.ttf
+   which 404 — Google's real CDN paths have rotating hashes and aren't
+   guessable. The Google Fonts stylesheet (loaded via @import in main.css
+   and/or <link> in <head>) handles @font-face correctly. */
