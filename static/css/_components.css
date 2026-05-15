@@ -430,12 +430,9 @@
   position: relative;
 }
 
-.essay-grid-item:last-child::after {
-  display: none;
-}
-
-.essay-grid-item:hover {
-  /* no hover effect */
+/* Extra breathing room between stacked essays within a column */
+.essay-grid-item + .essay-grid-item {
+  margin-top: var(--space-lg);
 }
 
 .essay-grid-item__image-wrapper {
