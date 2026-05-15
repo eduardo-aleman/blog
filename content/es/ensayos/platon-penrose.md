@@ -11,6 +11,8 @@ tags:
   - computación
   - mecánica cuántica
   - neurofisiología
+image: /images/posts/platon-penrose/Roger_Penrose.jpg
+image_caption: "Sir Roger Penrose, a highly distinguished British mathematician and mathematical physicist. Penrose is renowned for his work in mathematical physics, particularly regarding the structure of the universe, and he has made significant contributions to our understanding of spacetime. Beyond physics, he has explored the intersection of consciousness and quantum mechanics, co-developing the 'orchestrated objective reduction' (Orch-OR) theory. He was awarded the 2020 Nobel Prize in Physics for his groundbreaking discovery that black hole formation is a robust prediction of the general theory of relativity."
 ---
 
 La historia de la filosofía es, en buena medida, una meditación continua sobre la pregunta más radical que puede hacerse el ser humano: ¿quién soy yo? Desde las primeras concepciones del alma en la Grecia clásica hasta las modernas teorías de la consciencia en la ciencia cognitiva y la física cuántica, esta cuestión ha adquirido formas conceptuales cada vez más sofisticadas, pero nunca ha dejado de interrogar el misterio de la subjetividad. Este ensayo propone una travesía intelectual que parte de la _psychē_ platónica, pasa por la forma sustancial de Aristóteles y el alma teológica de Tomás de Aquino, hasta llegar a las teorías contemporáneas de la consciencia, representadas de manera paradigmática por Roger Penrose.
