@@ -5,8 +5,23 @@
   {{ $pages := where $allPages "Kind" "page" }}
 
   {{ if gt (len $pages) 0 }}
-    {{ $editorial := where $pages "Params.category" "editorial" }}
-    {{ $microessays := where $pages "Params.category" "!=" "editorial" }}
+
+    {{/* Case-insensitive split on .Params.category.
+         Works whether front matter reads:
+           category: editorial
+           category: Editorial
+           category: EDITORIAL
+         If a page has no category set, it falls into microessays. */}}
+    {{ $editorial := slice }}
+    {{ $microessays := slice }}
+    {{ range $pages }}
+      {{ $cat := lower (.Params.category | default "") }}
+      {{ if eq $cat "editorial" }}
+        {{ $editorial = $editorial | append . }}
+      {{ else }}
+        {{ $microessays = $microessays | append . }}
+      {{ end }}
+    {{ end }}
 
     {{ $sortedMicro := sort $microessays "Date" "desc" }}
     {{ $sortedEditorial := sort $editorial "Date" "desc" }}
