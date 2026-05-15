@@ -30,24 +30,24 @@ Durante más de dos décadas, esos fragmentos permanecieron solos como el único
 
 **Un rollo, dos ciudades**
 
-Es aquí donde la identificación de P.Fouad inv. 218 por parte de Carlig adquiere una dimensión especialmente fascinante. Los papiros de El Cairo y Estrasburgo no son dos tradiciones manuscritas independientes. Son, según Carlig, **fragmentos del mismo rollo antiguo**.
+Es aquí donde la identificación de P.Fouad inv. 218 por parte de Carlig adquiere una dimensión especialmente fascinante. Los papiros de El Cairo y Estrasburgo no son dos tradiciones manuscritas independientes. Son, según Carlig, fragmentos del mismo rollo antiguo.
 
 En algún momento de la Antigüedad, un único rollo de papiro que contenía una copia de la _Physica_ fue dañado, dispersado o dividido. Parte de él acabó en Estrasburgo; otra sección terminó en el archivo del IFAO de El Cairo. Durante más de un siglo, ninguno de los dos fragmentos fue reconocido por lo que era en relación con el otro.
 
-La evidencia material y paleográfica — las características físicas del papiro, la mano del copista y, de manera decisiva, el contenido poético — converge para sostener la conclusión de que ambos fragmentos proceden del mismo manuscrito original. Juntos, constituyen la **única copia conocida** de la _Physica_ de Empédocles.
+La evidencia material y paleográfica — las características físicas del papiro, la mano del copista y, de manera decisiva, el contenido poético — converge para sostener la conclusión de que ambos fragmentos proceden del mismo manuscrito original. Juntos, constituyen la única copia conocida de la _Physica_ de Empédocles.
 
 **El contenido del fragmento de El Cairo**
 
-Los treinta versos de P.Fouad inv. 218 cubren un terreno no presente en el material de Estrasburgo. Mientras que los fragmentos de Estrasburgo iluminan la cosmología de Empédocles y el ciclo cósmico, el papiro de El Cairo aborda su **teoría de las efluencias** (_aporrhoai_) y su aplicación a la **percepción sensorial**, en particular a la visión.
+Los treinta versos de P.Fouad inv. 218 cubren un terreno no presente en el material de Estrasburgo. Mientras que los fragmentos de Estrasburgo iluminan la cosmología de Empédocles y el ciclo cósmico, el papiro de El Cairo aborda su teoría de las efluencias (_aporrhoai_) y su aplicación a la percepción sensorial, en particular a la visión.
 
 Empédocles sostenía que los objetos emiten continuamente corrientes de partículas finas, y que la percepción se produce cuando estas partículas atraviesan los poros correspondientes de los órganos sensoriales — una explicación llamativamente materialista de cómo llegamos a conocer el mundo. Los versos recién recuperados nos muestran a Empédocles articulando esta teoría en sus propias palabras por primera vez.
 
 Las implicaciones para la historia de la filosofía son considerables. El análisis del texto ha revelado:
 
-- Una probable **fuente directa** de un pasaje de Plutarco (siglo II d. C.)
-- Paralelos conceptuales con un diálogo de **Platón** y un texto de **Teofrasto**, discípulo de Aristóteles (ambos del siglo IV a. C.)
-- Ecos hasta ahora inadvertidos en el poeta cómico **Aristófanes** y en el filósofo-poeta latino **Lucrecio**
-- Indicios de que Empédocles puede considerarse un **precursor de los atomistas**, en especial de Demócrito de Abdera
+- Una probable fuente directa de un pasaje de Plutarco (siglo II d. C.)
+- Paralelos conceptuales con un diálogo de Platón y un texto de Teofrasto, discípulo de Aristóteles (ambos del siglo IV a. C.)
+- Ecos hasta ahora inadvertidos en el poeta cómico Aristófanes y en el filósofo-poeta latino Lucrecio
+- Indicios de que Empédocles puede considerarse un precursor de los atomistas, en especial de Demócrito de Abdera
 
 **La edición**
 
