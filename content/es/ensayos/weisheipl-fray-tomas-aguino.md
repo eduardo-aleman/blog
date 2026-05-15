@@ -17,7 +17,7 @@ Jaime A. Weisheipl, O.P. (_Ordinis Praedicatorum_).
 Instituto Pontificio de Estudios Medievales de Toronto.
 Finalista de los National Book Awards de 1975 en la categoría de Biografía.
 
-**Prefacio**
+### Prefacio
 
 El 7 de marzo de 1974 se cumple el setecientos aniversario de la muerte de Santo Tomás de Aquino. Dado que el 7 de marzo de 1274 es la única fecha cierta que tenemos en su vida, es apropiado que el día y el año se conmemoren de diversas maneras en todo el mundo. Este libro representa parte de mi contribución a la ocasión. La última celebración mundial fue en 1923, el sexto centenario de la canonización de Tomás el 18 de julio de 1323. Se ha descubierto mucho material nuevo en los cincuenta años pasados, por lo que hay necesidad de un resumen y una evaluación de los hechos descubiertos por los eruditos que han dado sus mejores esfuerzos para comprender la vida, el pensamiento y la obra del fraile Tomás de Aquino.
 
@@ -48,7 +48,7 @@ Festejo de Santo Tomás de Aquino
 
 28 de enero de 1973
 
-**Capítulo I: Niñez siciliana y juventud dominicana (1224/5-52)**
+### Capítulo I: Niñez siciliana y juventud dominicana (1224/5-52)
 
 Alentados por el resurgimiento del tomismo a finales del siglo XIX y principios del XX, los historiadores de Alemania, Italia y Francia han recopilado y examinado diligentemente cada fragmento de información para aumentar y ampliar nuestro conocimiento sobre santo Tomás de Aquino y su época. Heinrich Denihe, Franz Ehrle, Clemens Baeumker, Martin Grabmann, Pierre Mandonnet, Pietro Castagnoli, Jacques Berthier y Angelus Walz vienen a la mente, pero hubo muchos otros que contribuyeron a una imagen más completa de Tomás de Aquino de la que se puede obtener de una simple lectura del "Doctor Universal" presentado en las escuelas. El lector moderno, influenciado por las afirmaciones legítimas de el historicismo sabe que tanto las ideas como las personalidades deben entenderse en el contexto pleno de la época en que se desarrollaron.
 
@@ -292,7 +292,7 @@ Además del hecho de que fue idea de Alberto enviar a Tomás inmediatamente a Pa
 
 Así, en el otoño de 1252, Tomás se fue al Priorato de Saint-Jacques en París para prepararse para comenzar a enseñar las _Sentencias_. Eran tiempos difíciles en París. Las relaciones amistosas que existían anteriormente entre los dominicos y los maestros seculares de la universidad se habían convertido en odio amargo y fuerte oposición. Fue a este medio al que enviaron a Tomás, demasiado joven de años y demasiado reacio de corazón para involucrarse en controversias. La controversia antimendicante eclipsará todos los días de Tomás en París. El París en el que entró Tomás era un París muy diferente del que Alberto había conocido diez años antes. Quizás Alberto no se dio cuenta de esto; o si lo hizo, tenía gran confianza en el Tomás que "descubrió".
 
-Notas
+### Notas
 
 1. Gui, Legenda, c. 39: «inchoante tunc dominicae incarnationis anno MCCLXXIIII, vitae autem suae anno XLIX terminante et anno quinquagesimo inchoante.» Fontes 205.
 2. Hist. Eccl., lib. 23, c. 10, Muratori, Rerum Ital. Script. XI, col. 1 1 7 0 : «abiit autem quinquagesimo vitae suae anno, alii dicunt XLIV, habeos in Magisterio annos XX.» Aunque Muratori da la lectura como «cuarenta y cuatro» en lugar de «cuarenta y ocho», la lectura correcta es la última, según la corrección proporcionada por B. de Rubeis en su Dissertationes criticae I, c. 8, y por P. Mandonnet, «Date de naissance de S. Thomas d’Aquin,» Revue Thomiste 22 (1914); 652, fn. 1.

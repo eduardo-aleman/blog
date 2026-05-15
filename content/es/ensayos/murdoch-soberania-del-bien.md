@@ -20,19 +20,19 @@ Murdoch sostenía que las metáforas no son meros recursos lingüísticos, sino 
 
 Según Murdoch, las metáforas desempeñan un papel crucial en la percepción y la comprensión morales: iluminan aspectos de nuestra experiencia que resultan difíciles de expresar directamente y nos ayudan a aprehender conceptos y relaciones éticas complejas. Funcionan también como herramientas de la imaginación moral, permitiéndonos concebir formas alternativas de ser y de actuar en el mundo.
 
-La soberanía del bien
+### La soberanía del bien
 
 "La soberanía del bien sobre otros conceptos," es el mejor ensayo del libro. Allí, Murdoch explora el bien como metáfora indispensable del pensamiento moral, y argumenta en contra de la noción predominante de que puede reducirse la moral a un conjunto de reglas o principios, abogando en cambio por una comprensión más matizada y compleja de la conducta ética.
 
 Un elemento central de su argumento es la idea de que el bien surge de un compromiso profundo con la realidad y de una atención moral genuina hacia las necesidades e intereses de los demás. Murdoch rechaza la idea del bien como mera abstracción o ideal, subrayando en cambio sus implicaciones prácticas para la conducta y las relaciones humanas.
 
-Crítica a los sistemas éticos rígidos
+### Crítica a los sistemas éticos rígidos
 
 Murdoch critica asimismo la tendencia a conceptualizar la moralidad en términos de códigos o sistemas éticos rígidos, sosteniendo que tales enfoques no logran captar la complejidad y la riqueza de la vida moral, y conducen a la ceguera ética y a la distorsión moral.
 
 En su lugar, propone que el bien implica un tipo de percepción moral que nos permite ver el mundo y nuestro lugar en él con mayor claridad. Para ello, destaca la importancia de la empatía, la imaginación y la capacidad de contemplar las cosas desde múltiples perspectivas.
 
-Fragmentos del ensayo
+### Fragmentos del ensayo
 
 > Asumo que los seres humanos son por naturaleza egoístas y que la vida humana no tiene un punto externo o τέλος. Que los seres humanos son de modo natural egoístas parece mostrarlo la evidencia, cuandoquiera y dondequiera que los observemos, a pesar de un número muy pequeño de aparentes excepciones. Sobre la naturaleza de este egoísmo, la psicología moderna tiene algo que decirnos. La psique es un individuo históricamente determinado que se busca incesantemente a sí mismo. En algunos aspectos se parece a una máquina; para operar necesita fuentes de energía, y está predispuesta a determinadas pautas de actividad. El área de su alardeada libertad de elección no es normalmente muy grande. Uno de sus mayores pasatiempos es soñar con los ojos abiertos. Es reacia a enfrentarse a realidades desagradables. Su conciencia no es normalmente un cristal transparente a través del cual mira el mundo, sino una nube de ensueños más o menos fantásticos diseñada para proteger a la psique del dolor. Constantemente busca consuelo, bien a través de un hinchamiento imaginario del yo o bien a través de ficciones de naturaleza teológica. Hasta su amor es, demasiado a menudo, una afirmación del yo. Pienso que probablemente podemos reconocernos en esta descripción tan deprimente.
 

@@ -20,19 +20,19 @@ Murdoch maintained that metaphors are not merely linguistic devices, but essenti
 
 According to Murdoch, metaphors play a crucial role in moral perception and understanding: they illuminate aspects of our experience that are difficult to express directly and help us grasp complex ethical concepts and relations. They also function as tools of moral imagination, allowing us to conceive of alternative ways of being and acting in the world.
 
-The Sovereignty of the Good
+### The Sovereignty of the Good
 
 "The Sovereignty of the Good over other concepts" is the finest essay in the collection. There, Murdoch explores the good as an indispensable metaphor of moral thought, and argues against the prevailing notion that morality can be reduced to a set of rules or principles, advocating instead for a more nuanced and complex understanding of ethical conduct.
 
 A central element of her argument is the idea that the good arises from a profound commitment to reality and genuine moral attention to the needs and interests of others. Murdoch rejects the idea of the good as mere abstraction or ideal, instead emphasizing its practical implications for conduct and human relations.
 
-Critique of Rigid Ethical Systems
+### Critique of Rigid Ethical Systems
 
 Murdoch also criticizes the tendency to conceptualize morality in terms of rigid codes or ethical systems, arguing that such approaches fail to capture the complexity and richness of moral life, and lead to moral blindness and moral distortion.
 
 Instead, she proposes that the good involves a kind of moral perception that allows us to see the world and our place in it with greater clarity. To this end, she emphasizes the importance of empathy, imagination, and the capacity to contemplate things from multiple perspectives.
 
-Fragments from the Essay
+### Fragments from the Essay
 
 > "I assume that human beings are naturally selfish and that human life has no external point or τέλος. That human beings are naturally selfish seems to be shown by the evidence... The psyche is a historically determined individual relentlessly looking after itself. It resembles a machine; in order to operate it needs sources of energy, and it is predisposed to certain patterns of activity. The area of its much vaunted freedom of choice is not normally very great. One of its chief pastimes is day-dreaming. It is reluctant to face unpleasant realities. Its consciousness is not normally a transparent crystal through which it views the world, but a cloud of more or less fantastic reverie designed to protect the psyche from pain."
 
