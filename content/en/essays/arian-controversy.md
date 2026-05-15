@@ -42,7 +42,7 @@ The entire debate often hinged on the Greek word _monogenes_. While Arius transl
 
 Was Arius wrong?
 
-- **By Logic:** No. His reasoning was consistent with human observation.
-- **By Theology:** Yes, according to the institutional Church. His view was seen as undermining the divine power required for human salvation.
+- *By Logic:* No. His reasoning was consistent with human observation.
+- *By Theology:* Yes, according to the institutional Church. His view was seen as undermining the divine power required for human salvation.
 
 Ultimately, the defeat of Arianism marked the shift from a strictly "rational" monotheism to a "mystical" Trinitarianism that continues to define Christianity today.
