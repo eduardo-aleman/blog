@@ -220,9 +220,9 @@ sup a.footnote-ref:focus-visible {
 
 /* Footnotes section at the bottom of the article */
 .footnotes {
-  margin-top: 0; /* Remove the extra 2xl margin */
+  margin-top: 0;
   padding-top: var(--space-lg);
-  font-size: var(--step--0);
+  font-size: 1rem; /* This forces it to exactly 16px (the html root size) */
   color: var(--muted);
 }
 
