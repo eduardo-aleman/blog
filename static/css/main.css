@@ -221,7 +221,7 @@ sup a.footnote-ref:focus-visible {
 /* Footnotes section at the bottom of the article */
 .footnotes {
   margin-top: 0;
-  padding-top: var(--space-lg);
+  padding-top: 0;
   font-family: var(--sans-meta), sans-serif; /* Use the cleaner sans-serif */
   font-size: 1.1rem; /* Slightly larger than standard body text */
   font-weight: 450;  /* A bit more "meat" on the letters */
