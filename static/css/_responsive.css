@@ -471,34 +471,32 @@
     grid-template-columns: 1fr;
     gap: var(--gap-normal);
   }
-  
+
   .essays-grid {
     grid-template-columns: 1fr;
     gap: var(--gap-normal);
   }
 }
 
-/* Tablet - 2 columns */
+/* Tablet - .featured__grid stays 2-col; .essays-grid stacks to 1-col
+   (the three column wrappers don't divide cleanly into 2 columns) */
 @media (min-width: 768px) and (max-width: 1023px) {
   .featured__grid {
     grid-template-columns: repeat(2, 1fr);
     gap: var(--gap-normal);
   }
-  
+
   .essays-grid {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: 1fr;
     gap: var(--gap-normal);
   }
 }
 
-/* Desktop - 3 columns (default) */
+/* Desktop - .featured__grid uses 3 equal columns;
+   .essays-grid intentionally keeps its base 1fr 1.5fr 1fr from _components.css
+   (do NOT override here, or the middle column loses its extra width) */
 @media (min-width: 1024px) {
   .featured__grid {
-    grid-template-columns: repeat(3, 1fr);
-    gap: var(--gap-generous);
-  }
-  
-  .essays-grid {
     grid-template-columns: repeat(3, 1fr);
     gap: var(--gap-generous);
   }

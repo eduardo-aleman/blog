@@ -1,123 +1,130 @@
 {{ define "main" }}
 <div class="page-grid">
-  <!-- Essays Grid (9 items) -->
+  <!-- Essays Grid (9 items, distributed across 3 columns) -->
   {{ $allPages := .Site.RegularPages }}
   {{ $pages := where $allPages "Kind" "page" }}
-  
+
   {{ if gt (len $pages) 0 }}
     {{ $editorial := where $pages "Params.category" "editorial" }}
     {{ $microessays := where $pages "Params.category" "!=" "editorial" }}
-    
-    <!-- Cache sorted results to use consistently across columns -->
+
     {{ $sortedMicro := sort $microessays "Date" "desc" }}
     {{ $sortedEditorial := sort $editorial "Date" "desc" }}
-    
+
     <section class="essays-grid-section">
       <div class="essays-grid">
-        <!-- Left column: first 3 microessays -->
-        {{ range first 3 $sortedMicro }}
-          <article class="essay-grid-item">
-            {{ with .Params.image }}
-              <div class="essay-grid-item__image-wrapper">
-                <img 
-                  src="{{ . }}" 
-                  alt="{{ $.Title }}"
-                  class="essay-grid-item__image"
-                  loading="lazy"
-                >
+
+        <!-- LEFT COLUMN: first 3 microessays -->
+        <div class="essays-grid__column essays-grid__column--side">
+          {{ range first 3 $sortedMicro }}
+            <article class="essay-grid-item">
+              {{ with .Params.image }}
+                <div class="essay-grid-item__image-wrapper">
+                  <img
+                    src="{{ . }}"
+                    alt="{{ $.Title }}"
+                    class="essay-grid-item__image"
+                    loading="lazy"
+                  >
+                </div>
+              {{ end }}
+
+              <h2 class="essay-grid-item__title">
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+              </h2>
+
+              <div class="essay-grid-item__content">
+                <p class="essay-grid-item__summary">
+                  {{ .Summary | plainify }}
+                </p>
+
+                <div class="essay-grid-item__meta">
+                  <time datetime="{{ .Date.Format "2006-01-02" }}">
+                    {{ .Date.Format "January 2, 2006" }}
+                  </time>
+                  <span class="essay-grid-item__reading-time">
+                    {{ .ReadingTime }} {{ i18n "minRead" | default "min read" }}
+                  </span>
+                </div>
               </div>
-            {{ end }}
-            
-            <h2 class="essay-grid-item__title">
-              <a href="{{ .Permalink }}">{{ .Title }}</a>
-            </h2>
-            
-            <div class="essay-grid-item__content">
-              <p class="essay-grid-item__summary">
-                {{ .Summary | plainify }}
-              </p>
-              
-              <div class="essay-grid-item__meta">
-                <time datetime="{{ .Date.Format "2006-01-02" }}">
-                  {{ .Date.Format "January 2, 2006" }}
-                </time>
-                <span class="essay-grid-item__reading-time">
-                  {{ .ReadingTime }} {{ i18n "minRead" | default "min read" }}
-                </span>
+            </article>
+          {{ end }}
+        </div>
+
+        <!-- MIDDLE COLUMN: editorial essays (wider) -->
+        <div class="essays-grid__column essays-grid__column--middle">
+          {{ range first 3 $sortedEditorial }}
+            <article class="essay-grid-item essay-grid-item--wide">
+              {{ with .Params.image }}
+                <div class="essay-grid-item__image-wrapper">
+                  <img
+                    src="{{ . }}"
+                    alt="{{ $.Title }}"
+                    class="essay-grid-item__image"
+                    loading="lazy"
+                  >
+                </div>
+              {{ end }}
+
+              <h2 class="essay-grid-item__title">
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+              </h2>
+
+              <div class="essay-grid-item__content">
+                <p class="essay-grid-item__summary">
+                  {{ .Summary | plainify }}
+                </p>
+
+                <div class="essay-grid-item__meta">
+                  <time datetime="{{ .Date.Format "2006-01-02" }}">
+                    {{ .Date.Format "January 2, 2006" }}
+                  </time>
+                  <span class="essay-grid-item__reading-time">
+                    {{ .ReadingTime }} {{ i18n "minRead" | default "min read" }}
+                  </span>
+                </div>
               </div>
-            </div>
-          </article>
-        {{ end }}
-        
-        <!-- Middle column: editorial essays (wider) -->
-        {{ range first 3 $sortedEditorial }}
-          <article class="essay-grid-item essay-grid-item--wide">
-            {{ with .Params.image }}
-              <div class="essay-grid-item__image-wrapper">
-                <img 
-                  src="{{ . }}" 
-                  alt="{{ $.Title }}"
-                  class="essay-grid-item__image"
-                  loading="lazy"
-                >
+            </article>
+          {{ end }}
+        </div>
+
+        <!-- RIGHT COLUMN: remaining microessays -->
+        <div class="essays-grid__column essays-grid__column--side">
+          {{ range first 3 (after 3 $sortedMicro) }}
+            <article class="essay-grid-item">
+              {{ with .Params.image }}
+                <div class="essay-grid-item__image-wrapper">
+                  <img
+                    src="{{ . }}"
+                    alt="{{ $.Title }}"
+                    class="essay-grid-item__image"
+                    loading="lazy"
+                  >
+                </div>
+              {{ end }}
+
+              <h2 class="essay-grid-item__title">
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+              </h2>
+
+              <div class="essay-grid-item__content">
+                <p class="essay-grid-item__summary">
+                  {{ .Summary | plainify }}
+                </p>
+
+                <div class="essay-grid-item__meta">
+                  <time datetime="{{ .Date.Format "2006-01-02" }}">
+                    {{ .Date.Format "January 2, 2006" }}
+                  </time>
+                  <span class="essay-grid-item__reading-time">
+                    {{ .ReadingTime }} {{ i18n "minRead" | default "min read" }}
+                  </span>
+                </div>
               </div>
-            {{ end }}
-            
-            <h2 class="essay-grid-item__title">
-              <a href="{{ .Permalink }}">{{ .Title }}</a>
-            </h2>
-            
-            <div class="essay-grid-item__content">
-              <p class="essay-grid-item__summary">
-                {{ .Summary | plainify }}
-              </p>
-              
-              <div class="essay-grid-item__meta">
-                <time datetime="{{ .Date.Format "2006-01-02" }}">
-                  {{ .Date.Format "January 2, 2006" }}
-                </time>
-                <span class="essay-grid-item__reading-time">
-                  {{ .ReadingTime }} {{ i18n "minRead" | default "min read" }}
-                </span>
-              </div>
-            </div>
-          </article>
-        {{ end }}
-        
-        <!-- Right column: remaining microessays -->
-        {{ range first 3 (after 3 $sortedMicro) }}
-          <article class="essay-grid-item">
-            {{ with .Params.image }}
-              <div class="essay-grid-item__image-wrapper">
-                <img 
-                  src="{{ . }}" 
-                  alt="{{ $.Title }}"
-                  class="essay-grid-item__image"
-                  loading="lazy"
-                >
-              </div>
-            {{ end }}
-            
-            <h2 class="essay-grid-item__title">
-              <a href="{{ .Permalink }}">{{ .Title }}</a>
-            </h2>
-            
-            <div class="essay-grid-item__content">
-              <p class="essay-grid-item__summary">
-                {{ .Summary | plainify }}
-              </p>
-              
-              <div class="essay-grid-item__meta">
-                <time datetime="{{ .Date.Format "2006-01-02" }}">
-                  {{ .Date.Format "January 2, 2006" }}
-                </time>
-                <span class="essay-grid-item__reading-time">
-                  {{ .ReadingTime }} {{ i18n "minRead" | default "min read" }}
-                </span>
-              </div>
-            </div>
-          </article>
-        {{ end }}
+            </article>
+          {{ end }}
+        </div>
+
       </div>
     </section>
   {{ end }}
