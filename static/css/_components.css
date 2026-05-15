@@ -532,15 +532,15 @@
   margin: 0 0 var(--space-sm) 0;
   line-height: 1.2;
   max-width: 800px;
-  text-align: left;  /* Guarantee left alignment */
+  text-align: center;  /* Center all titles */
 }
 
-/* Ensure article title links are always left-aligned */
+/* Ensure article title links are centered */
 .article-title a {
   color: inherit;
   text-decoration: none;
-  display: block;  /* CRITICAL: block display avoids flex wrapping issues */
-  text-align: left;
+  display: block;
+  text-align: center;  /* Center all titles */
   width: 100%;
   word-wrap: break-word;      /* Handle long titles gracefully */
   overflow-wrap: break-word;  /* Fallback for older browsers */
