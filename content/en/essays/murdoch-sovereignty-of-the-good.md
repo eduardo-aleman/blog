@@ -11,6 +11,7 @@ tags:
   - moral philosophy
   - translation
 image: /images/posts/murdoch-soberania-del-bien/iris_murdoch.webp
+image_caption: "British novelist and philosopher Iris Murdoch (1919–1999). She was a prolific author best known for her 26 novels exploring themes of good, evil, and sexual relationships. Her 1978 novel, The Sea, The Sea, won the prestigious Booker Prize. Alongside her fiction, Murdoch had a distinguished career as an Oxford philosopher, specializing in moral theory and ethics."
 ---
 
 Iris Murdoch held a singular perspective on metaphors, which she frequently explored in her philosophical writings. In _Metaphysics as a Guide to Morals_, a collection of her most prominent essays, she delves into the role of metaphorical thinking in shaping our understanding of reality and our moral life.
