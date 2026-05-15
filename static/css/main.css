@@ -153,57 +153,70 @@ svg {
 
 /* ====== FOOTNOTES STYLING ====== */
 
-/* Footnote reference (superscript link in text) */
-sup a.footnote-ref {
-  /* Remove default link styling */
-  text-decoration: none;
-  
-  /* Tight spacing - no extra margins */
-  margin-left: 0.05em;
-  margin-right: 0;
+/*  ──────────────────────────────────────────────────────────────────────
+    Inline footnote refs must behave as pure inline text. The properties
+    below are DEFENSIVE — explicitly resetting min-height/min-width and
+    display so that any future global <a> rules (or third-party CSS)
+    cannot reintroduce the 44px-box bug.
+    ────────────────────────────────────────────────────────────────────── */
+
+/* <sup> wrapper: no extra line height, no stretchable whitespace */
+sup {
+  font-size: 0.75em;
+  line-height: 0;
+  vertical-align: baseline;
+  position: relative;
+  top: -0.5em;
+  margin: 0;
   padding: 0;
-  
-  /* Very small size to minimize line spacing impact */
-  font-size: 0.65em;
-  font-weight: 600;
-  /* line-height removed - was creating unwanted gap */
-  
-  /* Compact vertical spacing */
-  vertical-align: super;
-  
-  color: var(--color-primary, #0066cc);
-  
-  /* Smooth transition for hover effects */
-  transition: color 200ms ease;
+  white-space: nowrap;
 }
 
-/* Hover state - no underline, subtle color change */
+/* Footnote reference link (the superscript number in body text) */
+sup a.footnote-ref {
+  /* Reset anything global rules might apply */
+  display: inline;
+  min-height: 0;
+  min-width: 0;
+  align-items: normal;
+
+  /* Tight inline spacing */
+  margin: 0 0 0 0.05em;
+  padding: 0;
+
+  /* Use site's design tokens, not hardcoded blues */
+  color: var(--text);
+  font-weight: 600;
+  text-decoration: none;
+  vertical-align: baseline; /* already raised by parent <sup> */
+  line-height: inherit;
+
+  transition: opacity var(--transition-normal);
+}
+
 sup a.footnote-ref:hover {
+  opacity: var(--link-hover);
   text-decoration: none;
   cursor: pointer;
-  color: var(--color-primary-dark, #0052a3);
-  background-color: transparent;
 }
 
-/* Active/visited state */
 sup a.footnote-ref:visited {
-  color: var(--color-primary, #0066cc);
+  color: var(--text);
 }
 
-/* Focus state for accessibility */
-sup a.footnote-ref:focus {
-  outline: 2px solid var(--color-primary, #0066cc);
+sup a.footnote-ref:focus-visible {
+  outline: 2px solid var(--text);
   outline-offset: 2px;
   border-radius: 2px;
 }
 
-/* Footnotes section at the bottom */
+/* Footnotes section at the bottom of the article */
 .footnotes {
-  margin-top: var(--space-lg);  /* Reduced from var(--space-2xl) */
+  margin-top: var(--space-2xl);
   padding-top: var(--space-lg);
-  border-top: 1px solid var(--color-border, #e5e7eb);
-  font-size: 0.95em;
-  color: var(--color-text-secondary, #666);
+  border-top: 1px solid var(--border);
+  font-size: var(--step--1);
+  color: var(--muted);
 }
 
 .footnotes ol {
@@ -222,42 +235,26 @@ sup a.footnote-ref:focus {
   display: inline;
 }
 
-/* Footnote backref (link back to text) */
+/* Footnote backref (link back to the reference in text) */
 .footnotes a.footnote-backref {
   text-decoration: none;
-  color: var(--color-primary, #0066cc);
+  color: var(--text);
   margin-left: 0.3em;
   font-weight: 500;
-  transition: color 200ms ease;
+  transition: opacity var(--transition-normal);
 }
 
 .footnotes a.footnote-backref:hover {
   text-decoration: none;
-  color: var(--color-primary-dark, #0052a3);
+  opacity: var(--link-hover);
 }
 
-/* Dark mode adjustments for footnotes */
-@media (prefers-color-scheme: dark) {
-  sup a.footnote-ref {
-    color: var(--color-primary-light, #66b3ff);
-  }
-  
-  sup a.footnote-ref:hover {
-    color: var(--color-primary-lighter, #99ccff);
-  }
-  
-  .footnotes {
-    border-top-color: var(--color-border-dark, #404040);
-    color: var(--color-text-secondary-dark, #999);
-  }
-  
-  .footnotes a.footnote-backref {
-    color: var(--color-primary-light, #66b3ff);
-  }
-  
-  .footnotes a.footnote-backref:hover {
-    color: var(--color-primary-lighter, #99ccff);
-  }
+/* Dark mode footnote adjustments — color tokens already swap via
+   _variables.css/_dark-mode.css, so most rules don't need overriding.
+   Only border color needs a touch-up if desired. */
+html[data-theme="dark"] .footnotes {
+  border-top-color: var(--border);
+  color: var(--muted);
 }
 
 /* ====== END OF STYLESHEET ====== */

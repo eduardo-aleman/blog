@@ -95,27 +95,43 @@ small {
 
 /* ====== TOUCH TARGET SIZE ====== */
 
-/* Ensure minimum 44px touch target for LINKS (without centering) */
-a {
-  min-height: 44px;
-  min-width: 44px;
-  display: inline-flex;
-  align-items: center;
-  /* NOTE: justify-content removed to preserve text flow for title links
-     Links should flow naturally with text direction, not be centered */
-}
+/*  ──────────────────────────────────────────────────────────────────────
+    FIX (2026-05-14): The previous version applied
+        a { min-height:44px; min-width:44px; display:inline-flex;
+            align-items:center; }
+    globally to EVERY <a> tag. This had two visible bugs:
+      1. Inline footnote refs (<sup><a class="footnote-ref">N</a></sup>)
+         rendered as 44px-wide invisible boxes, producing large gaps in
+         body text after each footnote marker.
+      2. .article-title <a> wrapping behaved differently for short vs.
+         long titles because inline-flex changes line-break behavior.
 
-/* Ensure minimum 44px touch target for BUTTONS (with centering) */
+    WCAG 2.5.5 (Target Size) explicitly EXEMPTS inline text links in
+    flowing prose. Touch targets only apply to standalone interactive
+    controls (nav, buttons, pagination, footer link lists, etc.).
+
+    The rule is now applied selectively to standalone interactive
+    elements only. Inline <a> in prose, footnote refs, and title
+    links flow as normal inline text.
+    ────────────────────────────────────────────────────────────────────── */
+
+/* Buttons: 44px target with centered content */
 button {
   min-height: 44px;
   min-width: 44px;
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  /* Buttons center their content, which is appropriate */
 }
 
-.nav-menu a {
+/* Standalone interactive links (nav, header actions, footer lists,
+   pagination). Inline links in prose are intentionally NOT included. */
+.nav-menu a,
+.header-nav-link,
+.footer-section__list a,
+.footer-bottom__social a,
+.pagination a,
+.pagination .page-numbers {
   min-height: 44px;
   display: inline-flex;
   align-items: center;
