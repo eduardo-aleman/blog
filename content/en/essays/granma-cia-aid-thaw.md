@@ -18,18 +18,18 @@ On May 14, 2026, Granma — the official organ of the Central Committee of the C
 
 ## Article 1: Cuba Publicly Welcomes the CIA Director to Havana
 
-**URL:** <https://www.granma.cu/cuba/2026-05-14/informacion-del-gobierno-revolucionario>
+*URL:* <https://www.granma.cu/cuba/2026-05-14/informacion-del-gobierno-revolucionario>
 
-In a terse "Information from the Revolutionary Government" notice, Granma confirms that at the request of the US government, the "Direction of the Revolution" — the inner sanctum of party leadership — approved a visit by a delegation headed by **CIA Director John Ratcliffe**, who met with counterparts at Cuba's Ministry of the Interior (MININT).
+In a terse "Information from the Revolutionary Government" notice, Granma confirms that at the request of the US government, the "Direction of the Revolution" — the inner sanctum of party leadership — approved a visit by a delegation headed by *CIA Director John Ratcliffe*, who met with counterparts at Cuba's Ministry of the Interior (MININT).
 
 ### Why this is extraordinary
 
 For 65 years, the CIA has been the central villain of Cuban state mythology: the agency credited with the Bay of Pigs, the exploding-cigar plots against Fidel Castro, decades of covert operations. The standard Granma vocabulary for the CIA is *imperio*, *agresión*, *subversión*. Yet here Granma:
 
-- **Names Ratcliffe by name** and confirms the meeting at Cuban initiative-acceptance.
-- Frames the visit as contributing to **"political dialogue between both nations."**
-- States both sides have an interest in **"developing bilateral cooperation between law enforcement agencies."**
-- Repeats — for an unmistakably American audience — that **Cuba is not a threat to US national security** and that **there are no legitimate reasons to keep it on the State Sponsors of Terrorism list.**
+- *Names Ratcliffe by name* and confirms the meeting at Cuban initiative-acceptance.
+- Frames the visit as contributing to *"political dialogue between both nations."*
+- States both sides have an interest in *"developing bilateral cooperation between law enforcement agencies."*
+- Repeats — for an unmistakably American audience — that *Cuba is not a threat to US national security* and that *there are no legitimate reasons to keep it on the State Sponsors of Terrorism list.*
 
 Notably, the Cuban government was the first to reveal the meeting, beating the US announcement. That is not a leak — that is signaling. Havana wanted its domestic and international audiences to hear about this from Granma first.
 
@@ -37,17 +37,17 @@ The interlocutor matters too. Ratcliffe met with Interior Minister Lázaro Álva
 
 ## Article 2: Díaz-Canel Publicly Entertains a $100M US Aid Offer
 
-**URL:** <https://www.granma.cu/mundo/2026-05-14/podria-aliviarse-el-dano-de-un-modo-mas-facil-y-expedito-con-el-levantamiento-del-bloqueo>
+*URL:* <https://www.granma.cu/mundo/2026-05-14/podria-aliviarse-el-dano-de-un-modo-mas-facil-y-expedito-con-el-levantamiento-del-bloqueo>
 
 The second piece reproduces a thread from President Miguel Díaz-Canel's account on X, posted after — for the first time ever — the US State Department formalized a public offer of $100 million in aid to Cuba.
 
 Díaz-Canel's wording deserves close reading:
 
-- "Our country's experience receiving international aid, **including from the US**, is broad and constructive."
-- "If there is truly a willingness on the part of the US government to provide aid… **it will find no obstacles or ingratitude from Cuba**."
-- Priorities: **"fuels, food, and medicines."**
+- "Our country's experience receiving international aid, *including from the US*, is broad and constructive."
+- "If there is truly a willingness on the part of the US government to provide aid… *it will find no obstacles or ingratitude from Cuba*."
+- Priorities: *"fuels, food, and medicines."*
 - He still calls the embargo a "blockade" and insists the easier path is lifting it.
-- He closes by noting: **"our experience working with the Catholic Church is rich and productive."**
+- He closes by noting: *"our experience working with the Catholic Church is rich and productive."*
 
 ### What changed in the Granma vocabulary
 
@@ -61,8 +61,8 @@ Reading them in isolation, each is striking. Read together on the same day, they
 
 | Track | Article | Channel |
 |---|---|---|
-| **Security / intelligence** | CIA–MININT meeting | Ratcliffe ↔ Álvarez Casas, head of intelligence, Raulito Castro |
-| **Humanitarian / political** | $100M aid offer | State Department ↔ Díaz-Canel, mediated by Vatican |
+| *Security / intelligence* | CIA–MININT meeting | Ratcliffe ↔ Álvarez Casas, head of intelligence, Raulito Castro |
+| *Humanitarian / political* | $100M aid offer | State Department ↔ Díaz-Canel, mediated by Vatican |
 
 One article confirms that the hard-security file (terrorism list, intelligence cooperation, "Cuba is not a threat") is being negotiated by spies and police. The other confirms that the soft-political file (humanitarian aid, prisoners, the embargo) is being negotiated by presidents and prelates.
 
@@ -74,9 +74,9 @@ The Trump administration's leverage has been overwhelming: over 240 new sanction
 
 ## What to Watch
 
-1. **The SSOT list.** Granma's framing — Cuba "is not a threat," "does not harbor terrorists" — telegraphs that removal from the State Sponsors of Terrorism list is the headline concession Havana is seeking. The US reinstated Cuba on the list in February 2025; rescinding that designation would unlock banking and trade channels worth far more than $100M.
-2. **The price.** US officials are framing aid as contingent on "meaningful reforms to Cuba's communist system." Díaz-Canel's response carefully accepts the aid while rejecting the framing — a classic opening negotiating position.
-3. **The Catholic channel.** Díaz-Canel's pointed mention of the Church suggests the Vatican-mediated prisoner releases will continue and may scale up.
-4. **The hardliner reaction.** Publishing this in Granma — not just allowing it, but choosing it as the venue — means the leadership is preparing the cadre and the diaspora for a deal. Watch the next few days for op-eds clarifying the "principled" basis for engagement.
+1. *The SSOT list.* Granma's framing — Cuba "is not a threat," "does not harbor terrorists" — telegraphs that removal from the State Sponsors of Terrorism list is the headline concession Havana is seeking. The US reinstated Cuba on the list in February 2025; rescinding that designation would unlock banking and trade channels worth far more than $100M.
+2. *The price.* US officials are framing aid as contingent on "meaningful reforms to Cuba's communist system." Díaz-Canel's response carefully accepts the aid while rejecting the framing — a classic opening negotiating position.
+3. *The Catholic channel.* Díaz-Canel's pointed mention of the Church suggests the Vatican-mediated prisoner releases will continue and may scale up.
+4. *The hardliner reaction.* Publishing this in Granma — not just allowing it, but choosing it as the venue — means the leadership is preparing the cadre and the diaspora for a deal. Watch the next few days for op-eds clarifying the "principled" basis for engagement.
 
 The deeper signal is the simplest one: when Granma stops calling the CIA director *"el director de la CIA, John Ratcliffe"* with scare quotes and instead reports his visit as a routine bilateral engagement, the editorial line is moving in advance of the policy. In Cuban state media, that has historically been the leading indicator.
