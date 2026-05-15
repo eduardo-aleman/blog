@@ -539,10 +539,12 @@
 .article-title a {
   color: inherit;
   text-decoration: none;
-  display: block;  /* Block ensures full-width clickable area */
-  text-align: left !important;
-  justify-content: flex-start !important;
-  width: 100% !important;
+  display: block;  /* CRITICAL: block display avoids flex wrapping issues */
+  text-align: left;
+  width: 100%;
+  word-wrap: break-word;      /* Handle long titles gracefully */
+  overflow-wrap: break-word;  /* Fallback for older browsers */
+  hyphens: auto;              /* Optional: allow hyphenation */
 }
 
 .article-title a:hover {
