@@ -2,8 +2,6 @@
 title: "De Platón a Penrose: una historia intelectual del alma y la consciencia"
 date: 2026-03-15
 summary: "Desde Platón hasta Penrose, la historia del alma y de la consciencia ha oscilado entre la trascendencia metafísica y la inmanencia funcional, entre el conocimiento del Bien y la información integrada, entre la inmortalidad espiritual y los colapsos cuánticos."
-categories:
-  - Microensayo
 tags:
   - filosofía
   - platonismo

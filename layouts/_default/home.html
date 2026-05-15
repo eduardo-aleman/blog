@@ -1,25 +1,30 @@
 {{ define "main" }}
 <div class="page-grid">
-  <!-- Essays Grid (9 items, distributed across 3 columns) -->
+  <!-- Essays Grid (up to 9 items, distributed across 3 columns) -->
   {{ $allPages := .Site.RegularPages }}
   {{ $pages := where $allPages "Kind" "page" }}
 
   {{ if gt (len $pages) 0 }}
 
-    {{/* Case-insensitive split on .Params.category.
-         Works whether front matter reads:
-           category: editorial
-           category: Editorial
-           category: EDITORIAL
-         If a page has no category set, it falls into microessays. */}}
+    {{/* Split pages by whether .Params.categories contains "editorial".
+         - .Params.categories is an ARRAY (e.g. [editorial], [Microessays]),
+           so we range over it and lowercase each entry for comparison.
+         - Posts without a categories field, or without "editorial" in it,
+           fall into microessays. */}}
     {{ $editorial := slice }}
     {{ $microessays := slice }}
     {{ range $pages }}
-      {{ $cat := lower (.Params.category | default "") }}
-      {{ if eq $cat "editorial" }}
-        {{ $editorial = $editorial | append . }}
+      {{ $page := . }}
+      {{ $isEditorial := false }}
+      {{ range ($page.Params.categories | default slice) }}
+        {{ if eq (lower .) "editorial" }}
+          {{ $isEditorial = true }}
+        {{ end }}
+      {{ end }}
+      {{ if $isEditorial }}
+        {{ $editorial = $editorial | append $page }}
       {{ else }}
-        {{ $microessays = $microessays | append . }}
+        {{ $microessays = $microessays | append $page }}
       {{ end }}
     {{ end }}
 

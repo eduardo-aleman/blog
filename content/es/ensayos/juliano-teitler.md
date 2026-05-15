@@ -2,8 +2,6 @@
 title: "Introducción de 'El último emperador pagano' de H. C. Teitler"
 date: 2026-04-16
 summary: "Primera entrega de la traducción completa de la obra de H.C. Teitler. Esta introducción plantea el conflicto central del libro: la reconstrucción de la verdadera figura de Juliano frente a la distorsión de las leyendas paganas y cristianas sobre su muerte y su política religiosa."
-categories:
-  - Editorial
 tags:
   - paganismo
   - roma
