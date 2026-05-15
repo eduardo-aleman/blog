@@ -11,7 +11,7 @@ tags:
   - Granma
   - Diplomacy
 image: "/images/posts/granma-cia-aid-thaw/la_habana.jpg"
-image_caption: "La rampa, La Habana, Cuba. Memoria de mi visita en el 2026."
+image_caption: "La Habana, Cuba. Memoria de mi visita en el 2026."
 ---
 
 On May 14, 2026, Granma — the official organ of the Central Committee of the Communist Party of Cuba — published two articles whose tone, content, and even existence break decisively with six decades of editorial line. Together they signal that something fundamental has shifted in Havana's posture toward Washington.
