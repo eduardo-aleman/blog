@@ -10,7 +10,7 @@ tags:
 image: /images/posts/murdoch-soberania-del-bien/iris_murdoch.webp
 ---
 
-Iris Murdoch held a singular, transformative perspective on metaphor. In her seminal work, _Metaphysics as a Guide to Morals_, she explores how metaphorical thinking does not merely describe our reality—it fundamentally constructs our moral lives.
+Iris Murdoch held a singular, transformative perspective on metaphor. In her book, _Metaphysics as a Guide to Morals_, she explores how metaphorical thinking does not merely describe our reality—it fundamentally constructs our moral lives.
 
 Murdoch argues that metaphors are far more than linguistic ornaments or "poetic" flourishes. Instead, they are the essential instruments through which we navigate existence. For Murdoch, a metaphor isn't just a way of speaking; it is a way of seeing. By shaping our internal landscape, metaphors influence how we relate to reality and, ultimately, how we treat one another.
 
