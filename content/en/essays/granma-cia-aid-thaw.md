@@ -3,7 +3,7 @@ title: "Two Unprecedented Granma Articles: A Strategic Shift in Havana"
 date: 2026-05-14
 summary: "On May 14, 2026, Cuba’s state newspaper Granma signaled a departure from decades of isolationist rhetoric. By reporting a high-level meeting with CIA Director John Ratcliffe and President Díaz-Canel’s openness to $100 million in US aid, the Cuban government is utilizing its official organ to prepare the public for a two-track negotiation involving security cooperation and humanitarian relief."
 categories:
-  - Editorial
+  - editorial
 tags:
   - Cuba
   - United States
