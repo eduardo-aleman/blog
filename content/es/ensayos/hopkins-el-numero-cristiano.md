@@ -157,8 +157,6 @@ Estos argumentos tienen fortalezas y debilidades. Sin duda, a medida que el cris
 
 Complementariamente, la retórica de la sencillez y el llamamiento a los tontos y a los pobres era sólo eso, una obra de teatro retórica. Sacó lo mejor del humilde origen de Jesús en el mundo urbano de la cultura helenizada en el que se vendía el mensaje del evangelio. Pero, ¿por qué el mensaje tuvo tanto éxito? ¿Cómo pudo permanecer prácticamente sin cambios en su enfoque principal, a medida que el cristianismo ascendía socialmente?54 Me pregunto si la respuesta reside en parte en lo pronunciado de la pirámide social y en el pequeño tamaño de su pirámide de clase social. La sociedad romana exigía una mezcla incómoda de deferencia generalizada hacia los superiores y brutalidad abiertamente agresiva hacia los inferiores, no sólo hacia los esclavos. Era un mundo de deferencia y condescendencia, de órdenes bruscas y amenazas generalizadas. Fue en este mundo donde casi todo el mundo, incluso un senador mediocre con unos ingresos que podrían sustentar a miles de personas, podía imaginarse a sí mismo pobre. Es mejor considerar la pobreza como una categoría subjetiva, no objetiva.
 
-## Notas
-
 \* Publicado por primera vez en Journal of Early Christian Studies 6 (1998) 185–226 (= Hopkins 1998).
 
 \*\* 〈Tert. _Scap_. , ed. V. Bulhart, CSEL 76, Vienna, 1957; Origen, _C. Cels_. , ed. M. Marcovich, _Vigiliae Christianae_ supplement 54, Leiden, 2001. 〉

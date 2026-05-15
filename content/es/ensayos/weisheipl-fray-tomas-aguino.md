@@ -290,8 +290,6 @@ Además del hecho de que fue idea de Alberto enviar a Tomás inmediatamente a Pa
 
 Así, en el otoño de 1252, Tomás se fue al Priorato de Saint-Jacques en París para prepararse para comenzar a enseñar las _Sentencias_. Eran tiempos difíciles en París. Las relaciones amistosas que existían anteriormente entre los dominicos y los maestros seculares de la universidad se habían convertido en odio amargo y fuerte oposición. Fue a este medio al que enviaron a Tomás, demasiado joven de años y demasiado reacio de corazón para involucrarse en controversias. La controversia antimendicante eclipsará todos los días de Tomás en París. El París en el que entró Tomás era un París muy diferente del que Alberto había conocido diez años antes. Quizás Alberto no se dio cuenta de esto; o si lo hizo, tenía gran confianza en el Tomás que "descubrió".
 
-## Notas
-
 1. Gui, Legenda, c. 39: «inchoante tunc dominicae incarnationis anno MCCLXXIIII, vitae autem suae anno XLIX terminante et anno quinquagesimo inchoante.» Fontes 205.
 2. Hist. Eccl., lib. 23, c. 10, Muratori, Rerum Ital. Script. XI, col. 1 1 7 0 : «abiit autem quinquagesimo vitae suae anno, alii dicunt XLIV, habeos in Magisterio annos XX.» Aunque Muratori da la lectura como «cuarenta y cuatro» en lugar de «cuarenta y ocho», la lectura correcta es la última, según la corrección proporcionada por B. de Rubeis en su Dissertationes criticae I, c. 8, y por P. Mandonnet, «Date de naissance de S. Thomas d’Aquin,» Revue Thomiste 22 (1914); 652, fn. 1.
 3. Proc. canoniz. Neapoli, c. 19: «videbatur sibi quod fuerit quinquagenarins vel sexagenarius.» Fontes 291.
