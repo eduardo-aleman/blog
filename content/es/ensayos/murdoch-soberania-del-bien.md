@@ -11,6 +11,7 @@ tags:
   - filosofía moral
   - traducción
 image: /images/posts/murdoch-soberania-del-bien/iris_murdoch.webp
+image_caption: "La novelista y filósofa británica Iris Murdoch (1919–1999) fue una autora prolífica, conocida principalmente por sus 26 novelas, en las que exploraba temas como el bien, el mal y las relaciones sexuales. Su novela de 1978, The Sea, The Sea, ganó el prestigioso Premio Booker. Además de su obra de ficción, Murdoch desarrolló una destacada carrera como filósofa en Oxford, especializándose en teoría moral y ética."
 ---
 
 Iris Murdoch tenía una perspectiva singular sobre las metáforas, que exploró con frecuencia en sus escritos filosóficos. En _La metafísica como guía para la moral_, una colección de sus ensayos más prominentes, profundiza en el papel del pensamiento metafórico en la configuración de nuestra comprensión de la realidad y de nuestra vida moral.
