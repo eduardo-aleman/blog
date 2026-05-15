@@ -13,13 +13,13 @@ tags:
 image: /images/posts/murdoch-soberania-del-bien/iris_murdoch.webp
 ---
 
-Iris Murdoch tenía una perspectiva singular sobre las metáforas, que exploró con frecuencia en sus escritos filosóficos. En _La metafísica como guía para la moral_, profundiza en el papel del pensamiento metafórico en la configuración de nuestra comprensión de la realidad y de nuestra vida moral.
+Iris Murdoch tenía una perspectiva singular sobre las metáforas, que exploró con frecuencia en sus escritos filosóficos. En _La metafísica como guía para la moral_, una colección de sus ensayos más prominentes, profundiza en el papel del pensamiento metafórico en la configuración de nuestra comprensión de la realidad y de nuestra vida moral.
 
 Murdoch sostenía que las metáforas no son meros recursos lingüísticos, sino instrumentos esenciales con los que percibimos y damos sentido al mundo. Lejos de ser decorativas u ornamentales, pueden moldear profundamente nuestro pensamiento e influir en la manera en que nos relacionamos con la realidad.
 
 Según Murdoch, las metáforas desempeñan un papel crucial en la percepción y la comprensión morales: iluminan aspectos de nuestra experiencia que resultan difíciles de expresar directamente y nos ayudan a aprehender conceptos y relaciones éticas complejas. Funcionan también como herramientas de la imaginación moral, permitiéndonos concebir formas alternativas de ser y de actuar en el mundo.
 
-En su ensayo "La soberanía del bien sobre otros conceptos," Murdoch explora el bien como metáfora indispensable del pensamiento moral, y argumenta en contra de la noción predominante de que puede reducirse a un conjunto de reglas o principios, abogando en cambio por una comprensión más matizada y compleja de la conducta ética.
+"La soberanía del bien sobre otros conceptos," es el mejor ensayo del libro. Allí, Murdoch explora el bien como metáfora indispensable del pensamiento moral, y argumenta en contra de la noción predominante de que puede reducirse la moral a un conjunto de reglas o principios, abogando en cambio por una comprensión más matizada y compleja de la conducta ética.
 
 Un elemento central de su argumento es la idea de que el bien surge de un compromiso profundo con la realidad y de una atención moral genuina hacia las necesidades e intereses de los demás. Murdoch rechaza la idea del bien como mera abstracción o ideal, subrayando en cambio sus implicaciones prácticas para la conducta y las relaciones humanas.
 
