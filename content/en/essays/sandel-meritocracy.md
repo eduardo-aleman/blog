@@ -8,6 +8,7 @@ tags:
   - politics
   - meritocracy
 image: "/images/posts/sandel-meritocracy/MichaelSandel.jpg"
+image_caption: "Michael Sandel, a renowned American political philosopher and professor at Harvard University."
 ---
 
 Michael Sandel is not against success; he is against the story we tell about it.
