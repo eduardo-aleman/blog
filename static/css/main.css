@@ -166,7 +166,7 @@ sup a.footnote-ref {
   /* Very small size to minimize line spacing impact */
   font-size: 0.65em;
   font-weight: 600;
-  line-height: 1;
+  /* line-height removed - was creating unwanted gap */
   
   /* Compact vertical spacing */
   vertical-align: super;
@@ -199,7 +199,7 @@ sup a.footnote-ref:focus {
 
 /* Footnotes section at the bottom */
 .footnotes {
-  margin-top: var(--space-2xl);
+  margin-top: var(--space-lg);  /* Reduced from var(--space-2xl) */
   padding-top: var(--space-lg);
   border-top: 1px solid var(--color-border, #e5e7eb);
   font-size: 0.95em;
