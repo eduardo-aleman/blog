@@ -7,6 +7,7 @@ categories:
   - editorial
 tags: ["Cuba", "U.S. foreign policy", "Monroe Doctrine", "Platt Amendment", "history"]
 image: "/images/posts/from-monroe-to-ratcliffe/cuba_memory_2007.JPG"
+image_caption: "Two flags sharing a suction cup on a Havana windshield — a level of diplomatic intimacy that has, in the years since, proven harder to sustain than the adhesive. For a brief window after Obama's visit, the embargo felt like a thing you could squint past, like rain on glass, and the road ahead looked open even if the wipers couldn't quite keep up. The cabbie didn't mention politics. He didn't have to. The dashboard was doing the talking, and somewhere between the star and the stripes, someone in Washington was already drafting a sequel nobody asked for."
 ---
 
 ## Cuba on the News
