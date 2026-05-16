@@ -6,6 +6,7 @@ description: "A historical backdrop to the 2026 confrontation with Havana — fr
 categories:
   - editorial
 tags: ["Cuba", "U.S. foreign policy", "Monroe Doctrine", "Platt Amendment", "history"]
+image: "/images/posts/from-monroe-to-ratcliffe/cuba_memory_2007.JPG"
 ---
 
 ## Cuba on the News
