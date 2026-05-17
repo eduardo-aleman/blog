@@ -264,33 +264,3 @@ Khrushchev, Nikita S. *Memoirs of Nikita Khrushchev*. University Park: Pennsylva
 Thomas, Hugh. *Cuba: The Pursuit of Freedom*. Nueva York: Harper & Row, 1971.
 
 Torres-Cuevas, Eduardo y Oscar Loyola Vega. *Historia de Cuba: 1492–1898 — Formación y liberación de la nación*. La Habana: Editorial Pueblo y Educación, 2002.
-
----
-
-### 2. Sistema de Autor-Fecha (Author-Date)
-
-"CIA Director Visits Cuba." 2026. *The New York Times*, 14 de mayo de 2026. https://www.nytimes.com/2026/05/14/us/politics/cia-director-visits-cuba.html.
-
-"Cuba May Day: International Workers’ Day." 2026. *The New York Times*, 1 de mayo de 2026. https://www.nytimes.com/2026/05/01/world/americas/cuba-may-day-international-workers-day.html.
-
-"Cuba’s Energy Crisis in Photos." 2026. *The New York Times*, 15 de mayo de 2026. https://www.nytimes.com/2026/05/15/world/americas/cuba-energy-crisis-photos.html.
-
-"Cuba’s Military Conglomerate, GAESA: The Economy Explained." 2026. *The New York Times*, 16 de mayo de 2026. https://www.nytimes.com/interactive/2026/05/16/world/americas/cuba-military-conglomerate-gaesa-economy-explained.html.
-
-"Cuba’s Oil and Energy Crisis." 2026. *The New York Times*, 14 de mayo de 2026. https://www.nytimes.com/2026/05/14/world/americas/cuba-oil-energy-crisis.html.
-
-"Donald Trump Turns Up the Heat on Cuba." 2026. *Financial Times*, 16 de mayo de 2026. https://www.ft.com/content/fb62a4c4-6615-434e-a259-bc813a27ac6a.
-
-Ferrer, Ada. 2022. *Cuba: An American History*. Nueva York: Scribner.
-
-Franklin, Jane. 2016. *Cuba and the U.S. Empire: A Chronological History*. Nueva York: Monthly Review Press.
-
-Guerra, Ramiro. 2011–2024. *Historia de Cuba*. Tomos I–II. Barcelona: Linkgua Ediciones.
-
-Guerra y Sánchez, Ramiro, et al., eds. 1952. *Historia de la Nación Cubana: Cambio de soberanía, desde 1868 hasta 1902*. Vol. 3. La Habana: Editorial Historia de la Nación Cubana.
-
-Khrushchev, Nikita S. 2004. *Memoirs of Nikita Khrushchev*. University Park: Pennsylvania State University Press.
-
-Thomas, Hugh. 1971. *Cuba: The Pursuit of Freedom*. Nueva York: Harper & Row.
-
-Torres-Cuevas, Eduardo y Oscar Loyola Vega. 2002. *Historia de Cuba: 1492–1898 — Formación y liberación de la nación*. La Habana: Editorial Pueblo y Educación.
