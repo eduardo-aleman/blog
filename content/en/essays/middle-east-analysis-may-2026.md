@@ -4,8 +4,8 @@ date: 2026-05-16
 summary: "An analysis of the regional order taking shape after the U.S.-Israeli war with Iran, the Hormuz blockade, and the slow collapse of American security guarantees in the Gulf."
 description: "An analysis of the regional order taking shape after the U.S.-Israeli war with Iran, the Hormuz blockade, and the slow collapse of American security guarantees in the Gulf."
 tags: ["middle east", "iran", "geopolitics", "energy", "israel", "gulf states", "china"]
-image: "/images/posts/middle-east-analysis-may-2026/Reactions_to_the_2026_Iran_conflict.svg"
-image_caption: "Countries' reactions to the 2026 Iran war: combatants in dark red (US, Israel) and dark blue (Iran); supporters of the strikes in maroon, condemners of Iran's retaliation in red, condemners of the strikes in blue, condemners of both in magenta, and calls for peace in green."
+image: "/images/posts/middle-east-analysis-may-2026/Mersad_Air_Defense_System_with_Shahin_Missile.jpg"
+image_caption: "The system shown is the Iranian Mersad (Ambush) low- to mid-range air defense system, first developed in 2010. It is designed to fire Shahin (Falcon) missiles, which are domestically upgraded, reverse-engineered versions of the American MIM-23 Hawk surface-to-air missiles. The system includes radar components and a control station for detecting and engaging aircraft, helicopters, and cruise missiles. Variants of the system, such as the Mersad Phase I, have been tested by Iran to improve capabilities against modern threats."
 ---
 
 The Middle East in May 2026 is not the Middle East of a year ago, and the headlines of the past week make clear how comprehensively the February strikes have reordered it. The killing of Supreme Leader Ayatollah Ali Khamenei on February 28, the ongoing blockade of the Strait of Hormuz, and the steady drumbeat of secondary operations from Gaza to southern Lebanon together describe a region in which the old equilibria — American security guarantees, Iranian deterrence, Gulf neutrality, and predictable energy flows — have all collapsed at roughly the same time. What is taking their place is harder to name, but its outlines are becoming visible.
