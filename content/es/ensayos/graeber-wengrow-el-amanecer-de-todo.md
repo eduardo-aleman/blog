@@ -8,7 +8,7 @@ tags:
   - antropología
   - arqueología
 image: "/images/posts/graeber-wengrow-el-amanecer-de-todo/Graeber-and-Wengrow.jpg"
-image_caption: "David Wengrow (left), a British archaeologist, and the late David Graeber (right), an American anthropologist."
+image_caption: "David Wengrow (izquierda), arqueólogo británico, y el difunto David Graeber (derecha), antropólogo estadounidense."
 ---
 
 La idea central de _El amanecer de todo_ es que la especie humana ha estado experimentando con diversas formas de organización social desde sus orígenes. El _Homo sapiens_, tal como afirmó Aristóteles, es un _animal político_. A lo largo de los siglos, el ser humano ha debido escoger, negociar e imaginar distintas formas de convivencia, lo que ha definido su _ethos_.

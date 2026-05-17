@@ -8,7 +8,7 @@ tags:
   - teología
   - traducción
 image: "/images/posts/weisheipl-fray-tomas-aguino/Tomás_Aquino_Triunfo.webp"
-image_caption: "The Triumph of Saint Thomas Aquinas painting by Benozzo Gozzoli, created between 1470 and 1475. Saint Thomas Aquinas is depicted throned within a golden sun, holding an open book. He is flanked by the ancient philosophers Aristotle (left) and Plato (right), highlighting the synthesis of classical philosophy with Christian theology. Below Aquinas lies Averroes, a Muslim philosopher whose commentaries on Aristotle influenced Aquinas's work. The painting is part of the collection at the Louvre Museum in Paris."
+image_caption: "La pintura El triunfo de Santo Tomás de Aquino, de Benozzo Gozzoli, fue creada entre 1470 y 1475. Santo Tomás de Aquino aparece representado entronizado dentro de un sol dorado, sosteniendo un libro abierto. Está flanqueado por los filósofos de la Antigüedad Aristóteles (a la izquierda) y Platón (a la derecha), lo que destaca la síntesis entre la filosofía clásica y la teología cristiana. Debajo de Aquino yace Averroes, un filósofo musulmán cuyos comentarios sobre Aristóteles influyeron en la obra de Aquino. La pintura forma parte de la colección del Museo del Louvre en París."
 ---
 
 Fray Tomás de Aquino.  
