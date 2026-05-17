@@ -1,5 +1,5 @@
 baseURL = 'https://blog.ealeman.com/'
-title = 'Eduardo Alemán'
+title = 'Eduardo Alemán - Blog'
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = true
 enableRobotsTXT = true
