@@ -222,7 +222,7 @@ To fund these social programs, the government levied heavy taxes on foreign corp
 
 Ultimately, the stability of the *Pax Batistiana* proved short-lived. Batista's populist promises ran into a severe economic downturn between 1937 and 1939, driven by a poor sugar harvest and a lack of financial assistance from the United States.
 
-       [ CUBAN ECONOMIC INDICATORS (1937-1939) ]
+[ CUBAN ECONOMIC INDICATORS (1937-1939) ]
 
 $100M +-------------------------------------------------------+
       |  $99M (Exports)                                       |
