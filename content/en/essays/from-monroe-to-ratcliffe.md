@@ -28,11 +28,11 @@ The roots of this confrontation run deeper than the current crisis. A brief hist
 
 In his 1823 annual address to Congress, President James Monroe established the Monroe Doctrine, declaring the Western Hemisphere a sphere of United States influence and warning European powers against further interference in the Americas. Although originally intended to deter European colonization, the doctrine has met with mixed reactions from neighboring nations.
 
-South American republics initially embraced it as a necessary safeguard for their newly won independence, particularly as they lacked the naval strength to repel imperial encroachment by powers such as Spain or France. During the administration of Ulysses S. Grant (1869–1877), the policy was largely viewed as a protective measure for hemispheric liberty. A notable application occurred in 1865, when U.S. diplomatic and military pressure supported Mexican President Benito Juárez in his successful struggle against the French-installed Emperor Maximilian.
+South American republics initially embraced it as a necessary safeguard for their newly won independence, particularly as they lacked the naval strength to repel imperial encroachment by powers such as Spain or France. A notable early application came in the mid-1860s, when U.S. diplomatic and military pressure supported Mexican President Benito Juárez in his successful struggle against the French-installed Emperor Maximilian. Through the administration of Ulysses S. Grant (1869–1877), the doctrine was still largely viewed as a protective measure for hemispheric liberty.
 
 The Spanish-American War served as a critical pivot point, shifting the United States toward an interventionist foreign policy. By acquiring territories such as Puerto Rico, Guam, and the Philippines—and annexing Hawaii in the same period—the U.S. began projecting its sovereignty globally. This era saw an effort to impose North American legal and social systems on local traditions, often producing lasting political instability and regional friction.
 
-In 1904, Theodore Roosevelt further transformed this policy through the Roosevelt Corollary, which asserted an "international police power" to manage financial instability and "chronic wrongdoing" in Latin America. This expansion justified numerous military deployments, including the dispatch of U.S. Marines to Santo Domingo in 1904, Nicaragua in 1912, and Haiti in 1915. These actions were met with deep mistrust by Latin American neighbors, producing decades of tension.
+In 1904, Theodore Roosevelt further transformed this policy through the Roosevelt Corollary, which asserted an "international police power" to manage financial instability and "chronic wrongdoing" in Latin America. This expansion justified numerous military deployments, including the dispatch of U.S. Marines to Nicaragua in 1912, Haiti in 1915, and Santo Domingo in 1916. These actions were met with deep mistrust by Latin American neighbors, producing decades of tension.
 
 ## Cuba's Independence
 
@@ -89,7 +89,7 @@ Independence and industrialization altered the context but not the underlying mo
 
 The Gómez years were further defined by three major scandals. The first concerned a loan arranged before he took office: Magoon's $16.5 million issue, floated through Speyer & Co.—a New York bank of German-Jewish origin—and earmarked for infrastructure projects in Havana and Cienfuegos. Despite massive expenditures, Gómez announced in 1912 that millions more were needed, sparking public outcry. The second scandal involved the Arsenal Lands, a project for the relocation of the United Railway station that proved fraudulent and of dubious public benefit. The third, and most consequential, was the Ports Company affair: a dredging contract awarded to political cronies, among them the American engineer Colonel Tillinghast L'Hommedieu Huston (later, a co-owner of the New York Yankees). The company secured a thirty-year contract to collect harbor fees on goods entering Cuban ports, but the arrangement was annulled by Gómez's successor amid allegations of illegal advances and a massive deficit.
 
-Violence also resurfaced during this period, signaling a decay in constitutional governance. The 1909 shooting of Captain Manuel Lavastida "while trying to escape"—the recurring formula of the *ley de fuga*—caused a scandal, and Gómez's subsequent removal of the judges who had condemned the responsible officers undermined the spirit of the law. In 1910, an attempt to muzzle the press through a "National Defense" law led to the imprisonment and fining of various editors. This climate of repression prompted General Vicente Miret's rebellion in 1912, and later that year the chief of the army, General Faustino "Pino" Guerra, was shot under unexplained circumstances as he left the presidential palace. Unrest reached a peak when veterans of the independence struggle attacked Spanish sympathizers in the civil service, leading U.S. Secretary of State Philander Knox to express "grave concern" over the situation in Cuba.
+Violence also resurfaced during this period, signaling a decay in constitutional governance. The 1909 shooting of Captain Manuel Lavastida "while trying to escape"—the recurring formula of the *ley de fuga*—caused a scandal, and Gómez's subsequent removal of the judges who had condemned the responsible officers undermined the spirit of the law. In October 1910, the chief of the army, General Faustino "Pino" Guerra, was shot and wounded as he left the presidential palace; his assailant, captured at the scene, proved to be a member of the secret police, and the political motives behind the attempt were never publicly clarified. That same year an effort to muzzle the press through a "National Defense" law led to the imprisonment and fining of various editors. This climate of repression prompted General Vicente Miret's rebellion in 1912, and unrest reached a peak when veterans of the independence struggle attacked Spanish sympathizers in the civil service, leading U.S. Secretary of State Philander Knox to express "grave concern" over the situation in Cuba.
 
 Finally, the Gómez administration was responsible for reinstating two quintessential social activities of old Cuba: cockfighting and the national lottery. Cockfighting, abolished under Wood, was revived as one of Gómez's first acts in office, fulfilling a campaign promise symbolized by the Liberal Party's emblem of a cock on a plough. The national lottery, banned since 1898, was likewise restored, despite having been described by Senator Martín Morúa Delgado as "social gangrene."
 
@@ -113,7 +113,7 @@ In 1928, after seizing control of the electoral framework, Machado secured his r
 
 By 1933, the traditional 120-day Cuban sugar harvest had shrunk to just 66 days. This drastic reduction crippled the domestic workforce and ignited severe labor unrest across the island, prompting workers to launch strikes and occupy processing facilities to demand fair wages. As Cuba descended into open revolution, U.S. President Franklin D. Roosevelt dispatched Assistant Secretary of State Sumner Welles to Havana as Ambassador Extraordinary and Plenipotentiary. Recognizing that Machado was beyond saving, Welles began exploring political alternatives—an arrangement that would preserve U.S. interests through an orderly succession rather than allow the revolution to determine the outcome on its own terms. On August 12, 1933, besieged by a nationwide general strike and abandoned by his own military, Machado fled the country, taking refuge first in the Bahamas before eventually arriving in the United States. With Welles's backing, the elder statesman Carlos Manuel de Céspedes y Quesada—son of the founding father of Cuban independence—was installed as provisional president. The appointment was meant to reassure both Washington and the Cuban establishment, but it satisfied none of the revolutionary factions, students, or junior officers who had brought the regime down. Within weeks, on September 4, 1933, the so-called Sergeants' Revolt led by Fulgencio Batista would sweep Céspedes from office and inaugurate the next phase of the crisis.
 
-### Political Fragmentation and Ideological Shifts (1934)
+## Political Fragmentation and Ideological Shifts (1934)
 
 The opening months of 1934 saw relentless labor conflict, with over 100 strikes paralyzing the nation. By mid-February, only 30 of Cuba's 178 sugar mills were operational. Violent confrontations erupted between striking laborers and the rural guard at major plantations like Baguanos, Preston, and Tacajo, resulting in numerous worker casualties.
 
@@ -121,12 +121,11 @@ The unrest quickly spread beyond the sugar fields:
 
 - **Mining & Transport:** Violent strikes disrupted the Daiquiri and Firmeza mines, while a railway strike cut off travel to Camagüey and Oriente, forcing the military to assume municipal and industrial administration.  
 - **Public Sectors:** Public school teachers walked out, students struck on February 17, and a massive protest on January 20 united 25,000 medical and chemical professionals.  
-- **Manufacturing & Media:** A strike by 30,000 tobacco workers frozen exports, urban transit ground to a halt, and journalists ceased writing.
+- **Manufacturing & Media:** A strike by 30,000 tobacco workers froze exports, urban transit ground to a halt, and journalists ceased writing.
 
 By March 1934, approximately 200,000 workers were striking nationwide. Nightly bombings and shootings in Havana led contemporary observers to warn of an impending civil war between the military-backed government and the working-class majority.
 
-```
-
+```text
 [ 1934 CUBAN STUDENT & LEFTIST MOVEMENT ]
                           |
          +----------------+----------------+
@@ -137,22 +136,22 @@ By March 1934, approximately 200,000 workers were striking nationwide. Nightly b
                                (Communist-Aligned)
          |                                 |
          +----------------> <--------------+
-                Consumed by Bittersweet,
-                  Theoretical Debates
-
+              Both factions weakened by
+              internal disputes and
+              doctrinal infighting.
 ```
 
 Seeking a social-democratic path between the competing influences of Batista, the Communists, and Ramón Grau San Martín, Antonio Guiteras founded *Joven Cuba* (Young Cuba). Guiteras and Grau maintained a fragile alliance throughout 1934; however, while Grau remained exiled in Mexico, student leaders who rallied around Guiteras grew increasingly uncomfortable with his faction's aggressive tactics.
 
-This fractured environment allowed peripheral political figures to plot their own moves. From exile in Miami, former President Mario García Menocal used his personal wealth to fund opposition to the regime. On the far left, the Communist Party covertly directed the unrecognized labor federation, the *Confederación Nacional Obrera de Cuba*(CNOC), through its Secretary-General, César Vilar.
+This fractured environment allowed peripheral political figures to plot their own moves. From exile in Miami, former President Mario García Menocal used his personal wealth to fund opposition to the regime. On the far left, the Communist Party covertly directed the unrecognized labor federation, the *Confederación Nacional Obrera de Cuba* (CNOC), through its Secretary-General, César Vilar.
 
-## Batista’s Rise and Authoritarian Crackdowns (1934–1935)
+## Batista's Rise and Authoritarian Crackdowns (1934–1935)
 
-Batista masterfully exploited these internal political divisions. By late summer, he secured the backing of Cuba’s upper class—aligning himself with the interests of American diplomats Sumner Welles and Jefferson Caffery, who viewed his pragmatic charm as a stabilizing force for U.S. interests.
+Batista masterfully exploited these internal political divisions. By late summer, he secured the backing of Cuba's upper class—aligning himself with the interests of American diplomats Sumner Welles and Jefferson Caffery, who viewed his pragmatic charm as a stabilizing force for U.S. interests.
 
 As public disillusionment deepened, the prominent magazine *Bohemia* openly questioned whether the costly revolution had simply traded one dictatorship for another. In response to mounting dissent, President Carlos Mendieta suspended habeas corpus in October 1934, extending the suspension into early 1935. The regime introduced execution and life imprisonment for agricultural sabotage—such as burning sugarcane fields—and muzzled the press by jailing journalists, including the editor of *Bohemia*.
 
-Meanwhile, President Franklin D. Roosevelt’s administration focused primarily on domestic recovery. Having recently renounced the right to military intervention under the Good Neighbor Policy, Washington chose not to interfere as long as American lives and corporate assets remained secure. Beyond standard sugar quota negotiations, Cuban politics rarely reached the U.S. executive agenda.
+Meanwhile, President Franklin D. Roosevelt's administration focused primarily on domestic recovery. Having recently renounced the right to military intervention under the Good Neighbor Policy, Washington chose not to interfere as long as American lives and corporate assets remained secure. Beyond standard sugar quota negotiations, Cuban politics rarely reached the U.S. executive agenda.
 
 ## The General Strike of 1935
 
@@ -164,11 +163,11 @@ Constitutional rights were stripped, independent unions were outlawed, and compa
 
 After crushing his opposition, Batista pivoted in 1936 toward a progressive agenda, co-opting the very platforms championed by his exiled or suppressed rivals.
 
-### 1. Military-Led Rural Outreach (1936)
+### Military-Led Rural Outreach (1936)
 
 Batista used the armed forces to launch an extensive rural education initiative, building 705 civic-military schools. By summer, 750 army teachers were instructing 35,000 children and 20,000 adults in isolated regions that previously lacked educational access. He pledged an additional 1,000 schools for 1937, vastly boosting his public popularity.
 
-### 2. The "Three-Year Plan" (1937)
+### The "Three-Year Plan" (1937)
 
 Formally introduced on July 25, 1937, as the *Líneas Básicas del Programa del Plan Trienal*, this highly ambitious blueprint aimed to establish a state-directed "organic democracy" built on social solidarity.
 
@@ -180,7 +179,7 @@ Formally introduced on July 25, 1937, as the *Líneas Básicas del Programa del 
 - National literacy campaigns and agricultural diversification.  
 - *Historical Note:* Due to its idealistic and sweeping scope, critics mockingly dubbed it the "three-hundred-year plan."
 
-### 3. Agrarian Reform (1937–1938)
+### Agrarian Reform (1937–1938)
 
 In December 1937, Congress passed the Bill for the Colonisation, Reclamation, and Distribution of State Lands, aiming to convert unoccupied state property into smallholdings for 50,000 poor laborers.
 
@@ -190,7 +189,6 @@ In December 1937, Congress passed the Bill for the Colonisation, Reclamation, an
 | **Ownership Terms** | Recipients required to farm the land for six years before receiving official titles. |
 | **Squatter Protection** | Legal safeguards prevented the eviction of peasants on unclaimed lands. |
 | **Financial Support** | A $1 million state fund allocated for livestock, seeds, and tools during the dead season. |
-
 
 ## Strategic Alliances and Legal Shifts
 
@@ -217,7 +215,7 @@ It also revived the "80 Percent Law," which required the vast majority of employ
        [ Mass Repatriation (Jan 19, 1937) ]
        Targeted Haitian, Jamaican, and West Indian laborers.
 
-```       
+```
 
 On January 19, 1937, the government mobilized the Armed Forces and Labor Bureaus to deport West Indian laborers, framing the move as an effort to curb native unemployment. While mill owners faced frustrations with government Labor Exchanges and tried to bribe officials to keep foreign workers, their primary concern remained protecting skilled British and American technical staff rather than low-wage migrant laborers.
 
@@ -229,25 +227,13 @@ To fund these social programs, the government levied heavy taxes on foreign corp
 
 Ultimately, the stability of the *Pax Batistiana* proved short-lived. Batista's populist promises ran into a severe economic downturn between 1937 and 1939, driven by a poor sugar harvest and a lack of financial assistance from the United States.
 
-```text
-[ CUBAN ECONOMIC INDICATORS (1937–1939) ]
+| Indicator (USD) | 1937   | 1939   |
+|-----------------|--------|--------|
+| Exports         | $99M   | $60M   |
+| Imports         | $53M   | $45M   |
+| Revenue         | $36.4M | $31M   |
 
-$100M +------------------------------------------------+
-       | $99M (Exports)                               |
- $80M +----------------+                              |
-       |                \                             |
- $60M +                 +-----> $60M (Exports)       |
-       | $53M (Imports)  \                            |
- $40M +-------------------+-----> $45M (Imports)     |
-       | $36.4M (Revenue) \                           |
- $20M +--------------------+-----> $31M (Revenue)    |
-       |                                               
-   $0M +------------------------------------------------+
-         1937                                  1939
-
-```
-
-Despite shrinking revenues, the government refused to scale back public sector commitments or reduce military spending. Instead, it imposed new taxes on the sugar sector while Batista continued to use the promise of land distribution for political leverage. Lacking the funds to back his sweeping agenda, Batista’s progressive momentum stalled in a legislative deadlock, leaving the island facing rising unemployment, wage cuts, and renewed political instability.
+Despite shrinking revenues, the government refused to scale back public sector commitments or reduce military spending. Instead, it imposed new taxes on the sugar sector while Batista continued to use the promise of land distribution for political leverage. Lacking the funds to back his sweeping agenda, Batista's progressive momentum stalled in a legislative deadlock, leaving the island facing rising unemployment, wage cuts, and renewed political instability.
 
 Post-1940 Cuba emerged as a significantly more stable, modern, and democratic nation than the pre-1933 era. This political evolution established the groundwork for a fresh cycle of crisis and transformation. The primary focus of political discourse shifted; it was no longer about whether the state should be popular or national, but rather about defining what "popular" meant and determining which segments of the population truly represented the nation. While the struggle for social change persisted from 1940 to 1959, it operated under fundamentally different conditions.
 
