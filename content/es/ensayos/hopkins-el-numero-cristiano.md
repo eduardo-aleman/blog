@@ -1,7 +1,8 @@
 ---
 title: "El número cristiano y sus implicaciones"
 date: 2026-01-04
-summary: "Keith Hopkins uses demographic modeling to argue that early Christianity remained an extremely small minority within the Roman Empire for its first two centuries, despite later narratives portraying rapid mass conversion. He estimates that Christians represented only about 0.01% of the population by 100 CE and less than 0.5% by 200 CE, before exponential growth brought the movement to roughly 6 million adherents by 300 CE. Hopkins emphasizes that ancient Christian and pagan sources are unreliable and often exaggerated, making sociological modeling more useful than traditional textual accounts alone. The essay ultimately argues that a disciplined, highly networked minority was able to transform Roman society and institutions on a civilizational scale."
+summary: >-
+  Keith Hopkins uses demographic modeling to argue that early Christianity remained an extremely small minority within the Roman Empire for its first two centuries, despite later narratives portraying rapid mass conversion. He estimates that Christians represented only about 0.01% of the population by 100 CE and less than 0.5% by 200 CE, before exponential growth brought the movement to roughly 6 million adherents by 300 CE. Hopkins emphasizes that ancient Christian and pagan sources are unreliable and often exaggerated, making sociological modeling more useful than traditional textual accounts alone. The essay ultimately argues that a disciplined, highly networked minority was able to transform Roman society and institutions on a civilizational scale.
 categories:
   - Editorial
 tags:
@@ -10,8 +11,8 @@ tags:
   - ciencias sociales
   - traducción
 image: "/images/posts/hopkins-el-numero-cristiano/Ms_Greek_P_457.jpg"
-image_caption: "The Rylands Library Papyrus P52 (also known as the St. John’s Fragment) is the oldest known surviving fragment of the New Testament. Measuring roughly \(3.5 \times 2.5\) inches, it contains portions of the Gospel of John (18:31–33 on the recto and 18:37–38 on the verso) and is housed at the John Rylands Research Institute and Library in Manchester, UK.  Paleographical analysis typically dates the fragment to the first half of the 2nd century, generally between \(117\) and \(150\) AD. Because it is dated so closely to the presumed original writing of the Gospel of John, it serves as crucial historical evidence for the rapid circulation of the New Testament across the Roman Empire. Unlike earlier scrolls, P52 is a leaf from a codex (an early bound book), showing that early Christians were among the pioneers of this book format. The surviving Greek text contains the dialogue between Pontius Pilate and Jesus during his trial, specifically focusing on the nature of truth."
-
+image_caption: >-
+  The Rylands Library Papyrus P52 (also known as the St. John’s Fragment) is the oldest known surviving fragment of the New Testament. Measuring roughly \(3.5 \times 2.5\) inches, it contains portions of the Gospel of John (18:31–33 on the recto and 18:37–38 on the verso) and is housed at the John Rylands Research Institute and Library in Manchester, UK.  Paleographical analysis typically dates the fragment to the first half of the 2nd century, generally between \(117\) and \(150\) AD. Because it is dated so closely to the presumed original writing of the Gospel of John, it serves as crucial historical evidence for the rapid circulation of the New Testament across the Roman Empire. Unlike earlier scrolls, P52 is a leaf from a codex (an early bound book), showing that early Christians were among the pioneers of this book format. The surviving Greek text contains the dialogue between Pontius Pilate and Jesus during his trial, specifically focusing on the nature of truth.
 ---
 
 ## Introducción
