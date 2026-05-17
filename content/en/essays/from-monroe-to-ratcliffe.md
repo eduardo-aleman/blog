@@ -111,7 +111,7 @@ That fragility was the inheritance Menocal's successors faced. Gerardo Machado c
 
 In 1928, after seizing control of the electoral framework, Machado secured his reelection and decreed a new six-year presidential mandate. As internal rebellions intensified, his security forces acquired a gruesome reputation for systemic torture and extrajudicial executions. Opposition meanwhile gathered momentum at the University of Havana, where the *Directorio Estudiantil Universitario*—reconstituted in 1927—served as one of the principal vehicles of resistance. Confrontation reached a critical juncture on September 30, 1930, when police killed the Directorio leader Rafael Trejo during a student demonstration; his death catalyzed the broader urban opposition that would converge over the next three years, drawing in the clandestine ABC Society, the Communist Party, and dissident officers within the armed forces.
 
-By 1933,the traditional 120-day Cuban sugar harvest had shrunk to just 66 days. This drastic reduction crippled the domestic workforce and ignited severe labor unrest across the island, prompting workers to launch strikes and occupy processing facilities to demand fair wages. As Cuba descended into open revolution, U.S. President Franklin D. Roosevelt dispatched Assistant Secretary of State Sumner Welles to Havana as Ambassador Extraordinary and Plenipotentiary. Recognizing that Machado was beyond saving, Welles began exploring political alternatives—an arrangement that would preserve U.S. interests through an orderly succession rather than allow the revolution to determine the outcome on its own terms. On August 12, 1933, besieged by a nationwide general strike and abandoned by his own military, Machado fled the country, taking refuge first in the Bahamas before eventually arriving in the United States. With Welles's backing, the elder statesman Carlos Manuel de Céspedes y Quesada—son of the founding father of Cuban independence—was installed as provisional president. The appointment was meant to reassure both Washington and the Cuban establishment, but it satisfied none of the revolutionary factions, students, or junior officers who had brought the regime down. Within weeks, on September 4, 1933, the so-called Sergeants' Revolt led by Fulgencio Batista would sweep Céspedes from office and inaugurate the next phase of the crisis.
+By 1933, the traditional 120-day Cuban sugar harvest had shrunk to just 66 days. This drastic reduction crippled the domestic workforce and ignited severe labor unrest across the island, prompting workers to launch strikes and occupy processing facilities to demand fair wages. As Cuba descended into open revolution, U.S. President Franklin D. Roosevelt dispatched Assistant Secretary of State Sumner Welles to Havana as Ambassador Extraordinary and Plenipotentiary. Recognizing that Machado was beyond saving, Welles began exploring political alternatives—an arrangement that would preserve U.S. interests through an orderly succession rather than allow the revolution to determine the outcome on its own terms. On August 12, 1933, besieged by a nationwide general strike and abandoned by his own military, Machado fled the country, taking refuge first in the Bahamas before eventually arriving in the United States. With Welles's backing, the elder statesman Carlos Manuel de Céspedes y Quesada—son of the founding father of Cuban independence—was installed as provisional president. The appointment was meant to reassure both Washington and the Cuban establishment, but it satisfied none of the revolutionary factions, students, or junior officers who had brought the regime down. Within weeks, on September 4, 1933, the so-called Sergeants' Revolt led by Fulgencio Batista would sweep Céspedes from office and inaugurate the next phase of the crisis.
 
 ### Political Fragmentation and Ideological Shifts (1934)
 
@@ -119,14 +119,15 @@ The opening months of 1934 saw relentless labor conflict, with over 100 strikes 
 
 The unrest quickly spread beyond the sugar fields:
 
-* **Mining & Transport:** Violent strikes disrupted the Daiquiri and Firmeza mines, while a railway strike cut off travel to Camagüey and Oriente, forcing the military to assume municipal and industrial administration.  
-* **Public Sectors:** Public school teachers walked out, students struck on February 17, and a massive protest on January 20 united 25,000 medical and chemical professionals.  
-* **Manufacturing & Media:** A strike by 30,000 tobacco workers frozen exports, urban transit ground to a halt, and journalists ceased writing.
+- **Mining & Transport:** Violent strikes disrupted the Daiquiri and Firmeza mines, while a railway strike cut off travel to Camagüey and Oriente, forcing the military to assume municipal and industrial administration.  
+- **Public Sectors:** Public school teachers walked out, students struck on February 17, and a massive protest on January 20 united 25,000 medical and chemical professionals.  
+- **Manufacturing & Media:** A strike by 30,000 tobacco workers frozen exports, urban transit ground to a halt, and journalists ceased writing.
 
 By March 1934, approximately 200,000 workers were striking nationwide. Nightly bombings and shootings in Havana led contemporary observers to warn of an impending civil war between the military-backed government and the working-class majority.
 
 ```
-       [ 1934 CUBAN STUDENT & LEFTIST MOVEMENT ]
+
+[ 1934 CUBAN STUDENT & LEFTIST MOVEMENT ]
                           |
          +----------------+----------------+
          |                                 |
@@ -138,6 +139,7 @@ By March 1934, approximately 200,000 workers were striking nationwide. Nightly b
          +----------------> <--------------+
                 Consumed by Bittersweet,
                   Theoretical Debates
+
 ```
 
 Seeking a social-democratic path between the competing influences of Batista, the Communists, and Ramón Grau San Martín, Antonio Guiteras founded *Joven Cuba* (Young Cuba). Guiteras and Grau maintained a fragile alliance throughout 1934; however, while Grau remained exiled in Mexico, student leaders who rallied around Guiteras grew increasingly uncomfortable with his faction's aggressive tactics.
@@ -148,7 +150,7 @@ This fractured environment allowed peripheral political figures to plot their ow
 
 Batista masterfully exploited these internal political divisions. By late summer, he secured the backing of Cuba’s upper class—aligning himself with the interests of American diplomats Sumner Welles and Jefferson Caffery, who viewed his pragmatic charm as a stabilizing force for U.S. interests.
 
-As public disillusionment deepened, the prominent magazine *Bohemia* openly questioned whether the costly revolution had simply traded one dictatorship for another. In response to mounting dissent, President Carlos Mendieta suspended habeas corpus in October 1934, extending the suspension into early 1935\. The regime introduced execution and life imprisonment for agricultural sabotage—such as burning sugarcane fields—and muzzled the press by jailing journalists, including the editor of *Bohemia*.
+As public disillusionment deepened, the prominent magazine *Bohemia* openly questioned whether the costly revolution had simply traded one dictatorship for another. In response to mounting dissent, President Carlos Mendieta suspended habeas corpus in October 1934, extending the suspension into early 1935. The regime introduced execution and life imprisonment for agricultural sabotage—such as burning sugarcane fields—and muzzled the press by jailing journalists, including the editor of *Bohemia*.
 
 Meanwhile, President Franklin D. Roosevelt’s administration focused primarily on domestic recovery. Having recently renounced the right to military intervention under the Good Neighbor Policy, Washington chose not to interfere as long as American lives and corporate assets remained secure. Beyond standard sugar quota negotiations, Cuban politics rarely reached the U.S. executive agenda.
 
@@ -158,39 +160,39 @@ In March 1935, Cuba faced a massive general strike involving roughly 500,000 wor
 
 Constitutional rights were stripped, independent unions were outlawed, and companies like the Shell-Mexican Petroleum Company and the United Railways of Havana blacklisted union members. With over 1,000 strikers jailed by mid-March, the workforce capitulated.
 
-## **The Pivot to Progressive Populism (1936–1939)**
+## The Pivot to Progressive Populism (1936–1939)
 
 After crushing his opposition, Batista pivoted in 1936 toward a progressive agenda, co-opting the very platforms championed by his exiled or suppressed rivals.
 
-### **1\. Military-Led Rural Outreach (1936)**
+### 1. Military-Led Rural Outreach (1936)
 
 Batista used the armed forces to launch an extensive rural education initiative, building 705 civic-military schools. By summer, 750 army teachers were instructing 35,000 children and 20,000 adults in isolated regions that previously lacked educational access. He pledged an additional 1,000 schools for 1937, vastly boosting his public popularity.
 
-### **2\. The "Three-Year Plan" (1937)**
+### 2. The "Three-Year Plan" (1937)
 
 Formally introduced on July 25, 1937, as the *Líneas Básicas del Programa del Plan Trienal*, this highly ambitious blueprint aimed to establish a state-directed "organic democracy" built on social solidarity.
 
 **Key Initiatives of the Three-Year Plan:**
 
-* Health and elderly pension insurance systems.  
-* The breakup of massive, consolidated land estates.  
-* Mandatory profit-sharing between sugar workers and mill owners.  
-* National literacy campaigns and agricultural diversification.  
-* *Historical Note:* Due to its idealistic and sweeping scope, critics mockingly dubbed it the "three-hundred-year plan."
+- Health and elderly pension insurance systems.  
+- The breakup of massive, consolidated land estates.  
+- Mandatory profit-sharing between sugar workers and mill owners.  
+- National literacy campaigns and agricultural diversification.  
+- *Historical Note:* Due to its idealistic and sweeping scope, critics mockingly dubbed it the "three-hundred-year plan."
 
-### **3\. Agrarian Reform (1937–1938)**
+### 3. Agrarian Reform (1937–1938)
 
 In December 1937, Congress passed the Bill for the Colonisation, Reclamation, and Distribution of State Lands, aiming to convert unoccupied state property into smallholdings for 50,000 poor laborers.
 
 | Agrarian Provision | Detail |
-| :---- | :---- |
-| **Initial Acreage** | Over 33,000 acres distributed by early 1938\. |
+|---|---|
+| **Initial Acreage** | Over 33,000 acres distributed by early 1938. |
 | **Ownership Terms** | Recipients required to farm the land for six years before receiving official titles. |
 | **Squatter Protection** | Legal safeguards prevented the eviction of peasants on unclaimed lands. |
 | **Financial Support** | A $1 million state fund allocated for livestock, seeds, and tools during the dead season. |
 
 
-## **Strategic Alliances and Legal Shifts**
+## Strategic Alliances and Legal Shifts
 
 To solidify his political base, Batista legalized the Cuban Communist Party (CP) in September 1938, leading to an alliance where communist figures dominated trade union leadership. This shift began earlier on January 15, 1938, during a meeting with politburo members Joaquín Ordoqui and Blas Roca. While Batista maintained that "extremist tendencies" were harmful, he argued that the party represented a legitimate segment of public opinion and should participate in drafting the nation's new constitution.
 
@@ -202,6 +204,7 @@ In early 1937, the government reinstated several radical social protections from
 
 It also revived the "80 Percent Law," which required the vast majority of employees to be native Cubans. However, in rural sugar zones, the government adjusted this native workforce quota down to 50% due to seasonal labor shortages.
 
+```text
 [ Labor Nationalization Policy ]
        |
        +---> Urban Areas:
@@ -213,7 +216,9 @@ It also revived the "80 Percent Law," which required the vast majority of employ
                 v
        [ Mass Repatriation (Jan 19, 1937) ]
        Targeted Haitian, Jamaican, and West Indian laborers.
-       
+
+```       
+
 On January 19, 1937, the government mobilized the Armed Forces and Labor Bureaus to deport West Indian laborers, framing the move as an effort to curb native unemployment. While mill owners faced frustrations with government Labor Exchanges and tried to bribe officials to keep foreign workers, their primary concern remained protecting skilled British and American technical staff rather than low-wage migrant laborers.
 
 ## Economic Decline and the Collapse of Reforms
@@ -224,6 +229,7 @@ To fund these social programs, the government levied heavy taxes on foreign corp
 
 Ultimately, the stability of the *Pax Batistiana* proved short-lived. Batista's populist promises ran into a severe economic downturn between 1937 and 1939, driven by a poor sugar harvest and a lack of financial assistance from the United States.
 
+```text
 [ CUBAN ECONOMIC INDICATORS (1937–1939) ]
 
 $100M +------------------------------------------------+
@@ -238,6 +244,8 @@ $100M +------------------------------------------------+
        |                                               
    $0M +------------------------------------------------+
          1937                                  1939
+
+```
 
 Despite shrinking revenues, the government refused to scale back public sector commitments or reduce military spending. Instead, it imposed new taxes on the sugar sector while Batista continued to use the promise of land distribution for political leverage. Lacking the funds to back his sweeping agenda, Batista’s progressive momentum stalled in a legislative deadlock, leaving the island facing rising unemployment, wage cuts, and renewed political instability.
 
