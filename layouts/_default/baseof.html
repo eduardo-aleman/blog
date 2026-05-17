@@ -60,7 +60,7 @@
     })();
   </script>
 </head>
-<body>
+<body id="top">
   <!-- Skip to main content link -->
   <a href="#main-content" class="skip-link">Skip to main content</a>
   
@@ -69,13 +69,20 @@
   
   <!-- Main content -->
   <main id="main-content">
+    <!-- Back-to-top rail: zero-height sticky anchor that pins the arrow
+         to the bottom-right of the viewport while main is in view -->
+    <div class="back-to-top-rail">
+      <a href="#top" class="back-to-top" aria-label="Back to top">↑</a>
+    </div>
+
     {{ block "main" . }}{{ end }}
   </main>
   
   <!-- Footer -->
   {{ partial "footer.html" . }}
   
-  <!-- Theme toggle script -->
+  <!-- Scripts -->
   <script src="/js/theme-toggle.js"></script>
+  <script src="/js/back-to-top.js" defer></script>
 </body>
 </html>

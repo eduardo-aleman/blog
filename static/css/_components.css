@@ -695,3 +695,71 @@
   color: var(--muted);
   white-space: nowrap;
 }
+
+/* ====== BACK TO TOP ======
+   Zero-height sticky rail pins an absolutely positioned arrow to the
+   bottom-right of the viewport while <main> is in view. Because the rail
+   lives inside <main>, the arrow scrolls out naturally when the article
+   ends and the footer comes into view — so it "flows with" the content
+   rather than hovering permanently like a fixed UI element. */
+
+.back-to-top-rail {
+  position: sticky;
+  top: calc(100vh - 88px);
+  top: calc(100dvh - 88px);   /* mobile-viewport-aware */
+  height: 0;
+  pointer-events: none;       /* don't intercept clicks across the page */
+  z-index: 10;
+}
+
+.back-to-top {
+  position: absolute;
+  bottom: 0;
+  right: var(--space-xl);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 44px;            /* WCAG 2.5.5 target — scoped, not global */
+  min-height: 44px;
+  font-family: var(--sans-meta);
+  font-size: var(--step-1);
+  line-height: 1;
+  color: var(--muted);
+  text-decoration: none;
+  opacity: 0;
+  pointer-events: none;
+  transition:
+    opacity var(--transition-normal),
+    color var(--transition-normal);
+}
+
+.back-to-top.is-visible {
+  opacity: 0.55;
+  pointer-events: auto;
+}
+
+.back-to-top:hover,
+.back-to-top:focus-visible {
+  opacity: 1;
+  color: var(--text);
+}
+
+.back-to-top:focus-visible {
+  outline: 2px solid var(--text);
+  outline-offset: 2px;
+}
+
+/* On wider screens, slide the arrow into the right margin of the
+   centered 800px prose column so it sits beside the text, not over it.
+   max() guards against negative offsets at intermediate widths. */
+@media (min-width: 1024px) {
+  .back-to-top {
+    right: max(var(--space-xl), calc((100% - 800px) / 2 - var(--space-3xl)));
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .back-to-top {
+    transition: none;
+  }
+}
