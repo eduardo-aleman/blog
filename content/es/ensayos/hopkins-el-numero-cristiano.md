@@ -1,7 +1,7 @@
 ---
-title: "El número cristiano y sus implicaciones (Keith Hopkins)"
+title: "El número cristiano y sus implicaciones"
 date: 2026-01-04
-summary: "Un análisis estadístico que examina la población cristiana primitiva en el Imperio Romano, argumentando que fue pequeña hasta finales del siglo II, con crecimiento acelerado durante las persecuciones del siglo III y después de la conversión de Constantino en el IV."
+summary: "Keith Hopkins uses demographic modeling to argue that early Christianity remained an extremely small minority within the Roman Empire for its first two centuries, despite later narratives portraying rapid mass conversion. He estimates that Christians represented only about 0.01% of the population by 100 CE and less than 0.5% by 200 CE, before exponential growth brought the movement to roughly 6 million adherents by 300 CE. Hopkins emphasizes that ancient Christian and pagan sources are unreliable and often exaggerated, making sociological modeling more useful than traditional textual accounts alone. The essay ultimately argues that a disciplined, highly networked minority was able to transform Roman society and institutions on a civilizational scale."
 categories:
   - Editorial
 tags:
