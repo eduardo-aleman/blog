@@ -125,10 +125,8 @@ The unrest quickly spread beyond the sugar fields:
 
 By March 1934, approximately 200,000 workers were striking nationwide. Nightly bombings and shootings in Havana led contemporary observers to warn of an impending civil war between the military-backed government and the working-class majority.
 
-
 ```
 
-       ```text
 [ 1934 CUBAN STUDENT & LEFTIST MOVEMENT ]
                           |
          +----------------+----------------+
