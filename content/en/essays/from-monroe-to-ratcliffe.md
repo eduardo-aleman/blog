@@ -202,16 +202,18 @@ In early 1937, the government reinstated several radical social protections from
 
 It also revived the "80 Percent Law," which required the vast majority of employees to be native Cubans. However, in rural sugar zones, the government adjusted this native workforce quota down to 50% due to seasonal labor shortages.
 
-[ Labor Nationalization Policy ] 
+[ Labor Nationalization Policy ]
        |
-       +---> Urban Areas: Strictly enforced 80% native Cuban quota.
+       +---> Urban Areas:
+       |        Strictly enforced 80% native Cuban quota.
        |
-       +---> Sugar Zones: Adjusted to 50% native quota due to shortages.
-                 |
-                 v
+       +---> Sugar Zones:
+                Adjusted to 50% native quota due to labor shortages.
+                |
+                v
        [ Mass Repatriation (Jan 19, 1937) ]
        Targeted Haitian, Jamaican, and West Indian laborers.
-
+       
 On January 19, 1937, the government mobilized the Armed Forces and Labor Bureaus to deport West Indian laborers, framing the move as an effort to curb native unemployment. While mill owners faced frustrations with government Labor Exchanges and tried to bribe officials to keep foreign workers, their primary concern remained protecting skilled British and American technical staff rather than low-wage migrant laborers.
 
 ## Economic Decline and the Collapse of Reforms
@@ -222,19 +224,20 @@ To fund these social programs, the government levied heavy taxes on foreign corp
 
 Ultimately, the stability of the *Pax Batistiana* proved short-lived. Batista's populist promises ran into a severe economic downturn between 1937 and 1939, driven by a poor sugar harvest and a lack of financial assistance from the United States.
 
-[ CUBAN ECONOMIC INDICATORS (1937-1939) ]
+[ CUBAN ECONOMIC INDICATORS (1937–1939) ]
 
-$100M +-------------------------------------------------------+
-      |  $99M (Exports)                                       |
- $80M +---------------+                                       |
-      |               \                                       |
- $60M +                \-------> $60M (Exports)               |
-      |  $53M (Imports) \                                     |
- $40M +-------+----------\-----> $45M (Imports)               |
-      |  $36.4M (Revenue) \                                   |
- $20M +-------+------------\---> $31M (Revenue)               |
-      +-------------------------------------------------------+
-                    1937                     1939
+$100M +------------------------------------------------+
+       | $99M (Exports)                               |
+ $80M +----------------+                              |
+       |                \                             |
+ $60M +                 +-----> $60M (Exports)       |
+       | $53M (Imports)  \                            |
+ $40M +-------------------+-----> $45M (Imports)     |
+       | $36.4M (Revenue) \                           |
+ $20M +--------------------+-----> $31M (Revenue)    |
+       |                                               
+   $0M +------------------------------------------------+
+         1937                                  1939
 
 Despite shrinking revenues, the government refused to scale back public sector commitments or reduce military spending. Instead, it imposed new taxes on the sugar sector while Batista continued to use the promise of land distribution for political leverage. Lacking the funds to back his sweeping agenda, Batista’s progressive momentum stalled in a legislative deadlock, leaving the island facing rising unemployment, wage cuts, and renewed political instability.
 
