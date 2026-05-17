@@ -237,6 +237,8 @@ Despite shrinking revenues, the government refused to scale back public sector c
 
 Post-1940 Cuba emerged as a significantly more stable, modern, and democratic nation than the pre-1933 era. This political evolution established the groundwork for a fresh cycle of crisis and transformation. The primary focus of political discourse shifted; it was no longer about whether the state should be popular or national, but rather about defining what "popular" meant and determining which segments of the population truly represented the nation. While the struggle for social change persisted from 1940 to 1959, it operated under fundamentally different conditions.
 
+*To be continued.*
+
 ## Sources
 
 "CIA Director Visits Cuba." *The New York Times*, 14 de mayo de 2026. https://www.nytimes.com/2026/05/14/us/politics/cia-director-visits-cuba.html.
