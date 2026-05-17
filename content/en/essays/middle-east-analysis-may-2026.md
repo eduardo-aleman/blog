@@ -4,7 +4,7 @@ date: 2026-05-16
 summary: "An analysis of the regional order taking shape after the U.S.-Israeli war with Iran, the Hormuz blockade, and the slow collapse of American security guarantees in the Gulf."
 description: "An analysis of the regional order taking shape after the U.S.-Israeli war with Iran, the Hormuz blockade, and the slow collapse of American security guarantees in the Gulf."
 tags: ["middle east", "iran", "geopolitics", "energy", "israel", "gulf states", "china"]
-image: "static/images/posts/middle-east-analysis-may-2026/Reactions_to_the_2026_Iran_conflict.svg"
+image: "/images/posts/middle-east-analysis-may-2026/Reactions_to_the_2026_Iran_conflict.svg"
 image_caption: "Countries' reactions to the 2026 Iran war: combatants in dark red (US, Israel) and dark blue (Iran); supporters of the strikes in maroon, condemners of Iran's retaliation in red, condemners of the strikes in blue, condemners of both in magenta, and calls for peace in green."
 ---
 
