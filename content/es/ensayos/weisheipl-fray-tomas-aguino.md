@@ -1,12 +1,14 @@
 ---
-title: "Fray Tomás de Aquino (Jaime A. Weisheipl)"
-date: 2026-07-28
+title: "Fray Tomás de Aquino"
+date: 2026-01-28
 summary: "Esta traducción presenta la obra fundamental de Jaime A. Weisheipl, centrada en el Prefacio y el Capítulo I, donde se propone una unificación del método histórico y la perspicacia filosófica para rescatar la figura de Tomás de Aquino de las lecturas descontextualizadas. El autor aborda con rigor los años formativos de Tomás (1224/5-1252), detallando su origen en la baja nobleza siciliana, su etapa inicial como oblato en Monte Casino y su crucial educación en la Universidad de Nápoles, donde fue introducido al pensamiento de Aristóteles por el maestro Pedro de Irlanda. Asimismo, se relata el conflicto trascendental con su familia tras su ingreso en la Orden de Predicadores, su firmeza durante el cautiverio en Roccasecca —donde se gestaron sus primeros escritos lógicos como el De fallaciis— y su posterior traslado a París y Colonia para convertirse en el discípulo predilecto de Alberto el Grande."
 tags:
   - escolástica
   - filosofía medieval
   - teología
   - traducción
+image: "/images/posts/weisheipl-fray-tomas-aguino/Tomás_Aquino_Triunfo.webp"
+image_caption: "The Triumph of Saint Thomas Aquinas painting by Benozzo Gozzoli, created between 1470 and 1475. Saint Thomas Aquinas is depicted throned within a golden sun, holding an open book. He is flanked by the ancient philosophers Aristotle (left) and Plato (right), highlighting the synthesis of classical philosophy with Christian theology. Below Aquinas lies Averroes, a Muslim philosopher whose commentaries on Aristotle influenced Aquinas's work. The painting is part of the collection at the Louvre Museum in Paris."
 ---
 
 Fray Tomás de Aquino.  
