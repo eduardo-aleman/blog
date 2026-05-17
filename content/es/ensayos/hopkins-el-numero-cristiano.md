@@ -9,6 +9,8 @@ tags:
   - estadística
   - ciencias sociales
   - traducción
+image: "/images/posts/hopkins-el-numero-cristiano/John_Rylands_Library_Ms_Greek_P_457_(Papyrus_52)_recto_John_18_31-33.jpg"
+image_caption: "The Rylands Library Papyrus P52 (also known as the St. John’s Fragment) is the oldest known surviving fragment of the New Testament. Measuring roughly \(3.5 \times 2.5\) inches, it contains portions of the Gospel of John (18:31–33 on the recto and 18:37–38 on the verso) and is housed at the John Rylands Research Institute and Library in Manchester, UK.  Paleographical analysis typically dates the fragment to the first half of the 2nd century, generally between \(117\) and \(150\) AD. Because it is dated so closely to the presumed original writing of the Gospel of John, it serves as crucial historical evidence for the rapid circulation of the New Testament across the Roman Empire. Unlike earlier scrolls, P52 is a leaf from a codex (an early bound book), showing that early Christians were among the pioneers of this book format. The surviving Greek text contains the dialogue between Pontius Pilate and Jesus during his trial, specifically focusing on the nature of truth."
 ---
 
 ## Introducción
