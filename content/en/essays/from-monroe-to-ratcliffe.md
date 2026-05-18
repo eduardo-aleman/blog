@@ -1,7 +1,7 @@
 ---
 title: "From Monroe to Ratcliffe: Cuba and the United States"
 date: 2026-05-16
-summary: "As the Trump administration tightens its pressure on Havana in 2026 — sanctions, an oil blockade, a surprise visit by the CIA director — this essay traces the long arc that produced the present standoff: from the Monroe Doctrine of 1823 through the Spanish-American War, the Platt Amendment and the naval base at Guantánamo, and the corrupt allied presidencies of Gómez, Menocal, and Machado, ending with the revolution that swept Machado from power in 1933. The patterns visible in today's headlines — interventions, embargoes, contested elections, Marines on Cuban soil — are as old as the relationship itself."
+summary: "As the Trump administration tightens its pressure on Havana in 2026 — sanctions, an oil blockade, a surprise visit by the CIA director — this essay traces the long arc that produced the present standoff: from the Monroe Doctrine of 1823 through the Spanish-American War, the Platt Amendment and the naval base at Guantánamo, and the corrupt allied presidencies of Gómez, Menocal, and Machado, the revolution that swept Machado from power in 1933, the 1940 Constitution, the Second Republic, Batista, ending with the revolutionary triumph in 1959. The patterns visible in today's headlines — interventions, embargoes, contested elections, Marines on Cuban soil — are as old as the relationship itself."
 description: "A historical backdrop to the 2026 confrontation with Havana — from the Monroe Doctrine and the Platt Amendment through the corrupt allied presidencies of Gómez, Menocal, and Machado."
 categories:
   - editorial
