@@ -30,7 +30,7 @@ The current U.S. strategy toward Havana operates on a punishing carrot-and-stick
 [ PUNITIVE STICKS ]     [ INDUCEMENT CARROTS ]
 - Secondary Sanctions   - $100M Humanitarian Aid
 - Oil Grid Blockade     - Directives via Church
-- Legal Threats (Castro)  (Bypassing State Channels)
+- Legal Threats (Raul Castro)  (Bypassing State Channels)
 
 ```
 
