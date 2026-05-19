@@ -84,20 +84,39 @@
   }
 }
 
-/* Main page grid */
+/*  ──────────────────────────────────────────────────────────────────────
+    FIX (2026-05-18): Replaced the 3-column CSS Grid layout
+        grid-template-columns:
+            minmax(--space-md, 1fr) minmax(0, 1400px) minmax(--space-md, 1fr);
+    with a plain centered block. Why:
+
+    On mobile, the middle track had max `1400px` (a fixed length, not a
+    flex factor), so it did NOT participate in flex distribution. The
+    1fr outer tracks ate all free space and the middle column collapsed
+    to its min: 0.
+
+    Every direct child (.article-hero, .article-image, .prose,
+    .article-footer) centers itself with `max-width + margin: 0 auto`.
+    Per the CSS Grid spec, when both inline-axis margins are auto, the
+    item's default `justify-self: stretch` is suppressed and the item
+    shrinks to its CONTENT's max-content width instead of filling the
+    track. Result: .article-hero sized to the title text, .article-image
+    sized to the cover photo, but .prose sized to the (much wider)
+    paragraph max-content — visually mismatched widths inside the same
+    article, exactly the bug seen on individual posts.
+
+    A plain block container sidesteps the issue: block-level children
+    have `width: auto` which means "fill containing block", so every
+    child stretches to the same width. Their existing `max-width +
+    margin: 0 auto` still works to cap and center on wide screens.
+    Outer gutters already come from body's responsive padding (see
+    _responsive.css), so no padding is needed here.
+    ────────────────────────────────────────────────────────────────────── */
+
 .page-grid {
-  display: grid;
-  grid-template-columns: minmax(var(--space-md), 1fr) minmax(0, 1400px) minmax(var(--space-md), 1fr);
-}
-
-@media (min-width: 1024px) {
-  .page-grid {
-    grid-template-columns: minmax(var(--space-xl), 1fr) minmax(0, 1400px) minmax(var(--space-xl), 1fr);
-  }
-}
-
-.page-grid > * {
-  grid-column: 2;
+  max-width: 1400px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* ====== SECTIONS ====== */
