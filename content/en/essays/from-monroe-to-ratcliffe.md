@@ -296,6 +296,7 @@ To defend this economic inequality, Batista erected a brutal security state. The
 On May 4, 1955, Batista created the Buró para la Represión de las Actividades Comunistas (BRAC) with the active assistance of the CIA, which trained its operatives in advanced counterintelligence and interrogation techniques. Under the direction of Mariano Faget, BRAC specialized in inflicting severe psychological and physical trauma that left no visible marks. By 1958, the bodies of young revolutionaries from the *Movimiento 26 de Julio* were routinely dumped along roadsides in Havana and Santiago, destroying any remaining moral legitimacy the regime possessed among the Cuban middle class.
 
 Department of State Publication 7171, Inter-American Series 66, is the official 36-page "White Paper" on Cuba released by the U.S. government on April 3, 1961. It was issued in the weeks leading up to the Bay of Pigs invasion to formally outline the Kennedy administration’s stance on the Castro regime. The document states: "The character of the Batista regime in Cuba made a violent popular reaction almost inevitable. The rapacity of the leadership, the corruption of the government, the brutality of the police, the regime's indifference to the needs of the people for education, medical care, housing, social justice, and economic opportunity—all these, in Cuba as elsewhere, constituted an open invitation to revolution."
+
 ---
 
 ## The Revolution and the Reclaiming of Sovereignty
