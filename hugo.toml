@@ -54,6 +54,11 @@ timeZone = 'America/Los_Angeles'
     startLevel = 2
     endLevel = 3
 
+# Pagination — 9 items per page across the homepage and all list pages.
+# Hugo v0.128.0+ uses this block; the legacy top-level `paginate = N` is deprecated.
+[pagination]
+  pagerSize = 9
+
 # Module configuration (for future Hugo Modules support)
 [build]
   writeStats = true
