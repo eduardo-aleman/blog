@@ -51,7 +51,7 @@
       </div>
 
       <!-- Pagination -->
-      {{ partial "pagination.html" $paginator }}
+      {{ partial "numbered-pagination.html" $paginator }}
     {{ else }}
       <p class="no-articles">{{ i18n "noArticles" | default "No articles found." }}</p>
     {{ end }}
