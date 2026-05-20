@@ -1,6 +1,6 @@
 ---
 title: "From Monroe to Ratcliffe: Cuba and the United States"
-date: 2026-05-16
+date: 2026-05-19
 summary: "As the Trump administration tightens its pressure on Havana in 2026 — sanctions, an oil blockade, a surprise visit by the CIA director — this essay traces the long arc that produced the present standoff. A brief historical examination of U.S.–Cuban relations from the Monroe Doctrine to the 1959 Revolution, arguing that the contemporary tensions and sanctions campaigns of 2026 are rooted in a long tradition of intervention, neocolonial control, and contested Cuban sovereignty. Tracing the Platt Amendment, U.S. occupations, the corrupt republican era, Batista’s rise, the 1940 Constitution, and the revolutionary overthrow of the neocolonial order, the essay situates modern pressure on Havana within more than a century of political, economic, and military entanglement between Cuba and the United States."
 
 description: "As the Trump administration tightens its pressure on Havana in 2026 — sanctions, an oil blockade, a surprise visit by the CIA director — this essay traces the long arc that produced the present standoff."
@@ -19,7 +19,6 @@ tags:
 image: "/images/posts/from-monroe-to-ratcliffe/cuba_memory_2007.JPG"
 
 image_caption: "Two flags sharing a suction cup on a Havana windshield — a level of diplomatic intimacy that has, in the years since, proven harder to sustain than the adhesive. For a brief window after Obama's visit, the embargo felt like a thing you could squint past, like rain on glass, and the road ahead looked open even if the wipers couldn't quite keep up. The cabbie didn't mention politics. He didn't have to. The dashboard was doing the talking, and somewhere between the star and the stripes, someone in Washington was already drafting a sequel nobody asked for."
-draft: true
 ---
 
 As the Trump administration tightens its pressure on Havana in 2026—deploying aggressive economic sanctions, an effective oil blockade, and high-level diplomatic maneuvers like CIA Director John Ratcliffe's unannounced May visit—the contemporary standoff can look like a sudden escalation. In reality, today's headlines are merely the latest chapter in a long, structural cycle of interventionism, neocolonial grip, and the denial of Cuban sovereignty.
