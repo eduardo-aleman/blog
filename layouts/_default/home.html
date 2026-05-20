@@ -1,8 +1,10 @@
 {{ define "main" }}
 <div class="page-grid">
-  <!-- Essays Grid (up to 9 items, distributed across 3 columns) -->
+  <!-- Essays Grid (up to 9 items per page, distributed across 3 columns) -->
   {{ $allPages := .Site.RegularPages }}
-  {{ $pages := where $allPages "Kind" "page" }}
+  {{ $regular := where $allPages "Kind" "page" }}
+  {{ $paginator := .Paginate (sort $regular "Date" "desc") 9 }}
+  {{ $pages := $paginator.Pages }}
 
   {{ if gt (len $pages) 0 }}
 
@@ -147,6 +149,8 @@
 
       </div>
     </section>
+
+    {{ partial "pagination.html" $paginator }}
   {{ end }}
 </div>
 {{ end }}

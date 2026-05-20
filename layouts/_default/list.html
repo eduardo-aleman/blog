@@ -51,21 +51,7 @@
       </div>
 
       <!-- Pagination -->
-      {{ if gt $paginator.TotalPages 1 }}
-      <nav class="pagination">
-        {{ if $paginator.HasPrev }}
-          <a href="{{ $paginator.Prev.URL }}" class="pagination__link">← Previous</a>
-        {{ end }}
-        
-        <span class="pagination__info">
-          Page {{ $paginator.PageNumber }} of {{ $paginator.TotalPages }}
-        </span>
-        
-        {{ if $paginator.HasNext }}
-          <a href="{{ $paginator.Next.URL }}" class="pagination__link">Next →</a>
-        {{ end }}
-      </nav>
-      {{ end }}
+      {{ partial "pagination.html" $paginator }}
     {{ else }}
       <p class="no-articles">{{ i18n "noArticles" | default "No articles found." }}</p>
     {{ end }}

@@ -256,48 +256,6 @@
   margin-top: var(--space-sm);
 }
 
-/* ====== PAGINATION ====== */
-
-.pagination {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: var(--space-lg);
-  margin: var(--space-4xl) 0;
-  font-family: var(--sans-meta);
-}
-
-.pagination a,
-.pagination .page-numbers {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  min-width: 44px;
-  min-height: 44px;
-  padding: var(--space-md);
-  border: 1px solid var(--border);
-  color: var(--text);
-  text-decoration: none;
-  transition: background-color var(--transition-normal), color var(--transition-normal);
-  font-size: var(--step--1);
-}
-
-.pagination a:hover {
-  background-color: var(--text);
-  color: var(--bg);
-}
-
-.pagination .current {
-  background-color: var(--text);
-  color: var(--bg);
-  border-color: var(--text);
-}
-
-.pagination .disabled {
-  opacity: 0.5;
-  cursor: not-allowed;
-}
-
 /* ====== ALERTS & MESSAGES ====== */
 
 .alert {

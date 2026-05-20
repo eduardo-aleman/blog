@@ -1,0 +1,50 @@
+{{/* layouts/partials/pagination.html
+     Minimalist numbered pagination with chevron arrows.
+     Expects a $paginator context. Usage:
+       {{ partial "pagination.html" .Paginator }}
+*/}}
+{{ $paginator := . }}
+{{ if gt $paginator.TotalPages 1 }}
+<nav class="pagination" aria-label="Pagination">
+
+  {{/* Previous arrow */}}
+  {{ if $paginator.HasPrev }}
+    <a href="{{ $paginator.Prev.URL }}" class="pagination__arrow" aria-label="{{ i18n "previousPage" | default "Previous page" }}" rel="prev">
+      <svg width="10" height="16" viewBox="0 0 10 16" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+        <path d="M9 1L1 8L9 15" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+    </a>
+  {{ else }}
+    <span class="pagination__arrow pagination__arrow--disabled" aria-hidden="true">
+      <svg width="10" height="16" viewBox="0 0 10 16" fill="none" xmlns="http://www.w3.org/2000/svg" focusable="false">
+        <path d="M9 1L1 8L9 15" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+    </span>
+  {{ end }}
+
+  {{/* Numbered page links */}}
+  {{ range $paginator.Pagers }}
+    {{ if eq .PageNumber $paginator.PageNumber }}
+      <span class="pagination__number pagination__number--active" aria-current="page">{{ .PageNumber }}</span>
+    {{ else }}
+      <a href="{{ .URL }}" class="pagination__number" aria-label="{{ i18n "goToPage" | default "Go to page" }} {{ .PageNumber }}">{{ .PageNumber }}</a>
+    {{ end }}
+  {{ end }}
+
+  {{/* Next arrow */}}
+  {{ if $paginator.HasNext }}
+    <a href="{{ $paginator.Next.URL }}" class="pagination__arrow" aria-label="{{ i18n "nextPage" | default "Next page" }}" rel="next">
+      <svg width="10" height="16" viewBox="0 0 10 16" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+        <path d="M1 1L9 8L1 15" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+    </a>
+  {{ else }}
+    <span class="pagination__arrow pagination__arrow--disabled" aria-hidden="true">
+      <svg width="10" height="16" viewBox="0 0 10 16" fill="none" xmlns="http://www.w3.org/2000/svg" focusable="false">
+        <path d="M1 1L9 8L1 15" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+    </span>
+  {{ end }}
+
+</nav>
+{{ end }}
