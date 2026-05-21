@@ -1,8 +1,7 @@
 ---
 title: "From Monroe to Ratcliffe: Cuba and the United States"
 date: 2026-05-18
-summary: "As the Trump administration tightens its pressure on Havana in 2026 — sanctions, an oil blockade, a surprise visit by the CIA director — this essay traces the long arc that produced the present standoff. From the Monroe Doctrine of 1823 through a war of independence the *mambises* had nearly won when the U.S. intervened; through the Platt Amendment and the naval base at Guantánamo that mortgaged the new republic; through the corrupt presidencies of Gómez, Menocal, and Machado that turned Cuba into a neocolony of American capital; through the brief Rooseveltian opening of 1934 and the great hope of the 1940 Constitution; through Batista's mafia state and the revolution that, in Arthur Schlesinger's phrase, his regime had made an 'open invitation' — the patterns visible in today's headlines are as old as the relationship itself. The essay closes on Schlesinger's prescient 1961 warning against the Bay of Pigs, and on what a return to the Monroe Doctrine — call it Trumproe — would cost the United States in moral standing today."
-description: "A historical backdrop to the 2026 confrontation with Havana — from the Monroe Doctrine and the Platt Amendment to the revolution Schlesinger called inevitable, and to the warning his 1961 memorandum still issues to Washington."
+summary: "As the Trump administration tightens its pressure on Havana in 2026 — sanctions, an oil blockade, a surprise visit by the CIA director — this essay traces the long arc behind the standoff: from the Monroe Doctrine through the Platt Amendment to Batista and the revolution. The patterns in today's headlines are as old as the relationship itself."
 categories:
   - editorial
 tags: ["Cuba", "U.S. foreign policy", "Monroe Doctrine", "Platt Amendment", "Guantánamo", "Batista", "Cuban Revolution", "Schlesinger", "Bay of Pigs"]
