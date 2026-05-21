@@ -256,6 +256,48 @@
   margin-top: var(--space-sm);
 }
 
+/* ====== PAGINATION ====== */
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: var(--space-lg);
+  margin: var(--space-4xl) 0;
+  font-family: var(--sans-meta);
+}
+
+.pagination a,
+.pagination .page-numbers {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 44px;
+  min-height: 44px;
+  padding: var(--space-md);
+  border: 1px solid var(--border);
+  color: var(--text);
+  text-decoration: none;
+  transition: background-color var(--transition-normal), color var(--transition-normal);
+  font-size: var(--step--1);
+}
+
+.pagination a:hover {
+  background-color: var(--text);
+  color: var(--bg);
+}
+
+.pagination .current {
+  background-color: var(--text);
+  color: var(--bg);
+  border-color: var(--text);
+}
+
+.pagination .disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
 /* ====== ALERTS & MESSAGES ====== */
 
 .alert {
@@ -655,25 +697,26 @@
 }
 
 /* ====== BACK TO TOP ======
-   Zero-height sticky rail pins an absolutely positioned arrow to the
-   bottom-right of the viewport while <main> is in view. Because the rail
-   lives inside <main>, the arrow scrolls out naturally when the article
-   ends and the footer comes into view — so it "flows with" the content
-   rather than hovering permanently like a fixed UI element. */
+   Position: fixed instead of the earlier sticky-rail. Sticky positioning
+   is fragile on mobile because of how flex ancestors and body overflow
+   interact to establish containing blocks — sticky can silently fail and
+   leave the arrow stuck at the top of <main>. Fixed positioning is
+   bulletproof. To preserve the "flows with content" behavior where the
+   arrow disappears as the footer comes into view, JS uses an
+   IntersectionObserver on .site-footer to toggle visibility. */
 
 .back-to-top-rail {
-  position: sticky;
-  top: calc(100vh - 88px);
-  top: calc(100dvh - 88px);   /* mobile-viewport-aware */
-  height: 0;
-  pointer-events: none;       /* don't intercept clicks across the page */
-  z-index: 10;
+  /* Wrapper is now layout-neutral. Kept in the markup so baseof.html
+     doesn't need to change. */
+  display: contents;
 }
 
 .back-to-top {
-  position: absolute;
-  bottom: 0;
+  position: fixed;
+  bottom: var(--space-xl);
   right: var(--space-xl);
+  z-index: 10;
+
   display: inline-flex;
   align-items: center;
   justify-content: center;

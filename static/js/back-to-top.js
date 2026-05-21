@@ -1,13 +1,19 @@
 /**
  * Back to top
- * Reveals the .back-to-top link once the user has scrolled past
- * SHOW_THRESHOLD pixels, and smooth-scrolls to the top on click
- * (respecting prefers-reduced-motion).
  *
- * pageshow handles bfcache restoration on iOS Safari and Firefox —
- * without it, the class can be stuck out of sync with scroll position
- * after a back/forward navigation. visibilitychange covers the case
- * of switching back to the tab on mobile.
+ * Reveals the arrow once the user has scrolled past SHOW_THRESHOLD,
+ * hides it again when scrolling back up or when the footer comes into
+ * view (so the arrow doesn't overlap with footer content), and smooth-
+ * scrolls to the top on click (respecting prefers-reduced-motion).
+ *
+ * Uses fixed positioning + IntersectionObserver instead of a sticky
+ * rail. Sticky was fragile on mobile because of how flex ancestors and
+ * body overflow interact to establish containing blocks — fixed has no
+ * such dependencies.
+ *
+ * pageshow + visibilitychange handle bfcache restoration on iOS Safari
+ * and tab returns on mobile, where scroll events don't always fire to
+ * re-sync the visibility class.
  */
 (() => {
   const btn = document.querySelector('.back-to-top');
@@ -15,8 +21,16 @@
 
   const SHOW_THRESHOLD = 400;
 
-  const update = () => {
-    btn.classList.toggle('is-visible', window.scrollY > SHOW_THRESHOLD);
+  let scrolledFarEnough = false;
+  let footerInView = false;
+
+  const sync = () => {
+    btn.classList.toggle('is-visible', scrolledFarEnough && !footerInView);
+  };
+
+  const onScroll = () => {
+    scrolledFarEnough = window.scrollY > SHOW_THRESHOLD;
+    sync();
   };
 
   const scrollToTop = (e) => {
@@ -28,14 +42,25 @@
     });
   };
 
-  // Initial state — handles fresh loads and scroll-position restoration
-  update();
+  // Initial sync — handles fresh loads and scroll-position restoration
+  onScroll();
 
-  window.addEventListener('scroll', update, { passive: true });
-  window.addEventListener('pageshow', update);
+  window.addEventListener('scroll', onScroll, { passive: true });
+  window.addEventListener('pageshow', onScroll);
   document.addEventListener('visibilitychange', () => {
-    if (!document.hidden) update();
+    if (!document.hidden) onScroll();
   });
+
+  // Hide the arrow when the footer scrolls into view, so it doesn't
+  // overlap with footer links. This recreates the "flows with content"
+  // feel of the previous sticky design.
+  const footer = document.querySelector('.site-footer');
+  if (footer && 'IntersectionObserver' in window) {
+    new IntersectionObserver((entries) => {
+      footerInView = entries[0].isIntersecting;
+      sync();
+    }, { threshold: 0 }).observe(footer);
+  }
 
   btn.addEventListener('click', scrollToTop);
 })();
