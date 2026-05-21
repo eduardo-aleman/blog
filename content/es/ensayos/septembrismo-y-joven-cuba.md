@@ -1,7 +1,7 @@
 ---
 title: "Septembrismo y el Programa de Joven Cuba"
 date: '2026-05-20'
-summary: Dos textos fundamentales de Antonio Guiteras: «Septembrismo», su balance del gobierno revolucionario de Grau y del fracaso del proyecto antimperialista tras el 4 de septiembre de 1933; y el programa completo de Joven Cuba, manifiesto que sintetiza una visión socialista y antimperialista para la transformación de la estructura económico-político-social cubana.
+summary: "Dos textos fundamentales de Antonio Guiteras: «Septembrismo», su balance del gobierno revolucionario de Grau y del fracaso del proyecto antimperialista tras el 4 de septiembre de 1933; y el programa completo de Joven Cuba, manifiesto que sintetiza una visión socialista y antimperialista para la transformación de la estructura económico-político-social cubana."
 categories:
 - Transcripciones
 - Historia
@@ -13,6 +13,8 @@ tags:
 - Joven Cuba
 - Antimperialismo
 - Revolución del 33
+image: "/images/posts/septembrismo-y-joven-cuba/antonio_guiteras.jpg"
+image_caption: "Antonio Guiteras y Holmes (1906–1935), un destacado líder socialista revolucionario cubano. Se desempeñó como Secretario de Gobernación, Guerra y Marina durante el «Gobierno de los Cien Días», desde septiembre de 1933 hasta enero de 1934. Fundó el grupo revolucionario «Joven Cuba» en 1934, abogando por la lucha armada contra la dictadura. Guiteras fue asesinado el 8 de mayo de 1935, mientras intentaba salir de Cuba para organizar una insurrección."
 ---
 
 *Independencia o Muerte — Libertad o Muerte — Patria o Muerte*
