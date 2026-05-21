@@ -40,12 +40,22 @@
       top: 0,
       behavior: reduceMotion ? 'auto' : 'smooth',
     });
+    // Hide the arrow immediately. iOS Safari swallows scroll events
+    // during programmatic smooth scrolling, so onScroll won't fire to
+    // flip scrolledFarEnough back to false — the arrow would stay
+    // visible at the top of the page until the user scrolled manually.
+    scrolledFarEnough = false;
+    sync();
   };
 
   // Initial sync — handles fresh loads and scroll-position restoration
   onScroll();
 
   window.addEventListener('scroll', onScroll, { passive: true });
+  // scrollend fires once scrolling fully stops — useful belt-and-suspenders
+  // for mobile where intermediate scroll events can be throttled during
+  // momentum scrolling. Supported in Safari 18.2+, recent Chrome/Firefox.
+  window.addEventListener('scrollend', onScroll);
   window.addEventListener('pageshow', onScroll);
   document.addEventListener('visibilitychange', () => {
     if (!document.hidden) onScroll();
