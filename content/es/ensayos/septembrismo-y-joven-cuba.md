@@ -14,7 +14,7 @@ tags:
 - Antimperialismo
 - Revolución del 33
 image: "/images/posts/septembrismo-y-joven-cuba/antonio_guiteras.jpg"
-image_caption: "Antonio Guiteras y Holmes (1906–1935), un destacado líder socialista revolucionario cubano. Se desempeñó como Secretario de Gobernación, Guerra y Marina durante el «Gobierno de los Cien Días», desde septiembre de 1933 hasta enero de 1934. Fundó el grupo revolucionario «Joven Cuba» en 1934, abogando por la lucha armada contra la dictadura. Guiteras fue asesinado el 8 de mayo de 1935, mientras intentaba salir de Cuba para organizar una insurrección."
+image_caption: "Antonio Guiteras y Holmes (1906–1935), un destacado líder socialista revolucionario cubano. Se desempeñó como Secretario de Gobernación, Guerra y Marina durante el «Gobierno de los Cien Días», desde septiembre de 1933 hasta enero de 1934. Fundó el grupo revolucionario «Joven Cuba» en 1934, abogando por la lucha armada contra la dictadura. Guiteras fue asesinado el 8 de mayo de 1935 en El Morrillo, Matanzas, junto al venezolano Carlos Aponte mientras intentaban salir de Cuba para organizar una insurrección."
 ---
 
 ## Septembrismo
