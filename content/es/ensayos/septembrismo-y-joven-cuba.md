@@ -17,10 +17,6 @@ image: "/images/posts/septembrismo-y-joven-cuba/antonio_guiteras.jpg"
 image_caption: "Antonio Guiteras y Holmes (1906–1935), un destacado líder socialista revolucionario cubano. Se desempeñó como Secretario de Gobernación, Guerra y Marina durante el «Gobierno de los Cien Días», desde septiembre de 1933 hasta enero de 1934. Fundó el grupo revolucionario «Joven Cuba» en 1934, abogando por la lucha armada contra la dictadura. Guiteras fue asesinado el 8 de mayo de 1935, mientras intentaba salir de Cuba para organizar una insurrección."
 ---
 
-*Independencia o Muerte — Libertad o Muerte — Patria o Muerte*
-
----
-
 ## Septembrismo
 
 No creo oportuno comenzar dando, como en la mayor parte de los casos, una síntesis de mi actuación revolucionaria, porque los actos realizados contra una tiranía están en razón directa del amor con qué se defienden las ideas y las persecuciones y sufrimientos pertenecen a la eficacia del aparato represivo de esta tiranía, no teniendo nada que ver con la misma.
