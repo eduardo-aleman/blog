@@ -7,38 +7,12 @@
   {{ $pages := $paginator.Pages }}
 
   {{ if gt (len $pages) 0 }}
-
-    {{/* Split pages by whether .Params.categories contains "editorial".
-         - .Params.categories is an ARRAY (e.g. [editorial], [Microessays]),
-           so we range over it and lowercase each entry for comparison.
-         - Posts without a categories field, or without "editorial" in it,
-           fall into microessays. */}}
-    {{ $editorial := slice }}
-    {{ $microessays := slice }}
-    {{ range $pages }}
-      {{ $page := . }}
-      {{ $isEditorial := false }}
-      {{ range ($page.Params.categories | default slice) }}
-        {{ if eq (lower .) "editorial" }}
-          {{ $isEditorial = true }}
-        {{ end }}
-      {{ end }}
-      {{ if $isEditorial }}
-        {{ $editorial = $editorial | append $page }}
-      {{ else }}
-        {{ $microessays = $microessays | append $page }}
-      {{ end }}
-    {{ end }}
-
-    {{ $sortedMicro := sort $microessays "Date" "desc" }}
-    {{ $sortedEditorial := sort $editorial "Date" "desc" }}
-
     <section class="essays-grid-section">
       <div class="essays-grid">
 
-        <!-- LEFT COLUMN: first 3 microessays -->
+        <!-- LEFT COLUMN: essays 1–3 (newest) -->
         <div class="essays-grid__column essays-grid__column--side">
-          {{ range first 3 $sortedMicro }}
+          {{ range first 3 $pages }}
             <article class="essay-grid-item">
               {{ with .Params.image }}
                 <div class="essay-grid-item__image-wrapper">
@@ -73,10 +47,10 @@
           {{ end }}
         </div>
 
-        <!-- MIDDLE COLUMN: editorial essays (wider) -->
+        <!-- MIDDLE COLUMN: essays 4–6 (column width is 1.4fr in _components.css) -->
         <div class="essays-grid__column essays-grid__column--middle">
-          {{ range first 3 $sortedEditorial }}
-            <article class="essay-grid-item essay-grid-item--wide">
+          {{ range first 3 (after 3 $pages) }}
+            <article class="essay-grid-item">
               {{ with .Params.image }}
                 <div class="essay-grid-item__image-wrapper">
                   <img
@@ -110,9 +84,9 @@
           {{ end }}
         </div>
 
-        <!-- RIGHT COLUMN: remaining microessays -->
+        <!-- RIGHT COLUMN: essays 7–9 -->
         <div class="essays-grid__column essays-grid__column--side">
-          {{ range first 3 (after 3 $sortedMicro) }}
+          {{ range first 3 (after 6 $pages) }}
             <article class="essay-grid-item">
               {{ with .Params.image }}
                 <div class="essay-grid-item__image-wrapper">

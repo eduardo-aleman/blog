@@ -28,7 +28,11 @@ body {
   transition: background-color var(--transition-normal), color var(--transition-normal);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  overflow-x: hidden;
+  /* overflow-x: clip (not hidden) — `hidden` silently promotes overflow-y
+     to `auto` in modern browsers, making body its own scroll container
+     and breaking position:sticky on descendants like .back-to-top-rail.
+     `clip` prevents horizontal overflow without that side effect. */
+  overflow-x: clip;
 }
 
 /* ====== TYPOGRAPHY RESETS ====== */
