@@ -8,13 +8,13 @@ region: [Cuba, United States, Caribbean]
 tags:
   - cuba
   - united states-cuba-relations
-  - raul-castro
-  - trump-administration
+  - raul castro
+  - trump administration
   - helms-burton
   - sanctions
   - russia
   - china
-  - supreme-court
+  - supreme court
 sources:
   - BBC News
   - The Guardian
