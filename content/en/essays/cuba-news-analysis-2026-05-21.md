@@ -36,8 +36,6 @@ image: "/images/posts/cuba-news-analysis-2026-05-21/Vought_OS2U-3_Kingfisher.JPG
 image_caption: "Vought OS2U-3 Kingfisher aircraft, a military seaplane used by the regime of Fulgencio Batista, displayed at the Museum of the Revolution in Havana, Cuba. It was captured and repurposed by rebel troops. The aircraft is located in the outdoor pavilion area, often referred to as the Granma Memorial area of the museum complex."
 ---
 
-# Cuba at a Crossroads: The May 21, 2026 Escalation
-
 ## At a glance
 
 A single news cycle has produced what may turn out to be the most consequential day for U.S.–Cuba relations in decades. The Justice Department's indictment of 94-year-old former president Raúl Castro, announced May 20, dominated coverage on May 21 alongside three reinforcing developments: an 8–1 Supreme Court decision broadening the financial exposure of foreign companies that have used confiscated Cuban property, sharp public condemnations from Russia and China, and a defiant response from Havana culminating in a planned anti-imperialist rally. Secretary of State Marco Rubio, speaking from Florida, openly described the likelihood of a peaceful settlement as "not high."
