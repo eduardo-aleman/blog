@@ -8,6 +8,7 @@ tags:
 - Revolución Cubana
 - Antimperialismo
 - Movimiento 26 de Julio
+image: "/images/posts/raul-castro-indictment/raul-castro-1959.jpg"
 ---
 
 *2 de diciembre de 1958*
