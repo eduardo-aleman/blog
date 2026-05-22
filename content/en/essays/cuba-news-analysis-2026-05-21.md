@@ -7,7 +7,7 @@ topic: foreign-policy
 region: [Cuba, United States, Caribbean]
 tags:
   - cuba
-  - us-cuba-relations
+  - united states-cuba-relations
   - raul-castro
   - trump-administration
   - helms-burton
