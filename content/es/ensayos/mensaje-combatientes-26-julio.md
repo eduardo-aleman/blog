@@ -9,11 +9,10 @@ tags:
 - Antimperialismo
 - Movimiento 26 de Julio
 image: "/images/posts/raul-castro-indictment/raul-castro-1959.jpg"
+image_caption: "Raúl Castro, 1959. Un joven Raúl Castro retratado en los meses inmediatos al triunfo de la Revolución Cubana, vistiendo el tradicional uniforme verde olivo del Movimiento 26 de Julio (M-26-7). Tras haberse desempeñado como comandante del Segundo Frente Oriental Frank País, Raúl, de 27 años, jugó un papel fundamental junto a su hermano Fidel en la campaña de guerrillas que derrocó al régimen de Batista."
 ---
 
 *2 de diciembre de 1958*
-
----
 
 Hermanos:
 
