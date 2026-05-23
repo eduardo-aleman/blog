@@ -9,7 +9,7 @@ tags:
   - congress
   - trump administration
   - news
-image: "/images/posts/anti-weaponization-fund/Department_of_Justice_ Anti-Weaponization_Fund.jpg"
+image: "/images/posts/anti-weaponization-fund/Department_of_Justice_ Anti-Weaponization_Fund.png"
 image_caption: "Heading of DOJ Fact Sheet from May 21. The summary says the fund was created to help people 'who were victims of lawfare and weaponization,' including millions of Americans 'whose online speech was censored at the behest of the government, parents silenced at schoolboards, Senators whose records were secretly subpoenaed, churchgoers targeted by the FBI, and so on.'"
 ---
 
