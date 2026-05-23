@@ -25,7 +25,7 @@ El núcleo de la tesis de Kahneman se basa en la existencia de dos sistemas de p
 El Sistema 1 opera de forma completamente automática, veloz y sin apenas esfuerzo consciente. Es el mecanismo filogenéticamente más antiguo, diseñado por la evolución para garantizar nuestra supervivencia inmediata mediante respuestas rápidas.
 
 * Características principales: Involuntario, asociativo, emocional, unconscious y altamente eficiente en términos de consumo energético.
-* Ejemplos cotidianos: Detectar la hostilidad en la voz de alguien, completar la frase *"pan y..."*, responder instantáneamente a la operación $2 + 2$, u orientar la mirada hacia la fuente de un sonido fuerte y repentino.
+* Ejemplos cotidianos: Detectar la hostilidad en la voz de alguien, completar la frase *"pan y..."*, responder instantáneamente a la operación $2 + $2, u orientar la mirada hacia la fuente de un sonido fuerte y repentino.
 * Su función: Utiliza atajos mentales (heurísticas) basados en la experiencia pasada y el contexto para generar conclusiones rápidas, aunque a menudo propensas a errores de precisión.
 
 ### 2. El Sistema 2 (Lento y Deliberado)
@@ -33,7 +33,7 @@ El Sistema 1 opera de forma completamente automática, veloz y sin apenas esfuer
 Por otro lado, el Sistema 2 es el encargado del pensamiento analítico, reflexivo y de la computación compleja. Se activa cuando el Sistema 1 no encuentra una respuesta inmediata o cuando detecta una anomalía que requiere un control consciente.
 
 * Características principales: Lento, perezoso (consume mucha energía mental y glucosa), requiere un esfuerzo consciente y concentración sustained.
-* Ejemplos cotidianos: Buscar a una mujer con el cabello blanco en una multitud, aparcar un coche en un espacio extremadamente estrecho, rellenar la declaración de la renta, o calcular mentalmente el resultado de $17 \times 24$.
+* Ejemplos cotidianos: Buscar a una mujer con el cabello blanco en una multitud, aparcar un coche en un espacio extremadamente estrecho, rellenar la declaración de la renta, o calcular mentalmente el resultado de $17 por $24.
 * Su función: Actúa como un supervisor. Es capaz de cuestionar las intuiciones del Sistema 1, evaluar argumentos lógicos y tomar decisiones racionales ponderando variables complejas.
 
 ## La Interacción entre Sistemas y la Génesis de los Sesgos Cognitivos
