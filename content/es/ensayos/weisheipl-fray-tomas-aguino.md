@@ -8,6 +8,7 @@ tags:
   - teología
   - traducción
 image: "/images/posts/weisheipl-fray-tomas-aguino/Tomás_Aquino_Triunfo.webp"
+focal_point: "10% 30%" # X and Y coordinates of the exact focal spot
 image_caption: "La pintura El triunfo de Santo Tomás de Aquino, de Benozzo Gozzoli, fue creada entre 1470 y 1475. Santo Tomás de Aquino aparece representado entronizado dentro de un sol dorado, sosteniendo un libro abierto. Está flanqueado por los filósofos de la Antigüedad Aristóteles (a la izquierda) y Platón (a la derecha), lo que destaca la síntesis entre la filosofía clásica y la teología cristiana. Debajo de Aquino yace Averroes, un filósofo musulmán cuyos comentarios sobre Aristóteles influyeron en la obra de Aquino. La pintura forma parte de la colección del Museo del Louvre en París."
 ---
 
