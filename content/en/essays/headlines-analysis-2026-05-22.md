@@ -43,7 +43,7 @@ Every outlet reports some portion of that sequence. The divergence is in emphasi
 
 ## What the framing choices reveal
 
-Three themes are worth pulling out.
+Four themes are worth pulling out.
 
 First, the resignation of a senior Treasury lawyer is being treated as a serious signal, not a routine departure. Resignations in protest by career or non-political legal staff tend to be reported soberly precisely because outlets understand them as costly signals — the official is sacrificing their position to communicate something. That the Times broke this story separately, rather than folding it into the fund coverage, indicates the editorial judgment that the resignation matters on its own terms.
 
