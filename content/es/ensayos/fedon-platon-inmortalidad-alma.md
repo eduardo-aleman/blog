@@ -4,7 +4,7 @@ date: 2026-01-26
 description: "Un análisis del diálogo platónico 'Fedón'. Examinamos el contexto histórico, la preparación del filósofo para morir, los cuatro argumentos ontológicos de la inmortalidad del alma, las objeciones fundamentales y el mito escatológico final."
 tags: ["Platón", "Sócrates", "Fedón", "Inmortalidad", "Alma", "Muerte", "Epistemología"]
 image: "/images/posts/fedon-platon/POxy.v0015.n1809.a.01.Plato_.Phaedo.webp"
-image_caption: "Papirología de Oxford (2022). Papiros de Oxirrinco, XV 1809. Platón, Fedón. Universidad de Oxford. Recurso en línea. [Dominio Público](https://doi.org/10.25446/oxford.21133039.v1)."
+image_caption: "Papirología de Oxford (2022). Papiros de Oxirrinco, XV 1809. Platón, Fedón. Universidad de Oxford. Recurso en línea. Dominio Público: https://doi.org/10.25446/oxford.21133039.v1."
 ---
 
 El *Fedón* es una de las obras más significativas, maduras y conmovedoras de Platón. Perteneciente a su período medio o de madurez, este diálogo presenta una reflexión ontológica y epistémica profunda sobre la muerte, la inmortalidad del alma (*psychē*) y la verdadera naturaleza del conocimiento puro. Ambientado en las últimas horas de vida de Sócrates antes de cumplir su sentencia de muerte por beber cicuta, el texto trasciende el drama histórico para convertirse en uno de los pilares fundacionales de la metafísica occidental. A través de una rigurosa dialéctica, Platón no solo explora la justificación de la esperanza en el más allá, sino que modela la actitud arquetípica del filósofo: una serenidad imperturbable frente a la disolución del cuerpo físico.
