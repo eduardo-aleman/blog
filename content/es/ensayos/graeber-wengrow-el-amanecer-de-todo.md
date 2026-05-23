@@ -7,6 +7,7 @@ tags:
   - anarquismo
   - antropología
   - arqueología
+  - traducción
 image: "/images/posts/graeber-wengrow-el-amanecer-de-todo/Graeber-and-Wengrow.jpg"
 image_caption: "David Wengrow (izquierda), arqueólogo británico, y el difunto David Graeber (derecha), antropólogo estadounidense."
 ---

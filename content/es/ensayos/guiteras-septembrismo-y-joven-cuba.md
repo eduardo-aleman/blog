@@ -2,9 +2,6 @@
 title: "Septembrismo y el Programa de Joven Cuba"
 date: '2026-05-18'
 summary: "Dos textos fundamentales de Antonio Guiteras: «Septembrismo», su balance del gobierno revolucionario de Grau y del fracaso del proyecto antimperialista tras el 4 de septiembre de 1933; y el programa completo de Joven Cuba, manifiesto que sintetiza una visión socialista y antimperialista para la transformación de la estructura económico-político-social cubana."
-categories:
-- Transcripciones
-- Historia
 draft: false
 type: posts
 tags:
