@@ -69,4 +69,4 @@ The headlines this week read like a single argument with eleven different voices
 
 ---
 
-*This post analyzes news framing only. The events described are summarized from the headlines and ledes of the cited outlets; readers are encouraged to read the original reporting in full.*
+*This post analyzes news framing only. Readers are encouraged to read the original reporting in full.*
