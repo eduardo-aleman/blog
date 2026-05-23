@@ -290,8 +290,6 @@ Así fue. Día tras día, la prédica de *La Fraternidad* se hacía sentir entre
 
 Dos años escasos duró *La Fraternidad* en esta etapa, que, como todos los periódicos "negros", no contó con el suficiente respaldo económico y desapareció, cubierto con la gloria de haber abierto el camino hacia la libertad de Cuba por medio de la prensa e inscripto su nombre entre los periódicos que conforman la historia del periodismo cubano, militante y revolucionario.
 
----
-
 ## Fuente
 
 Tomado del número de septiembre a diciembre de 1979 de la *Revista de la Biblioteca Nacional José Martí* (Año XXI, Vol. 71, No. 3). Esta edición de la publicación cubana incluye diversos estudios históricos, literarios y bibliotecológicos correspondientes al acervo cultural resguardado por la institución.
