@@ -11,7 +11,7 @@ image_caption: "Portada del libro Pensar rápido, pensar despacio, de Daniel Kah
 
 ## Introducción: La revolución cognitiva de Daniel Kahneman
 
-En su obra cumbre, *"Pensar rápido, pensar despacio"* (*Thinking, Fast and Slow*), el renombrado psicólogo y ganador del Premio Nobel de Economía en 2002, Daniel Kahneman, nos lleva en un fascinante viaje a través de los laberintos de la mente humana. A lo largo de este texto, explora los dos sistemas fundamentales que impulsan nuestro pensamiento y moldean cada una de nuestras decisiones. 
+En su obra cumbre, *"Pensar rápido, pensar despacio"* (*Thinking, Fast and Slow*), el renombrado psicólogo y ganador del Premio Nobel de Economía en 2002, Daniel Kahneman, nos lleva en un fascinante viaje a través de los laberintos de la mente humana. A lo largo de este texto, explora los dos sistemas fundamentales que impulsan nuestro pensamiento y moldean cada una de nuestras decisiones.
 
 A través de una mezcla hábil de investigación científica rigurosa —fruto de décadas de colaboración con su colega Amos Tversky— y anécdotas profundamente reveladoras, Kahneman nos sumerge en el mundo de la psicología cognitiva. Su objetivo no es otro que desentrañar los misterios de cómo pensamos, cómo evaluamos el riesgo y, fundamentalmente, por qué a menudo nos equivocamos de manera tan predecible y sistemática. El libro revolucionó no solo la psicología, sino también campos como la economía, la política pública y la medicina, al desafiar el dogma clásico de que el ser humano es un actor puramente racional (*Homo economicus*).
 
@@ -20,13 +20,17 @@ A través de una mezcla hábil de investigación científica rigurosa —fruto d
 El núcleo de la tesis de Kahneman se basa en la existencia de dos sistemas de pensamiento diferenciados que operan en nuestro cerebro, cada uno con características, velocidades y funciones específicas:
 
 ### 1. El Sistema 1 (Rápido e Intuitivo)
+
 El Sistema 1 opera de forma completamente automática, veloz y sin apenas esfuerzo consciente. Es el mecanismo filogenéticamente más antiguo, diseñado por la evolución para garantizar nuestra supervivencia inmediata mediante respuestas rápidas.
+
 * Características principales: Involuntario, asociativo, emocional, unconscious y altamente eficiente en términos de consumo energético.
 * Ejemplos cotidianos: Detectar la hostilidad en la voz de alguien, completar la frase *"pan y..."*, responder instantáneamente a la operación $2 + 2$, u orientar la mirada hacia la fuente de un sonido fuerte y repentino.
 * Su función: Utiliza atajos mentales (heurísticas) basados en la experiencia pasada y el contexto para generar conclusiones rápidas, aunque a menudo propensas a errores de precisión.
 
 ### 2. El Sistema 2 (Lento y Deliberado)
+
 Por otro lado, el Sistema 2 es el encargado del pensamiento analítico, reflexivo y de la computación compleja. Se activa cuando el Sistema 1 no encuentra una respuesta inmediata o cuando detecta una anomalía que requiere un control consciente.
+
 * Características principales: Lento, perezoso (consume mucha energía mental y glucosa), requiere un esfuerzo consciente y concentración sustained.
 * Ejemplos cotidianos: Buscar a una mujer con el cabello blanco en una multitud, aparcar un coche en un espacio extremadamente estrecho, rellenar la declaración de la renta, o calcular mentalmente el resultado de $17 \times 24$.
 * Su función: Actúa como un supervisor. Es capaz de cuestionar las intuiciones del Sistema 1, evaluar argumentos lógicos y tomar decisiones racionales ponderando variables complejas.
