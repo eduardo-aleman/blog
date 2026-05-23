@@ -26,6 +26,7 @@ tags:
 description: Estudio histórico sobre el periódico La Fraternidad fundado por Juan Gualberto Gómez en 1879, su rol en la lucha por la independencia de Cuba y la abolición de la esclavitud, así como su importancia en la prensa revolucionaria cubana del siglo XIX.
 summary: Estudio histórico sobre el periódico La Fraternidad fundado por Juan Gualberto Gómez en 1879, su rol en la lucha por la independencia de Cuba y la abolición de la esclavitud, así como su importancia en la prensa revolucionaria cubana del siglo XIX.
 image: "/images/posts/juan-gualberto-gomez/juan_gualberto_gomez_retrato.jpg"
+focal_point: "10% 30%" # X and Y coordinates of the exact focal spot
 image_caption: "Juan Gualberto Gómez (1854–1933) ejerció en el Senado cubano entre 1917 y 1925. Este retrato en particular figura en la colección de 1919 Cubans of To-day, identificándolo como un destacado político y periodista. ed. Parker, William Belmont, Hispanic Society of America — (1919) «Juan Gualberto Gómez» en Cubans of to-day, Hispanic Notes and Monographs, Nueva York: G. P. Putnam's Sons, pp. 508-510."
 ---
 
