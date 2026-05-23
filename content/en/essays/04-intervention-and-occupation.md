@@ -228,8 +228,6 @@ In early June, Cubans ceased to resist. It was apparent that the choice before t
 
 **Louis A. Pérez Jr.:** One of the world's foremost scholars of Cuba. Operating out of the U.S., his prolific body of work—including *The Structure of Cuban History*—analyzes the social, political, and cultural evolution of the nation.
 
----
-
 [^1]: Máximo Gómez, "A los señores hacendados y dueños de fincas ganaderas," July 1, 1895, Fondo de Donativos y Remisiones, Legajo 257, Número 14, Archivo Nacional de Cuba, Havana, Cuba. See also "Manuscrito del acuerdo del Consejo de Gobierno en sesión 13 de julio de 1896 en relación a la prohibición de la zafra de 1896 a 1897," July 30, 1896, Fondo de Donativos y Remisiones, Legajo 624, Número 34, ibid.
 
 [^2]: "To the President of the Republic of the United States of America," enclosure in Fitzhugh Lee to Richard Olney, June 24, 1896, Richard Olney Papers, Library of Congress, Manuscript Division, Washington, D.C.
