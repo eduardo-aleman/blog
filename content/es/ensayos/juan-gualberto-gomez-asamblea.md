@@ -8,7 +8,8 @@ tags:
 - Enmienda Platt
 - Leonard Wood
 image: "/images/posts/juan-gualberto-gomez/juan_gualberto_gomez_caricatura.jpg"
-image_caption: "Esta imagen es un retrato de 1910 de Juan Gualberto Gómez, identificado como un «notable político cubano». La ilustración fue realizada por el artista A. Magriñat y sirvió como suplemento para la publicación La Caricatura."
+focal_point: "10% 30%" # X and Y coordinates of the exact focal spot
+image_caption: "Retrato de 1910 de Juan Gualberto Gómez, identificado como un «notable político cubano». La ilustración fue realizada por el artista A. Magriñat y sirvió como suplemento para la publicación La Caricatura."
 ---
 
 La Comisión que suscribe, ha sido designada para proponer la respuesta que haya de darse a la comunicación del señor Gobernador Militar de la Isla de Cuba, en que se da traslado a los miembros de esta Asamblea "para su consideración y acción", de una enmienda a la Ley de presupuesto del Ejército de los Estados Unidos, adoptada por el Congreso de aquel país y sancionada por su Poder Ejecutivo.
