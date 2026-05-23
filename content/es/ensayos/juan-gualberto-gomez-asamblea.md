@@ -1,6 +1,6 @@
 ---
 title: "Ponencia del Sr. Juan Gualberto Gómez, miembro de la comisión designada para proponer la respuesta a la comunicación del Gobernador Militar de Cuba a la Convención"
-date: '2026-05-20'
+date: '2026-05-22'
 summary: "Esta ponencia, presentada el 26 de marzo de 1901 en la Convención Constituyente cubana, fue la respuesta a la comunicación del gobernador militar estadounidense Leonard Wood sobre la Enmienda Platt. El patriota y periodista Juan Gualberto Gómez lideró esta comisión para defender la soberanía y rechazar la imposición estadounidense. La Asamblea Constituyente había redactado la Constitución de 1901 sin definir inicialmente las relaciones con Estados Unidos.A pesar de los esfuerzos de figuras como Juan Gualberto Gómez, la Enmienda Platt fue finalmente impuesta como apéndice constitucional para permitir la retirada de las fuerzas estadounidenses."
 tags:
 - Cuba
@@ -8,7 +8,7 @@ tags:
 - Enmienda Platt
 - Leonard Wood
 image: "/images/posts/juan-gualberto-gomez/juan_gualberto_gomez_caricatura.jpg"
-image_caption: "Esta imagen es un retrato de 1910 de Juan Gualberto Gómez, identificado como un «notable político cubano». La ilustración fue realizada por el artista A. Magriñat y sirvió como suplemento para la publicación *La Caricatura*."
+image_caption: "Esta imagen es un retrato de 1910 de Juan Gualberto Gómez, identificado como un «notable político cubano». La ilustración fue realizada por el artista A. Magriñat y sirvió como suplemento para la publicación La Caricatura."
 ---
 
 La Comisión que suscribe, ha sido designada para proponer la respuesta que haya de darse a la comunicación del señor Gobernador Militar de la Isla de Cuba, en que se da traslado a los miembros de esta Asamblea "para su consideración y acción", de una enmienda a la Ley de presupuesto del Ejército de los Estados Unidos, adoptada por el Congreso de aquel país y sancionada por su Poder Ejecutivo.
