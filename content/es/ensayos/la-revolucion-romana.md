@@ -8,6 +8,7 @@ tags:
   - Augusto 
   - traducción
 image: "/images/posts/ronald-syme/meroe_head_augustus.jpg"
+focal_point: "10% 30%" # X and Y coordinates of the exact focal spot
 image_caption: "'La cabeza de Meroë' en el British Museum de Londres. Retrato en bronce del emperador romano Augusto. Fue hallada enterrada bajo un templo en Meroë —actual Sudán—, tras haber sido sustraída de una estatua en Egipto como botín de guerra. La cabeza destaca por su extraordinario estado de conservación y por sus ojos, incrustados con vidrio y piedra. Este artefacto ha sido datado aproximadamente entre los años 27 y 25 a. C. Memoria de mi visita a finales de marzo."
 ---
 
