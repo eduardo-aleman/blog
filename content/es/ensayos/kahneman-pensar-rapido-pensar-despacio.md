@@ -5,7 +5,7 @@ date: "2026-01-23"
 author: "Daniel Kahneman"
 category: "Psicología Cognitiva y Economía Conductual"
 tags: ["Daniel Kahneman", "Sesgos Cognitivos", "Toma de Decisiones", "Sistema 1 y 2", "Psicología Conductual", "Reseña de Libros"]
-image: "/images/posts/kahneman/pensar_rapido_pensar_despacio.webp"
+image: "/images/posts/kahneman/pensar_rapido_pensar_despacio.png"
 image_caption: "Portada del libro Pensar rápido, pensar despacio, de Daniel Kahneman"
 ---
 
