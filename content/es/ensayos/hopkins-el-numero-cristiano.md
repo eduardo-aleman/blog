@@ -1,6 +1,7 @@
 ---
 title: "El número cristiano y sus implicaciones"
 date: 2026-01-04
+description: "Keith Hopkins emplea la modelización demográfica para demostrar que el cristianismo primitivo fue una minoría diminuta durante sus dos primeros siglos (0,01 % hacia el año 100 d. C. y menos del 0,5 % en el 200 d. C.) antes de un crecimiento exponencial que alcanzó los 6 millones de fieles en el año 300 d. C. Al cuestionar las fuentes antiguas por ser exageradas y poco fiables, el autor defiende la utilidad de la sociología sobre los textos tradicionales, concluyendo que una minoría disciplinada y fuertemente conectada fue capaz de transformar por completo las instituciones y la civilización romana."
 summary: >-
   Keith Hopkins emplea la modelización demográfica para demostrar que el cristianismo primitivo fue una minoría diminuta durante sus dos primeros siglos (0,01 % hacia el año 100 d. C. y menos del 0,5 % en el 200 d. C.) antes de un crecimiento exponencial que alcanzó los 6 millones de fieles en el año 300 d. C. Al cuestionar las fuentes antiguas por ser exageradas y poco fiables, el autor defiende la utilidad de la sociología sobre los textos tradicionales, concluyendo que una minoría disciplinada y fuertemente conectada fue capaz de transformar por completo las instituciones y la civilización romana.
 categories:

@@ -2,6 +2,7 @@
 title: "El Fedón de Platón: La Filosofía de la Muerte y la Inmortalidad del Alma"
 date: 2026-01-26
 description: "Un análisis del diálogo platónico 'Fedón'. Examinamos el contexto histórico, la preparación del filósofo para morir, los cuatro argumentos ontológicos de la inmortalidad del alma, las objeciones fundamentales y el mito escatológico final."
+summary: "Un análisis del diálogo platónico 'Fedón'. Examinamos el contexto histórico, la preparación del filósofo para morir, los cuatro argumentos ontológicos de la inmortalidad del alma, las objeciones fundamentales y el mito escatológico final."
 tags: ["Platón", "Sócrates", "Fedón", "Inmortalidad", "Alma", "Muerte", "Epistemología"]
 image: "/images/posts/fedon-platon/POxy.v0015.n1809.a.01.Plato_.Phaedo.webp"
 image_caption: "Papirología de Oxford (2022). Papiros de Oxirrinco, XV 1809. Platón, Fedón. Universidad de Oxford. Recurso en línea. Dominio Público: https://doi.org/10.25446/oxford.21133039.v1."

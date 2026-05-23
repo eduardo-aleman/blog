@@ -2,6 +2,7 @@
 title: "Iris Murdoch sobre la metáfora: la soberanía del bien"
 date: 2026-05-07
 summary: "Iris Murdoch tenía una perspectiva singular sobre las metáforas, que exploró con frecuencia en sus escritos filosóficos."
+description: "Iris Murdoch tenía una perspectiva singular sobre las metáforas, que exploró con frecuencia en sus escritos filosóficos."
 categories:
   - Editorial
 tags:

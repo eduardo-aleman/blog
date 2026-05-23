@@ -1,6 +1,7 @@
 ---
 title: "Pensar, rápido y despacio: Un viaje a través de la mente humana"
 description: "Un análisis de la obra cumbre de Daniel Kahneman. Exploramos la arquitectura de los Sistemas 1 y 2, los sesgos cognitivos, la ilusión de validez y cómo mejorar nuestra toma de decisiones."
+summary: "Un análisis de la obra cumbre de Daniel Kahneman. Exploramos la arquitectura de los Sistemas 1 y 2, los sesgos cognitivos, la ilusión de validez y cómo mejorar nuestra toma de decisiones."
 date: "2026-01-23"
 author: "Daniel Kahneman"
 category: "Psicología Cognitiva y Economía Conductual"

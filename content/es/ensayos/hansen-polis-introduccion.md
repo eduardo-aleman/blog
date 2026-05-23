@@ -1,6 +1,7 @@
 ---
 title: "La Polis: Una introducción a la antigua ciudad-estado griega"
 date: 2026-02-12
+description: "This is a Spanish translation of the opening chapters of Mogens Herman Hansen's Polis: An Introduction to the Ancient Greek City-State — itself an expanded English version of his 2004 Danish original — prefaced by a dedication to John Crook, who collaborated with Hansen on the translation work over more than three decades."
 summary: "This is a Spanish translation of the opening chapters of Mogens Herman Hansen's Polis: An Introduction to the Ancient Greek City-State — itself an expanded English version of his 2004 Danish original — prefaced by a dedication to John Crook, who collaborated with Hansen on the translation work over more than three decades."
 tags:
   - polis

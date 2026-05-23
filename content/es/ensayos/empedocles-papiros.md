@@ -2,6 +2,7 @@
 title: "Dos fragmentos del mismo rollo: el papiro de El Cairo y el Empédocles de Estrasburgo"
 date: 2026-04-11
 summary: "Un fragmento de papiro identificado recientemente en El Cairo resulta ser parte del mismo rollo antiguo que el famoso Empédocles de Estrasburgo."
+description: "Un fragmento de papiro identificado recientemente en El Cairo resulta ser parte del mismo rollo antiguo que el famoso Empédocles de Estrasburgo."
 categories:
   - Editorial
 tags:

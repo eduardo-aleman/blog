@@ -2,6 +2,7 @@
 title: "Cita proveniente del libro 'La Revolución Romana' de Ronald Syme"
 date: 2026-02-25
 summary: "La caída de la República romana y el posterior ascenso de Augusto no deben explicarse a través de biografías individuales, sino mediante el análisis de la evolución y los conflictos de la oligarquía que detentaba el poder real. Así, las destructivas guerras civiles provocadas por las ambiciones de estas facciones transformaron a la clase dirigente y desembocaron inevitablemente en una monarquía despótica que impuso la paz a expensas de la libertad."
+description: "La caída de la República romana y el posterior ascenso de Augusto no deben explicarse a través de biografías individuales, sino mediante el análisis de la evolución y los conflictos de la oligarquía que detentaba el poder real. Así, las destructivas guerras civiles provocadas por las ambiciones de estas facciones transformaron a la clase dirigente y desembocaron inevitablemente en una monarquía despótica que impuso la paz a expensas de la libertad."
 tags:
   - Ronald Syme
   - Roma

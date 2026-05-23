@@ -3,6 +3,7 @@ title: "Intervención y ocupación"
 subtitle: "Capítulo 4 de *Cuba y los Estados Unidos: Lazos de singular intimidad*"
 author: "Louis A. Pérez Jr."
 date: 2026-05-09
+summary: "Cómo los Estados Unidos transformaron una guerra cubana de liberación nacional en una guerra de conquista, que culminó en la Enmienda Platt y la institucionalización de la hegemonía estadounidense sobre la isla."
 description: "Cómo los Estados Unidos transformaron una guerra cubana de liberación nacional en una guerra de conquista, que culminó en la Enmienda Platt y la institucionalización de la hegemonía estadounidense sobre la isla."
 categories: ["Historia"]
 tags: ["Cuba", "Estados Unidos", "Guerra hispano-estadounidense", "Enmienda Platt", "Colonialismo", "1898", "Independencia"]
