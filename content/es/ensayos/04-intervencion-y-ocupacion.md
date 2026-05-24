@@ -227,7 +227,7 @@ A principios de junio, los cubanos cesaron en su resistencia. Era evidente que l
 
 ## Sobre el autor
 
-**Louis A. Pérez Jr.:** Uno de los principales estudiosos de Cuba a nivel mundial. Desde los Estados Unidos, su prolífica obra —que incluye *The Structure of Cuban History*— analiza la evolución social, política y cultural de la nación.
+**Louis A. Pérez Jr.:** Uno de los principales estudiosos de Cuba a nivel mundial. Desde los Estados Unidos, su prolífica obra —que incluye *Cuba and the United States: Ties of Singular Intimacy* y *The Structure of Cuban History*— analiza la evolución social, política y cultural de la nación.
 
 [^1]: Máximo Gómez, "A los señores hacendados y dueños de fincas ganaderas", 1 de julio de 1895, Fondo de Donativos y Remisiones, Legajo 257, Número 14, Archivo Nacional de Cuba, La Habana, Cuba. Véase también "Manuscrito del acuerdo del Consejo de Gobierno en sesión 13 de julio de 1896 en relación a la prohibición de la zafra de 1896 a 1897", 30 de julio de 1896, Fondo de Donativos y Remisiones, Legajo 624, Número 34, ibíd.
 
