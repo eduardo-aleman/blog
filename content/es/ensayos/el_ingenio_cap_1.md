@@ -205,15 +205,11 @@ Teóricamente, con estos nuevos esclavos era posible alcanzar producciones total
 
 ## Notas a pie de página
 
-### Palabras iniciales
-
 [^1]: Esta introducción se publicó al frente de la edición de La Habana, 1977-1978. Sus «palabras iniciales», pues, deben entenderse como redactadas en ese momento y para tal edición (*N. del T. o del Editor*).
 
 [^2]: El primer tomo ha tenido los cambios siguientes: se ha agregado el capítulo I y se ha corrido la numeración de los siguientes. También es nuevo el epígrafe *a* del capítulo II. El capítulo V es nuevo casi en su totalidad. El antiguo epígrafe *«La vida en el ingenio»* está integrado —muy aumentado— al tomo II. Se han rectificado errores de la primera edición. Para facilitar la comprensión de las estadísticas, todas las unidades antiguas han sido reducidas al sistema métrico decimal. En algunos casos se mantiene la unidad antigua y la métrica. Al final agregamos las fuentes estadísticas y la tabla de conversiones empleada.
 
 [^3]: El antiguo tomo I equivale a nuestras páginas 1-262 y el tomo II se corresponde con las páginas 263-466 (*N. del Editor*).
-
-### I. El camino hacia la plantación
 
 [^4]: > «The last thing offered towards consideration of the trade of the Sugar Colonies, is the Trade to Africa, for these two trades are like the cause and the effect, without one, the other cannot stand, that is, if the colonies are not furnished with negroes, they cannot make sugar, and the more and cheaper they have negroes, the more and cheaper they will make sugar, and according to this rule, they are to decay or flourish...» — *The Present State of the Sugar Plantations considered; but more especially that of the Island of Barbadoes*, Londres, 1714, p. 27.
 
