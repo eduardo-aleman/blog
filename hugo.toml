@@ -50,6 +50,10 @@ timeZone = 'America/Los_Angeles'
     style = 'friendly'
     lineNos = false
   
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  
   [markup.tableOfContents]
     startLevel = 2
     endLevel = 3

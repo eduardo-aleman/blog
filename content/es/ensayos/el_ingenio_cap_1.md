@@ -215,27 +215,27 @@ Teóricamente, con estos nuevos esclavos era posible alcanzar producciones total
 
 [^6]: Joseph A. Schumpeter: *History of Economic Analysis*, Oxford, 1954, pp. 154-155. De esta extraordinaria obra dice el historiador marxista Pierre Vilar que *«...debería ser un libro de cabecera para los historiadores»*. Pierre Vilar: *Crecimiento y desarrollo*, Barcelona, 1964, p. 36.
 
-[^7]: Hemos hecho el cálculo basándonos en la costumbre de envasar el azúcar en cajas de 16 arrobas (@) (184 kg) con una tara de 62 lb españolas (28.52 kg). Según los estimados de la época, la zafra de 1759 se distribuyó de la siguiente forma:
+[^7]: Hemos hecho el cálculo basándonos en la costumbre de envasar el azúcar en cajas de 16 arrobas (a) (184 kg) con una tara de 62 lb españolas (28.52 kg). Según los estimados de la época, la zafra de 1759 se distribuyó de la siguiente forma:<br><br>
 
-   **Estimado de producción por Jurisdicción (Zafra de 1759)**
+      **Estimado de producción por Jurisdicción (Zafra de 1759)**
 
-   | Jurisdicción | **Azúcar Blanca (Arrobas)** | **Azúcar Quebrada (Arrobas)** |
-   | --- | --- | --- |
-   | Habana | 226,320 | 113,160 |
-   | Trinidad y Sancti Spíritus | 15,680 | 7,840 |
-   | Cuba (Santiago) | 33,000 | 11,000 |
-   | Puerto Príncipe y San Juan de los Remedios | 46,600 | 23,300 |
-   | **Total** | **321,600** | **155,300** |
+      | Jurisdicción | **Azúcar Blanca (Arrobas)** | **Azúcar Quebrada (Arrobas)** |
+      | --- | --- | --- |
+      | Habana | 226,320 | 113,160 |
+      | Trinidad y Sancti Spíritus | 15,680 | 7,840 |
+      | Cuba (Santiago) | 33,000 | 11,000 |
+      | Puerto Príncipe y San Juan de los Remedios | 46,600 | 23,300 |
+      | **Total** | **321,600** | **155,300** |
 
-   **Resumen Total de Producción**
+      **Resumen Total de Producción**
 
-   | Tipo de Azúcar | **Arrobas** | **Toneladas** |
-   | --- | --- | --- |
-   | Blanca | 321,600 | 3,698 |
-   | Quebrada | 155,900 | 1,786 |
-   | **Total** | **477,500** | **5,484** |
+      | Tipo de Azúcar | **Arrobas** | **Toneladas** |
+      | --- | --- | --- |
+      | Blanca | 321,600 | 3,698 |
+      | Quebrada | 155,900 | 1,786 |
+      | **Total** | **477,500** | **5,484** |
 
-   *Fuente: Archivo General de Indias (AGI), Sección Santo Domingo, leg. 2015.* Este estimado coincide con el que aparece en el *Libro de cargo y data de las porciones de Azúcar que contribuyen los Individuos dueños de Ingenio, por el Cinco por ciento correspondiente a S. M.; y en que se incluirán las Cantidades que producen las ventas que se hicieron en este Puerto, que corre desde 6 de Octubre de mil setecientos cincuenta y nueve (que principió la contribución)*. Archivo Nacional de Cuba (ANC), Miscelánea de Libros, 2646.
+      *Fuente: Archivo General de Indias (AGI), Sección Santo Domingo, leg. 2015.* Este estimado coincide con el que aparece en el *Libro de cargo y data de las porciones de Azúcar que contribuyen los Individuos dueños de Ingenio, por el Cinco por ciento correspondiente a S. M.; y en que se incluirán las Cantidades que producen las ventas que se hicieron en este Puerto, que corre desde 6 de Octubre de mil setecientos cincuenta y nueve (que principió la contribución)*. Archivo Nacional de Cuba (ANC), Miscelánea de Libros, 2646.
 
 [^8]: Francisco Antonio Cagigal y de la Vega (1691-1777) fue primero gobernador y capitán a guerra de Santiago de Cuba y más tarde Capitán General y gobernador de la Isla de Cuba (1747-1760). Amasó una gran fortuna con el comercio de negros de contrabando a través de Jamaica. A su salida de Cuba quedó encargado de sus negocios su sobrino Fernando José Alberto de Cagigal y García de la Vega y Solís, también gobernador y capitán a guerra de la plaza de Santiago de Cuba, donde murió el 11 de febrero de 1769. Este sobrino fue el II Marqués de Casa Cagigal. El V Marqués, Juan Manuel de Cagigal y Martínez, Niño de San Miguel y Pacheco, murió en Guanabacoa el 26 de noviembre de 1829, después de haber sido Gobernador y capitán de la Isla de 1819 a 1821. Ver genealogía en: Rafael Nieto y Cortadellas: *Dignidades nobiliarias en Cuba*, 1954.
 
@@ -261,25 +261,24 @@ Teóricamente, con estos nuevos esclavos era posible alcanzar producciones total
 
 [^19]: Jacobo de la Pezuela: *Historia de Cuba*, t. II, p. 215. Naturalmente, es intolerable la versión de Pezuela de que estos ingenios se fomentaron estimulados por la llegada de varios cargamentos de negros «fuera de registro».
 
-[^20]: Las cifras de reexportaciones inglesas, por quinquenios, fueron como sigue (en toneladas métricas):
+[^20]: Las cifras de reexportaciones inglesas, por quinquenios, fueron como sigue (en toneladas métricas):<br><br>
 
-   **Reexportaciones Azucareras Inglesas (1701-1755)**
+      **Reexportaciones Azucareras Inglesas (1701-1755)**
+      | Quinquenio | **Promedio Anual Azúcar Crudo (t)** | **Promedio Anual Azúcar Refino (t)*** | **Promedio Anual Total (t)** |
+      | --- | --- | --- | --- |
+      | 1701-05 | 4,751 | 156 | 4,907 |
+      | 1706-10 | 5,016 | 162 | 5,178 |
+      | 1711-15 | 6,983 | 376 | 7,359 |
+      | 1716-20 | 6,780 | 595 | 7,375 |
+      | 1721-25 | 4,775 | 438 | 5,213 |
+      | 1726-30 | 8,078 | 1,324 | 9,402 |
+      | 1731-35 | 4,409 | 1,706 | 6,115 |
+      | 1736-40 | 2,830 | 1,225 | 4,055 |
+      | 1741-45 | 4,120 | 1,621 | 5,741 |
+      | 1746-50 | 5,033 | 1,505 | 6,538 |
+      | 1751-55 | 2,929 | 1,271 | 4,200 |
 
-   | Quinquenio | **Promedio Anual Azúcar Crudo (t)** | **Promedio Anual Azúcar Refino (t)*** | **Promedio Anual Total (t)** |
-   | --- | --- | --- | --- |
-   | 1701-05 | 4,751 | 156 | 4,907 |
-   | 1706-10 | 5,016 | 162 | 5,178 |
-   | 1711-15 | 6,983 | 376 | 7,359 |
-   | 1716-20 | 6,780 | 595 | 7,375 |
-   | 1721-25 | 4,775 | 438 | 5,213 |
-   | 1726-30 | 8,078 | 1,324 | 9,402 |
-   | 1731-35 | 4,409 | 1,706 | 6,115 |
-   | 1736-40 | 2,830 | 1,225 | 4,055 |
-   | 1741-45 | 4,120 | 1,621 | 5,741 |
-   | 1746-50 | 5,033 | 1,505 | 6,538 |
-   | 1751-55 | 2,929 | 1,271 | 4,200 |
-
-   \* Nota: La cifra de refino está dada en valor crudo, sobre la base de conversión 1:1.7, que es el rendimiento refino-crudo en las refinerías inglesas más eficientes de fines del siglo XVIII. Ver «Apéndice Estadístico».
+      \* Nota: La cifra de refino está dada en valor crudo, sobre la base de conversión 1:1.7, que es el rendimiento refino-crudo en las refinerías inglesas más eficientes de fines del siglo XVIII. Ver «Apéndice Estadístico».
 
 [^21]: Hugh Thomas: *Cuba*, Londres, Eyre & Spottiswoode, 1969, p. 52, nota 47.
 
@@ -291,40 +290,40 @@ Teóricamente, con estos nuevos esclavos era posible alcanzar producciones total
 
 [^25]: Las protestas ante la Cámara de los Comunes elevadas por los refinadores, comerciantes e intermediarios de Londres, Westminster y Southwark en 1753 se basaban, entre otros, en los siguientes puntos:
 
-   **a)** Precio excesivamente alto del azúcar como resultado de la deficiente importación.
+    **a)** Precio excesivamente alto del azúcar como resultado de la deficiente importación.
 
-   **b)** Incumplimiento de la de la promesa de incrementar las importaciones por parte de los plantadores.
+    **b)** Incumplimiento de la de la promesa de incrementar las importaciones por parte de los plantadores.
 
-   **c)** Los plantadores se beneficiaban con la restricción de las importaciones, mientras la marina, el Estado, los refinadores, los intermediarios y el público consumidor se perjudicaban.
+    **c)** Los plantadores se beneficiaban con la restricción de las importaciones, mientras la marina, el Estado, los refinadores, los intermediarios y el público consumidor se perjudicaban.
 
-   **d)** Los azúcares franceses, si se eliminaban las medidas proteccionistas, podían adquirirse a la mitad del precio de los azúcares ingleses.
+    **d)** Los azúcares franceses, si se eliminaban las medidas proteccionistas, podían adquirirse a la mitad del precio de los azúcares ingleses.
 
-   **e)** El excesivo afán de lucro impedía a los plantadores de Jamaica poner en cultivo nuevas tierras, de las que disponía la isla en grandes cantidades.
+    **e)** El excesivo afán de lucro impedía a los plantadores de Jamaica poner en cultivo nuevas tierras, de las que disponía la isla en grandes cantidades.
 
-   **f)** Se estaban cerrando todas las posibilidades de exportar mascabado al resto de Europa.
+    **f)** Se estaban cerrando todas las posibilidades de exportar mascabado al resto de Europa.
 
-   **g)** Irlanda se había visto obligada a importar azúcares de Portugal, mientras en Escocia se estaban recibiendo grandes cantidades de azúcares franceses de contrabando.
+    **g)** Irlanda se había visto obligada a importar azúcares de Portugal, mientras en Escocia se estaban recibiendo grandes cantidades de azúcares franceses de contrabando.
 
-   **h)** Jamaica tenía cientos de miles de acres de tierra disponibles, suficientes para abastecer de azúcar a toda Europa.
+    **h)** Jamaica tenía cientos de miles de acres de tierra disponibles, suficientes para abastecer de azúcar a toda Europa.
 
-   **i)** Debido a la deficiente importación, las refinerías inglesas y comercios asociados estaban siendo gravemente perjudicados. *— Noel Deerr: History of Sugar, t. II, pp. 417-418.*
+    **i)** Debido a la deficiente importación, las refinerías inglesas y comercios asociados estaban siendo gravemente perjudicados. *— Noel Deerr: History of Sugar, t. II, pp. 417-418.*
 
-[^26]: Eric Williams, *op. cit.*, pp. 126 a 135. Williams, en estas páginas, resume la tesis que él mismo expusiera anteriormente en *Capitalism and Slavery* y concluye que el estancamiento productor de las *Sugar Islands* durante el periodo 1725-1755 fue una gran jugada especulativa de los plantadores. Para fundamentar su tesis, trae a colación que los precios del azúcar en 1727 eran de 24 s. 10 ¼ d. el quintal inglés, pasando a 30 s. 7 d. en 1743 y a 42 s. 10 ½ d. en 1746, con lo cual no hace otra cosa que desempolvar los argumentos de los refinadores de entonces. La tesis, a todas luces, es objetable. En primer lugar, no es serio llegar a conclusiones sobre datos estadísticos aislados. Un argumento económico sólo puede basarse en una serie estadística segura y correctamente criticada, a la cual se aplique un tratamiento matemático adecuado. Lo demás es hacer literatura con cifras. La serie completa desde 1727 a 1755 es como sigue (precio en chelines por quintal inglés —cwt de 50.736 kg— CIF Londres):
+[^26]: Eric Williams, *op. cit.*, pp. 126 a 135. Williams, en estas páginas, resume la tesis que él mismo expusiera anteriormente en *Capitalism and Slavery* y concluye que el estancamiento productor de las *Sugar Islands* durante el periodo 1725-1755 fue una gran jugada especulativa de los plantadores. Para fundamentar su tesis, trae a colación que los precios del azúcar en 1727 eran de 24 s. 10 ¼ d. el quintal inglés, pasando a 30 s. 7 d. en 1743 y a 42 s. 10 ½ d. en 1746, con lo cual no hace otra cosa que desempolvar los argumentos de los refinadores de entonces. La tesis, a todas luces, es objetable. En primer lugar, no es serio llegar a conclusiones sobre datos estadísticos aislados. Un argumento económico sólo puede basarse en una serie estadística segura y correctamente criticada, a la cual se aplique un tratamiento matemático adecuado. Lo demás es hacer literatura con cifras. La serie completa desde 1727 a 1755 es como sigue (precio en chelines por quintal inglés —cwt de 50.736 kg— CIF Londres):<br><br>
 
-**Precios del Azúcar en Londres (CIF en chelines por cwt)**
+    **Precios del Azúcar en Londres (CIF en chelines por cwt)**
 
-   | Año | **Precio** | **Año** | **Precio** | **Año** | **Precio** | **Año** | **Precio** |
-   | --- | --- | --- | --- | --- | --- | --- | --- |
-   | **1727** | 25 | **1734** | 26 | **1741** | 30 | **1748** | 32 |
-   | **1728** | 24 | **1735** | 19 | **1742** | 21 | **1749** | 29 |
-   | **1729** | 24 | **1736** | 19 | **1743** | 27 | **1750** | 28 |
-   | **1730** | 22 | **1737** | 25 | **1744** | 31 | **1751** | 30 |
-   | **1731** | 20 | **1738** | 22 | **1745** | 40 | **1752** | 39 |
-   | **1732** | 18 | **1739** | 26 | **1746** | 39 | **1753** | 33 |
-   | **1733** | 17 | **1740** | 32 | **1747** | 43 | **1754** | 36 |
-   |  |  |  |  |  |  | **1755** | 36 |
+    | Año | **Precio** | **Año** | **Precio** | **Año** | **Precio** | **Año** | **Precio** |
+    | --- | --- | --- | --- | --- | --- | --- | --- |
+    | **1727** | 25 | **1734** | 26 | **1741** | 30 | **1748** | 32 |
+    | **1728** | 24 | **1735** | 19 | **1742** | 21 | **1749** | 29 |
+    | **1729** | 24 | **1736** | 19 | **1743** | 27 | **1750** | 28 |
+    | **1730** | 22 | **1737** | 25 | **1744** | 31 | **1751** | 30 |
+    | **1731** | 20 | **1738** | 22 | **1745** | 40 | **1752** | 39 |
+    | **1732** | 18 | **1739** | 26 | **1746** | 39 | **1753** | 33 |
+    | **1733** | 17 | **1740** | 32 | **1747** | 43 | **1754** | 36 |
+    |  |  |  |  |  |  | **1755** | 36 |
 
-   Examinando esta serie completa se advierte que durante los primeros 15 años de estancamiento productivo los precios tuvieron oscilaciones mínimas, revelando un equilibrio entre las fuerzas de la oferta y la demanda, lo que contradice el argumento de la limitación productiva para impulsar los precios. El *boom* de la década de 1740 tampoco es un fenómeno explicable sólo por el estancamiento productor, sino —y en muy alto grado— por los trastornos económicos ocasionados por la Guerra de Sucesión Austríaca. Por otra parte, las leyes del desarrollo capitalista impulsan el aumento continuo de la producción, y cuando éste no tiene lugar en un sector tan importante como el azúcar, es porque hay fuerzas superiores que lo impiden. In realidad, las posibilidades azucareras de las *Sugar Islands* estaban llegando a su fin por razones técnicas y de costos de producción. A la larga, John Ashley, el gran teórico de la economía de plantación, tuvo sobrada razón. Ver su obra fundamental: *Memoirs and considerations concerning the trade and revenue of the British colonies in America*, Londres, 1740-1743.
+    Examinando esta serie completa se advierte que durante los primeros 15 años de estancamiento productivo los precios tuvieron oscilaciones mínimas, revelando un equilibrio entre las fuerzas de la oferta y la demanda, lo que contradice el argumento de la limitación productiva para impulsar los precios. El *boom* de la década de 1740 tampoco es un fenómeno explicable sólo por el estancamiento productor, sino —y en muy alto grado— por los trastornos económicos ocasionados por la Guerra de Sucesión Austríaca. Por otra parte, las leyes del desarrollo capitalista impulsan el aumento continuo de la producción, y cuando éste no tiene lugar en un sector tan importante como el azúcar, es porque hay fuerzas superiores que lo impiden. In realidad, las posibilidades azucareras de las *Sugar Islands* estaban llegando a su fin por razones técnicas y de costos de producción. A la larga, John Ashley, el gran teórico de la economía de plantación, tuvo sobrada razón. Ver su obra fundamental: *Memoirs and considerations concerning the trade and revenue of the British colonies in America*, Londres, 1740-1743.
 
 [^27]: > «...that the Manufactures, traffic, treasure and Power of Great Britain, depended in great measure on the Fate of our Sugar Islands.» — John Ashley: *A supplement to the second part...*, Londres, 1744, p. 5.
 
