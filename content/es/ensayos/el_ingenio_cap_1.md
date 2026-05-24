@@ -12,8 +12,11 @@ image: "/images/posts/el-ingenio/el_ingenio.png"
 ---
 
 El Ingenio
+
 Complejo Económico Social Cubano del Azúcar
-Manuel Moreno Fraginals
+
+**Manuel Moreno Fraginals**
+
 Editorial Crítica
 
 *A Raúl Cepero Bonilla, presente en la ausencia: estas cosas que durante tantos años discutimos.*
