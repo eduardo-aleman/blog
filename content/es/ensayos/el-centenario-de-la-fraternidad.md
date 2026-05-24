@@ -2,7 +2,7 @@
 title: El centenario de La Fraternidad
 subtitle: El periódico de Juan Gualberto Gómez
 author: Pedro Deschamps Chapeaux
-date: 2026-05-11
+date: 2026-01-11
 date_published: 1979-09
 publication: Revista de la Biblioteca Nacional José Martí
 publication_issue: Año XXI, Vol. 71, No. 3 (Septiembre-Diciembre 1979)
