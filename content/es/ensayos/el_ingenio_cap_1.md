@@ -203,7 +203,7 @@ La Habana contaba con 88 ingenios que como máximo tenían en total 4,000 negros
 
 Teóricamente, con estos nuevos esclavos era posible alcanzar producciones totales cercanas a las 10,000 t. Se comprende así por qué Arango y Parreño califica este periodo de "época feliz". Época feliz de los hacendados que resulta trágica para las clases humildes de la sociedad. Como ejemplo de lo que ha de suceder cotidianamente durante el siglo XIX, se recrudece momentáneamente la barbarie esclavista en una colonia que hasta entonces había sido, al decir de los propios ingleses, la más humana de todas las Antillas.[^34] Y quedó en los documentos cómo negros y mulatos —esclavos y libertos— huyeron aterrorizados de la ciudad conquistada, a donde el invasor traía su bárbaro régimen de trabajo y sus prejuicios de raza superior. Aun muchos años después fue necesario dictar medidas para atraer a «los negros guachinangos que huyeron con ocasión de la guerra con el inglés». De esta época es también la desaparición del último ingenio cubano perteneciente a una familia mulata: «Nuestra Señora de la Candelaria», de Rosenda de Neyra.[^35]
 
-## Notas
+## Notas a pie de página
 
 ### Palabras iniciales
 
