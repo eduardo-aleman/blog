@@ -13,7 +13,7 @@ image: "/images/posts/el-ingenio/el_ingenio.png"
 
 El Ingenio
 Complejo Económico Social Cubano del Azúcar
-Manuel Moreno Fraginals 
+Manuel Moreno Fraginals
 Editorial Crítica
 
 *A Raúl Cepero Bonilla, presente en la ausencia: estas cosas que durante tantos años discutimos.*
@@ -137,7 +137,7 @@ Marina mercante insuficiente: Los intereses navieros buscan su utilidad en pocos
 
 La presencia del azúcar cubano en el mercado internacional, con fuerza suficiente como para alterar los precios, es un fenómeno muy tardío: última década del siglo XVIII. Pero antes de este periodo podemos hallar muchísimas menciones aisladas que demuestran la actividad azucarera de la Isla.[^17] Ninguna de ellas indica una fuerza productora cuantitativamente importante dentro del marco de la época; pero todas señalan que productores y comerciantes del azúcar cubano van penetrando, desde fecha muy lejana, la exclusiva red de los grandes intereses comerciales del continente europeo.
 
-A lo largo del siglo XVIII, la coyuntura internacional favoreció la tendencia expansionista de la manufactura azucarera cubana. Exactamente, el año de 1701 se distingue comercialmente por haber alcanzado el azúcar un precio tope que no es sobrepasado hasta noventa años más tarde, con la ruina de Haití.[^18] La rentabilidad azucarera de fines del siglo XVII y principios del siglo XVIII llegó a tal grado que los comerciantes —teniendo en cuenta las guerras— estimaban aseguradas sus utilidades sólo con que a Europa llegase 1 de cada 3 cargamentos enviados. La coyuntura alcista polarizó los fondos invertibles habaneros hacia el sector azucarero y entre 1695 y 1702 se fomentaron cerca de 20 ingenios.[^16]
+A lo largo del siglo XVIII, la coyuntura internacional favoreció la tendencia expansionista de la manufactura azucarera cubana. Exactamente, el año de 1701 se distingue comercialmente por haber alcanzado el azúcar un precio tope que no es sobrepasado hasta noventa años más tarde, con la ruina de Haití.[^18] La rentabilidad azucarera de fines del siglo XVII y principios del siglo XVIII llegó a tal grado que los comerciantes —teniendo en cuenta las guerras— estimaban aseguradas sus utilidades sólo con que a Europa llegase 1 de cada 3 cargamentos enviados. La coyuntura alcista polarizó los fondos invertibles habaneros hacia el sector azucarero y entre 1695 y 1702 se fomentaron cerca de 20 ingenios.[^19]
 
 Se inicia así un periodo de expansión cuya curva de crecimiento va a mostrar las inflexiones típicas provocadas por las guerras coloniales. Alternando etapas de auge y depresión, la resultante será un lento pero mantenido crecimiento que hacia 1740, como ya hemos descrito, buscará en la fundación de la Real Compañía del Comercio de La Habana una nueva vía de exportación de sus productos.
 
@@ -314,7 +314,7 @@ Teóricamente, con estos nuevos esclavos era posible alcanzar producciones total
 
 [^26]: Eric Williams, *op. cit.*, pp. 126 a 135. Williams, en estas páginas, resume la tesis que él mismo expusiera anteriormente en *Capitalism and Slavery* y concluye que el estancamiento productor de las *Sugar Islands* durante el periodo 1725-1755 fue una gran jugada especulativa de los plantadores. Para fundamentar su tesis, trae a colación que los precios del azúcar en 1727 eran de 24 s. 10 ¼ d. el quintal inglés, pasando a 30 s. 7 d. en 1743 y a 42 s. 10 ½ d. en 1746, con lo cual no hace otra cosa que desempolvar los argumentos de los refinadores de entonces. La tesis, a todas luces, es objetable. En primer lugar, no es serio llegar a conclusiones sobre datos estadísticos aislados. Un argumento económico sólo puede basarse en una serie estadística segura y correctamente criticada, a la cual se aplique un tratamiento matemático adecuado. Lo demás es hacer literatura con cifras. La serie completa desde 1727 a 1755 es como sigue (precio en chelines por quintal inglés —cwt de 50.736 kg— CIF Londres):
 
-   **Precios del Azúcar en Londres (CIF en chelines por cwt)**
+**Precios del Azúcar en Londres (CIF en chelines por cwt)**
 
    | Año | **Precio** | **Año** | **Precio** | **Año** | **Precio** | **Año** | **Precio** |
    | --- | --- | --- | --- | --- | --- | --- | --- |
