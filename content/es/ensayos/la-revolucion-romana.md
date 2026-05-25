@@ -36,3 +36,10 @@ La cólera del cielo contra el pueblo romano se manifestaba en portentos y en co
 En el principio los reyes gobernaron Roma, y al final, como estaba prescrito por el hado, se volvió de nuevo a la monarquía. La monarquía trajo la concordia. Durante las guerras civiles cada partido y cada líder declaraban estar defendiendo la causa de la libertad y de la paz. Aquellos ideales eran incompatibles. Cuando la paz llegó, fue la paz del despotismo: «cum domino ista pax venit»."
 
 \*Horacio, _Odas_ 2, 1, 1 ss.: _La agitación ciudadana desde el consulado de Metelo; las causas, los crímenes, las formas de la guerra; el juego de la Fortuna, el peso de las amistades de los principales ciudadanos, y las armas, manchadas de una sangre aún no expiada._
+
+{{< figure
+  src="/images/posts/ronald-syme/augustus_louvre.jpg"
+  alt="La estatua heroica de Octavio (el futuro emperador Augusto), una antigua escultura de mármol ubicada en el Museo del Louvre, en París"
+  caption="La estatua heroica de Octavio (el futuro emperador Augusto), una antigua escultura de mármol ubicada en el Museo del Louvre, en París. La escultura está firmada en la parte posterior del soporte por el artista griego Ofelión, hijo de Aristonidas. Se trata de una obra compuesta, en la que la cabeza antigua —que representa a un Octavio joven— no pertenecía originalmente al cuerpo. Datación: El cuerpo data del siglo I a. C. y la cabeza de aproximadamente el 31 a. C. La estatua tiene una altura total de aproximadamente 2,08 metros. La escultura fue descubierta en Tusculum, Italia. La foto es mía"
+  class="post-figure"
+>}}
