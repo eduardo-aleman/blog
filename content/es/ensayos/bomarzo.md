@@ -3,7 +3,7 @@ title: "Bomarzo de Manuel Mujica Láinez: el monstruo, el jardín y la palabra i
 subtitulo: "Una catedral barroca de palabras sobre la deformidad, el arte y la búsqueda de la eternidad"
 summary: "Análisis literario de la novela Bomarzo (1962)"
 genero: "Novela histórica / Fantasía histórica"
-fecha_ensayo: 2026-05-24
+date: 2026-05-24
 palabras_clave:
   - literatura argentina
   - novela histórica
