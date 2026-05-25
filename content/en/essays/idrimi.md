@@ -11,7 +11,7 @@ tags:
   - bronze age
   - alalakh
   - akkadian
-image: "Statue_of_Idrimi_in_the_British_Museum.png"
+image: "/images/posts/idrimi/Statue_of_Idrimi_in_the_British_Museum.png"
 alt: "The dolomite Statue of Idrimi on display at the British Museum, its surface covered in cuneiform inscription."
 caption: "The Statue of Idrimi, photographed at the British Museum, March 2026."
 ---
