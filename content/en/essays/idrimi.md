@@ -1,6 +1,6 @@
 ---
 title: "The Exile King's Lasting Mark: Reevaluating Alalakh's Statue of Idrimi"
-date: 2026-05-25
+date: 2026-05-19
 draft: false
 summary: "A 15th-century BCE statue from Alalakh tells the first-person story of a deposed prince who reclaimed his throne. A new analysis by Jacob Lauinger argues that the inscription was added long after the king's death — and changes how we should read it."
 description: "The Statue of Idrimi from Late Bronze Age Alalakh, its 100-line cuneiform autobiography, and Jacob Lauinger's reassessment of when and why the inscription was carved."
