@@ -11,13 +11,9 @@ tags:
   - bronze age
   - alalakh
   - akkadian
-categories:
-  - history
-cover:
-  image: "Statue_of_Idrimi_in_the_British_Museum.png"
-  alt: "The dolomite Statue of Idrimi on display at the British Museum, its surface covered in cuneiform inscription."
-  caption: "The Statue of Idrimi, photographed at the British Museum, March 2026."
-  relative: true
+image: "Statue_of_Idrimi_in_the_British_Museum.png"
+alt: "The dolomite Statue of Idrimi on display at the British Museum, its surface covered in cuneiform inscription."
+caption: "The Statue of Idrimi, photographed at the British Museum, March 2026."
 ---
 
 Among the ruins of Alalakh (modern Tell Atchana in southern Turkey), no artifact has captured the imagination or stirred more scholarly debate than the **Statue of Idrimi**. Unearthed in 1939 by the British archaeologist Sir Leonard Woolley, this 15th-century BCE dolomite figure is far more than a piece of ancient art — it is a deeply personal political manifesto carved directly into the body of the king it depicts.
