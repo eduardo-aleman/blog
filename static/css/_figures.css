@@ -1,0 +1,18 @@
+.post-figure {
+  max-width: 500px;   /* adjust to taste — 400, 500, 600 are all reasonable */
+  margin: 2rem auto;  /* vertical breathing room, horizontal centering */
+}
+
+.post-figure img {
+  width: 100%;
+  height: auto;       /* preserves aspect ratio — this is the key line */
+  display: block;
+}
+
+.post-figure figcaption {
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 0.5rem;
+  text-align: center;
+  line-height: 1.5;
+}
