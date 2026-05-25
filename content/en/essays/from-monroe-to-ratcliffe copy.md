@@ -7,6 +7,7 @@ categories:
 tags: ["Cuba", "U.S. foreign policy", "Monroe Doctrine", "Platt Amendment", "Guantánamo", "Batista", "Cuban Revolution", "Schlesinger", "Bay of Pigs"]
 image: "/images/posts/from-monroe-to-ratcliffe/cuba_memory_2007.JPG"
 image_caption: "Two flags sharing a suction cup on a Havana windshield — a level of diplomatic intimacy that has, in the years since, proven harder to sustain than the adhesive. For a brief window after Obama's visit, the embargo felt like a thing you could squint past, like rain on glass, and the road ahead looked open even if the wipers couldn't quite keep up. The cabbie didn't mention politics. He didn't have to. The dashboard was doing the talking, and somewhere between the star and the stripes, someone in Washington was already drafting a sequel nobody asked for."
+draft: true
 ---
 
 ## Cuba on the News
@@ -218,3 +219,114 @@ None of this is a defense of the Cuban government. The Cuban government is not a
 There is a different course. It has been tried only once at any length, between 1934 and the end of the Second World War, and it produced — with all its imperfections — a constitution that the present Cuban opposition still appeals to and that the present Cuban government still cannot, on its own terms, repudiate. Restraint, when the United States has been willing to practice it toward Cuba, has tended to produce better outcomes than coercion. This is not because the Cuban government deserves restraint. It is because the long history of coercion has not worked, and because the moral standing the United States used to invoke when it asked the rest of the world to take its side rested on the belief that, in its dealings with its smaller neighbors, it would behave differently than the empires it had replaced.
 
 The choice in May 2026 is whether to behave differently. The choice in February 1961 was the same. The memorandum is on file.
+
+## Sources
+
+### A–B
+
+* **Aguiar Rodríguez, Raúl. *El bonchismo y el gangsterismo en Cuba*.**
+This historical study analyzes the violent phenomenon of "*bonchismo*" and political gangsterism that plagued Cuban universities and public institutions during the 1940s and 1950s. The author explores how these armed student factions and political action groups destabilized civil society and corrupted the democratic processes of the era. It details the dangerous intersections between street-level violence and official political patronage.
+* **Alavez Martín, Elena. *Eduardo Chibás: clarinada fecunda*.**
+This biography examines the political career, ideology, and lasting national impact of Eduardo Chibás, the charismatic founder of the Cuban Orthodox Party. The book highlights his relentless campaign against institutional corruption and his role in awakening civic consciousness among mid-century Cubans. It details how his dramatic public suicide in 1951 left a political vacuum that profoundly influenced a generation of future revolutionaries.
+* **———. *La ortodoxia en el ideario americano*.**
+This volume evaluates the socio-political ideology of the Partido Ortodoxo within the broader framework of 20th-century Latin American political thought. The author traces the roots of the party's tenets, specifically focusing on economic independence, social justice, and administrative integrity. It offers a comparative perspective on how Cuban reformist ideas mirrored continental struggles against authoritarianism and foreign dominance.
+* **Argote-Freyre, Frank. *Fulgencio Batista: From Revolutionary to Strongman*.**
+This detailed historical biography tracks the early rise of Fulgencio Batista from his origins as a leader of the 1933 Sergeant's Revolt to his emergence as Cuba's dominant political strongman. The author explores the shifting alliances, populist maneuvers, and ideological adaptations that characterized Batista's early career. It provides critical insight into the institutional decay of the Cuban Republic that paved the way for his later dictatorial rule.
+* **Arredondo, Alberto, y Ramiro Guerra. *Cuba: tierra indefensa*.**
+This classic agrarian economic study critiques the structural vulnerabilities of Cuba’s rural economy and land distribution systems in the mid-20th century. The authors analyze the negative social consequences of foreign ownership and the dominance of the sugar latifundia over the island's sovereign territory. The text underscores the urgent necessity of agrarian reform to protect local peasants and diversify national production.
+* **Briones Montoto, Newton. *General regreso*.**
+This historical narrative deconstructs the complex political and military machinations in Cuba between 1948 and 1952. The author examines the undercurrents and figures that enabled the return of Fulgencio Batista to active politics, culminating in his fateful 1952 military coup. Through deep archival detail, it explains the structural collapse of constitutional democracy during this critical window.
+
+---
+
+### C–D
+
+* **Cairo, Ana. *La revolución del 30 en la narrativa y el testimonio cubanos*.**
+This literary and historical analysis explores how the Cuban Revolution of 1933 was interpreted and remembered through local literature, essays, and personal testimonies. The author evaluates how Cuban writers captured the generational angst, anti-imperialist fervor, and ultimate disillusionment surrounding the collapse of the Machado dictatorship. It effectively bridges the gap between historical events and the cultural memory of the island.
+* **"CIA Director Visits Cuba." *The New York Times*, May 14, 2026.**
+This contemporary news report details a highly significant, high-level diplomatic visit by the Director of the Central Intelligence Agency to Havana in mid-May 2026. The article explores the regional geopolitical implications of the trip, potential backchannel negotiations over intelligence sharing, and the official responses from both governments. It analyzes what this rare engagement signals for the future of U.S.-Cuba bilateral relations.
+* **"Cuba May Day: International Workers' Day." *The New York Times*, May 1, 2026.**
+This article covers the International Workers' Day rallies and state-sponsored mobilizations across Cuba on May 1, 2026. It contrasts the government's traditional socialist rhetoric and revolutionary messaging with the severe economic hardships and daily shortages experienced by ordinary workers on the ground. The piece captures the complex atmosphere of the mass demonstrations amidst evolving state economic policies.
+* **"Cuba's Energy Crisis in Photos." *The New York Times*, May 15, 2026.**
+This photographic essay documents the severe, widespread energy crisis and infrastructure deterioration gripping Cuba in May 2026. Through compelling visual storytelling, the publication showcases the human toll of rolling blackouts, grid failures, and how ordinary citizens manage daily life in the dark. It offers a stark portrait of the island's ongoing logistical and economic paralysis.
+* **"Cuba's Military Conglomerate, GAESA: The Economy Explained." *The New York Times*, May 16, 2026.**
+This interactive feature breaks down the financial power and structural reach of GAESA, the secretive business conglomerate operated by the Cuban military. The report outlines how this military enterprise controls highly lucrative sectors of the economy, including international tourism, retail, and shipping ports. It illustrates how GAESA functions as a state within a state, insulating the ruling elite while bypassing the civilian economy.
+* **Domínguez, Jorge I. *Cuba: Order and Revolution*.**
+This seminal political science volume offers a comprehensive history of 20th-century Cuba, examining institutional developments both before and after the 1959 revolution. Domínguez applies social science frameworks to analyze power structures, state centralization, and the changing dynamics of civic mobilization under the Castro government. It remains a foundational academic textbook for studying governance and political control on the island.
+* **———. *La mediación del 33. Ocaso del machadato*.**
+In this specific historical monograph, Jorge I. Domínguez investigates the controversial U.S. diplomatic intervention led by Ambassador Sumner Welles during the 1933 crisis. The book details the backroom negotiations and political fracturing that led to the overthrow of dictator Gerardo Machado. It illustrates how this foreign mediation fundamentally shaped the boundaries of Cuban sovereignty and radicalized local nationalist movements.
+
+---
+
+### K–M
+
+* **Khrushchev, Nikita S. *Memoirs of Nikita Khrushchev*.**
+This sweeping personal memoir provides an insider perspective on Soviet foreign policy and Cold War geopolitics during the mid-20th century. The text features crucial chapters on the USSR's strategic alliance with Fidel Castro, the logistics of the 1962 Cuban Missile Crisis, and Kremlin-level decision-making regarding the Caribbean. It offers vital historical context on how Cuba became a focal point of global nuclear brinkmanship.
+* **López Civeira, Francisca. *El proceso revolucionario de los años 30*.**
+This historical study evaluates the chaotic and transformative revolutionary period of the 1930s in Cuba, emphasizing the structural forces that overthrew Machado. The author examines the interplay between radical student bodies, labor unions, and military factions vying to redefine the republic. It argues that the unfulfilled social demands of this era laid the ideological groundwork for future revolutionary movements.
+* **Márquez-Sterling, Manuel. *Cuba 1952–1959: The True Story of Castro's Rise to Power*.**
+This work provides a detailed re-examination of the critical years leading up to the 1959 revolution, focusing heavily on the moderate, peaceful opposition alternatives to both Batista and Castro. The author discusses the failed electoral efforts, constitutional debates, and political negotiations that were ultimately sidelined by armed conflict. It argues that the collapse of these democratic alternatives made Castro's total takeover inevitable.
+* **Martínez Heredia, Fernando. *La revolución cubana del 30. Ensayos*.**
+This collection of analytical essays explores the ideological, socialist, and anti-imperialist undercurrents of the 1930 Cuban Revolution. A prominent Cuban intellectual, the author reassesses the radical potential and structural shifts attempted by popular movements during this decade. The book frames the events of the 1930s not as a mere historical prelude, but as an ongoing, unfinished project of national liberation.
+* **Méndez Díaz, Pedro, y José Manuel Bisbé York. *Manuel Bisbé. La huella de su ejemplo*.**
+This biographical volume honors the life and intellectual legacy of Manuel Bisbé, a prominent Cuban academic, diplomat, and co-founder of the Orthodox Party. The text traces his career from university classrooms to his post-revolutionary role representing Cuba at the United Nations. It celebrates his unwavering ethical standard and defense of national sovereignty during a turbulent era of political transitions.
+* **Morales Rodríguez, Mario. *La frustración nacional-reformista en Cuba republicana*.**
+This critique investigates the political platforms, historical limitations, and ultimate failures of the reformist and nationalist parties during Cuba's republican period. The author traces how the promises of democratic institutionalism and socio-economic equity repeatedly dissolved into systemic corruption and public disillusionment. Ultimately, the text argues that these reformist failures created the perfect environment for more radical, non-democratic political paths.
+* **Moreno Fraginals, Manuel. *El ingenio: el complejo económico social cubano del azúcar*.**
+This groundbreaking historical masterpiece provides a definitive socioeconomic analysis of the Cuban sugar plantation system ("*el ingenio*"). The author demonstrates how slave labor, industrial technology, and international market demands shaped Cuba's class structures, cultural identity, and long-term economic dependencies. It is widely considered an indispensable text on the intersections of global capitalism and Caribbean history.
+
+---
+
+### P–R
+
+* **Padrón, José Luis, y Luis Adrián Betancourt. *Batista. Últimos días en el poder*.**
+This historical account narrows in on the final, desperate months of Fulgencio Batista's regime in late 1958 as rebel forces advanced. The authors document the internal military conspiracies, widespread desertions, administrative paralysis, and the loss of critical U.S. backing. It offers a dramatic, day-by-day look at the internal decomposition of an authoritarian state apparatus.
+* **Paterson, Thomas G. *Contesting Castro: The United States and the Triumph of the Cuban Revolution*.**
+This diplomatic history investigates the foreign policy failures, intelligence errors, and internal Washington debates during Fidel Castro's rise to power. Paterson details how U.S. policymakers struggled to manage the decline of the Batista dictatorship while fundamentally misjudging the nature of the July 26th Movement. The book argues that American diplomatic missteps inadvertently cleared the path for Castro's victory.
+* **Pérez, Louis A., Jr. *Cuba: Between Reform and Revolution*.**
+This comprehensive flagship textbook spans five centuries of Cuban history, tracing the island's political, economic, and social evolution from colonial times to the modern era. Pérez emphasizes the historical patterns of foreign intervention — primarily by the United States —and the internal friction between reformist politics and revolutionary upheavals. It stands as a meticulously researched, foundational narrative on the creation of the Cuban nation.
+* **Pérez Cabrera, José Manuel. *Historiografía de Cuba*.**
+This academic text explores the evolution of historical writing in Cuba, tracking how the island's past has been recorded, interpreted, and institutionalized. The author evaluates the methodologies, biases, and primary thematic focuses of Cuban historians from the colonial era through the mid-20th century. It serves as an essential meta-historical guide for researchers evaluating Cuban intellectual traditions.
+* **Pérez Llody, Luis Alberto. *Rafael García Bárcena: el sueño de la Gran Nación*.**
+This biography chronicles the life, philosophy, and political activism of Rafael García Bárcena, a Cuban intellectual who founded the Movimiento Nacional Revolucionario (MNR). The book charts his fierce opposition to Batista's 1952 coup and his subsequent efforts to organize a civilian-military uprising. It highlights his pivotal role as an ideological mentor to a radicalized generation of anti-dictatorial youth.
+* **Roa, Raúl. *La revolución del 30 se fue a bolina*.**
+Written by a key participant and Cuba's future revolutionary Foreign Minister, this classic work offers a brilliant insider critique of the failed 1933 revolution against Machado. Roa uses sharp political commentary to describe how the radical dreams of the student and worker movements were subverted and "went to the wind" due to internal fractions and foreign interference. It masterfully combines personal memoir with rigorous historical analysis.
+* **Roig de Leuchsenring, Emilio. *Cuba no debe su independencia a los Estados Unidos*.**
+In this influential nationalist text, Havana's historic city historian argues passionately against the narrative that the United States liberated Cuba in 1898. The author provides historical evidence of the Cuban Liberation Army's military successes against Spain, asserting that U.S. military intervention served to hijack rather than grant true independence. It represents a foundational pillar of anti-imperialist historiography on the island.
+* **———. *La doctrina de Monroe y el pacto de la Liga de las naciones*.**
+This early legal and historical critique by Roig de Leuchsenring examines the Monroe Doctrine and its application as an instrument of U.S. hegemony in the Americas. The author dissects the geopolitical dangers of incorporating this doctrine into the post-WWI League of Nations framework, arguing it institutionalized regional interventionism. The text reflects the budding anti-imperialist legal scholarship of 1920s Cuba.
+* **———. *Historia de La Habana*.**
+This foundational urban history charts the architectural, social, and political evolution of Cuba's capital city from its colonial founding through successive centuries. Roig de Leuchsenring details how Havana grew to become the economic, cultural, and administrative heart of the nation, mirroring its broader historical turning points. The work reflects the author's lifelong dedication to preserving the city's material and cultural heritage.
+* **———. *Martí, Anti-imperialist*.**
+This focused study isolates and evaluates the anti-imperialist writings, letters, and core philosophy of Cuba's national hero, José Martí. The author highlights how Martí systematically warned against the growing economic and political expansionism of the United States in the Caribbean and Latin America. It frames Martí's thought as the foundational blueprint for modern Cuban nationalism and sovereignty.
+* **———. *El presidente McKinley y el gobernador Wood máximos enemigos de Cuba libre*.**
+This historical indictment focuses on the immediate post-1898 U.S. military occupation of Cuba, singling out President William McKinley and Governor Leonard Wood. Roig de Leuchsenring argues that their administrative policy choices and the forced imposition of the Platt Amendment were deliberately designed to cripple Cuban sovereignty and establish neo-colonial control. It offers a sharp critique of early American imperial strategies in the Caribbean.
+
+---
+
+### S–Z
+
+* **Schlesinger, Arthur M., Jr. *A Thousand Days: John F. Kennedy in the White House*.**
+This Pulitzer Prize-winning memoir and history chronicles the presidency of John F. Kennedy from the unique vantage point of his special assistant. The text includes detailed insider narratives regarding critical Cold War flashpoints involving Cuba, such as the Bay of Pigs invasion and the Cuban Missile Crisis. It provides indispensable context on how U.S. foreign policy was shaped, debated, and executed in the early 1960s.
+* **———. Memorandum for the President, "Cuba," February 11, 1961.**
+This declassified archival document is a confidential memo sent by Arthur M. Schlesinger Jr. to President Kennedy regarding U.S. policy alternatives toward the new Castro regime. It outlines early strategic concerns, potential political fallout, and covert operation planning just months before the Bay of Pigs invasion. The memo highlights the internal debates and calculated risks weighed by White House advisers.
+* **Schoultz, Lars. *That Infernal Little Cuban Republic: The United States and the Cuban Revolution*.**
+This comprehensive diplomatic history details the long, volatile relationship between Washington and revolutionary Cuba over several decades. Schoultz meticulously documents how successive U.S. administrations, driven by geopolitical anxieties and domestic political pressures, repeatedly struggled to manage the challenges of Cuban sovereignty. It provides an objective and exhaustive analysis of the ongoing policy deadlock.
+* **Soto, Lionel. *La revolución del 33*.**
+This massive three-volume work provides a detailed Marxist-historical analysis of the 1933 Cuban Revolution against the dictatorship of Gerardo Machado. Soto exhaustively documents the role of the working class, popular labor mobilizations, and the early Cuban Communist Party in shaping the uprising. It stands as one of the most comprehensive and orthodox state-sanctioned histories of this pivotal political era.
+* **Szulc, Tad. *Fidel: A Critical Portrait*.**
+This highly regarded biography offers an intimate and comprehensive psychological and political profile of Fidel Castro. Drawing from extensive personal interviews with Castro himself, his close associates, and historical adversaries, the author maps his journey from orthodox activist to Marxist dictator. It provides an objective look at both his political genius and the authoritarian structures of his long rule.
+* **Thomas, Hugh. *Cuba: The Pursuit of Freedom*.**
+This monumental, encyclopedic history traces the development of Cuba from the mid-18th century through the initial decades of the 1959 revolution. Thomas offers a dense synthesis of the island's slave economic structures, racial complexities, political instability, and foreign entanglements that eventually paved the way for Castro's rise. It is widely considered a foundational, must-read masterpiece for any serious scholar of Caribbean history.
+* **Torres-Cuevas, Eduardo, y Oscar Loyola Vega. *Historia de Cuba: 1492–1898 — Formación y liberación de la nación*.**
+This authoritative textbook charts the early centuries of Cuban history, spanning from the initial Spanish arrival to the final war of independence in 1898. The authors emphasize the progressive formation of a distinct Cuban national identity, the social impact of slavery's abolition, and the military campaigns for national liberation. It is widely utilized in Cuban academia for its structured narrative of national development.
+* **Valdés Sánchez, Servando. *La elite militar en Cuba (1952–1958)*.**
+This institutional history analyzes the internal dynamics, professional factions, and political loyalty of the Cuban military high command under the Batista dictatorship. The author details how systemic corruption, favoritism, and structural fractures crippled the military's fighting capacity when confronting the rebel insurgency. It explains why a heavily equipped conventional army ultimately collapsed against a smaller guerrilla force.
+* **Vázquez García, Humberto. *La expedición de Cayo Confites*.**
+This historical study reconstructs the failed 1947 Cayo Confites expedition, a transnational military force organized in Cuba with the intent to overthrow Dominican dictator Rafael Trujillo. The author highlights the political planning, the diverse figures involved (including a young Fidel Castro and Juan Bosch), and the international pressures that forced the Cuban government to abort the operation. It sheds light on the radical networks of the post-WWII Caribbean.
+* **———. *El gobierno de la Kubanidad*.**
+This detailed monograph analyzes the four-year presidential administration of Ramón Grau San Martín (1944–1948), which operated under the populist banner of "Autenticismo" or "*Kubanidad*." The author documents how the initial democratic optimism and reformist promises of the administration rapidly deteriorated into systemic corruption and institutional gang violence. It captures a crucial step in the unraveling of Cuba's democratic experiment.
+* **Vignier, Enrique, y G. Alonso. *La corrupción político administrativa en Cuba 1944–1952*.**
+This historical expose details the pervasive administrative and financial corruption during the Auténtico Party presidencies of Grau San Martín and Carlos Prío Socarrás. The authors utilize official documents and press accounts to show how public funds were systematically embezzled and state departments compromised. It provides crucial background to explain why the public easily accepted Batista's 1952 coup.
+* **Whitney, Robert. *State and Revolution in Cuba: Mass Mobilization and Political Change, 1920–1940*.**
+This scholarly work examines the structural evolution of the Cuban state and the rise of mass popular mobilization between the world wars. Whitney focuses on how students, working-class unions, and marginalized groups actively challenged oligarchic control, forcing a restructuring of state power that culminated in the progressive 1940 Constitution. It highlights how modern Cuban political identity was forged through popular resistance.
