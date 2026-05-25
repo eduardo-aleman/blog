@@ -83,9 +83,9 @@ Un grupo asaltó el cuartel de San Luis, matando a dos soldados y al Jefe de Pol
 
 ---
 
-# Joven Cuba
+## Joven Cuba
 
-## El sentido del programa
+### El sentido del programa
 
 Un programa de acción es —o debe ser— enunciado de posibilidades que irradian de la realidad, proyección sobre el futuro de fuerzas actuales, hipótesis de un proceso vital. Por eso, supone análisis tanto como significa síntesis. De aquí que para ayudar a comprender una exposición tendencial, sea oportuno referir —siquiera en esquema— las consideraciones fundamentales que presidieron su formulación.
 
