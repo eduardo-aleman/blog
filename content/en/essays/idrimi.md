@@ -11,10 +11,13 @@ tags:
   - bronze age
   - alalakh
   - akkadian
-image: "/images/posts/idrimi/Statue_of_Idrimi_in_the_British_Museum.png"
-focal_point: "10% 30%" # X and Y coordinates of the exact focal spot
-alt: "The dolomite Statue of Idrimi on display at the British Museum, its surface covered in cuneiform inscription."
-caption: "The Statue of Idrimi, photographed at the British Museum, March 2026."
+categories:
+  - history
+cover:
+  image: "Statue_of_Idrimi_in_the_British_Museum.png"
+  alt: "The dolomite Statue of Idrimi on display at the British Museum, its surface covered in cuneiform inscription."
+  caption: "The Statue of Idrimi, photographed at the British Museum, March 2026."
+  relative: true
 ---
 
 Among the ruins of Alalakh (modern Tell Atchana in southern Turkey), no artifact has captured the imagination or stirred more scholarly debate than the **Statue of Idrimi**. Unearthed in 1939 by the British archaeologist Sir Leonard Woolley, this 15th-century BCE dolomite figure is far more than a piece of ancient art — it is a deeply personal political manifesto carved directly into the body of the king it depicts.
@@ -52,7 +55,7 @@ By tying the text to the physical history of the monument, Lauinger shows how la
 
 Because the statue's provincial script is notoriously difficult to read, scholars have spent generations arguing over the translation of nearly every line. To bring this work outside the small circle of specialists, the new analysis has been released as an open digital edition.
 
-**The Electronic Idrimi** is the online companion to Lauinger's *The Labors of Idrimi: Inscribing the Past, Shaping the Present at Late Bronze Age Alalah* (ANEM 33, Atlanta: SBL Press, 2024). Hosted on the Open Richly Annotated Cuneiform Corpus (Oracc), it offers a fully searchable edition of all 104 cuneiform lines, linguistically tagged glossaries of the Akkadian vocabulary, and comparative annotations — a working laboratory rather than a static publication.
+[**The Electronic Idrimi**](https://oracc.museum.upenn.edu/aemw/alalakh/idrimi/) is the online companion to Lauinger's *The Labors of Idrimi: Inscribing the Past, Shaping the Present at Late Bronze Age Alalah* (ANEM 33, Atlanta: SBL Press, 2024). Hosted on the Open Richly Annotated Cuneiform Corpus (Oracc), it offers a fully searchable edition of all 103 cuneiform lines, linguistically tagged glossaries of the Akkadian vocabulary, and comparative annotations — a working laboratory rather than a static publication.
 
 ---
 
@@ -215,6 +218,22 @@ The full inscription is reproduced below: the longer **body inscription** first,
 
 ---
 
+## Scanning the Statue
+
+The statue itself sits in Room 57 of the British Museum, kept behind glass because the stone is fragile and continues to weather. That protection comes at a scholarly cost: researchers cannot get close enough to read the cuneiform at the resolution it deserves. To address this, the Museum partnered with the Factum Foundation — a nonprofit that uses digital techniques to record cultural heritage — on a high-resolution scanning project documented at the time by curator James Fraser in a [British Museum blog post](https://www.britishmuseum.org/blog/idrimi-3500-year-old-refugee).[^1]
+
+Over two days, including one session that ran past midnight on the gallery floor, the Factum team recorded the statue using two complementary techniques. **Structured-light scanning** projected vertical beams of light across the surface and measured how those beams distorted, mapping the geometry in three dimensions. **Photogrammetry** captured thousands of overlapping high-resolution photographs, which software then stitched together by matching identical pixels across images to build a precise 3D mesh.
+
+The resulting digital model is accurate to less than a millimetre. It serves as a conservation baseline, gives cuneiform specialists the working distance the display case denies them, and underpins Factum's plan to produce a life-sized physical replica that can travel where the fragile original cannot.
+
+A lower-resolution version of the model is freely available on Sketchfab:
+
+<div class="sketchfab-embed-wrapper"> <iframe title="Statue of Idrimi, king of Alalakh" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/cc454db8aafc4640926db2948a93176d/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/statue-of-idrimi-king-of-alalakh-cc454db8aafc4640926db2948a93176d?utm_medium=embed&utm_campaign=share-popup&utm_content=cc454db8aafc4640926db2948a93176d" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Statue of Idrimi, king of Alalakh </a> by <a href="https://sketchfab.com/britishmuseum?utm_medium=embed&utm_campaign=share-popup&utm_content=cc454db8aafc4640926db2948a93176d" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> The British Museum </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=cc454db8aafc4640926db2948a93176d" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
+
+---
+
 ## A Living Monument
 
 Today the Statue of Idrimi sits in the British Museum, where I photographed it this past March. It remains an unparalleled window into the literature, language, and volatile geopolitics of the Late Bronze Age Levant — and, thanks to projects like *The Electronic Idrimi*, an actively evolving object of study. The exile king's bid for immortality, made and remade across millennia, is still being read.
+
+[^1]: James Fraser, "Idrimi, the 3,500-year-old refugee," *British Museum Blog*, [britishmuseum.org/blog/idrimi-3500-year-old-refugee](https://www.britishmuseum.org/blog/idrimi-3500-year-old-refugee).
