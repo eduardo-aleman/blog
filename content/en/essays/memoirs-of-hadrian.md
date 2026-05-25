@@ -12,7 +12,7 @@ tags:
   - reviews
 image: "/images/posts/memoirs-of-hadrian/hadrian_emperor.png"
 alt: "Bronze bust of the Roman Emperor Hadrian"
-image_caption: "Bronze Head of Hadrian, a rare surviving portrait of the Roman emperor from a larger-than-life-size statue. It is believed to have been part of a statue erected in Roman London (Londinium) to commemorate Hadrian's visit to Britain in AD 122. The bronze sculpture was discovered in 1834 dredged from the River Thames near London Bridge. It is currently on display at the British Museum in London."
+image_caption: "Bronze Head of Hadrian, a rare surviving portrait of the Roman emperor from a larger-than-life-size statue. It is believed to have been part of a statue erected in Roman London (Londinium) to commemorate Hadrian's visit to Britain in AD 122. The bronze sculpture was discovered in 1834 dredged from the River Thames near London Bridge. It is currently on display at the British Museum in London. Photo is my own."
 ---
 
 There are historical novels that work like costume parties — the period dress is convincing, but the people inside it think and speak like our contemporaries. And then there is *Memoirs of Hadrian*, which does something stranger and harder. Marguerite Yourcenar's 1951 novel persuades you, page after page, that you are reading a document recovered from the second century. Not a forgery, not a pastiche. A voice.
@@ -34,7 +34,7 @@ What she was after was harder than research. She wanted to occupy Hadrian's inte
 {{< figure
   src="/images/posts/memoirs-of-hadrian/antinous-mondragone.jpg"
   alt="Marble bust of Antinous, known as the Antinous Mondragone, in the Louvre"
-  caption="The Antinous Mondragone, a colossal marble portrait of Hadrian's lover carved around 130 CE, soon after his death in the Nile. Discovered at the Villa Mondragone in Frascati and long held by the Borghese family, it was bought for Napoleon in 1807 and now stands in the Louvre. The holes drilled into the hair once secured a metal wreath; the eyes were originally inlaid with colored stones."
+  caption="The Antinous Mondragone, a colossal marble portrait of Hadrian's lover carved around 130 CE, soon after his death in the Nile. Discovered at the Villa Mondragone in Frascati and long held by the Borghese family, it was bought for Napoleon in 1807 and now stands in the Louvre. The holes drilled into the hair once secured a metal wreath; the eyes were originally inlaid with colored stones. Photo is my own."
   class="post-figure"
 >}}
 

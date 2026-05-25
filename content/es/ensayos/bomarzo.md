@@ -17,7 +17,7 @@ palabras_clave:
   - autobiografía ficticia
 image: "/images/posts/bomarzo/Esclave_mourant_Michelangelo.png"
 focal_point: "10% 20%" # X and Y coordinates of the exact focal spot
-image_caption: "'El esclavo moribundo', de Miguel Ángel Buonarroti. Museo del Louvre, París, Francia. Creada aproximadamente entre 1513 y 1516, durante el Alto Renacimiento. Concebida como parte de la tumba del papa Julio II."
+image_caption: "'El esclavo moribundo', de Miguel Ángel Buonarroti. Museo del Louvre, París, Francia. Creada aproximadamente entre 1513 y 1516, durante el Alto Renacimiento. Concebida como parte de la tumba del papa Julio II. La foto es mía."
 ---
 
 > *"He vivido tantos años, he vivido tantas vidas, que ya no sé bien cuándo estoy vivo y cuándo estoy muerto, ni cuándo lo estuve."*
