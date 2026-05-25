@@ -10,12 +10,9 @@ tags:
   - roman-history
   - marguerite-yourcenar
   - reviews
-categories:
-  - books
-cover:
-  image: "/images/posts/memoirs-of-hadrian/hadrian_emperor.png"
-  alt: "Bronze bust of the Roman Emperor Hadrian"
-  caption: "Bronze Head of Hadrian, a rare surviving portrait of the Roman emperor from a larger-than-life-size statue. It is believed to have been part of a statue erected in Roman London (Londinium) to commemorate Hadrian's visit to Britain in AD 122. The bronze sculpture was discovered in 1834 dredged from the River Thames near London Bridge. It is currently on display at the British Museum in London."
+image: "/images/posts/memoirs-of-hadrian/hadrian_emperor.png"
+alt: "Bronze bust of the Roman Emperor Hadrian"
+caption: "Bronze Head of Hadrian, a rare surviving portrait of the Roman emperor from a larger-than-life-size statue. It is believed to have been part of a statue erected in Roman London (Londinium) to commemorate Hadrian's visit to Britain in AD 122. The bronze sculpture was discovered in 1834 dredged from the River Thames near London Bridge. It is currently on display at the British Museum in London."
 ---
 
 There are historical novels that work like costume parties — the period dress is convincing, but the people inside it think and speak like our contemporaries. And then there is *Memoirs of Hadrian*, which does something stranger and harder. Marguerite Yourcenar's 1951 novel persuades you, page after page, that you are reading a document recovered from the second century. Not a forgery, not a pastiche. A voice.
