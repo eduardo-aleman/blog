@@ -40,6 +40,6 @@ En el principio los reyes gobernaron Roma, y al final, como estaba prescrito por
 {{< figure
   src="/images/posts/ronald-syme/augustus_louvre.jpg"
   alt="La estatua heroica de Octavio (el futuro emperador Augusto), una antigua escultura de mármol ubicada en el Museo del Louvre, en París"
-  caption="La estatua heroica de Octavio (el futuro emperador Augusto), una antigua escultura de mármol ubicada en el Museo del Louvre, en París. La escultura está firmada en la parte posterior del soporte por el artista griego Ofelión, hijo de Aristonidas. Se trata de una obra compuesta, en la que la cabeza antigua —que representa a un Octavio joven— no pertenecía originalmente al cuerpo. Datación: El cuerpo data del siglo I a. C. y la cabeza de aproximadamente el 31 a. C. La estatua tiene una altura total de aproximadamente 2,08 metros. La escultura fue descubierta en Tusculum, Italia. La foto es mía"
+  caption="La estatua heroica de Octavio (el futuro emperador Augusto), una antigua escultura de mármol ubicada en el Museo del Louvre, en París. La escultura está firmada en la parte posterior del soporte por el artista griego Ofelión, hijo de Aristonidas. Se trata de una obra compuesta, en la que la cabeza antigua —que representa a un Octavio joven— no pertenecía originalmente al cuerpo. El cuerpo data del siglo I a. C. y la cabeza de aproximadamente el 31 a. C. La estatua tiene una altura total de aproximadamente 2,08 metros. La escultura fue descubierta en Tusculum, Italia. La foto es mía"
   class="post-figure"
 >}}
