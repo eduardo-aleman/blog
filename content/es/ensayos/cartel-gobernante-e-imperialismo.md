@@ -26,9 +26,7 @@ image_caption: "La «versión del palacio» de 1877 de Anton von Werner, titulad
 
 > *Capítulo 1 de* Kaiserreich to Third Reich: Elements of Continuity in German
 > History, 1871–1945, *de Fritz Fischer (Routledge Library Editions: German
-> History). Traducción al castellano. La numeración de las notas se conserva
-> respecto a la edición original; este capítulo comienza en la nota 4 porque
-> las tres primeras pertenecen al prólogo del libro.*
+> History). Traducción al castellano.*
 
 ## Acero y centeno
 
