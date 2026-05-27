@@ -19,8 +19,6 @@ image_caption: "Photo taken during a conference commemorating the 40th anniversa
 
 ---
 
-## Cuba
-
 ## Contents
 
 1. The Betrayal of the Cuban Revolution
