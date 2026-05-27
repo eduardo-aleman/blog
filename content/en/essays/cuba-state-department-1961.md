@@ -1,5 +1,5 @@
 ---
-title: "Cuba: Department of State Publication 7171 — Inter-American Series 66"
+title: "Cuba: U.S. Department of State Pamphlet, April 1961"
 subtitle: "U.S. Department of State Pamphlet, April 1961"
 publication_date: 1961-04-03
 date: 2026-05-26
@@ -18,6 +18,8 @@ image_caption: "Photo taken during a conference commemorating the 40th anniversa
 > **Editor's note:** This is a transcription of a 36-page pamphlet released by the U.S. Department of State on April 3, 1961, roughly two weeks before the Bay of Pigs invasion. Source: [declassified and approved for release 2012/08/03, CIA-RDP85-00664R000700200001-2](https://www.cia.gov/readingroom/docs/CIA-RDP85-00664R000700200001-2.pdf). Also, [Cuba](https://www.google.com/books/edition/Cuba/fTEPztHy1TQC). United States: Department of State, Office of Public Services, Bureau of Public Affairs, 1961.
 
 ---
+
+## Cuba
 
 ## Contents
 
