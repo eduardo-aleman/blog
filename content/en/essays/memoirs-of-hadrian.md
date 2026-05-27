@@ -1,7 +1,6 @@
 ---
 title: "Memoirs of Hadrian: A Letter Across Eighteen Centuries"
 date: 2026-05-24
-draft: false
 description: "On Marguerite Yourcenar's Mémoires d'Hadrien — a fictional autobiography that took thirty years to write and still feels like an authentic voice from antiquity."
 summary: "Yourcenar's 1951 novel takes the form of a long letter from the dying Emperor Hadrian to his young successor Marcus Aurelius. A meditation on power, mortality, and what a life looks like from its far end."
 tags:
