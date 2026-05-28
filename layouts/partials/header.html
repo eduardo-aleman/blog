@@ -13,19 +13,19 @@
       <a href="{{ .Site.BaseURL }}{{ .Lang }}/{{ $archivePath }}/" class="header-nav-link">
         {{ $archiveLabel }}
       </a>
-      
+
       <!-- Language Switcher (en/es only) -->
       <div class="lang-switcher">
         {{ $currentLang := .Page.Lang }}
-        
+
         {{ if eq $currentLang "en" }}
           <span class="lang-switch active" aria-current="page">en</span>
         {{ else }}
           <a href="/" class="lang-switch">en</a>
         {{ end }}
-        
+
         <span class="lang-switcher__separator">/</span>
-        
+
         {{ if eq $currentLang "es" }}
           <span class="lang-switch active" aria-current="page">es</span>
         {{ else }}
@@ -41,3 +41,13 @@
     </div>
   </div>
 </header>
+
+{{/*
+  MathJax: only load on pages that opt in.
+  Enable per page by adding `math: true` to the front matter.
+  NOTE: For best performance, consider moving this partial call into your
+  <head> partial (e.g. head.html or baseof.html) rather than after <header>.
+*/}}
+{{ if .Params.math }}
+  {{ partial "mathjack.html" . }}
+{{ end }}
