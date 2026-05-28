@@ -31,13 +31,7 @@ What she was after was harder than research. She wanted to occupy Hadrian's inte
 
 ## Antinous
 
-{{< figure
-src="/images/posts/memoirs-of-hadrian/antinous-mondragone.jpg"
-alt="Marble bust of Antinous, known as the Antinous Mondragone, in the Louvre"
-caption="The Antinous Mondragone, a colossal marble portrait of Hadrian's lover carved around 130 CE, soon after his death in the Nile. Discovered at the Villa Mondragone in Frascati and long held by the Borghese family, it was bought for Napoleon in 1807 and now stands in the Louvre. The holes drilled into the hair once secured a metal wreath; the eyes were originally inlaid with colored stones. Photo is my own."
-class="post-figure"
-
-> }}
+{{< figure src="/images/posts/memoirs-of-hadrian/antinous-mondragone.jpg" alt="Marble bust of Antinous, known as the Antinous Mondragone, in the Louvre" caption="The Antinous Mondragone, a colossal marble portrait of Hadrian's lover carved around 130 CE, soon after his death in the Nile. Discovered at the Villa Mondragone in Frascati and long held by the Borghese family, it was bought for Napoleon in 1807 and now stands in the Louvre. The holes drilled into the hair once secured a metal wreath; the eyes were originally inlaid with colored stones. Photo is my own." class="post-figure">}}
 
 The hinge of the book — the moment where its restraint becomes almost unbearable — is the death of Antinous.
 
