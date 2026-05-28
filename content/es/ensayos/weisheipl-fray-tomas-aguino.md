@@ -18,6 +18,7 @@ Su vida, pensamiento, y obras.
 Jaime A. Weisheipl, O.P. (_Ordinis Praedicatorum_).  
 Instituto Pontificio de Estudios Medievales de Toronto.
 Finalista de los National Book Awards de 1975 en la categoría de Biografía.
+Fuente: [Weisheipl, James A.. Friar Thomas D'Aquino: his life, thought, and work. United Kingdom: Doubleday, 1974.](https://archive.org/details/friarthomasdaqui00jame) (consultado el 12 de junio, 2024)
 
 ## Prefacio
 
@@ -591,5 +592,3 @@ Así, en el otoño de 1252, Tomás se fue al Priorato de Saint-Jacques en París
 [^147]: P. Glorieux, "Techniques et Méthodes en usage à la Faculté de Théologie de Paris, au XIIIe siècle", *AHDLMA* 32 (1959), 134.
 
 [^148]: Tocco, *Hystoria*, c. 14. *Fontes* 81.
-
-Fuente: [Weisheipl, James A.. Friar Thomas D'Aquino: his life, thought, and work. United Kingdom: Doubleday, 1974.](https://archive.org/details/friarthomasdaqui00jame) (consultado el 12 de junio, 2024)
