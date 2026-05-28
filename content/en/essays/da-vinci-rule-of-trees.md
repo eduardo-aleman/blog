@@ -1,6 +1,5 @@
 ---
 title: "Leonardo da Vinci's Rule of Trees"
-description: "How a 500-year-old observation about tree branches reveals a fractal pattern in nature, and what modern science says about it."
 date: 2026-01-27
 tags:
   - leonardo da vinci
@@ -12,6 +11,8 @@ tags:
   - science
 draft: false
 math: true
+description: "How a 500-year-old observation about tree branches reveals a fractal pattern in nature, and what modern science says about it."
+summary: "How a 500-year-old observation about tree branches reveals a fractal pattern in nature, and what modern science says about it."
 image: "/images/posts/da-vinci/da_vinci_arbol.webp"
 image_alt: "Leonardo da Vinci's notebook sketches of tree branching patterns, with handwritten notes in mirror script"
 image_caption: "Leonardo da Vinci's notebook sketches of tree branching patterns, with handwritten notes in mirror script. Bibliothèque de l'Institut de France, Manuscrits de Léonard de Vinci, Ms 2163"

@@ -23,8 +23,7 @@ sources:
   - SCOTUSblog
   - Granma (Cuba)
   - The New York Times
-languages: [en, es]
-summary: >
+description: "On May 21, 2026, four distinct but converging stories sharpened the U.S.–Cuba confrontation: an unsealed indictment of former president Raúl Castro, condemnations from Moscow and Beijing, an 8–1 Supreme Court ruling expanding Helms-Burton liability against major cruise lines, and a defiant mobilization by the Cuban government. Together they suggest a coordinated pressure campaign with parallels to the Trump administration's earlier action against Venezuela." summary: >
   On May 21, 2026, four distinct but converging stories sharpened the U.S.–Cuba
   confrontation: an unsealed indictment of former president Raúl Castro,
   condemnations from Moscow and Beijing, an 8–1 Supreme Court ruling expanding
