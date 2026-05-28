@@ -6,14 +6,21 @@ date: 2026-05-09
 summary: "How the United States transformed a Cuban war of national liberation into a war of conquest, culminating in the Platt Amendment and the institutionalization of U.S. hegemony over the island."
 description: "How the United States transformed a Cuban war of national liberation into a war of conquest, culminating in the Platt Amendment and the institutionalization of U.S. hegemony over the island."
 categories: ["History"]
-tags: ["Cuba", "United States", "Spanish-American War", "Platt Amendment", "Colonialism", "1898", "Independence"]
-draft: false
-toc: true
+tags:
+  [
+    "Cuba",
+    "United States",
+    "Spanish-American War",
+    "Platt Amendment",
+    "Colonialism",
+    "1898",
+    "Independence",
+  ]
 image: "/images/posts/maximo-gomez/maximo_gomez.jpg"
 image_caption: "Máximo Gómez y Báez (November 18, 1836 – June 17, 1905) was a Dominican-born military general who became the Generalissimo of the Cuban Liberation Army and a preeminent hero of Cuba's struggle for independence from Spain. Renowned for his brilliant guerrilla tactics, master strategy, and fierce discipline, he successfully led Cuban revolutionary forces alongside figures like José Martí and Antonio Maceo. Early Life and Military Evolution. Máximo Gómez was born in Baní, Dominican Republic, he initially trained for a religious seminary before a Haitian invasion pushed him into a military career. Ironically, Gómez originally fought alongside Spanish reserve forces during the Dominican Restoration War. After moving to Cuba in 1865, he grew horrified by the brutal exploitation of enslaved people and Spanish colonial corruption, leading him to defect to the revolutionary cause. During the Ten Years' War (1868–1878), Gómez introduced the lethal machete charge to combat ammunition shortages, turning a common agricultural tool into a devastating psychological weapon against Spanish infantry. In the successful Cuban War of Independence (1895–1898), he implemented a controversial 'scorched earth' campaign, destroying Spanish-loyalist sugar plantations and railway lines to completely cut off the economic lifeblood of the colonial regime. Alongside political mastermind José Martí, Gómez co-signed the Montecristi Manifesto, which outlined the unified democratic goals of the Cuban revolution before invading the island in 1895. Respected for surviving over 235 battles with only two minor wounds, his military structural designs heavily influenced later generations of irregular warfare strategists. Today, he is widely commemorated across Latin America. Major sites in his memory include the Máximo Gómez Monument in Havana and Miami's famous Máximo Gómez Park (Domino Park) in Little Havana."
 ---
 
-*This chapter is drawn from* Cuba and the United States: Ties of Singular Intimacy *by Louis A. Pérez Jr.*
+_This chapter is drawn from_ Cuba and the United States: Ties of Singular Intimacy _by Louis A. Pérez Jr._
 
 ## I
 
@@ -23,11 +30,11 @@ But in early summer matters assumed a sudden gravity, and what began as a local 
 
 Indeed, the purpose of the uprising was to disrupt the sugar economy. As early as July 1895, insurgent General Máximo Gómez proclaimed a moratorium on all economic activity—commerce, manufacturing, agriculture, ranching, but most of all and especially sugar production. There was to be no planting, no harvesting, no grinding, no marketing. Any estate found in violation of the ban, Gómez vowed, would be destroyed and its owner tried for treason. "All sugar plantations will be destroyed, the standing cane set fire and the factory buildings and railroads destroyed," the decree warned. "Any worker assisting the operation of the sugar factories will be considered an enemy of his country... and will be executed."[^1]
 
-The attack against property set the stage for the redistribution of property as a design for peace and gave decisive expression to the social content of *Cuba Libre*. The insurgent leadership committed itself to a nation of small landowners, each farmer to enjoy security derived from direct and independent ownership of land. In 1896 the insurgent army command issued an expropriation decree, pledging at the end of the war to redistribute among defenders of *Cuba Libre* all properties belonging to *peninsulares* and Creoles who supported Spanish rule. The war thus provided more than the opportunity to end colonial rule: it created the occasion to destroy one social class to benefit another.
+The attack against property set the stage for the redistribution of property as a design for peace and gave decisive expression to the social content of _Cuba Libre_. The insurgent leadership committed itself to a nation of small landowners, each farmer to enjoy security derived from direct and independent ownership of land. In 1896 the insurgent army command issued an expropriation decree, pledging at the end of the war to redistribute among defenders of _Cuba Libre_ all properties belonging to _peninsulares_ and Creoles who supported Spanish rule. The war thus provided more than the opportunity to end colonial rule: it created the occasion to destroy one social class to benefit another.
 
 ## II
 
-Creole elites held few illusions after 1896. For decades local property owners had clung to the colonial regime for protection, and now in the waning years of the nineteenth century, Spain was at the verge of defaulting on the sole *raison d'être* for its existence in Cuba. Members of the beleaguered bourgeoisie contemplated their impending extinction with despair. Growing more certain in their conviction that Spain's hold over Cuba was slipping, they were now prepared to sacrifice traditional colonial relationships for an alternative source of protection and patronage. They confronted what they had feared most through the nineteenth century—a successful uprising of the underclasses—and they needed assistance quickly.
+Creole elites held few illusions after 1896. For decades local property owners had clung to the colonial regime for protection, and now in the waning years of the nineteenth century, Spain was at the verge of defaulting on the sole _raison d'être_ for its existence in Cuba. Members of the beleaguered bourgeoisie contemplated their impending extinction with despair. Growing more certain in their conviction that Spain's hold over Cuba was slipping, they were now prepared to sacrifice traditional colonial relationships for an alternative source of protection and patronage. They confronted what they had feared most through the nineteenth century—a successful uprising of the underclasses—and they needed assistance quickly.
 
 Only U.S. intervention, many concluded, might end the insurrectionary challenge and redeem the beleaguered social order. As early as June 1896, nearly one hundred planters, lawyers, and industrialists petitioned President Grover Cleveland for North American intervention to end the crisis. "We cannot," the petitioners wrote, "express our opinion openly and formally, for he who should dare, whilst living in Cuba, to protest against Spain, would, undoubtedly, be made a victim, both in his person and his property, to the most ferocious persecution at the hands of the government." Spain, the petition continued, could offer Cuba nothing for the future except continued destruction and ruin. Nor did property owners find comfort in the thought of independence. If continued Spanish rule threatened to result in ruin, independence promised to lead to havoc. "Can there be no intermediate solution?" the petitioners asked. Without confidence in Spain, and uncertain about the future under Cuban rule, property owners asked Washington to intercede on their behalf: "We would ask that the party responsible to us should be the United States. In them we have confidence, and in them only."[^2] "The worst thing that could happen to Cuba," another planter wrote a year later, "would be independence." Cubans, he added, "cannot bring a firm and stable government to the island."[^3] In early 1897, a U.S. correspondent in Havana reported that planters, merchants, and businessmen had concluded that Cuba was lost to Spain and hoped for U.S. intervention and, ultimately, annexation of the island.[^4] Later that year, William H. Calhoun, a special agent in Cuba, commented that "Cuban planters and Spanish property holders are now satisfied that the island must soon slip from Spain's grasp, and would welcome immediate American intervention."[^5]
 
@@ -47,27 +54,27 @@ But Spain was confident that repression, not reform, was the way to settle Cuban
 
 ## IV
 
-Certainly not all North Americans shared the opinion of the administration. On the contrary, the cause of *Cuba Libre* found widespread support in the United States. Not a few North Americans, like Frederick Funston, rushed to volunteer their services to the insurgent forces in Cuba. Many more participated in fund-raising activities and lobbying efforts in the United States. The cause of *Cuba Libre* also found widespread support in Congress, and very early the course for collision was set between the legislature and the executive.
+Certainly not all North Americans shared the opinion of the administration. On the contrary, the cause of _Cuba Libre_ found widespread support in the United States. Not a few North Americans, like Frederick Funston, rushed to volunteer their services to the insurgent forces in Cuba. Many more participated in fund-raising activities and lobbying efforts in the United States. The cause of _Cuba Libre_ also found widespread support in Congress, and very early the course for collision was set between the legislature and the executive.
 
 In 1897 a new Republican administration in Washington under William McKinley pressed colonial reforms with new vigor and a new Liberal ministry in Madrid under Práxedes Mateo Sagasta ceased to oppose reforms, both for the same reason: to prolong Spanish sovereignty. The war had stalled into a campaign of attrition that Spain could not win. The Spanish army was on the defensive and confined to the principal cities; the Cuban army was on the offensive and controlled the countryside. The economies of both Cuba and Spain were approaching collapse.
 
 In the autumn of 1897, in part because of U.S. pressure, in part as a response to deteriorating conditions in Cuba, the new Liberal ministry undertook a series of far-reaching reforms. In October, Madrid appointed moderate Ramón Blanco as governor general. Amnesty was issued and political prisoners were released. In December, Spain announced a new Autonomist constitution and on January 1, 1898, installed a liberal Creole government.
 
-Colonial reforms had the net effect of sealing the doom of Spanish rule in Cuba. Indeed, had the United States been deliberately seeking to dislodge Spain from the island, it could not have come upon better means. For the defenders of *Cuba Española* reforms assumed the proportions of treason. Loyalists denounced the establishment of a Creole autonomist government, insisting that reforms served only to open the back door to power for Cuban subversives. Radicals would quickly overrun moderates, revolution would overtake reform, and autonomy would become independence.
+Colonial reforms had the net effect of sealing the doom of Spanish rule in Cuba. Indeed, had the United States been deliberately seeking to dislodge Spain from the island, it could not have come upon better means. For the defenders of _Cuba Española_ reforms assumed the proportions of treason. Loyalists denounced the establishment of a Creole autonomist government, insisting that reforms served only to open the back door to power for Cuban subversives. Radicals would quickly overrun moderates, revolution would overtake reform, and autonomy would become independence.
 
-That resident Spaniards lost exclusive control over colonial administration was cause enough to arouse peninsular ire and indignation. It mattered little that autonomists were politically moderate, often men of means, and ideologically allied to Spain. The Creole-peninsular schism persisted unabated to the very end of the colonial regime. *Peninsulares* now became advocates of North American intervention, preferring rule by the United States to government by Cubans. "All classes of the Spanish citizens," U.S. Consul Fitzhugh Lee reported in late 1897, "are violently opposed to real or genuine autonomy because it would throw the control of the island into the hands of the Cubans and rather than that, they would prefer annexation to the United States or some form of an American protectorate."[^13]
+That resident Spaniards lost exclusive control over colonial administration was cause enough to arouse peninsular ire and indignation. It mattered little that autonomists were politically moderate, often men of means, and ideologically allied to Spain. The Creole-peninsular schism persisted unabated to the very end of the colonial regime. _Peninsulares_ now became advocates of North American intervention, preferring rule by the United States to government by Cubans. "All classes of the Spanish citizens," U.S. Consul Fitzhugh Lee reported in late 1897, "are violently opposed to real or genuine autonomy because it would throw the control of the island into the hands of the Cubans and rather than that, they would prefer annexation to the United States or some form of an American protectorate."[^13]
 
-But it was not only a question of nationality. The establishment of a liberal government convinced loyalists, *peninsulares* and Creoles alike, that Spain had lost the will to defend its sovereignty in Cuba. Many detected in this changed attitude evidence that Spain was preparing to abandon the island. The more thoughtful among *peninsulares* and Creoles understood, too, that the new autonomist government lacked the means to wage war and was without authority to make peace. The establishment of a government of Creole moderates dealt the final body blows to conservative resolve in Cuba. Events in late 1897 and early 1898 undermined the morale of the only forces in Cuba who, except for the insurgents, still retained the loyalty and will to win.
+But it was not only a question of nationality. The establishment of a liberal government convinced loyalists, _peninsulares_ and Creoles alike, that Spain had lost the will to defend its sovereignty in Cuba. Many detected in this changed attitude evidence that Spain was preparing to abandon the island. The more thoughtful among _peninsulares_ and Creoles understood, too, that the new autonomist government lacked the means to wage war and was without authority to make peace. The establishment of a government of Creole moderates dealt the final body blows to conservative resolve in Cuba. Events in late 1897 and early 1898 undermined the morale of the only forces in Cuba who, except for the insurgents, still retained the loyalty and will to win.
 
 Certain now that Spain no longer controlled events at home or abroad, convinced that Madrid possessed neither the means nor—after 1897—the will to defend the status quo, local elites acted to shed a metropolis incapable of protecting their interests. Loyalists found themselves caught between the ebbing of metropolitan authority and the advancing tide of colonial rebellion. Political separation from Spain became necessary to forestall independence under Cubans.
 
 Rallies and mass meetings across the island denounced the new autonomist government. Appeals for U.S. intervention increased. In November 1897, the U.S. vice-consul in Matanzas reported that "nearly all Spaniards, businessmen, and property holders in this province wish and pray for annexation to the United States."[^14] "Property holders, without distinction of nationality, and with but few exceptions," Consul Pulaski F. Hyatt cabled from Santiago, "strongly desire annexation, having but little hope of a stable government under either of the contending forces."[^15] Fitzhugh Lee reported similar sentiments in Havana. "A large majority of the Spanish subjects," he wrote in November 1897, "who have commercial and business interests and own property here will not accept Autonomy, but prefer annexation to the United States, rather than an independent republic or genuine autonomy under the Spanish flag."[^16]
 
-By the end of the year sentiment for U.S. intervention had become public. In December 1897, a statement published in Havana and signed by businessmen and property owners claiming to represent 80 percent of the island's wealth denounced the autonomist regime.[^17] In the same month, a meeting of property owners in Cienfuegos concluded with a resolution urging President McKinley to establish a protectorate over Cuba. In February 1898, leading *peninsulares* established a formal commission for the purpose of securing North American assistance. "The Mother country cannot protect us," one spokesman insisted. "Blanco will not protect us. If left to the insurgents our property is lost. Therefore, we want the United States to save us."[^18]
+By the end of the year sentiment for U.S. intervention had become public. In December 1897, a statement published in Havana and signed by businessmen and property owners claiming to represent 80 percent of the island's wealth denounced the autonomist regime.[^17] In the same month, a meeting of property owners in Cienfuegos concluded with a resolution urging President McKinley to establish a protectorate over Cuba. In February 1898, leading _peninsulares_ established a formal commission for the purpose of securing North American assistance. "The Mother country cannot protect us," one spokesman insisted. "Blanco will not protect us. If left to the insurgents our property is lost. Therefore, we want the United States to save us."[^18]
 
 ## V
 
-Reforms that were excessive for loyalists were not enough for separatists. Insurgent Cubans denounced autonomy and rejected accommodation with Spain based on anything less than complete independence. "It is the firm resolution of the army and people of Cuba," vowed General Máximo Gómez, "who have shed so much blood in order to conquer their independence, not to falter in their just cause until triumph or death crowns their efforts."[^19] Two weeks later, Gómez reiterated the Cuban position: "We no longer ask concessions.... Even were Spain's proposals *bona fide*, nothing could tempt us to treat with her. We are for liberty, not for Spanish reforms."[^20]
+Reforms that were excessive for loyalists were not enough for separatists. Insurgent Cubans denounced autonomy and rejected accommodation with Spain based on anything less than complete independence. "It is the firm resolution of the army and people of Cuba," vowed General Máximo Gómez, "who have shed so much blood in order to conquer their independence, not to falter in their just cause until triumph or death crowns their efforts."[^19] Two weeks later, Gómez reiterated the Cuban position: "We no longer ask concessions.... Even were Spain's proposals _bona fide_, nothing could tempt us to treat with her. We are for liberty, not for Spanish reforms."[^20]
 
 Rather than making Cubans more conciliatory, reforms actually made them more intransigent. Separatist morale soared. Spanish concessions were evidence of Spain's impending defeat, Cubans were certain. "Spain's offer of autonomy is a sign of her weakening," Provisional President Bartolomé Masó proclaimed.[^21] General Calixto García agreed: "I regard autonomy only as a sign of Spain's weakening power and an indication that the end is not far off."[^22]
 
@@ -107,7 +114,7 @@ In Cuba, separatist army chieftains denounced the cease-fire and ordered the ins
 
 Cuban rejection of the Spanish cease-fire ended hopes in the United States that the dreaded summer campaign could be averted. Spain had attached only one condition to its agreement: that Cubans observe the cease-fire. Spain now had no choice but to resume field operations and face inevitable military defeat.
 
-At the same time, events in Cuba and the U.S. policy response were increasingly the object of conflict between Congress and the president. Partisan politics was one source of conflict. Another was competition for control over foreign policy. Clashing points of view transformed a difficult situation into a nearly impossible one between legislators sympathetic to the Cuban cause and the executive hostile to *Cuba Libre*.
+At the same time, events in Cuba and the U.S. policy response were increasingly the object of conflict between Congress and the president. Partisan politics was one source of conflict. Another was competition for control over foreign policy. Clashing points of view transformed a difficult situation into a nearly impossible one between legislators sympathetic to the Cuban cause and the executive hostile to _Cuba Libre_.
 
 In the early spring, events were being shaped by forces beyond the control of the United States and Spain: Cubans were determining the course. Once Spain refused to transfer sovereignty over Cuba to the United States, and once Cubans rejected the continuation of Spanish sovereignty in any form, North Americans faced two prospects: Cuban independence or U.S. intervention.
 
@@ -117,7 +124,7 @@ The Cuban revolution threatened more than the propriety of colonial rule or prop
 
 In April 1898 President William McKinley requested of Congress authority to intervene militarily in Cuba. Ostensibly the war was against Spain, but in fact it was against Cubans.
 
-The president's war message provided portents of policy: there was no mention of Cuban independence, nothing about recognition of the Cuban provisional government, not a hint of sympathy with *Cuba Libre*, nowhere even an allusion to the renunciation of territorial aggrandizement—only a request for congressional authorization "to take measures to secure a full and final termination of hostilities between the Government of Spain and the people of Cuba, and to secure in the island the establishment of a stable government, capable of maintaining order and observing its international obligations." The U.S. purpose in Cuba, McKinley emphasized in his war message, consisted of a "forcible intervention as a neutral to stop the war." McKinley explained: "The forcible intervention of the United States ... involves ... hostile constraint upon both the parties to the contest."[^34] The war was to be directed against both Spaniards and Cubans to establish the grounds upon which to neutralize the two competing claims of sovereignty and establish by superior force of arms a third.
+The president's war message provided portents of policy: there was no mention of Cuban independence, nothing about recognition of the Cuban provisional government, not a hint of sympathy with _Cuba Libre_, nowhere even an allusion to the renunciation of territorial aggrandizement—only a request for congressional authorization "to take measures to secure a full and final termination of hostilities between the Government of Spain and the people of Cuba, and to secure in the island the establishment of a stable government, capable of maintaining order and observing its international obligations." The U.S. purpose in Cuba, McKinley emphasized in his war message, consisted of a "forcible intervention as a neutral to stop the war." McKinley explained: "The forcible intervention of the United States ... involves ... hostile constraint upon both the parties to the contest."[^34] The war was to be directed against both Spaniards and Cubans to establish the grounds upon which to neutralize the two competing claims of sovereignty and establish by superior force of arms a third.
 
 This was the outstanding virtue of the "neutral intervention" to which the United States had committed itself by April. "We have already canvassed recognition of independence," the State Department reported on April 7, "with an adverse conclusion." The "neutral intervention" would effectively concede to the United States control of the island. "It would make a notable difference in our conduct of hostilities in Cuba if we were to operate in territory transiently ours by conquest, instead of operating in the territory of a recognized sovereign with whom we maintain alliance." Nor was the State Department unmindful of the long-term advantages of transient conquest: "We would be free, if successful, to dictate the terms of peace and control the organization of an independent government in Cuba. We could hold the Cuban territory in trust until, with restored tranquility a government could be constitutionally organized which we could formally recognize and with which we could conclude a treaty regulating our future relations to and guarantee of the Republic."[^35]
 
@@ -141,9 +148,9 @@ This conflict gave early form to the fundamental cross-purposes at which Cubans 
 
 Cuban actions, in turn, antagonized North Americans. When Cubans balked at assignments of menial tasks behind the lines, they were denounced as shirkers and slackers. When they repudiated the terms of the Santiago surrender, they were portrayed as willful and arrogant. Resentment spread among the North Americans. By late summer, contempt for Cubans had become commonplace behind U.S. lines. "The Cubans are a dirty filthy lot," one officer complained.[^45] Cuban insurgents "hear nothing but words of scorn from our men as they pass," the Associated Press correspondent in Santiago de Cuba reported. "Even our officers no longer conceal their disgust for their allies, and it is understood that the warm friendship displayed toward them at first has now turned into contempt."[^46]
 
-Exclusion from the negotiations for the surrender of Santiago in July was only the first in a series of rebuffs to Cubans. The terms of the peace protocol in August were also negotiated without Cuban participation, as was the peace treaty in Paris later that autumn. Nor did it take long for the North Americans to come around to the views of the old colonial elites. United States authorities came into direct contact with those social groups most hostile to *Cuba Libre*, and they confirmed the North Americans' worst impressions of insurgent Cubans. Contemptuous of the *insurrectos*, often hysterical in their opposition to Cuban independence, local elites denied that Cubans possessed the aptitude for self-government. They warned that pillage, race war, and endless vendettas by vengeful Cubans were certain to follow in the wake of independence. Businessmen, merchants, and landowners flocked around the newly arrived North Americans hoping for salvation from Cuban independence.
+Exclusion from the negotiations for the surrender of Santiago in July was only the first in a series of rebuffs to Cubans. The terms of the peace protocol in August were also negotiated without Cuban participation, as was the peace treaty in Paris later that autumn. Nor did it take long for the North Americans to come around to the views of the old colonial elites. United States authorities came into direct contact with those social groups most hostile to _Cuba Libre_, and they confirmed the North Americans' worst impressions of insurgent Cubans. Contemptuous of the _insurrectos_, often hysterical in their opposition to Cuban independence, local elites denied that Cubans possessed the aptitude for self-government. They warned that pillage, race war, and endless vendettas by vengeful Cubans were certain to follow in the wake of independence. Businessmen, merchants, and landowners flocked around the newly arrived North Americans hoping for salvation from Cuban independence.
 
-Their views quickly gained currency among North Americans. The "higher classes," a *New York Times* reporter wrote, "are opposed, above all things, to an out and out Cuban Government. ... If the Cuban revolutionists get control, there will be a long reign of terror in which all who have opposed the insurrection will suffer greatly." Another correspondent predicted that independence "would mean to turn over the island to a worse condition of anarchy from which we are seeking to rescue it." The Associated Press correspondent wrote of the "dread" in Santiago de Cuba at the prospect of independence and concluded that the "better classes... fervently hope that the United States will retain the reins of government in the island, as the only guarantee of stability and prosperity."[^47]
+Their views quickly gained currency among North Americans. The "higher classes," a _New York Times_ reporter wrote, "are opposed, above all things, to an out and out Cuban Government. ... If the Cuban revolutionists get control, there will be a long reign of terror in which all who have opposed the insurrection will suffer greatly." Another correspondent predicted that independence "would mean to turn over the island to a worse condition of anarchy from which we are seeking to rescue it." The Associated Press correspondent wrote of the "dread" in Santiago de Cuba at the prospect of independence and concluded that the "better classes... fervently hope that the United States will retain the reins of government in the island, as the only guarantee of stability and prosperity."[^47]
 
 In fact, North Americans needed little encouragement to oppose Cuban independence. Nearly a century of maligning the Cuban capacity for self-government had more than adequately prepared the United States to believe the worst about its erstwhile allies. That persons in a position really to know—residents with property and prestige, senior Spanish civil and military authorities, church officials, newspaper editors—also opposed independence corroborated North American suspicions.
 
@@ -155,21 +162,21 @@ Independence was as implausible a proposition as its proponents were unfit to go
 
 ## IX
 
-The *independentista* ideal was popular, however, and most North Americans in Cuba conceded, if only in private, that a majority of Cubans were devoted to *Cuba Libre*. But numbers alone, they were quick to counter, could not be permitted to determine the fate of Cuba—particularly when the sentiment of the majority was identified with disruption, disorder, and chaos. That large numbers of Cubans opposed annexation was cause enough to distrust and discredit independence sentiment. If there were people who opposed U.S. rule, they were probably led by wicked men, or knew no better. In either case, opposition to the United States from this source served only to confirm Cuban incapacity for self-government.
+The _independentista_ ideal was popular, however, and most North Americans in Cuba conceded, if only in private, that a majority of Cubans were devoted to _Cuba Libre_. But numbers alone, they were quick to counter, could not be permitted to determine the fate of Cuba—particularly when the sentiment of the majority was identified with disruption, disorder, and chaos. That large numbers of Cubans opposed annexation was cause enough to distrust and discredit independence sentiment. If there were people who opposed U.S. rule, they were probably led by wicked men, or knew no better. In either case, opposition to the United States from this source served only to confirm Cuban incapacity for self-government.
 
-If the United States found no support in the *independentista* majority, it derived some consolation in the quality of the anti-independence minority. The "better classes," the propertied, the educated, the white—those sectors, in short, most deserving of North American solicitude—were desirous of close and permanent ties with the United States. "The real voice of the people of Cuba," Governor General Leonard Wood reassured the White House in late 1899, "has not been heard because they have not spoken and, unless I am entirely mistaken, when they do speak there will be many more voices for annexation than there is at present any idea of." There was, certainly, "much plausibility," correspondent Herbert P. Williams learned during his travels in Cuba, that the large majority of the "half-barbarous rabble in a vote would request us to leave the island." It was "probably true," too, that "the Cubans who want us to go outnumber those who want us to stay." But mere numbers were inconsequential, Williams insisted. Conceding that the United States "ought not go into the business of government without the consent of the governed," Williams nevertheless concluded: "The point is that if all, or nearly all, the people whose convictions deserve respect are on one side, mere numbers should not be allowed to decide the matter."[^56]
+If the United States found no support in the _independentista_ majority, it derived some consolation in the quality of the anti-independence minority. The "better classes," the propertied, the educated, the white—those sectors, in short, most deserving of North American solicitude—were desirous of close and permanent ties with the United States. "The real voice of the people of Cuba," Governor General Leonard Wood reassured the White House in late 1899, "has not been heard because they have not spoken and, unless I am entirely mistaken, when they do speak there will be many more voices for annexation than there is at present any idea of." There was, certainly, "much plausibility," correspondent Herbert P. Williams learned during his travels in Cuba, that the large majority of the "half-barbarous rabble in a vote would request us to leave the island." It was "probably true," too, that "the Cubans who want us to go outnumber those who want us to stay." But mere numbers were inconsequential, Williams insisted. Conceding that the United States "ought not go into the business of government without the consent of the governed," Williams nevertheless concluded: "The point is that if all, or nearly all, the people whose convictions deserve respect are on one side, mere numbers should not be allowed to decide the matter."[^56]
 
-These were considerations of great concern to North American authorities. Indeed, a political eclipse of the representatives of the "better classes" was no less a threat to U.S. interests, for it was upon the political ascendancy of the local elites that U.S. hopes for sway over Cuba rested. Both opposed Cuban independence. Both opposed Cuban government. Policy makers needed supporters, property owners needed security. North Americans searched for a substitute for independence, local elites sought a substitute for colonialism. The logic of collaboration was compelling and compulsory. Old colonial elites in need of protection and new colonial rulers in need of allies arrived at an understanding. Indeed, the political ascendancy of the "better classes" promised not only to obstruct the rise of *independentismo* but also to institutionalize U.S. influence from within. It mattered slightly less if Cuba were independent, if that independence was under the auspices of a client political class whose own social salvation was a function of and dependent on U.S. hegemony.
+These were considerations of great concern to North American authorities. Indeed, a political eclipse of the representatives of the "better classes" was no less a threat to U.S. interests, for it was upon the political ascendancy of the local elites that U.S. hopes for sway over Cuba rested. Both opposed Cuban independence. Both opposed Cuban government. Policy makers needed supporters, property owners needed security. North Americans searched for a substitute for independence, local elites sought a substitute for colonialism. The logic of collaboration was compelling and compulsory. Old colonial elites in need of protection and new colonial rulers in need of allies arrived at an understanding. Indeed, the political ascendancy of the "better classes" promised not only to obstruct the rise of _independentismo_ but also to institutionalize U.S. influence from within. It mattered slightly less if Cuba were independent, if that independence was under the auspices of a client political class whose own social salvation was a function of and dependent on U.S. hegemony.
 
-North American efforts centered initially on fostering the ascendancy of the old colonial elites as a political surrogate in opposition to the *independentista* polity. Preparations for municipal elections in June 1900 required first the restriction of suffrage to exclude, in the words of Secretary of War Elihu Root, the "mass of ignorant and incompetent" so as to promote "a conservative and thoughtful control of Cuba by Cubans" and "avoid the kind of control which leads to perpetual revolutions of Central America and other West India islands."[^57]
+North American efforts centered initially on fostering the ascendancy of the old colonial elites as a political surrogate in opposition to the _independentista_ polity. Preparations for municipal elections in June 1900 required first the restriction of suffrage to exclude, in the words of Secretary of War Elihu Root, the "mass of ignorant and incompetent" so as to promote "a conservative and thoughtful control of Cuba by Cubans" and "avoid the kind of control which leads to perpetual revolutions of Central America and other West India islands."[^57]
 
 Having limited the franchise, the United States next turned its attention to organizing its local political allies. Governor General Leonard Wood labored diligently on behalf of conservative candidates, seeking to forge the "better classes" into a political coalition capable of competing electorally with the "extreme and revolutionary element." He gave private encouragement to conservative candidates, repeatedly reassuring them of U.S. support while seeking to neutralize the opposition. "Of course," Wood acknowledged, "the usual opposition party will gradually develop, but I shall endeavor to give them as slender a foundation as possible to stand on."[^58]
 
-The balloting in the 1900 municipal election dealt U.S. efforts a rude blow. Almost everywhere U.S.-backed candidates went down to defeat. *Independentistas* triumphed and, flushed with victory, stepped up their demands for U.S. evacuation of the island.
+The balloting in the 1900 municipal election dealt U.S. efforts a rude blow. Almost everywhere U.S.-backed candidates went down to defeat. _Independentistas_ triumphed and, flushed with victory, stepped up their demands for U.S. evacuation of the island.
 
 Disheartened but undaunted, Wood turned his attention to preparations for the next round of balloting, elections scheduled for December 1900 to select a constituent assembly. This time Wood participated more actively on behalf of conservative candidates. In August, he undertook an arduous tour of the island to campaign for the election of the "better classes." In Santiago de Cuba, Wood publicly appealed for the election of the "best men" and drew his moral with a familiar metaphor: "Bear in mind that no constitution which does not provide for a stable government will be accepted by the United States. I wish to avoid making Cuba into a second Haiti." In Puerto Príncipe, Wood warned that if Cubans elected delegates who failed to support order, the United States would not withdraw its military forces. In Cienfuegos he reported confidently that the "better class of men [are] coming to the front daily for candidates to the convention." In his final pre-election report to the White House, Wood detailed the achievements of his travels around the island. "I have seen most of the prominent men," he explained, "using every effort to have them send the best and ablest men to the Constitutional Convention without consideration to political parties. Some of the men nominated are excellent, others are bad. I hope, however, that the latter will be defeated." Nevertheless, he struck a note of caution and appealed to McKinley to proceed slowly with plans for evacuation "until we see what class are coming to the front for the offices called for under the Constitution."[^59]
 
-*Independentistas* prevailed again. "I regret to inform you," a disappointed Wood wrote Senator Orville H. Platt in December 1900, "that the dominant party in the convention to-day contains probably the worst political element in the Island and they will bear careful watching." He lamented:
+_Independentistas_ prevailed again. "I regret to inform you," a disappointed Wood wrote Senator Orville H. Platt in December 1900, "that the dominant party in the convention to-day contains probably the worst political element in the Island and they will bear careful watching." He lamented:
 
 > The men whom I had hoped to see take leadership have been forced into the background by the absolutely irresponsible and unreliable element. ... There are a number of excellent men in the Convention; there are also some of the most unprincipled rascals who walk the Island. The only fear in Cuba to-day is not that we shall stay, but that we shall leave too soon. The elements desiring our immediate departure are the men whose only capacity will be demonstrated as a capacity for destroying all hopes for the future.
 
@@ -185,13 +192,13 @@ Once stability was subsumed into the meaning of the Joint Resolution, independen
 
 ## XII
 
-By the third year of the military occupation, the United States had failed to diminish the appeal of *Cuba Libre*. *Independentismo* persisted as a potent political force. The inability of the old colonial elites to win political control required the United States to seek alternative means of hegemony. The "better classes" had shown themselves to be of limited political value. They had fared poorly at the polls, and no amount of North American backing, it seemed, could elevate them to power. "I think we are in great danger of finding ourselves in a very awkward and untenable position," Root warned in early 1901.[^66] The administration was prepared, even anxious, to end the occupation, but not without first securing guarantees necessary to U.S. interests. Root sought to give U.S. authority legal form, something in the way of binding political relations based on the Monroe Doctrine.
+By the third year of the military occupation, the United States had failed to diminish the appeal of _Cuba Libre_. _Independentismo_ persisted as a potent political force. The inability of the old colonial elites to win political control required the United States to seek alternative means of hegemony. The "better classes" had shown themselves to be of limited political value. They had fared poorly at the polls, and no amount of North American backing, it seemed, could elevate them to power. "I think we are in great danger of finding ourselves in a very awkward and untenable position," Root warned in early 1901.[^66] The administration was prepared, even anxious, to end the occupation, but not without first securing guarantees necessary to U.S. interests. Root sought to give U.S. authority legal form, something in the way of binding political relations based on the Monroe Doctrine.
 
 In January 1901, Root outlined four provisions he deemed essential to U.S. interests. First, that "in transferring the control of Cuba to the Government established under the new constitution the United States reserves and retains the right of intervention for the preservation of Cuban independence and the maintenance of a stable Government adequately protecting life, property and individual liberty." Second, that "no Government organized under the constitution shall be deemed to have authority to enter into any treaty or engagement with any foreign power which may tend to impair or interfere with the independence of Cuba." Root also insisted that to perform "such duties as may devolve upon her under the foregoing provisions and for her own defense," the United States "may acquire and hold the title to land, and maintain naval stations at certain specified points." Last, that "all the acts of the Military Government, and all rights acquired thereunder, shall be valid and be maintained and protected."[^67]
 
 These were not entirely new policy formulations. They had been discussed earlier in one form or another. Root acknowledged that his proposals owed some inspiration to England's relations with Egypt, which seemed to allow "England to retire and still maintain her moral control."[^68] His urgency, however, was new. New, too, was the means by which Root proposed to fix the terms of political relations. Only eighteen months earlier he had envisioned the question of political relations between Cuba and the United States as a proper subject of future negotiations. "When that government is established," Root had asserted in 1899, "the relations which exist between it and the United States will be a matter for free and uncontrolled discussion between the two parties." After 1900, however, Root decided to impose unilaterally on the Cuban constituent assembly the formal terms of Cuba's relations to the United States as part of the "fundamental law of Cuba."[^69]
 
-In large measure, the decision to fix the nature of relations between Cuba and the United States even as the island was occupied militarily and governed by the United States signaled the failure of U.S. designs. The *independentista* ideal proved stronger than North Americans had anticipated, and once it assumed institutional forms, principally through political parties, party programs, and duly elected officeholders, it expanded into a force of even greater popular appeal. The decision to press for binding relations, even while the island remained under military occupation, further underscored the realization in the United States that once achieving independence Cubans would not acquiesce to the proposed limitations upon their sovereignty. The original expectation in 1899 that political relations would be the subject of "free and uncontrolled discussion" between both governments rested on the assumption that the United States would be negotiating with representatives of the old colonial elites who depended on North American hegemony as the source of their local ascendancy. After 1900, however, the results of local elections raised the real possibility that the island would pass wholly under the control of the *independentista* coalition, ill-disposed to compromise national sovereignty to accommodate North American needs.
+In large measure, the decision to fix the nature of relations between Cuba and the United States even as the island was occupied militarily and governed by the United States signaled the failure of U.S. designs. The _independentista_ ideal proved stronger than North Americans had anticipated, and once it assumed institutional forms, principally through political parties, party programs, and duly elected officeholders, it expanded into a force of even greater popular appeal. The decision to press for binding relations, even while the island remained under military occupation, further underscored the realization in the United States that once achieving independence Cubans would not acquiesce to the proposed limitations upon their sovereignty. The original expectation in 1899 that political relations would be the subject of "free and uncontrolled discussion" between both governments rested on the assumption that the United States would be negotiating with representatives of the old colonial elites who depended on North American hegemony as the source of their local ascendancy. After 1900, however, the results of local elections raised the real possibility that the island would pass wholly under the control of the _independentista_ coalition, ill-disposed to compromise national sovereignty to accommodate North American needs.
 
 It was thus necessary to use the military occupation as the means to exact Cuban acquiescence in U.S. demands. Otherwise, North Americans faced the improbable situation of having to negotiate with Cuba on a parity of sovereignty the restriction of its national sovereignty. This was the "great danger" to which Root alluded that would place the United States in "a very awkward and untenable position." The "most obvious meaning" of the Joint Resolution, Root conceded confidentially in early 1901, called first for the establishment of an independent government in Cuba, followed by the negotiation of a treaty of relations between Cuba and the United States. "Yet," Root hastened to add, "it is plain that such a course would leave the United States in a worse position as to her own interests than she was when Spain held the sovereignty of Cuba and would be an abandonment both of our interests and the safety of Cuba herself." United States interests required "constitutional limitations which would never be put into the [Cuban] Constitution except upon our insistence or suggestion." Senator Platt agreed. To defer the issue of relations until the inauguration of a Cuban government, he warned, risked surrendering "any right to be heard as to what relations shall be" and further risked having to be "contented with nothing at all."[^70]
 
@@ -212,11 +219,11 @@ In its essential features, the Platt Amendment, enacted into law by Congress in 
 - **VII.** That to enable the United States to maintain the independence of Cuba, and to protect the people thereof, as well as for its own defense, the government of Cuba will sell or lease to the United States land necessary for coaling or naval stations at certain specified points, to be agreed upon with the President of the United States.
 - **VIII.** That by way of further assurance the government of Cuba will embody the foregoing provisions in a permanent treaty with the United States.[^72]
 
-The failure to install the better classes in power meant an uncertain future in the organization of the new republic. Clearly if the authority and resources of the United States could not contain the potency of the revolutionary ideal during the occupation, what would follow the evacuation? Elections had underscored the uncertainty if not inefficacy of the democratic process, and the point was not lost on North Americans. The Platt Amendment rested on the central if not fully stated premise that the principal danger to U.S. interests in Cuba originated with Cubans themselves, or at least those Cubans in the *independentista* camp. Whether in the direction of foreign affairs, or in the management of public funds, or in the conduct of national politics, government by Cubans remained always a dubious proposition, an enterprise as unsound in its premises as it was uncertain in its permanence. Root was blunt. The proposed relations represented "the extreme limit of this country's indulgence in the matter of the independence of Cuba." The political leadership emerging in Havana did not inspire confidence in the United States. "The character of the ruling class," Root acknowledged, "is such that their administration of the affairs of the island will require the restraining influence of the United States government for many years to come, even if it does not eventually become necessary for this government to take direct and absolute control of Cuban affairs."[^73]
+The failure to install the better classes in power meant an uncertain future in the organization of the new republic. Clearly if the authority and resources of the United States could not contain the potency of the revolutionary ideal during the occupation, what would follow the evacuation? Elections had underscored the uncertainty if not inefficacy of the democratic process, and the point was not lost on North Americans. The Platt Amendment rested on the central if not fully stated premise that the principal danger to U.S. interests in Cuba originated with Cubans themselves, or at least those Cubans in the _independentista_ camp. Whether in the direction of foreign affairs, or in the management of public funds, or in the conduct of national politics, government by Cubans remained always a dubious proposition, an enterprise as unsound in its premises as it was uncertain in its permanence. Root was blunt. The proposed relations represented "the extreme limit of this country's indulgence in the matter of the independence of Cuba." The political leadership emerging in Havana did not inspire confidence in the United States. "The character of the ruling class," Root acknowledged, "is such that their administration of the affairs of the island will require the restraining influence of the United States government for many years to come, even if it does not eventually become necessary for this government to take direct and absolute control of Cuban affairs."[^73]
 
 ## XIV
 
-News of the Platt Amendment provoked widespread popular protests in Cuba. Anti-U.S. demonstrations were held across the island. Former insurgent chieftains denounced the proposed relations and alluded to the necessity of returning to the field of armed struggle to vindicate the *independentista* ideal. Municipal councils, civic organizations, and veterans associations cabled protests to North American authorities in Havana and Washington. This show of popular opposition encouraged the constituent assembly to balk at enacting the amendment as part of the new constitution. Apprehension increased among North American officials. A naval squadron was prepared for a "courtesy call" to Havana. Yet Wood fretted and cabled Root: "Can you indicate our action in case Convention should refuse to accept Platt Amendment?"[^74]
+News of the Platt Amendment provoked widespread popular protests in Cuba. Anti-U.S. demonstrations were held across the island. Former insurgent chieftains denounced the proposed relations and alluded to the necessity of returning to the field of armed struggle to vindicate the _independentista_ ideal. Municipal councils, civic organizations, and veterans associations cabled protests to North American authorities in Havana and Washington. This show of popular opposition encouraged the constituent assembly to balk at enacting the amendment as part of the new constitution. Apprehension increased among North American officials. A naval squadron was prepared for a "courtesy call" to Havana. Yet Wood fretted and cabled Root: "Can you indicate our action in case Convention should refuse to accept Platt Amendment?"[^74]
 
 Root was unmoved. There would be neither compromise on the congressional amendment nor concession to Cuban independence, he warned, until Cubans ratified the proposed relations. He was adamant. "Under the act of Congress they never can have any further government in Cuba, except the intervening Government of the United States, until they have acted." The members of the constituent convention "should have sufficient intelligence to understand that they cannot escape their responsibility except by a refusal to act, which will necessarily require the convening of another Convention which will act." "No constitution can be put into effect in Cuba," Root warned directly, "and no government can be elected under it, no electoral law by the Convention can be put into effect, and no election held under it until they have acted upon this question of relations in conformity with this act of Congress." Continued resistance to U.S. demands, Root warned ominously, would have dire consequences. "There is only one possible way for them to bring about the termination of the military government and make either the constitution or electoral law effective; that is to do the whole duty they were elected for."[^75]
 
@@ -226,57 +233,57 @@ In early June, Cubans ceased to resist. It was apparent that the choice before t
 
 ## About the Author
 
-**Louis A. Pérez Jr.:** One of the world's foremost scholars of Cuba. Operating out of the U.S., his prolific body of work—including *The Structure of Cuban History*—analyzes the social, political, and cultural evolution of the nation.
+**Louis A. Pérez Jr.:** One of the world's foremost scholars of Cuba. Operating out of the U.S., his prolific body of work—including _The Structure of Cuban History_—analyzes the social, political, and cultural evolution of the nation.
 
 [^1]: Máximo Gómez, "A los señores hacendados y dueños de fincas ganaderas," July 1, 1895, Fondo de Donativos y Remisiones, Legajo 257, Número 14, Archivo Nacional de Cuba, Havana, Cuba. See also "Manuscrito del acuerdo del Consejo de Gobierno en sesión 13 de julio de 1896 en relación a la prohibición de la zafra de 1896 a 1897," July 30, 1896, Fondo de Donativos y Remisiones, Legajo 624, Número 34, ibid.
 
 [^2]: "To the President of the Republic of the United States of America," enclosure in Fitzhugh Lee to Richard Olney, June 24, 1896, Richard Olney Papers, Library of Congress, Manuscript Division, Washington, D.C.
 
-[^3]: A Planter in Cuba, "The Argument for Autonomy," *Outlook* 58 (April 23, 1898): 1012.
+[^3]: A Planter in Cuba, "The Argument for Autonomy," _Outlook_ 58 (April 23, 1898): 1012.
 
-[^4]: *New York World*, March 22, 1897.
+[^4]: _New York World_, March 22, 1897.
 
 [^5]: William J. Calhoun to William McKinley, June 22, 1897, Special Agents, General Records of the Department of State, Record Group 59, Vol. 48, National Archives, Washington, D.C.
 
-[^6]: Richard B. Olney to Enrique Dupuy de Lôme, April 4, 1896, U.S. Department of State, *Foreign Relations of United States, 1897* (Washington, D.C., 1898), p. 543 (hereafter cited as *FRUS, 1897*).
+[^6]: Richard B. Olney to Enrique Dupuy de Lôme, April 4, 1896, U.S. Department of State, _Foreign Relations of United States, 1897_ (Washington, D.C., 1898), p. 543 (hereafter cited as _FRUS, 1897_).
 
-[^7]: See Lyman J. Gage, "Work of the Treasury Department," in *The American-Spanish War: A History by the War Leaders* (Norwich, Conn., 1899), pp. 367–391, and John E. Wilkie, "The Secret Service in the War," ibid., pp. 423–436.
+[^7]: See Lyman J. Gage, "Work of the Treasury Department," in _The American-Spanish War: A History by the War Leaders_ (Norwich, Conn., 1899), pp. 367–391, and John E. Wilkie, "The Secret Service in the War," ibid., pp. 423–436.
 
 [^8]: Richard B. Olney to Grover Cleveland, September 25, 1895, Grover Cleveland Papers, Library of Congress, Manuscript Division, Washington, D.C.
 
-[^9]: Richard B. Olney to Enrique Dupuy de Lôme, April 4, 1896, *FRUS, 1897*, p. 541.
+[^9]: Richard B. Olney to Enrique Dupuy de Lôme, April 4, 1896, _FRUS, 1897_, p. 541.
 
-[^10]: Grover Cleveland, "Fourth Annual Message," December 7, 1896, in James D. Richardson, ed., *A Compilation of the Messages and Papers of the Presidents, 1789–1902*, 10 vols. (Washington, D.C., 1896–1902), 9:720.
+[^10]: Grover Cleveland, "Fourth Annual Message," December 7, 1896, in James D. Richardson, ed., _A Compilation of the Messages and Papers of the Presidents, 1789–1902_, 10 vols. (Washington, D.C., 1896–1902), 9:720.
 
-[^11]: Richard Olney to Enrique Dupuy de Lôme, April 14, 1896, *FRUS, 1897*, pp. 543–544.
+[^11]: Richard Olney to Enrique Dupuy de Lôme, April 14, 1896, _FRUS, 1897_, pp. 543–544.
 
-[^12]: Duke of Tetuán to Enrique Dupuy de Lôme, May 22, 1896, in Spain, Ministerio de Estado, *Spanish Diplomatic Correspondence and Documents, 1896–1900, Presented to the Cortes by the Minister of State* (Washington, D.C., 1905), pp. 10–11.
+[^12]: Duke of Tetuán to Enrique Dupuy de Lôme, May 22, 1896, in Spain, Ministerio de Estado, _Spanish Diplomatic Correspondence and Documents, 1896–1900, Presented to the Cortes by the Minister of State_ (Washington, D.C., 1905), pp. 10–11.
 
-[^13]: Fitzhugh Lee to William R. Day, November 17, 1897, Despatches from U.S. Consuls in Havana, 1783–1906, General Records of the Department of State, Record Group 59, National Archives, Washington, D.C. (hereafter cited as *Despatches/Havana*).
+[^13]: Fitzhugh Lee to William R. Day, November 17, 1897, Despatches from U.S. Consuls in Havana, 1783–1906, General Records of the Department of State, Record Group 59, National Archives, Washington, D.C. (hereafter cited as _Despatches/Havana_).
 
 [^14]: Alexander C. Brice to William R. Day, November 17, 1897, Despatches from U.S. Consuls in Matanzas, 1820–1889, General Records of the Department of State, Record Group 59, National Archives, Washington, D.C.
 
-[^15]: Pulaski F. Hyatt to William R. Day, March 24, 1898, U.S. Congress, Senate, *Consular Correspondence Respecting the Conditions of the Reconcentrados in Cuba, the State of the War in That Island, and the Prospects of the Projected Autonomy*, 55th Cong., 2d sess., Senate Document No. 230, p. 44.
+[^15]: Pulaski F. Hyatt to William R. Day, March 24, 1898, U.S. Congress, Senate, _Consular Correspondence Respecting the Conditions of the Reconcentrados in Cuba, the State of the War in That Island, and the Prospects of the Projected Autonomy_, 55th Cong., 2d sess., Senate Document No. 230, p. 44.
 
-[^16]: Fitzhugh Lee to William R. Day, November 23, 1897, *Despatches/Havana*.
+[^16]: Fitzhugh Lee to William R. Day, November 23, 1897, _Despatches/Havana_.
 
-[^17]: *Washington Post*, December 22, 1897.
+[^17]: _Washington Post_, December 22, 1897.
 
-[^18]: *New York Herald*, December 14, 1897.
+[^18]: _New York Herald_, December 14, 1897.
 
-[^19]: Máximo Gómez to John R. Caldwell, December 5, 1897, *New York Herald*, December 29, 1897.
+[^19]: Máximo Gómez to John R. Caldwell, December 5, 1897, _New York Herald_, December 29, 1897.
 
-[^20]: *New York World*, February 10, March 6, 1897.
+[^20]: _New York World_, February 10, March 6, 1897.
 
-[^21]: *New York Journal*, February 24, 1898.
+[^21]: _New York Journal_, February 24, 1898.
 
-[^22]: Calixto García to Editor, December 18, 1897, *New York Journal*, January 5, 1898.
+[^22]: Calixto García to Editor, December 18, 1897, _New York Journal_, January 5, 1898.
 
-[^23]: Máximo Gómez to Gonzalo de Quesada, March 10, 1898, *New York Daily Tribune*, April 10, 1898.
+[^23]: Máximo Gómez to Gonzalo de Quesada, March 10, 1898, _New York Daily Tribune_, April 10, 1898.
 
-[^24]: *New York World*, August 17, 1897.
+[^24]: _New York World_, August 17, 1897.
 
-[^25]: William R. Day to Stewart L. Woodford, March 26, 1898, U.S. Department of State, *Foreign Relations of the United States, 1898* (Washington, D.C., 1901), p. 704 (hereafter cited as *FRUS, 1898*).
+[^25]: William R. Day to Stewart L. Woodford, March 26, 1898, U.S. Department of State, _Foreign Relations of the United States, 1898_ (Washington, D.C., 1901), p. 704 (hereafter cited as _FRUS, 1898_).
 
 [^26]: William R. Day, "Recognition of Independence," n.d., William R. Day Papers, Library of Congress, Manuscript Division, Washington, D.C.
 
@@ -284,79 +291,79 @@ In early June, Cubans ceased to resist. It was apparent that the choice before t
 
 [^28]: Stewart L. Woodford to William McKinley, March 17, 1898, Private Correspondence, General Woodford to the President, August 1897 to May 1898, John Bassett Moore Papers, Library of Congress, Manuscript Division, Washington, D.C.
 
-[^29]: See William R. Day to Stewart Woodford, March 27, 1898, *FRUS, 1898*, pp. 711–712.
+[^29]: See William R. Day to Stewart Woodford, March 27, 1898, _FRUS, 1898_, pp. 711–712.
 
-[^30]: Luis Polo de Bernabé to Secretary of State, April 10, 1898, in Spain, Ministerio de Estado, *Spanish Diplomatic Correspondence*, p. 121; William R. Day, "Interview with Spanish Minister," April 10, 1898, Day Papers; Charles G. Dawes, *A Journal of the McKinley Years* (Chicago, 1950), p. 149.
+[^30]: Luis Polo de Bernabé to Secretary of State, April 10, 1898, in Spain, Ministerio de Estado, _Spanish Diplomatic Correspondence_, p. 121; William R. Day, "Interview with Spanish Minister," April 10, 1898, Day Papers; Charles G. Dawes, _A Journal of the McKinley Years_ (Chicago, 1950), p. 149.
 
-[^31]: Ramón Blanco, "Suspension of Hostilities," April 10, 1898, in *FRUS, 1898*, p. 750.
+[^31]: Ramón Blanco, "Suspension of Hostilities," April 10, 1898, in _FRUS, 1898_, p. 750.
 
-[^32]: Horatio S. Rubens, *Liberty: The Story of Cuba* (New York, 1932), pp. 326–327. Tomás Estrada Palma later wrote that "enormous pressure was brought to bear on the Delegation to persuade the Cubans to accept an armistice." See Tomás Estrada Palma, "The Work of the Cuban Delegation," in *The American-Spanish War*, pp. 419–420.
+[^32]: Horatio S. Rubens, _Liberty: The Story of Cuba_ (New York, 1932), pp. 326–327. Tomás Estrada Palma later wrote that "enormous pressure was brought to bear on the Delegation to persuade the Cubans to accept an armistice." See Tomás Estrada Palma, "The Work of the Cuban Delegation," in _The American-Spanish War_, pp. 419–420.
 
-[^33]: Calixto García to Mario G. Menocal, April 18, 1898, in García, *Palabras de tres guerras* (Havana, 1942), pp. 143–144; Máximo Gómez, *Diario de campaña del mayor general Máximo Gómez* (Havana, 1940), p. 354.
+[^33]: Calixto García to Mario G. Menocal, April 18, 1898, in García, _Palabras de tres guerras_ (Havana, 1942), pp. 143–144; Máximo Gómez, _Diario de campaña del mayor general Máximo Gómez_ (Havana, 1940), p. 354.
 
-[^34]: Richardson, ed., *Messages and Papers*, 10:63–64.
+[^34]: Richardson, ed., _Messages and Papers_, 10:63–64.
 
 [^35]: Alvey A. Adee to William R. Day, April 7, 1898, Day Papers.
 
-[^36]: "Borrador relacionado con la Resolución Conjunta," April 1898, in Gonzalo de Quesada, *Documentos históricos* (Havana, 1965), p. 409.
+[^36]: "Borrador relacionado con la Resolución Conjunta," April 1898, in Gonzalo de Quesada, _Documentos históricos_ (Havana, 1965), p. 409.
 
-[^37]: *State* (Columbia, S.C.), April 8, 1898. See also *Washington Evening Star*, April 6, 1898.
+[^37]: _State_ (Columbia, S.C.), April 8, 1898. See also _Washington Evening Star_, April 6, 1898.
 
-[^38]: *Congressional Record* 31 (April 16, 1898): 3988–3989.
+[^38]: _Congressional Record_ 31 (April 16, 1898): 3988–3989.
 
-[^39]: Calixto García to Tomás Estrada Palma, April 26, 1898, in Felipe Martínez Arango, *Cronología crítica de la guerra hispano-cubano-americano* (Santiago de Cuba, 1946), p. 44.
+[^39]: Calixto García to Tomás Estrada Palma, April 26, 1898, in Felipe Martínez Arango, _Cronología crítica de la guerra hispano-cubano-americano_ (Santiago de Cuba, 1946), p. 44.
 
-[^40]: *New York Times*, August 5, 1898.
+[^40]: _New York Times_, August 5, 1898.
 
-[^41]: See *Washington Evening Star*, July 19, 1898.
+[^41]: See _Washington Evening Star_, July 19, 1898.
 
-[^42]: Calixto García to Pedro Pérez, August 12, 1898, in Juan J. E. Casasús, *Calixto García (el estratega)* (Havana, 1942), p. 284.
+[^42]: Calixto García to Pedro Pérez, August 12, 1898, in Juan J. E. Casasús, _Calixto García (el estratega)_ (Havana, 1942), p. 284.
 
-[^43]: Calixto García to William R. Shafter, July 17, 1898, in García, *Palabras de tres guerras*, pp. 107–110.
+[^43]: Calixto García to William R. Shafter, July 17, 1898, in García, _Palabras de tres guerras_, pp. 107–110.
 
-[^44]: Ibid. See also Cuba, Ejército Libertador, *Parte oficial del lugarteniente general Calixto García al General en Jefe Máximo Gómez, 15 de julio de 1898, sobre la campaña de Santiago de Cuba* (Havana, 1953), pp. 22–23.
+[^44]: Ibid. See also Cuba, Ejército Libertador, _Parte oficial del lugarteniente general Calixto García al General en Jefe Máximo Gómez, 15 de julio de 1898, sobre la campaña de Santiago de Cuba_ (Havana, 1953), pp. 22–23.
 
-[^45]: Lieutenant Colonel Clinton Smith to Colonel Augustus R. Francis, July 31, 1898, *New York Times*, August 12, 1898.
+[^45]: Lieutenant Colonel Clinton Smith to Colonel Augustus R. Francis, July 31, 1898, _New York Times_, August 12, 1898.
 
-[^46]: *State* (Columbia, S.C.), July 20, 1898.
+[^46]: _State_ (Columbia, S.C.), July 20, 1898.
 
-[^47]: *New York Times*, August 23, 1, 1898; *State* (Columbia, S.C.), July 30, 1898, p. 4.
+[^47]: _New York Times_, August 23, 1, 1898; _State_ (Columbia, S.C.), July 30, 1898, p. 4.
 
-[^48]: Burr McIntosh, *The Little I Saw of Cuba* (New York, 1899), p. 74.
+[^48]: Burr McIntosh, _The Little I Saw of Cuba_ (New York, 1899), p. 74.
 
-[^49]: *New York Times*, July 29, 1898. See also *State* (Columbia, S.C.), July 20, 1898, and Charles Morris, *The War with Spain* (Philadelphia, 1899), p. 312.
+[^49]: _New York Times_, July 29, 1898. See also _State_ (Columbia, S.C.), July 20, 1898, and Charles Morris, _The War with Spain_ (Philadelphia, 1899), p. 312.
 
-[^50]: *New York Times*, July 29, 1898.
+[^50]: _New York Times_, July 29, 1898.
 
 [^51]: Ibid., December 24, 1898.
 
-[^52]: *State* (Columbia, S.C.), December 19, 1898, and *New York Times*, December 19, 1898.
+[^52]: _State_ (Columbia, S.C.), December 19, 1898, and _New York Times_, December 19, 1898.
 
-[^53]: Quoted in Walter Millis, *The Martial Spirit: A Study of Our War with Spain* (Boston, 1931), p. 362.
+[^53]: Quoted in Walter Millis, _The Martial Spirit: A Study of Our War with Spain_ (Boston, 1931), p. 362.
 
-[^54]: Quoted in George Kennan, "Cuban Character," *Outlook* 63 (December 23, 1899): 1021–1022.
+[^54]: Quoted in George Kennan, "Cuban Character," _Outlook_ 63 (December 23, 1899): 1021–1022.
 
 [^55]: Leonard Wood to William McKinley, February 6, 1900, Elihu Root Papers, Manuscript Division, Library of Congress, Washington, D.C.
 
-[^56]: Leonard Wood to William McKinley, September 26, 1899, William McKinley Papers, Manuscript Division, Library of Congress, Washington, D.C.; Herbert P. Williams, "The Outlook in Cuba," *Atlantic Monthly* 83 (June 1899): 835–836.
+[^56]: Leonard Wood to William McKinley, September 26, 1899, William McKinley Papers, Manuscript Division, Library of Congress, Washington, D.C.; Herbert P. Williams, "The Outlook in Cuba," _Atlantic Monthly_ 83 (June 1899): 835–836.
 
 [^57]: Elihu Root to Paul Dana, January 15, 1900, Root Papers.
 
-[^58]: Leonard Wood to Elihu Root, January 1900, in Hermann Hagedorn, *Leonard Wood, A Biography*, 2 vols. (New York, 1931), 1:267.
+[^58]: Leonard Wood to Elihu Root, January 1900, in Hermann Hagedorn, _Leonard Wood, A Biography_, 2 vols. (New York, 1931), 1:267.
 
 [^59]: Leonard Wood to William McKinley, August 31, 1900, Wood Papers; Wood to Adjutant General, September 1, 1900, File 340125/B, Records of the Adjutant General's Office, 1789–1917, Record Group 94, National Archives, Washington, D.C.
 
 [^60]: Leonard Wood to Orville H. Platt, December 6, 1900, Wood Papers.
 
-[^61]: Leonard Wood to Elihu Root, March 4, 1901, in Hagedorn, *Leonard Wood*, 1:359; Wood to Elihu Root, September 26, 1900, January 12, 1901, Wood Papers.
+[^61]: Leonard Wood to Elihu Root, March 4, 1901, in Hagedorn, _Leonard Wood_, 1:359; Wood to Elihu Root, September 26, 1900, January 12, 1901, Wood Papers.
 
-[^62]: Quoted in Louis A. Coolidge, *An Old-Fashioned Senator: Orville H. Platt of Connecticut* (New York, 1910), p. 331.
+[^62]: Quoted in Louis A. Coolidge, _An Old-Fashioned Senator: Orville H. Platt of Connecticut_ (New York, 1910), p. 331.
 
-[^63]: Orville H. Platt, "The Pacification of Cuba," *Independent* 53 (June 27, 1901): 1466.
+[^63]: Orville H. Platt, "The Pacification of Cuba," _Independent_ 53 (June 27, 1901): 1466.
 
-[^64]: U.S. Congress, Senate, Committee on Relations with Cuba, *Conditions in Cuba* (Washington, D.C., 1900), pp. 17–18.
+[^64]: U.S. Congress, Senate, Committee on Relations with Cuba, _Conditions in Cuba_ (Washington, D.C., 1900), pp. 17–18.
 
-[^65]: Leonard Wood, "The Future of Cuba," *Independent* 54 (January 23, 1902): 193.
+[^65]: Leonard Wood, "The Future of Cuba," _Independent_ 54 (January 23, 1902): 193.
 
 [^66]: Elihu Root to Leonard Wood, January 9, 1901, Root Papers.
 
@@ -364,16 +371,16 @@ In early June, Cubans ceased to resist. It was apparent that the choice before t
 
 [^68]: Ibid.
 
-[^69]: Elihu Root, *Military and Colonial Policy of the United States*, ed. Robert Bacon and James Brown Scott (Cambridge, Mass., 1916), pp. 172–173.
+[^69]: Elihu Root, _Military and Colonial Policy of the United States_, ed. Robert Bacon and James Brown Scott (Cambridge, Mass., 1916), pp. 172–173.
 
-[^70]: Elihu Root to Albert Shaw, February 23, 1901, Root Papers; Orville H. Platt, "The Solution of the Cuban Problem," *World's Work* 2 (May 1901): 730–731.
+[^70]: Elihu Root to Albert Shaw, February 23, 1901, Root Papers; Orville H. Platt, "The Solution of the Cuban Problem," _World's Work_ 2 (May 1901): 730–731.
 
 [^71]: Leonard Wood to Elihu Root, January 19, 1901, Wood Papers.
 
-[^72]: *U.S. Statutes at Large*, 21:897–898.
+[^72]: _U.S. Statutes at Large_, 21:897–898.
 
-[^73]: *Washington Evening Star*, June 1, 1901, p. 1.
+[^73]: _Washington Evening Star_, June 1, 1901, p. 1.
 
 [^74]: Leonard Wood to Elihu Root, March 20, 1901, Root Papers.
 
-[^75]: Orville H. Platt, "Cuba's Claim upon the United States," *North American Review* 175 (August 1902): 146.
+[^75]: Orville H. Platt, "Cuba's Claim upon the United States," _North American Review_ 175 (August 1902): 146.

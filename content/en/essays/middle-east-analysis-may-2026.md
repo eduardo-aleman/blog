@@ -3,7 +3,16 @@ title: "After the Strike: Reading the New Middle East"
 date: 2026-05-16
 summary: "An analysis of the regional order taking shape after the U.S.-Israeli war with Iran, the Hormuz blockade, and the slow collapse of American security guarantees in the Gulf."
 description: "An analysis of the regional order taking shape after the U.S.-Israeli war with Iran, the Hormuz blockade, and the slow collapse of American security guarantees in the Gulf."
-tags: ["middle east", "iran", "geopolitics", "energy", "israel", "gulf states", "china"]
+tags:
+  [
+    "middle east",
+    "iran",
+    "geopolitics",
+    "energy",
+    "israel",
+    "gulf states",
+    "china",
+  ]
 image: "/images/posts/middle-east-analysis-may-2026/Mersad_Air_Defense_System_with_Shahin_Missile.jpg"
 image_caption: "The system shown is the Iranian Mersad (Ambush) low- to mid-range air defense system, first developed in 2010. It is designed to fire Shahin (Falcon) missiles, which are domestically upgraded, reverse-engineered versions of the American MIM-23 Hawk surface-to-air missiles. The system includes radar components and a control station for detecting and engaging aircraft, helicopters, and cruise missiles. Variants of the system, such as the Mersad Phase I, have been tested by Iran to improve capabilities against modern threats."
 ---

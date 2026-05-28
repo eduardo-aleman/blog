@@ -4,7 +4,7 @@ subtitulo: "Una catedral barroca de palabras sobre la deformidad, el arte y la b
 summary: "Análisis literario de la novela Bomarzo (1962)"
 genero: "Novela histórica / Fantasía histórica"
 date: 2026-05-24
-palabras_clave:
+tags:
   - literatura argentina
   - novela histórica
   - Renacimiento italiano

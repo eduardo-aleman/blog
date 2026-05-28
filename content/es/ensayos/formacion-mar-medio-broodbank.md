@@ -15,13 +15,13 @@ image: "/images/posts/formacion-mar-medio-broodbank/portada.jpg"
 
 ## Una obra a la altura de su objeto
 
-Pocos libros logran abarcar dos millones de años sin sucumbir al esquematismo o al ensayo divulgativo. *La formación del mar medio: una historia del Mediterráneo desde el principio hasta la formación del mundo clásico*, del arqueólogo británico Cyprian Broodbank, es una de esas excepciones. Publicada en 2013 por Thames & Hudson, premiada con el Wolfson History Prize en 2014 y revisada en 2024 para incorporar los avances de la arqueogenética y la biomolecular, esta síntesis se ha convertido, en poco más de una década, en una referencia ineludible para cualquiera que se aproxime con seriedad a la prehistoria mediterránea.
+Pocos libros logran abarcar dos millones de años sin sucumbir al esquematismo o al ensayo divulgativo. _La formación del mar medio: una historia del Mediterráneo desde el principio hasta la formación del mundo clásico_, del arqueólogo británico Cyprian Broodbank, es una de esas excepciones. Publicada en 2013 por Thames & Hudson, premiada con el Wolfson History Prize en 2014 y revisada en 2024 para incorporar los avances de la arqueogenética y la biomolecular, esta síntesis se ha convertido, en poco más de una década, en una referencia ineludible para cualquiera que se aproxime con seriedad a la prehistoria mediterránea.
 
-Broodbank, catedrático en Cambridge formado en la tradición de la *New Archaeology* anglosajona, escribe con la ambición de quien sabe que está intentando algo poco frecuente: contar la historia entera de un mar antes de que ese mar tuviera nombre, antes incluso de que hubiera quien pudiera nombrarlo.
+Broodbank, catedrático en Cambridge formado en la tradición de la _New Archaeology_ anglosajona, escribe con la ambición de quien sabe que está intentando algo poco frecuente: contar la historia entera de un mar antes de que ese mar tuviera nombre, antes incluso de que hubiera quien pudiera nombrarlo.
 
 ## El argumento de fondo
 
-La tesis que articula los once capítulos del libro es, en apariencia, simple: el Mediterráneo no fue siempre el espacio densamente conectado, cosmopolita y comerciante que conocemos por los textos griegos y latinos. Esa cualidad —la de ser un *agente* de conexión y no solo un escenario— se construyó a lo largo de milenios, mediante un proceso desigual, reversible y profundamente contingente. Lo que Fernand Braudel describió para el siglo XVI como una unidad de larga duración, Broodbank lo extiende hacia atrás hasta encontrar el momento en que esa unidad empezó a gestarse, y demuestra que durante la mayor parte de la historia humana en la cuenca, tal unidad simplemente no existía.
+La tesis que articula los once capítulos del libro es, en apariencia, simple: el Mediterráneo no fue siempre el espacio densamente conectado, cosmopolita y comerciante que conocemos por los textos griegos y latinos. Esa cualidad —la de ser un _agente_ de conexión y no solo un escenario— se construyó a lo largo de milenios, mediante un proceso desigual, reversible y profundamente contingente. Lo que Fernand Braudel describió para el siglo XVI como una unidad de larga duración, Broodbank lo extiende hacia atrás hasta encontrar el momento en que esa unidad empezó a gestarse, y demuestra que durante la mayor parte de la historia humana en la cuenca, tal unidad simplemente no existía.
 
 La herramienta metodológica para sostener esta tesis es lo que el autor llama un enfoque "holístico" y de larga duración: una integración cuidadosa de datos arqueológicos, paleoclimáticos, genéticos y, en la edición revisada, biomoleculares. Broodbank rechaza tanto el difusionismo simplista de la vieja prehistoria como el localismo radical de algunas corrientes posprocesuales. Lo que propone, en cambio, es una historia atenta a las escalas múltiples: el clima glacial, la geografía de penínsulas e islas, las redes de intercambio incipientes, las decisiones de comunidades concretas.
 
@@ -47,13 +47,13 @@ Algunos especialistas han señalado, además, que la atención del autor se incl
 
 ## Para quién y por qué
 
-Recomiendo *La formación del mar medio* sin reservas a tres tipos de lector. Al estudiante o profesional de la arqueología, la historia antigua o los estudios mediterráneos, porque encontrará en él una síntesis de referencia con la que dialogar durante años. Al lector culto interesado en la historia profunda —el deep history que ha popularizado autores como Daniel Lord Smail—, porque hallará una obra exigente pero recompensante. Y a quien sienta curiosidad por entender cómo se construye una región del mundo a lo largo de plazos que exceden con mucho la memoria humana, porque pocos libros lo explican con tanta paciencia.
+Recomiendo _La formación del mar medio_ sin reservas a tres tipos de lector. Al estudiante o profesional de la arqueología, la historia antigua o los estudios mediterráneos, porque encontrará en él una síntesis de referencia con la que dialogar durante años. Al lector culto interesado en la historia profunda —el deep history que ha popularizado autores como Daniel Lord Smail—, porque hallará una obra exigente pero recompensante. Y a quien sienta curiosidad por entender cómo se construye una región del mundo a lo largo de plazos que exceden con mucho la memoria humana, porque pocos libros lo explican con tanta paciencia.
 
-La comparación con Braudel, recurrente entre los reseñistas, es justa pero también limitada. Broodbank no escribe una continuación retrospectiva del *Mediterráneo* de 1949; escribe algo distinto. Si Braudel mostró cómo un mar podía explicar un siglo, Broodbank muestra cómo dos millones de años de historia explican un mar. Es, en su género, una proeza.
+La comparación con Braudel, recurrente entre los reseñistas, es justa pero también limitada. Broodbank no escribe una continuación retrospectiva del _Mediterráneo_ de 1949; escribe algo distinto. Si Braudel mostró cómo un mar podía explicar un siglo, Broodbank muestra cómo dos millones de años de historia explican un mar. Es, en su género, una proeza.
 
 ## Ficha bibliográfica
 
-- **Título original:** *The Making of the Middle Sea: A History of the Mediterranean from the Beginning to the Emergence of the Classical World*
+- **Título original:** _The Making of the Middle Sea: A History of the Mediterranean from the Beginning to the Emergence of the Classical World_
 - **Autor:** Cyprian Broodbank
 - **Editorial:** Thames & Hudson
 - **Primera edición:** 2013

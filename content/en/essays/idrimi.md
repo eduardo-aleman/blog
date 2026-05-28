@@ -29,7 +29,7 @@ The story unfolds in four acts:
 
 - **The Flight.** Idrimi, a young prince, flees his home in Aleppo after an unspecified "crime" or coup deposes his family.
 - **The Exile.** Refusing to live as a second-class subject in his mother's homeland of Emar, he takes his horse and chariot into the Canaanite desert.
-- **The Habiru Years.** He spends seven years among the *Habiru* — a fluid class of displaced persons, mercenaries, and outlaws on the margins of Bronze Age society.
+- **The Habiru Years.** He spends seven years among the _Habiru_ — a fluid class of displaced persons, mercenaries, and outlaws on the margins of Bronze Age society.
 - **The Return.** Gathering an army of fellow exiles, he builds a fleet, launches a sea invasion of Alalakh, reclaims his throne, and ultimately swears fealty to the regional superpower, the Mitanni Empire.
 
 For decades, historians read this dramatic rise-and-return narrative at face value, treating it as one of the ancient world's earliest complete political autobiographies.
@@ -40,7 +40,7 @@ For decades, historians read this dramatic rise-and-return narrative at face val
 
 The story is thrilling, but modern scholarship has begun to look beyond the surface of the stone. Assyriologist **Jacob Lauinger** has recently complicated the picture by reading the statue as a layered object rather than a single moment captured in stone.
 
-Combining textual analysis with close attention to the physical monument, Lauinger argues that the statue was originally *anepigraphic* — uninscribed. The cuneiform we read today was added later, in two distinct phases, well after Idrimi himself had died.
+Combining textual analysis with close attention to the physical monument, Lauinger argues that the statue was originally _anepigraphic_ — uninscribed. The cuneiform we read today was added later, in two distinct phases, well after Idrimi himself had died.
 
 > **A Tool for Legitimacy.** On Lauinger's reading, the inscriptions were carved during a later period of political upheaval at Alalakh in order to manufacture a narrative of royal legitimacy and dynastic continuity.
 
@@ -52,7 +52,7 @@ By tying the text to the physical history of the monument, Lauinger shows how la
 
 Because the statue's provincial script is notoriously difficult to read, scholars have spent generations arguing over the translation of nearly every line. To bring this work outside the small circle of specialists, the new analysis has been released as an open digital edition.
 
-[**The Electronic Idrimi**](https://oracc.museum.upenn.edu/aemw/alalakh/idrimi/) is the online companion to Lauinger's *The Labors of Idrimi: Inscribing the Past, Shaping the Present at Late Bronze Age Alalah* (ANEM 33, Atlanta: SBL Press, 2024). Hosted on the Open Richly Annotated Cuneiform Corpus (Oracc), it offers a fully searchable edition of all 103 cuneiform lines, linguistically tagged glossaries of the Akkadian vocabulary, and comparative annotations — a working laboratory rather than a static publication.
+[**The Electronic Idrimi**](https://oracc.museum.upenn.edu/aemw/alalakh/idrimi/) is the online companion to Lauinger's _The Labors of Idrimi: Inscribing the Past, Shaping the Present at Late Bronze Age Alalah_ (ANEM 33, Atlanta: SBL Press, 2024). Hosted on the Open Richly Annotated Cuneiform Corpus (Oracc), it offers a fully searchable edition of all 103 cuneiform lines, linguistically tagged glossaries of the Akkadian vocabulary, and comparative annotations — a working laboratory rather than a static publication.
 
 ---
 
@@ -231,6 +231,6 @@ A lower-resolution version of the model is freely available on Sketchfab. Make s
 
 ## A Living Monument
 
-Today the Statue of Idrimi sits in the British Museum, where I photographed it this past March. It remains an unparalleled window into the literature, language, and volatile geopolitics of the Late Bronze Age Levant — and, thanks to projects like *The Electronic Idrimi*, an actively evolving object of study. The exile king's bid for immortality, made and remade across millennia, is still being read.
+Today the Statue of Idrimi sits in the British Museum, where I photographed it this past March. It remains an unparalleled window into the literature, language, and volatile geopolitics of the Late Bronze Age Levant — and, thanks to projects like _The Electronic Idrimi_, an actively evolving object of study. The exile king's bid for immortality, made and remade across millennia, is still being read.
 
-[^1]: James Fraser, "Idrimi, the 3,500-year-old refugee," *British Museum Blog*, [britishmuseum.org/blog/idrimi-3500-year-old-refugee](https://www.britishmuseum.org/blog/idrimi-3500-year-old-refugee).
+[^1]: James Fraser, "Idrimi, the 3,500-year-old refugee," _British Museum Blog_, [britishmuseum.org/blog/idrimi-3500-year-old-refugee](https://www.britishmuseum.org/blog/idrimi-3500-year-old-refugee).

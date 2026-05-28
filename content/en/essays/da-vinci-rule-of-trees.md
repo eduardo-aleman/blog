@@ -3,7 +3,7 @@ title: "Leonardo da Vinci's Rule of Trees"
 description: "How a 500-year-old observation about tree branches reveals a fractal pattern in nature, and what modern science says about it."
 date: 2026-01-27
 tags:
-  - leonardo-da-vinci
+  - leonardo da vinci
   - botany
   - mathematics
   - fractals
@@ -33,8 +33,8 @@ $$D^2 = d_1^2 + d_2^2 + \dots + d_n^2$$
 
 Where:
 
-* **$D$** is the diameter of the parent branch or trunk.
-* **$d_1, d_2, \dots, d_n$** are the diameters of the resulting branches after the split.
+- **$D$** is the diameter of the parent branch or trunk.
+- **$d_1, d_2, \dots, d_n$** are the diameters of the resulting branches after the split.
 
 If a trunk splits into exactly two equal branches, each branch won't be half the thickness of the trunk—instead, their diameters scale down by a factor of roughly $1/\sqrt{2}$ (about 70% of the trunk's thickness) to keep the total area the same. This creates a recursive, **fractal-like structure** that gives trees their organic, balanced look.
 
@@ -42,10 +42,10 @@ If a trunk splits into exactly two equal branches, each branch won't be half the
 
 ## Why Do Trees Grow This Way?
 
-While da Vinci originally came up with this rule as a guide to help artists paint more realistic landscapes, modern scientists have spent years trying to figure out *why* nature adheres to it. Two main schools of thought have emerged:
+While da Vinci originally came up with this rule as a guide to help artists paint more realistic landscapes, modern scientists have spent years trying to figure out _why_ nature adheres to it. Two main schools of thought have emerged:
 
-* **The Hydrological (Vascular) Theory:** Think of a tree as a massive bundle of microscopic drinking straws running from the roots to the leaves. To keep water flowing efficiently without bottlenecks, the total number of straws (and thus the total cross-sectional area) needs to remain constant from the bottom to the top.
-* **The Structural (Wind-Resistance) Theory:** In 2011, physicist Christophe Eloy used wind-tunnel simulations to show that this exact branching ratio is mathematically perfect for resisting wind. It distributes mechanical stress evenly across the tree, keeping branches from easily snapping during heavy storms.
+- **The Hydrological (Vascular) Theory:** Think of a tree as a massive bundle of microscopic drinking straws running from the roots to the leaves. To keep water flowing efficiently without bottlenecks, the total number of straws (and thus the total cross-sectional area) needs to remain constant from the bottom to the top.
+- **The Structural (Wind-Resistance) Theory:** In 2011, physicist Christophe Eloy used wind-tunnel simulations to show that this exact branching ratio is mathematically perfect for resisting wind. It distributes mechanical stress evenly across the tree, keeping branches from easily snapping during heavy storms.
 
 ---
 
@@ -53,7 +53,7 @@ While da Vinci originally came up with this rule as a guide to help artists pain
 
 While da Vinci's rule has been widely used for centuries by painters and modern 3D CGI artists to generate lifelike digital trees, recent science shows it isn't completely perfect:
 
-* **The Exponent Varies:** Real-world measurements show the exponent isn't always a perfect 2. Depending on the tree species, age, and environment, the exponent typically ranges between 1.8 and 2.3.
-* **Micro-Level Breakdown:** A 2023 study published in *PNAS* revealed that the rule actually breaks down at the tree's furthest extremities (the twigs and leaves). At a microscopic level, trees must maintain "hydraulic resistance" to pump water to the very top, meaning the internal vascular structure must contract more than the rule predicts.
+- **The Exponent Varies:** Real-world measurements show the exponent isn't always a perfect 2. Depending on the tree species, age, and environment, the exponent typically ranges between 1.8 and 2.3.
+- **Micro-Level Breakdown:** A 2023 study published in _PNAS_ revealed that the rule actually breaks down at the tree's furthest extremities (the twigs and leaves). At a microscopic level, trees must maintain "hydraulic resistance" to pump water to the very top, meaning the internal vascular structure must contract more than the rule predicts.
 
 So, while it might slightly fail the strict micro-biology test at the very tips of the branches, as a macroscopic rule of thumb for art, physics, and nature-watching, Leonardo's 500-year-old observation remains incredibly brilliant.
