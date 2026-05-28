@@ -19,6 +19,7 @@ keywords:
   - Juegos Píticos
   - Clásico Temprano
 image: "/images/posts/auriga-de-delfos/Auriga_de_Delfos.jpg"
+focal_point: "10% 10%" # X and Y coordinates of the exact focal spot
 image_caption: "La Auriga de Delfos. Foto del autor."
 ---
 
