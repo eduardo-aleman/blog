@@ -2,7 +2,7 @@
 title: "Pieces on the Board: The Cuba Confrontation, May 25–27, 2026"
 subtitle: "Pentagon posture, UN appeal, and the humanitarian dimension"
 date: 2026-05-27
-draft: true
+draft: false
 summary: >
   A three-day window in which the U.S. military posture for an attack on Cuba
   becomes public, Havana takes its case to the UN Security Council, and the
@@ -24,8 +24,8 @@ tags:
   - energy blockade
   - USS Nimitz
   - Caribbean
-image: "/images/posts/cuba-news-analysis-2026-05-27/la_habana_2007.jpg"
-image_caption: "View from the steps of the Havana Capitol."
+image: "/images/posts/cuba-news-analysis-2026-05-27/plaza_havana.jpg"
+image_caption: "José Martí Memorial, located in the Plaza de la Revolución in Havana, Cuba"
 ---
 
 The three days between May 25 and May 27, 2026, did not produce a war. They produced something more characteristic of how modern wars begin: a public inventory of the pieces. Politico, citing a defense official, laid out the Pentagon's regional posture and the timeline pressure on the deployed force. Cuba's foreign minister stood at the United Nations Security Council and read the names of what would be lost. The _New York Times_ described kitchens in Santiago de Cuba where charcoal and Styrofoam have replaced cooking gas. And on Wednesday afternoon, at a Cabinet meeting in the White House, Secretary of State Marco Rubio repeated the formulation that has become this administration's working thesis: "Having a failed state 90 miles from our shores is a threat to the national security of the United States."
