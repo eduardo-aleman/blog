@@ -10,6 +10,7 @@ tags:
   - marguerite-yourcenar
   - reviews
 image: "/images/posts/memoirs-of-hadrian/hadrian_emperor.png"
+focal_point: "10% 10%" # X and Y coordinates of the exact focal spot
 alt: "Bronze bust of the Roman Emperor Hadrian"
 image_caption: "Bronze Head of Hadrian, a rare surviving portrait of the Roman emperor from a larger-than-life-size statue. It is believed to have been part of a statue erected in Roman London (Londinium) to commemorate Hadrian's visit to Britain in AD 122. The bronze sculpture was discovered in 1834 dredged from the River Thames near London Bridge. It is currently on display at the British Museum in London. Photo is my own."
 ---
