@@ -764,3 +764,14 @@
     transition: none;
   }
 }
+
+/* ====== ARTICLE GRID DIVIDERS ====== */
+
+/* Thin rule between stacked essays within the same column.
+   The sibling rule already handles margin-top; border-top
+   sits visually between the two items. */
+.essay-grid-item + .essay-grid-item {
+  margin-top: var(--space-lg);
+  border-top: 1px solid var(--border);
+  padding-top: var(--space-xl);
+}
