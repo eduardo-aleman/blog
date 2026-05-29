@@ -2,7 +2,7 @@
 title: "Pieces on the Board: The Cuba Confrontation, May 25–27, 2026"
 subtitle: "Pentagon posture, UN appeal, and the humanitarian dimension"
 date: 2026-05-27
-draft: false
+draft: true
 summary: >
   A three-day window in which the U.S. military posture for an attack on Cuba
   becomes public, Havana takes its case to the UN Security Council, and the
