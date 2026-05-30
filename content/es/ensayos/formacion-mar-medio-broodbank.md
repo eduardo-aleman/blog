@@ -53,9 +53,4 @@ La comparación con Braudel, recurrente entre los reseñistas, es justa pero tam
 
 ## Ficha bibliográfica
 
-- **Título original:** _The Making of the Middle Sea: A History of the Mediterranean from the Beginning to the Emergence of the Classical World_
-- **Autor:** Cyprian Broodbank
-- **Editorial:** Thames & Hudson
-- **Primera edición:** 2013
-- **Edición revisada:** 2024
-- **Premio:** Wolfson History Prize, 2014
+Broodbank, Cyprian. *The Making of the Middle Sea: A History of the Mediterranean from the Beginning to the Emergence of the Classical World.* Edición revisada. Londres: Thames & Hudson, 2024. Wolfson History Prize, 2014
