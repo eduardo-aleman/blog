@@ -8,6 +8,7 @@ publication: Revista de la Biblioteca Nacional José Martí
 publication_issue: Año XXI, Vol. 71, No. 3 (Septiembre-Diciembre 1979)
 language: es
 country: Cuba
+categories: ["Historia"]
 subject_category:
   - Historia de Cuba
   - Periodismo cubano

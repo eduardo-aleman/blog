@@ -3,6 +3,7 @@ title: "Fray Tomás de Aquino"
 date: 2026-01-28
 summary: "Esta traducción de la obra de Jaime A. Weisheipl combina historia y filosofía para recontextualizar los años formativos de Tomás de Aquino (1224/5-1252). El texto sintetiza sus orígenes, su educación aristotélica en Nápoles, el conflicto y cautiverio familiar en Roccasecca tras unirse a los dominicos —donde redactó sus primeras obras lógicas— y su posterior traslado a París y Colonia como discípulo predilecto de Alberto el Grande."
 description: "Esta traducción de la obra de Jaime A. Weisheipl combina historia y filosofía para recontextualizar los años formativos de Tomás de Aquino (1224/5-1252). El texto sintetiza sus orígenes, su educación aristotélica en Nápoles, el conflicto y cautiverio familiar en Roccasecca tras unirse a los dominicos —donde redactó sus primeras obras lógicas— y su posterior traslado a París y Colonia como discípulo predilecto de Alberto el Grande."
+categories: ["Historia"]
 tags:
   - escolástica
   - filosofía medieval

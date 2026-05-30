@@ -3,6 +3,7 @@ title: "Resumen del libro 'El amanecer de todo: Una nueva historia de la humanid
 date: 2026-02-25
 summary: "Notas y reflecciones capítulo por capítulo del libro de David Graeber y David Wengrow."
 description: "Notas y reflecciones capítulo por capítulo del libro de David Graeber y David Wengrow."
+categories: ["Historia"]
 tags:
   - prehistoria
   - anarquismo

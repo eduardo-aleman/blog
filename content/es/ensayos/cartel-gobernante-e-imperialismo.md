@@ -3,6 +3,7 @@ title: "Cártel gobernante e imperialismo"
 subtitle: "Del Kaiserreich al Tercer Reich, capítulo 1"
 date: 2026-04-25
 author: "Fritz Fischer"
+categories: ["Historia"]
 description: >-
   Capítulo 1 de *Kaiserreich to Third Reich: Elements of Continuity in German
   History, 1871–1945* (Routledge Library Editions: German History). Fischer

@@ -3,6 +3,7 @@ title: "Mensaje a los combatientes del Ejército Revolucionario 26 de Julio"
 date: "2026-05-20"
 summary: Mensaje de Raúl Castro a los combatientes del Segundo Frente Oriental Frank País en el segundo aniversario del desembarco del Granma, donde denuncia la maniobra del Departamento de Estado norteamericano para justificar una intervención militar en Cuba y advierte sobre el triple plan de amenaza de intervención, golpe de Estado y «mediación» destinado a frustrar la revolución cubana en sus momentos finales.
 description: Mensaje de Raúl Castro a los combatientes del Segundo Frente Oriental Frank País en el segundo aniversario del desembarco del Granma, donde denuncia la maniobra del Departamento de Estado norteamericano para justificar una intervención militar en Cuba y advierte sobre el triple plan de amenaza de intervención, golpe de Estado y «mediación» destinado a frustrar la revolución cubana en sus momentos finales.
+categories: ["Historia"]
 tags:
   - Cuba
   - Raúl Castro

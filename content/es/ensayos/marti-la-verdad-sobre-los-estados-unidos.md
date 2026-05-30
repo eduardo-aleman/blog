@@ -4,6 +4,7 @@ date: 2026-05-21T12:00:00-05:00
 author: "José Martí"
 summary: "Texto fundamental de José Martí publicado originalmente en el periódico 'Patria' el 17 de abril de 1894. Una reflexión crítica e imperecedera sobre la sociedad estadounidense y la identidad de Nuestra América."
 description: "Texto fundamental de José Martí publicado originalmente en el periódico 'Patria' el 17 de abril de 1894. Una reflexión crítica e imperecedera sobre la sociedad estadounidense y la identidad de Nuestra América."
+categories: ["Historia"]
 tags: ["José Martí", "Patria", "Nuestra América", "Estados Unidos", "Siglo XIX"]
 image: "/images/posts/marti/Retrato_hecho_en_Nueva_York_1885.jpg"
 focal_point: "10% 30%" # X and Y coordinates of the exact focal spot
