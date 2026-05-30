@@ -16,8 +16,7 @@ image: "/images/posts/walt-whitman/abbildung-von-walt-whitman.jpg"
 focal_point: "10% 10%" # X and Y coordinates of the exact focal spot
 image_caption: "This historical portrait of the seminal American poet **Walt Whitman** is preserved by the Magnus-Hirschfeld-Gesellschaft in Berlin and made available via museum-digital:berlin. Captured through photography or print, the depiction underscores Whitman's enduring legacy both as a literary pioneer and a foundational figure in the history of homosexuality and LGBTQ+ cultural expression. Reflecting the core research and archival mission of the Berlin-based institution, this evocative image is designated under the Public Domain Mark 1.0."
 ---
-<br><br><br><br>
-<div>
+<br><br>
 WHOEVER you are holding me now in hand,<br>
 Without one thing all will be useless,<br>
 I give you fair warning before you attempt me further,<br>
