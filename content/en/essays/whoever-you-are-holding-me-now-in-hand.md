@@ -14,7 +14,7 @@ tags:
 - Poetry
 image: "/images/posts/walt-whitman/abbildung-von-walt-whitman.jpg"
 focal_point: "10% 10%" # X and Y coordinates of the exact focal spot
-image_caption: "This historical portrait of the seminal American poet **Walt Whitman** is preserved by the **Magnus-Hirschfeld-Gesellschaft** in Berlin and made available via *museum-digital:berlin*. Captured through photography or print, the depiction underscores Whitman's enduring legacy both as a literary pioneer and a foundational figure in the history of homosexuality and LGBTQ+ cultural expression. Reflecting the core research and archival mission of the Berlin-based institution, this evocative image is designated under the **Public Domain Mark 1.0**, ensuring it remains completely free of known copyright restrictions and open for public appreciation."
+image_caption: "This historical portrait of the seminal American poet **Walt Whitman** is preserved by the Magnus-Hirschfeld-Gesellschaft in Berlin and made available via museum-digital:berlin. Captured through photography or print, the depiction underscores Whitman's enduring legacy both as a literary pioneer and a foundational figure in the history of homosexuality and LGBTQ+ cultural expression. Reflecting the core research and archival mission of the Berlin-based institution, this evocative image is designated under the Public Domain Mark 1.0."
 ---
 
 WHOEVER you are holding me now in hand,
