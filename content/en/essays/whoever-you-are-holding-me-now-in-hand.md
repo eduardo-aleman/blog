@@ -68,10 +68,8 @@ Nor will my poems do good only, they will do just as much evil, perhaps<br>
 For all is useless without that which you may guess at many times and not<br>
 &nbsp;&nbsp;&nbsp;&nbsp;hit, that which I hinted at;<br>
 Therefore release me and depart on your way.
- 
-</div>
 
----
+</div>
 
 ## Source
 
