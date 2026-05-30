@@ -13,6 +13,9 @@ tags:
 - Petrarquismo
 - Soneto
 - Poesía española
+image: "/images/posts/garcilaso-de-la-vega-poeta/garcilaso-de_la_vega_estatua_toledo.jpg"
+focal_point: "10% 10%" # X and Y coordinates of the exact focal spot
+image_caption: "Estatua de bronce del soldado y poeta español Garcilaso de la Vega, situada en Toledo, España. El monumento se encuentra en la Plaza de San Román, en el casco antiguo de Toledo. Garcilaso de la Vega (c. 1501–1536) fue una figura destacada del Siglo de Oro español, conocido por introducir las formas poéticas del Renacimiento italiano en la literatura española. La estatua fue realizada por Julio Martín de Vidales. Se le representa tanto como poeta como soldado, sosteniendo a menudo una pluma y una espada para simbolizar su doble faceta."
 ---
 
 <div>
