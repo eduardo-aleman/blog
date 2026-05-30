@@ -67,10 +67,7 @@ Nor will my poems do good only, they will do just as much evil, perhaps<br>
 &nbsp;&nbsp;&nbsp;&nbsp;more,<br>
 For all is useless without that which you may guess at many times and not<br>
 &nbsp;&nbsp;&nbsp;&nbsp;hit, that which I hinted at;<br>
-Therefore release me and depart on your way.
-
-</div>
-
-## Source
+Therefore release me and depart on your way.<br><br>
 
 Whitman, Walt. "Whoever You Are Holding Me Now in Hand." In *Leaves of Grass*. Philadelphia: David McKay, 1891–92. *The Walt Whitman Archive*. https://whitmanarchive.org/item/ppp.00707_01118.
+</div>
