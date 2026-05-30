@@ -1,6 +1,5 @@
 ---
-title: "Intervention and Occupation"
-subtitle: "Chapter 4 of *Cuba and the United States: Ties of Singular Intimacy*"
+title: "Intervention and Occupation: Chapter 4 of Cuba and the United States: Ties of Singular Intimacy"
 author: "Louis A. Pérez Jr."
 date: 2026-05-09
 summary: "How the United States transformed a Cuban war of national liberation into a war of conquest, culminating in the Platt Amendment and the institutionalization of U.S. hegemony over the island."
