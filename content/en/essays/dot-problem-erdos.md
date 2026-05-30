@@ -30,23 +30,23 @@ In May 2026, an AI-generated proof overturned the leading conjecture about the p
 
 Paul Erdős was one of the most prolific mathematicians of the twentieth century. Living largely out of a suitcase, he traveled continuously between universities, collaborating with hundreds of researchers and posing problems that would shape entire fields. Among them was a deceptively innocent question he included in a 1946 paper in the *American Mathematical Monthly*.
 
-The strongest known constructions for decades came from variants of the square grid. A grid of $\sqrt{n} \times \sqrt{n}$ points, suitably scaled, produces roughly
+The strongest known constructions for decades came from variants of the square grid. A grid of \(\sqrt{n} \times \sqrt{n}\) points, suitably scaled, produces roughly
 
-$$
+\[
 n^{1 + c / \log\log n}
-$$
+\]
 
-unit-distance pairs for a suitable constant $c$. Because the extra term in the exponent shrinks toward zero as $n$ grows, mathematicians interpreted this as evidence that the true answer might be only marginally larger than linear.
+unit-distance pairs for a suitable constant \(c\). Because the extra term in the exponent shrinks toward zero as \(n\) grows, mathematicians interpreted this as evidence that the true answer might be only marginally larger than linear.
 
-Erdős conjectured that no configuration could do substantially better. More precisely, he proposed that the maximum number of unit-distance pairs among $n$ points in the plane is bounded above by
+Erdős conjectured that no configuration could do substantially better. More precisely, he proposed that the maximum number of unit-distance pairs among \(n\) points in the plane is bounded above by
 
-$$
+\[
 n^{1 + o(1)},
-$$
+\]
 
-meaning the exponent approaches $1$ as $n$ grows. In informal terms, the conjecture asserted that grid-like constructions were essentially optimal. The precise details might change, but no radically more efficient arrangement should exist.
+meaning the exponent approaches \(1\) as \(n\) grows. In informal terms, the conjecture asserted that grid-like constructions were essentially optimal. The precise details might change, but no radically more efficient arrangement should exist.
 
-The conjecture became one of the most famous problems in combinatorial geometry. In *Research Problems in Discrete Geometry* (2005), Peter Brass, William Moser, and János Pach described it as possibly the best-known and simplest-to-explain problem in the field. Erdős attached a cash prize to its resolution — first \$300 in 1982, later raised to \$500 — and remained convinced throughout his life that the upper bound was true.
+The conjecture became one of the most famous problems in combinatorial geometry. In *Research Problems in Discrete Geometry* (2005), Peter Brass, William Moser, and János Pach described it as possibly the best-known and simplest-to-explain problem in the field. Erdős attached a cash prize to its resolution — first \\$300 in 1982, later raised to \\$500 — and remained convinced throughout his life that the upper bound was true.
 
 ---
 
@@ -54,13 +54,13 @@ The conjecture became one of the most famous problems in combinatorial geometry.
 
 The difficulty of the problem is not obvious.
 
-On the one hand, mathematicians could prove meaningful upper bounds. The strongest long-standing result came from Joel Spencer, Endre Szemerédi, and William Trotter in 1984, who showed that the number of unit-distance pairs among $n$ points can never exceed
+On the one hand, mathematicians could prove meaningful upper bounds. The strongest long-standing result came from Joel Spencer, Endre Szemerédi, and William Trotter in 1984, who showed that the number of unit-distance pairs among \(n\) points can never exceed
 
-$$
+\[
 O\!\left(n^{4/3}\right).
-$$
+\]
 
-No matter how cleverly the points are arranged, the number of unit-distance pairs grows more slowly than $n^{4/3}$.
+No matter how cleverly the points are arranged, the number of unit-distance pairs grows more slowly than \(n^{4/3}\).
 
 On the other hand, nobody could find constructions approaching that upper bound. The best known examples remained remarkably close to the old grid construction. The enormous gap between the lower and upper bounds became one of the central mysteries of combinatorial geometry.
 
@@ -76,19 +76,19 @@ The new result does not determine the exact growth rate of the unit-distance fun
 
 Specifically, the proof constructs infinitely many point configurations whose number of unit-distance pairs grows at least as
 
-$$
+\[
 n^{1+\delta}
-$$
+\]
 
-for some fixed positive constant $\delta$.
+for some fixed positive constant \(\delta\).
 
-This is a fundamentally different kind of growth from the classical grid construction. Rather than gaining only a slowly vanishing logarithmic improvement, the new construction achieves a genuine *polynomial* improvement — the exponent exceeds $1$ by a fixed amount that does not shrink as $n$ grows.
+This is a fundamentally different kind of growth from the classical grid construction. Rather than gaining only a slowly vanishing logarithmic improvement, the new construction achieves a genuine *polynomial* improvement — the exponent exceeds \(1\) by a fixed amount that does not shrink as \(n\) grows.
 
-It is worth being precise about that constant. The explicit value of $\delta$ that the human-verified write-up extracts is astonishingly small — on the order of $10^{-38}$ — and the authors make no attempt to optimize it. The size is beside the point. Any *fixed* positive exponent, however tiny, is enough to demonstrate that the long-standing conjecture cannot be correct. The result is qualitative, not quantitative: it changes the shape of the answer, not merely a number.
+It is worth being precise about that constant. The explicit value of \(\delta\) that the human-verified write-up extracts is astonishingly small — on the order of \(10^{-38}\) — and the authors make no attempt to optimize it. The size is beside the point. Any *fixed* positive exponent, however tiny, is enough to demonstrate that the long-standing conjecture cannot be correct. The result is qualitative, not quantitative: it changes the shape of the answer, not merely a number.
 
 Perhaps the most surprising aspect of the proof is the mathematics behind it. The successful construction does not arise from geometry in any familiar sense. It emerges from **algebraic number theory**, a branch of mathematics concerned with the arithmetic structure of number fields and the behavior of prime numbers within them.
 
-The classical grid construction can itself be read in these terms: it amounts to counting points of bounded size in the Gaussian integers $\mathbb{Z}[i]$, where a number with many prime factors congruent to $1 \bmod 4$ can be written as a sum of two squares in many ways — and each such representation is a unit distance. The new idea is to replace $\mathbb{Q}(i)$ with a tower of larger and larger number fields $L(i)$, where $L$ is totally real and its degree grows without bound. Drawing on the **Golod–Shafarevich theorem** (developed in the 1960s to study class field towers) and later work by Farshid Hajir and Christian Maire on number fields with controlled ramification, the proof produces exponentially many "unit-length" algebraic numbers, then projects them down into the ordinary plane.
+The classical grid construction can itself be read in these terms: it amounts to counting points of bounded size in the Gaussian integers \(\mathbb{Z}[i]\), where a number with many prime factors congruent to \(1 \bmod 4\) can be written as a sum of two squares in many ways — and each such representation is a unit distance. The new idea is to replace \(\mathbb{Q}(i)\) with a tower of larger and larger number fields \(L(i)\), where \(L\) is totally real and its degree grows without bound. Drawing on the **Golod–Shafarevich theorem** (developed in the 1960s to study class field towers) and later work by Farshid Hajir and Christian Maire on number fields with controlled ramification, the proof produces exponentially many "unit-length" algebraic numbers, then projects them down into the ordinary plane.
 
 These techniques had almost no prior connection to the unit distance problem. For decades mathematicians searched for better *geometric* constructions. The breakthrough came from an entirely different direction.
 
@@ -102,7 +102,7 @@ A group of nine external mathematicians — including Noga Alon, Thomas Bloom, t
 
 Their assessments are worth reading carefully, because they are more nuanced than the headlines suggest.
 
-Gowers wrote that if a human had submitted the paper to a top journal and he had been asked for a quick opinion, he would have recommended acceptance without hesitation — and that no previous AI-generated proof had come close to that bar. Shankar called it "a clean execution of a very beautiful idea," adding that the result demonstrates AI models can have "original ingenious ideas, and then carry them out to fruition."
+Gowers wrote that if a human had submitted the paper to a top journal and he had been asked for a quick opinion, he would have recommended acceptance without hesitation — and that no previous AI-generated proof had come close to that bar. Shankar called it "a clean execution of a very beautiful idea," adding that the result demonstrates AI models can have "original ingenious ideas, and then carrying them out to fruition."
 
 But several of the verifiers push back on the most dramatic interpretation. Bloom observes that, with hindsight, the construction is "a natural, albeit highly non-trivial, generalisation" of Erdős's own grid argument — the reason no one found it was a confluence of unlikely circumstances: you needed someone willing to spend serious time *disproving* a conjecture nearly everyone believed true, willing to bet on exotic number fields, and fluent in the precise corner of class field theory required. The AI met all of those conditions at once, mainly by being patient and unbiased rather than by being brilliant in a way no human could be.
 
@@ -120,15 +120,15 @@ Disproving Erdős's conjecture is not the same as solving the planar unit distan
 
 We now know that the maximum number of unit-distance pairs grows at least as
 
-$$
+\[
 n^{1+\delta}
-$$
+\]
 
-for some positive constant $\delta$. At the same time, the strongest known upper bound remains
+for some positive constant \(\delta\). At the same time, the strongest known upper bound remains
 
-$$
+\[
 O\!\left(n^{4/3}\right),
-$$
+\]
 
 the 1984 result of Spencer, Szemerédi, and Trotter. A substantial gap therefore remains between what is known to be achievable and what is known to be impossible.
 
@@ -164,4 +164,6 @@ The primary materials are publicly available:
 * [**Companion remarks by external mathematicians**](https://cdn.openai.com/pdf/74c24085-19b0-4534-9c90-465b8e29ad73/unit-distance-remarks.pdf) — a human-verified, simplified proof followed by individual reflections from all nine reviewers.
 * [**An abridged reasoning transcript**](https://cdn.openai.com/pdf/1625eff6-5ac1-40d8-b1db-5d5cf925de8b/unit-distance-cot.pdf) — a rare glimpse into part of the model's problem-solving process.
 
-The planar unit distance problem remains open. But after nearly eighty years, mathematicians know something they did not know before: the square grid is not the end of the story.
+The planar unit distance problem remains open. But after nearly eighty years, mathematicians know something they did not know before:
+
+the square grid is not the end of the story.
