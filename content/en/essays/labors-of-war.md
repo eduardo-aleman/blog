@@ -6,6 +6,7 @@ tags:
   - war
   - globalization
 image: /images/posts/labors-of-war/bomber_ukraine.jpg
+categories: ["Opinion"]
 ---
 
 History, as the saying goes, is in the eye of the beholder. The Persians certainly did not experience the Macedonian conquest—or the relentless advance of Alexander's phalanxes—the same way those back in Macedon did. When Persepolis burned on the orders of a drunken Alexander, the Persian Empire collapsed for good, leaving thousands massacred, enslaved, or displaced. The legends of assimilation—of an Alexander who respected native customs or grew indignant at the desecration of Darius’s tomb—pale in comparison to the devastation that marked his march to the Ganges. However visionary his ambitions, Alexander’s legacy remains inextricably tied to the cruelty of a ruthless megalomaniac.

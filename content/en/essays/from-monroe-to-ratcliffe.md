@@ -3,7 +3,7 @@ title: "From Monroe to Ratcliffe: Cuba and the United States"
 date: 2026-05-18
 summary: "As the Trump administration tightens its pressure on Havana in 2026 — sanctions, an oil blockade, a surprise visit by the CIA director — this essay traces the long arc behind the standoff: from the Monroe Doctrine through the Platt Amendment to Batista and the revolution. The patterns in today's headlines are as old as the relationship itself."
 categories:
-  - editorial
+  - History
 tags:
   [
     "Cuba",

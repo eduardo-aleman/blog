@@ -2,6 +2,8 @@
 title: "Reversing Watergate: The Trump–DOJ Tax Settlement"
 date: 2026-05-23
 draft: false
+categories:
+  - Opinion
 description: >
   How a $1.776 billion settlement between the Department of Justice and
   President Trump dismantled post-Watergate tax accountability and redirected

@@ -9,7 +9,7 @@ tags:
   - Latin America
   - Trump administration
 categories:
-  - Editorial
+  - Opinion
 summary: "A federal indictment of Cuba's 94-year-old former president lands on the anniversary of the end of US military occupation. It is both a real symbolic blow to the Cuban regime and a piece of carefully staged political theater. Reading the difference matters for assessing what comes next."
 image: "/images/posts/raul-castro-indictment/raul_castro_obama_habana.jpg"
 image_caption: "Historic meeting between U.S. President Barack Obama and Cuban President Raúl Castro at the Palace of the Revolution in Havana, Cuba, on March 21, 2016. This visit marked the first time a sitting U.S. president had visited Cuba in 88 years, symbolizing a significant attempt to normalize relations between the two countries."

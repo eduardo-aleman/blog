@@ -8,6 +8,7 @@ publication: "Department of State Publication 7171"
 series: "Inter-American Series 66"
 publisher: "Office of Public Services, Bureau of Public Affairs"
 released: "April 1961"
+categories: ["History"]
 tags:
   [
     "history",
