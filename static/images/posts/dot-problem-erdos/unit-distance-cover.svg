@@ -1,0 +1,241 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Unit distance problem — square grid versus algebraic construction</title>
+  <desc>Two panels side by side. Left: the classical square grid construction for unit distances, shown in amber. Right: the new algebraic construction that surpasses it, shown in teal with denser connections.</desc>
+
+  <defs>
+    <style>
+      .bg-left  { fill: #FAEEDA; }
+      .bg-right { fill: #E1F5EE; }
+      .bg-full  { fill: #F7F5EE; }
+      .grid-line { stroke: #E8D9B8; stroke-width: 0.8; }
+      .unit-edge-old { stroke: #BA7517; stroke-width: 1.6; }
+      .unit-edge-new { stroke: #0F6E56; stroke-width: 1.6; }
+      .unit-edge-new-dim { stroke: #0F6E56; stroke-width: 1.0; opacity: 0.4; }
+      .dot-old { fill: #BA7517; }
+      .dot-new { fill: #0F6E56; }
+      .badge-old-bg   { fill: #FAEEDA; stroke: #BA7517; stroke-width: 1.2; }
+      .badge-new-bg   { fill: #E1F5EE; stroke: #0F6E56; stroke-width: 1.2; }
+      .badge-old-text { fill: #633806; font-family: Georgia, serif; font-size: 22px; }
+      .badge-new-text { fill: #085041; font-family: Georgia, serif; font-size: 22px; }
+      .divider  { stroke: #B4B2A9; stroke-width: 1.5; stroke-dasharray: 6 5; }
+      .caption  { fill: #888780; font-family: Georgia, serif; font-size: 19px; }
+      .heading  { fill: #2C2C2A; font-family: Georgia, serif; font-size: 28px; font-weight: normal; letter-spacing: 0.02em; }
+    </style>
+  </defs>
+
+  <!-- Full background -->
+  <rect width="1200" height="630" fill="#F7F5EE"/>
+
+  <!-- Left panel tint -->
+  <rect x="0" y="0" width="594" height="630" fill="#FFFBF2"/>
+  <!-- Right panel tint -->
+  <rect x="606" y="0" width="594" height="630" fill="#F0FAF5"/>
+
+  <!-- ── LEFT PANEL: Square grid ── -->
+  <!-- Grid guide lines (very faint) -->
+  <line x1="80"  y1="100" x2="80"  y2="530" class="grid-line"/>
+  <line x1="176" y1="100" x2="176" y2="530" class="grid-line"/>
+  <line x1="272" y1="100" x2="272" y2="530" class="grid-line"/>
+  <line x1="368" y1="100" x2="368" y2="530" class="grid-line"/>
+  <line x1="464" y1="100" x2="464" y2="530" class="grid-line"/>
+  <line x1="60"  y1="120" x2="530" y2="120" class="grid-line"/>
+  <line x1="60"  y1="216" x2="530" y2="216" class="grid-line"/>
+  <line x1="60"  y1="312" x2="530" y2="312" class="grid-line"/>
+  <line x1="60"  y1="408" x2="530" y2="408" class="grid-line"/>
+  <line x1="60"  y1="504" x2="530" y2="504" class="grid-line"/>
+
+  <!-- Horizontal unit edges -->
+  <line x1="80" y1="120" x2="176" y2="120" class="unit-edge-old" opacity="0.8"/>
+  <line x1="176" y1="120" x2="272" y2="120" class="unit-edge-old" opacity="0.8"/>
+  <line x1="272" y1="120" x2="368" y2="120" class="unit-edge-old" opacity="0.8"/>
+  <line x1="368" y1="120" x2="464" y2="120" class="unit-edge-old" opacity="0.8"/>
+  <line x1="80" y1="216" x2="176" y2="216" class="unit-edge-old" opacity="0.8"/>
+  <line x1="176" y1="216" x2="272" y2="216" class="unit-edge-old" opacity="0.8"/>
+  <line x1="272" y1="216" x2="368" y2="216" class="unit-edge-old" opacity="0.8"/>
+  <line x1="368" y1="216" x2="464" y2="216" class="unit-edge-old" opacity="0.8"/>
+  <line x1="80" y1="312" x2="176" y2="312" class="unit-edge-old" opacity="0.8"/>
+  <line x1="176" y1="312" x2="272" y2="312" class="unit-edge-old" opacity="0.8"/>
+  <line x1="272" y1="312" x2="368" y2="312" class="unit-edge-old" opacity="0.8"/>
+  <line x1="368" y1="312" x2="464" y2="312" class="unit-edge-old" opacity="0.8"/>
+  <line x1="80" y1="408" x2="176" y2="408" class="unit-edge-old" opacity="0.8"/>
+  <line x1="176" y1="408" x2="272" y2="408" class="unit-edge-old" opacity="0.8"/>
+  <line x1="272" y1="408" x2="368" y2="408" class="unit-edge-old" opacity="0.8"/>
+  <line x1="368" y1="408" x2="464" y2="408" class="unit-edge-old" opacity="0.8"/>
+  <line x1="80" y1="504" x2="176" y2="504" class="unit-edge-old" opacity="0.8"/>
+  <line x1="176" y1="504" x2="272" y2="504" class="unit-edge-old" opacity="0.8"/>
+  <line x1="272" y1="504" x2="368" y2="504" class="unit-edge-old" opacity="0.8"/>
+  <line x1="368" y1="504" x2="464" y2="504" class="unit-edge-old" opacity="0.8"/>
+
+  <!-- Vertical unit edges -->
+  <line x1="80"  y1="120" x2="80"  y2="216" class="unit-edge-old" opacity="0.8"/>
+  <line x1="80"  y1="216" x2="80"  y2="312" class="unit-edge-old" opacity="0.8"/>
+  <line x1="80"  y1="312" x2="80"  y2="408" class="unit-edge-old" opacity="0.8"/>
+  <line x1="80"  y1="408" x2="80"  y2="504" class="unit-edge-old" opacity="0.8"/>
+  <line x1="176" y1="120" x2="176" y2="216" class="unit-edge-old" opacity="0.8"/>
+  <line x1="176" y1="216" x2="176" y2="312" class="unit-edge-old" opacity="0.8"/>
+  <line x1="176" y1="312" x2="176" y2="408" class="unit-edge-old" opacity="0.8"/>
+  <line x1="176" y1="408" x2="176" y2="504" class="unit-edge-old" opacity="0.8"/>
+  <line x1="272" y1="120" x2="272" y2="216" class="unit-edge-old" opacity="0.8"/>
+  <line x1="272" y1="216" x2="272" y2="312" class="unit-edge-old" opacity="0.8"/>
+  <line x1="272" y1="312" x2="272" y2="408" class="unit-edge-old" opacity="0.8"/>
+  <line x1="272" y1="408" x2="272" y2="504" class="unit-edge-old" opacity="0.8"/>
+  <line x1="368" y1="120" x2="368" y2="216" class="unit-edge-old" opacity="0.8"/>
+  <line x1="368" y1="216" x2="368" y2="312" class="unit-edge-old" opacity="0.8"/>
+  <line x1="368" y1="312" x2="368" y2="408" class="unit-edge-old" opacity="0.8"/>
+  <line x1="368" y1="408" x2="368" y2="504" class="unit-edge-old" opacity="0.8"/>
+  <line x1="464" y1="120" x2="464" y2="216" class="unit-edge-old" opacity="0.8"/>
+  <line x1="464" y1="216" x2="464" y2="312" class="unit-edge-old" opacity="0.8"/>
+  <line x1="464" y1="312" x2="464" y2="408" class="unit-edge-old" opacity="0.8"/>
+  <line x1="464" y1="408" x2="464" y2="504" class="unit-edge-old" opacity="0.8"/>
+
+  <!-- Grid dots -->
+  <circle cx="80"  cy="120" r="7" class="dot-old"/>
+  <circle cx="176" cy="120" r="7" class="dot-old"/>
+  <circle cx="272" cy="120" r="7" class="dot-old"/>
+  <circle cx="368" cy="120" r="7" class="dot-old"/>
+  <circle cx="464" cy="120" r="7" class="dot-old"/>
+  <circle cx="80"  cy="216" r="7" class="dot-old"/>
+  <circle cx="176" cy="216" r="7" class="dot-old"/>
+  <circle cx="272" cy="216" r="7" class="dot-old"/>
+  <circle cx="368" cy="216" r="7" class="dot-old"/>
+  <circle cx="464" cy="216" r="7" class="dot-old"/>
+  <circle cx="80"  cy="312" r="7" class="dot-old"/>
+  <circle cx="176" cy="312" r="7" class="dot-old"/>
+  <circle cx="272" cy="312" r="7" class="dot-old"/>
+  <circle cx="368" cy="312" r="7" class="dot-old"/>
+  <circle cx="464" cy="312" r="7" class="dot-old"/>
+  <circle cx="80"  cy="408" r="7" class="dot-old"/>
+  <circle cx="176" cy="408" r="7" class="dot-old"/>
+  <circle cx="272" cy="408" r="7" class="dot-old"/>
+  <circle cx="368" cy="408" r="7" class="dot-old"/>
+  <circle cx="464" cy="408" r="7" class="dot-old"/>
+  <circle cx="80"  cy="504" r="7" class="dot-old"/>
+  <circle cx="176" cy="504" r="7" class="dot-old"/>
+  <circle cx="272" cy="504" r="7" class="dot-old"/>
+  <circle cx="368" cy="504" r="7" class="dot-old"/>
+  <circle cx="464" cy="504" r="7" class="dot-old"/>
+
+  <!-- Left badge -->
+  <rect x="60" y="554" width="438" height="38" rx="6" class="badge-old-bg"/>
+  <text x="279" y="579" text-anchor="middle" class="badge-old-text">Square grid — Erdős, 1946</text>
+
+  <!-- ── DIVIDER ── -->
+  <line x1="600" y1="30" x2="600" y2="600" class="divider"/>
+
+  <!-- ── RIGHT PANEL: Algebraic construction ── -->
+  <!-- Edges — triangular lattice with extra diagonals, suggesting higher connectivity -->
+  <!-- Row 1 to Row 2 -->
+  <line x1="736" y1="140" x2="832" y2="140" class="unit-edge-new" opacity="0.85"/>
+  <line x1="832" y1="140" x2="928" y2="140" class="unit-edge-new" opacity="0.85"/>
+  <line x1="928" y1="140" x2="1024" y2="140" class="unit-edge-new" opacity="0.85"/>
+  <line x1="736" y1="140" x2="688" y2="223" class="unit-edge-new" opacity="0.85"/>
+  <line x1="736" y1="140" x2="784" y2="223" class="unit-edge-new" opacity="0.85"/>
+  <line x1="832" y1="140" x2="784" y2="223" class="unit-edge-new" opacity="0.85"/>
+  <line x1="832" y1="140" x2="880" y2="223" class="unit-edge-new" opacity="0.85"/>
+  <line x1="928" y1="140" x2="880" y2="223" class="unit-edge-new" opacity="0.85"/>
+  <line x1="928" y1="140" x2="976" y2="223" class="unit-edge-new" opacity="0.85"/>
+  <line x1="1024" y1="140" x2="976" y2="223" class="unit-edge-new" opacity="0.85"/>
+  <line x1="1024" y1="140" x2="1072" y2="223" class="unit-edge-new" opacity="0.85"/>
+  <!-- Extra diagonals row1→row2 -->
+  <line x1="736" y1="140" x2="880" y2="223" class="unit-edge-new" opacity="0.3"/>
+  <line x1="1024" y1="140" x2="880" y2="223" class="unit-edge-new" opacity="0.3"/>
+
+  <!-- Row 2 horizontal -->
+  <line x1="688" y1="223" x2="784" y2="223" class="unit-edge-new" opacity="0.85"/>
+  <line x1="784" y1="223" x2="880" y2="223" class="unit-edge-new" opacity="0.85"/>
+  <line x1="880" y1="223" x2="976" y2="223" class="unit-edge-new" opacity="0.85"/>
+  <line x1="976" y1="223" x2="1072" y2="223" class="unit-edge-new" opacity="0.85"/>
+
+  <!-- Row 2 to Row 3 -->
+  <line x1="688" y1="223" x2="640" y2="306" class="unit-edge-new" opacity="0.85"/>
+  <line x1="688" y1="223" x2="736" y2="306" class="unit-edge-new" opacity="0.85"/>
+  <line x1="784" y1="223" x2="736" y2="306" class="unit-edge-new" opacity="0.85"/>
+  <line x1="784" y1="223" x2="832" y2="306" class="unit-edge-new" opacity="0.85"/>
+  <line x1="880" y1="223" x2="832" y2="306" class="unit-edge-new" opacity="0.85"/>
+  <line x1="880" y1="223" x2="928" y2="306" class="unit-edge-new" opacity="0.85"/>
+  <line x1="976" y1="223" x2="928" y2="306" class="unit-edge-new" opacity="0.85"/>
+  <line x1="976" y1="223" x2="1024" y2="306" class="unit-edge-new" opacity="0.85"/>
+  <line x1="1072" y1="223" x2="1024" y2="306" class="unit-edge-new" opacity="0.85"/>
+  <line x1="1072" y1="223" x2="1120" y2="306" class="unit-edge-new" opacity="0.85"/>
+  <!-- Extra diagonals -->
+  <line x1="688" y1="223" x2="832" y2="306" class="unit-edge-new" opacity="0.28"/>
+  <line x1="976" y1="223" x2="832" y2="306" class="unit-edge-new" opacity="0.28"/>
+  <line x1="976" y1="223" x2="1120" y2="306" class="unit-edge-new" opacity="0.28"/>
+
+  <!-- Row 3 horizontal -->
+  <line x1="640" y1="306" x2="736" y2="306" class="unit-edge-new" opacity="0.85"/>
+  <line x1="736" y1="306" x2="832" y2="306" class="unit-edge-new" opacity="0.85"/>
+  <line x1="832" y1="306" x2="928" y2="306" class="unit-edge-new" opacity="0.85"/>
+  <line x1="928" y1="306" x2="1024" y2="306" class="unit-edge-new" opacity="0.85"/>
+  <line x1="1024" y1="306" x2="1120" y2="306" class="unit-edge-new" opacity="0.85"/>
+
+  <!-- Row 3 to Row 4 -->
+  <line x1="640" y1="306" x2="688" y2="389" class="unit-edge-new" opacity="0.85"/>
+  <line x1="736" y1="306" x2="688" y2="389" class="unit-edge-new" opacity="0.85"/>
+  <line x1="736" y1="306" x2="784" y2="389" class="unit-edge-new" opacity="0.85"/>
+  <line x1="832" y1="306" x2="784" y2="389" class="unit-edge-new" opacity="0.85"/>
+  <line x1="832" y1="306" x2="880" y2="389" class="unit-edge-new" opacity="0.85"/>
+  <line x1="928" y1="306" x2="880" y2="389" class="unit-edge-new" opacity="0.85"/>
+  <line x1="928" y1="306" x2="976" y2="389" class="unit-edge-new" opacity="0.85"/>
+  <line x1="1024" y1="306" x2="976" y2="389" class="unit-edge-new" opacity="0.85"/>
+  <line x1="1024" y1="306" x2="1072" y2="389" class="unit-edge-new" opacity="0.85"/>
+  <line x1="1120" y1="306" x2="1072" y2="389" class="unit-edge-new" opacity="0.85"/>
+  <!-- Extra diagonals -->
+  <line x1="640" y1="306" x2="784" y2="389" class="unit-edge-new" opacity="0.25"/>
+  <line x1="928" y1="306" x2="784" y2="389" class="unit-edge-new" opacity="0.25"/>
+  <line x1="1120" y1="306" x2="976" y2="389" class="unit-edge-new" opacity="0.25"/>
+
+  <!-- Row 4 horizontal -->
+  <line x1="688" y1="389" x2="784" y2="389" class="unit-edge-new" opacity="0.85"/>
+  <line x1="784" y1="389" x2="880" y2="389" class="unit-edge-new" opacity="0.85"/>
+  <line x1="880" y1="389" x2="976" y2="389" class="unit-edge-new" opacity="0.85"/>
+  <line x1="976" y1="389" x2="1072" y2="389" class="unit-edge-new" opacity="0.85"/>
+
+  <!-- Row 4 to Row 5 -->
+  <line x1="688" y1="389" x2="736" y2="472" class="unit-edge-new" opacity="0.85"/>
+  <line x1="784" y1="389" x2="736" y2="472" class="unit-edge-new" opacity="0.85"/>
+  <line x1="784" y1="389" x2="832" y2="472" class="unit-edge-new" opacity="0.85"/>
+  <line x1="880" y1="389" x2="832" y2="472" class="unit-edge-new" opacity="0.85"/>
+  <line x1="880" y1="389" x2="928" y2="472" class="unit-edge-new" opacity="0.85"/>
+  <line x1="976" y1="389" x2="928" y2="472" class="unit-edge-new" opacity="0.85"/>
+  <line x1="976" y1="389" x2="1024" y2="472" class="unit-edge-new" opacity="0.85"/>
+  <line x1="1072" y1="389" x2="1024" y2="472" class="unit-edge-new" opacity="0.85"/>
+
+  <!-- Row 5 horizontal -->
+  <line x1="736" y1="472" x2="832" y2="472" class="unit-edge-new" opacity="0.85"/>
+  <line x1="832" y1="472" x2="928" y2="472" class="unit-edge-new" opacity="0.85"/>
+  <line x1="928" y1="472" x2="1024" y2="472" class="unit-edge-new" opacity="0.85"/>
+
+  <!-- Right panel dots -->
+  <circle cx="736"  cy="140" r="7" class="dot-new"/>
+  <circle cx="832"  cy="140" r="7" class="dot-new"/>
+  <circle cx="928"  cy="140" r="7" class="dot-new"/>
+  <circle cx="1024" cy="140" r="7" class="dot-new"/>
+  <circle cx="688"  cy="223" r="7" class="dot-new"/>
+  <circle cx="784"  cy="223" r="7" class="dot-new"/>
+  <circle cx="880"  cy="223" r="7" class="dot-new"/>
+  <circle cx="976"  cy="223" r="7" class="dot-new"/>
+  <circle cx="1072" cy="223" r="7" class="dot-new"/>
+  <circle cx="640"  cy="306" r="7" class="dot-new"/>
+  <circle cx="736"  cy="306" r="7" class="dot-new"/>
+  <circle cx="832"  cy="306" r="7" class="dot-new"/>
+  <circle cx="928"  cy="306" r="7" class="dot-new"/>
+  <circle cx="1024" cy="306" r="7" class="dot-new"/>
+  <circle cx="1120" cy="306" r="7" class="dot-new"/>
+  <circle cx="688"  cy="389" r="7" class="dot-new"/>
+  <circle cx="784"  cy="389" r="7" class="dot-new"/>
+  <circle cx="880"  cy="389" r="7" class="dot-new"/>
+  <circle cx="976"  cy="389" r="7" class="dot-new"/>
+  <circle cx="1072" cy="389" r="7" class="dot-new"/>
+  <circle cx="736"  cy="472" r="7" class="dot-new"/>
+  <circle cx="832"  cy="472" r="7" class="dot-new"/>
+  <circle cx="928"  cy="472" r="7" class="dot-new"/>
+  <circle cx="1024" cy="472" r="7" class="dot-new"/>
+
+  <!-- Right badge -->
+  <rect x="662" y="554" width="476" height="38" rx="6" class="badge-new-bg"/>
+  <text x="900" y="579" text-anchor="middle" class="badge-new-text">Algebraic construction — surpasses the grid</text>
+
+  <!-- Bottom caption -->
+  <text x="600" y="618" text-anchor="middle" class="caption">Each edge connects two points exactly one unit apart</text>
+</svg>
