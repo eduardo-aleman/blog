@@ -4,6 +4,7 @@ date: 2026-05-30
 draft: false
 math: true
 description: "A question simple enough to explain to a child — how many pairs of dots can be exactly one unit apart? — resisted mathematicians for nearly eighty years. In 2026, an AI-generated proof overturned the leading conjecture and revealed an unexpected connection between geometry and algebraic number theory."
+summary: "A question simple enough to explain to a child — how many pairs of dots can be exactly one unit apart? — resisted mathematicians for nearly eighty years. In 2026, an AI-generated proof overturned the leading conjecture and revealed an unexpected connection between geometry and algebraic number theory."
 tags: ["mathematics", "artificial intelligence", "Paul Erdős", "combinatorics", "geometry", "number theory"]
 categories: ["Science", "Artificial Intelligence"]
 image: "/images/posts/dot-problem-erdos/unit-distance-cover.svg"
@@ -163,6 +164,4 @@ The primary materials are publicly available:
 * [**Companion remarks by external mathematicians**](https://cdn.openai.com/pdf/74c24085-19b0-4534-9c90-465b8e29ad73/unit-distance-remarks.pdf) — a human-verified, simplified proof followed by individual reflections from all nine reviewers.
 * [**An abridged reasoning transcript**](https://cdn.openai.com/pdf/1625eff6-5ac1-40d8-b1db-5d5cf925de8b/unit-distance-cot.pdf) — a rare glimpse into part of the model's problem-solving process.
 
-The planar unit distance problem remains open. But after nearly eighty years, mathematicians know something they did not know before:
-
-the square grid is not the end of the story.
+The planar unit distance problem remains open. But after nearly eighty years, mathematicians know something they did not know before: the square grid is not the end of the story.
