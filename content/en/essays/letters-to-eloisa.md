@@ -12,6 +12,8 @@ tags:
   - José Lezama Lima
   - Latin American Literature
   - Censorship
+image: "/images/posts/lezama/Jose-Lezama-Lima.jpg"
+focal_point: "10% 10%" # X and Y coordinates of the exact focal spot
 ---
 <iframe width="100%" height="515" src="https://www.youtube-nocookie.com/embed/SnerUM52mj8?si=hwc4GJnHi3WemtHC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
