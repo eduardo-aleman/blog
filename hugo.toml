@@ -53,6 +53,16 @@ timeZone = 'America/Los_Angeles'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+    # Passthrough hands raw LaTeX to the browser untouched, so Goldmark
+    # no longer mangles backslashes, underscores, or braces inside math.
+    # Without this, inline $...$ silently breaks while display $$...$$
+    # on its own line sometimes survives — exactly the symptom you saw.
+    [markup.goldmark.extensions.passthrough]
+      enable = true
+      [markup.goldmark.extensions.passthrough.delimiters]
+        block  = [['\[', '\]'], ['$$', '$$']]
+        inline = [['\(', '\)'], ['$', '$']]
   
   [markup.tableOfContents]
     startLevel = 2

@@ -2,10 +2,19 @@
   MathJax = {
     tex: {
       inlineMath: [['$', '$'], ['\\(', '\\)']],
-      displayMath: [['$$', '$$'], ['\\[', '\\]']]
+      displayMath: [['$$', '$$'], ['\\[', '\\]']],
+      // Lets a literal "\$" in text render as a dollar sign instead of
+      // opening math mode — important for prose like prices ("\$500").
+      processEscapes: true,
+      // Don't let a stray "%" in text be treated as a TeX comment.
+      processEnvironments: true
     },
     options: {
-      skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+      skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
+      // Belt-and-suspenders: never typeset anything inside an element
+      // explicitly opted out with class="notranslate" or "tex2jax_ignore".
+      ignoreHtmlClass: 'tex2jax_ignore',
+      processHtmlClass: 'tex2jax_process'
     }
   };
 </script>
