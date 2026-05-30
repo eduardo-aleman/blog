@@ -17,57 +17,60 @@ focal_point: "10% 10%" # X and Y coordinates of the exact focal spot
 image_caption: "This historical portrait of the seminal American poet **Walt Whitman** is preserved by the Magnus-Hirschfeld-Gesellschaft in Berlin and made available via museum-digital:berlin. Captured through photography or print, the depiction underscores Whitman's enduring legacy both as a literary pioneer and a foundational figure in the history of homosexuality and LGBTQ+ cultural expression. Reflecting the core research and archival mission of the Berlin-based institution, this evocative image is designated under the Public Domain Mark 1.0."
 ---
 
-WHOEVER you are holding me now in hand,
-Without one thing all will be useless,
-I give you fair warning before you attempt me further,
-I am not what you supposed, but far different.
-
-Who is he that would become my follower?
-Who would sign himself a candidate for my affections?
-The way is suspicious, the result uncertain, perhaps destructive,
-You would have to give up all else, I alone would expect to be your sole and 
-<span style="padding-left:2em;">exclusive standard,</span>
-Your novitiate would even then be long and exhausting,
-The whole past theory of your life and all conformity to the lives around you 
-<span style="padding-left:2em;">would have to be abandon'd,</span>
-Therefore release me now before troubling yourself any further, let go your 
-<span style="padding-left:2em;">hand from my shoulders,</span>
-Put me down and depart on your way.
-
-Or else by stealth in some wood for trial,
-Or back of a rock in the open air,
-(For in any roof'd room of a house I emerge not, nor in company,
-And in libraries I lie as one dumb, a gawk, or unborn, or dead,)
-But just possibly with you on a high hill, first watching lest any person for miles around approach unawares,
-Or possibly with you sailing at sea, or on the beach of the sea or some quiet 
-<span style="padding-left:2em;">island,</span>
-Here to put your lips upon mine I permit 
-<span style="padding-left:2em;">you,</span>
-With the comrade's long-dwelling kiss or the new husband's kiss,
-For I am the new husband and I am the comrade.
-
-Or if you will, thrusting me beneath your clothing,
-Where I may feel the throbs of your heart or rest upon your hip,
-Carry me when you go forth over land or sea;
-For thus merely touching you is enough, is best,
-And thus touching you would I silently sleep and be carried eternally.
-
-But these leaves conning you con at peril,
-For these leaves and me you will not understand,
-They will elude you at first and still more afterward, I will certainly elude you,
-Even while you should think you had unquestionably caught me, behold!
-Already you see I have escaped from you.
-
-For it is not for what I have put into it that I have written this book,
-Nor is it by reading it you will acquire it,
-Nor do those know me best who admire me and vauntingly praise me,
-Nor will the candidates for my love (unless at most a very few) prove 
-<span style="padding-left:2em;">victorious,</span>
-Nor will my poems do good only, they will do just as much evil, perhaps 
-<span style="padding-left:2em;">more,</span>
-For all is useless without that which you may guess at many times and not 
-<span style="padding-left:2em;">hit, that which I hinted at;</span>
+<div>
+WHOEVER you are holding me now in hand,<br>
+Without one thing all will be useless,<br>
+I give you fair warning before you attempt me further,<br>
+I am not what you supposed, but far different.<br>
+<br>
+Who is he that would become my follower?<br>
+Who would sign himself a candidate for my affections?<br>
+The way is suspicious, the result uncertain, perhaps destructive,<br>
+You would have to give up all else, I alone would expect to be your sole and<br>
+&nbsp;&nbsp;&nbsp;&nbsp;exclusive standard,<br>
+Your novitiate would even then be long and exhausting,<br>
+The whole past theory of your life and all conformity to the lives around you<br>
+&nbsp;&nbsp;&nbsp;&nbsp;would have to be abandon'd,<br>
+Therefore release me now before troubling yourself any further, let go your<br>
+&nbsp;&nbsp;&nbsp;&nbsp;hand from my shoulders,<br>
+Put me down and depart on your way.<br>
+<br>
+Or else by stealth in some wood for trial,<br>
+Or back of a rock in the open air,<br>
+(For in any roof'd room of a house I emerge not, nor in company,<br>
+And in libraries I lie as one dumb, a gawk, or unborn, or dead,)<br>
+But just possibly with you on a high hill, first watching lest any person for miles around approach unawares,<br>
+Or possibly with you sailing at sea, or on the beach of the sea or some quiet<br>
+&nbsp;&nbsp;&nbsp;&nbsp;island,<br>
+Here to put your lips upon mine I permit<br>
+&nbsp;&nbsp;&nbsp;&nbsp;you,<br>
+With the comrade's long-dwelling kiss or the new husband's kiss,<br>
+For I am the new husband and I am the comrade.<br>
+<br>
+Or if you will, thrusting me beneath your clothing,<br>
+Where I may feel the throbs of your heart or rest upon your hip,<br>
+Carry me when you go forth over land or sea;<br>
+For thus merely touching you is enough, is best,<br>
+And thus touching you would I silently sleep and be carried eternally.<br>
+<br>
+But these leaves conning you con at peril,<br>
+For these leaves and me you will not understand,<br>
+They will elude you at first and still more afterward, I will certainly elude you,<br>
+Even while you should think you had unquestionably caught me, behold!<br>
+Already you see I have escaped from you.<br>
+<br>
+For it is not for what I have put into it that I have written this book,<br>
+Nor is it by reading it you will acquire it,<br>
+Nor do those know me best who admire me and vauntingly praise me,<br>
+Nor will the candidates for my love (unless at most a very few) prove<br>
+&nbsp;&nbsp;&nbsp;&nbsp;victorious,<br>
+Nor will my poems do good only, they will do just as much evil, perhaps<br>
+&nbsp;&nbsp;&nbsp;&nbsp;more,<br>
+For all is useless without that which you may guess at many times and not<br>
+&nbsp;&nbsp;&nbsp;&nbsp;hit, that which I hinted at;<br>
 Therefore release me and depart on your way.
+ 
+</div>
 
 ---
 
