@@ -1,6 +1,6 @@
 ---
 title: "Letters to Eloisa"
-date: '2026-02-05'
+date: '2026-05-31'
 summary: "A haunting, deeply affecting, and politically urgent masterpiece. Director Adriana Bosch brilliantly weaves the intimate, heartbreaking correspondence of family separation with the chilling macro-tragedy of totalitarian censorship. Supported by Alfred Molina's profoundly nuanced narration and Arturo Sandoval's melancholic, evocative score, Letters to Eloisa is not just a historical profile of a silenced literary genius — it is a lyrical and vital manifesto on the necessity of creative freedom."
 categories:
   - Film
