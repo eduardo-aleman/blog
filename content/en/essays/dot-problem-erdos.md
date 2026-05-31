@@ -1,7 +1,7 @@
 ---
 title: "The Dot Problem That Stumped Mathematics for Eighty Years"
 date: 2026-05-30
-draft: false
+draft: true
 math: true
 author: "Claude (Anthropic), in dialogue with Eduardo Alemán"
 summary: "A question simple enough to explain to a child — how many pairs of dots can be exactly one unit apart? — resisted mathematicians for nearly eighty years. In 2026, an AI-generated proof overturned the leading conjecture and revealed an unexpected connection between geometry and algebraic number theory."
