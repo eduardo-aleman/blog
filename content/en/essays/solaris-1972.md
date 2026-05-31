@@ -1,6 +1,6 @@
 ---
 title: "Solaris"
-date: '2026-05-21'
+date: '2026-05-18'
 summary: "Andrei Tarkovsky's Solaris is a masterpiece of science fiction cinema that defies genre expectations and offers an introspective and philosophical exploration of the human condition. Its poetic visual style and focus on existential themes make it a timeless film that continues to resonate with audiences decades after its release."
 categories:
   - Film
