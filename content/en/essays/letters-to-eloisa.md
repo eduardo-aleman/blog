@@ -16,8 +16,11 @@ image: "/images/posts/lezama/Jose-Lezama-Lima.jpg"
 focal_point: "10% 10%" # X and Y coordinates of the exact focal spot
 image_caption: "José Lezama Lima was a monumental titan of 20th-century Latin American literature whose dense, 'neo-baroque' poetry and prose transformed language into a tool of mystical creation. Despite spending nearly his entire life physically isolated in Havana due to severe asthma, he turned his home on Trocadero Street into a global literary crossroads and founded the influential vanguard journal Orígenes. His aesthetic philosophy, the 'Imaginary Era,' posited that human history is driven and redeemed by poetic images rather than chronological events—a theory that found its ultimate, labyrinthine expression in his masterpiece novel Paradiso (1966) and its posthumous sequel Oppiano Licario (1977). Though initially supporting the 1959 Cuban Revolution, his explicit exploration of homoerotic themes and refusal to conform to socialist realism led to severe state censorship, leaving him politically marginalized but cemented in history as a fierce champion of artistic autonomy."
 ---
+---
 
 <iframe width="100%" height="515" src="https://www.youtube-nocookie.com/embed/SnerUM52mj8?si=hwc4GJnHi3WemtHC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 Through the haunting letters to his sister Eloisa living in exile between 1961 and 1976, legendary Cuban writer **José Lezama Lima** — author of *Paradiso*, a masterpiece of the Latin American Boom — reveals his complex and ultimately tragic relationship to the Cuban revolutionary state.
 
