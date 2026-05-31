@@ -1,6 +1,6 @@
 ---
 title: "Iris Murdoch on Metaphor: The Sovereignty of the Good"
-date: 2026-05-07
+date: 2026-05-27
 summary: "Iris Murdoch held a singular perspective on metaphors, which she frequently explored in her philosophical writings."
 categories:
   - Microessays

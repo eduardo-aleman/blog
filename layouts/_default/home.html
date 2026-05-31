@@ -3,16 +3,16 @@
   <!-- Essays Grid (up to 9 items per page, distributed across 3 columns) -->
   {{ $allPages := .Site.RegularPages }}
   {{ $regular := where $allPages "Kind" "page" }}
-  {{ $paginator := .Paginate (sort $regular "Date" "desc") 9 }}
+  {{ $paginator := .Paginate (sort $regular "Date" "desc") 12 }}
   {{ $pages := $paginator.Pages }}
 
   {{ if gt (len $pages) 0 }}
     <section class="essays-grid-section">
       <div class="essays-grid">
 
-        <!-- LEFT COLUMN: essays 1–3 (newest) -->
+        <!-- LEFT COLUMN: essays 1–4 (newest) -->
         <div class="essays-grid__column essays-grid__column--side">
-          {{ range first 3 $pages }}
+          {{ range first 4 $pages }}
             {{ $page := . }}
             <article class="essay-grid-item">
               {{ with .Params.image }}
@@ -49,9 +49,9 @@
           {{ end }}
         </div>
 
-        <!-- MIDDLE COLUMN: essays 4–6 (column width is 1.4fr in _components.css) -->
+        <!-- MIDDLE COLUMN: essays 5–8 (column width is 1.4fr in _components.css) -->
         <div class="essays-grid__column essays-grid__column--middle">
-          {{ range first 3 (after 3 $pages) }}
+          {{ range first 4 (after 4 $pages) }}
             {{ $page := . }}
             <article class="essay-grid-item">
               {{ with .Params.image }}
@@ -88,9 +88,9 @@
           {{ end }}
         </div>
 
-        <!-- RIGHT COLUMN: essays 7–9 -->
+        <!-- RIGHT COLUMN: essays 9–12 -->
         <div class="essays-grid__column essays-grid__column--side">
-          {{ range first 3 (after 6 $pages) }}
+          {{ range first 4 (after 8 $pages) }}
             {{ $page := . }}
             <article class="essay-grid-item">
               {{ with .Params.image }}
