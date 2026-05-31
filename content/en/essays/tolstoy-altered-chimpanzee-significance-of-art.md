@@ -9,7 +9,6 @@ tags:
   - duchamp
 image: "/images/posts/tolstoi-altered/duchamp_tate_modern.jpg"
 image_caption: "Fountain, a famous \"readymade\" artwork by Marcel Duchamp originally created in 1917. The piece consists of a porcelain urinal that Duchamp flipped on its back, signed with the pseudonym \"R. Mutt\", and submitted for exhibition. It is considered a highly influential work of the 20th century because it challenged traditional definitions of art by declaring that an artist could designate a manufactured object as art simply by choosing it. The original 1917 urinal was lost, and the piece pictured is one of several replicas authorized by Duchamp for various museums, such as the Tate Modern. Photo is my own."
-"
 ---
 
 In *What Is Art?*, Leo Tolstoy defines artistic expression as the conscious communication of emotion. Art, on this account, is not distinguished by beauty or formal perfection but by a psychological "infection" — a transmission of feeling from artist to audience, carried through movements, lines, melodies, or colors. Its worth is measured accordingly: the stronger the infection, the better the art. That infection, however, is not accidental. It depends on three conditions embedded in the work itself — individuality, clarity, and sincerity. When a deeply particular feeling is expressed with unclouded clarity out of a genuine urge to share it, the bridge between minds holds.
