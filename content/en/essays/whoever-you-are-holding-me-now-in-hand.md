@@ -1,8 +1,7 @@
 ---
 title: "Whoever You Are Holding Me Now in Hand"
 date: '2026-05-24'
-summary: "\"Whoever You Are Holding Me Now in Hand\" is the third poem in the Calamus cluster of Walt Whitman's Leaves of Grass, first published in the 1860 edition and retained through the final 1891–92 \"deathbed\" edition. The poem stages an intimate encounter between reader and book — Whitman personifies himself as the text held in the reader's hand — and issues a warning: the book will resist easy possession, the relationship it demands requires total transformation, and the poet will inevitably elude whoever thinks they have grasped him. It is one of Whitman's most searching meditations on the nature of reading, desire, and the impossibility of fully knowing another."
-description: "\"Whoever You Are Holding Me Now in Hand\" is the third poem in the Calamus cluster of Walt Whitman's Leaves of Grass, first published in the 1860 edition and retained through the final 1891–92 \"deathbed\" edition. The poem stages an intimate encounter between reader and book — Whitman personifies himself as the text held in the reader's hand — and issues a warning: the book will resist easy possession, the relationship it demands requires total transformation, and the poet will inevitably elude whoever thinks they have grasped him. It is one of Whitman's most searching meditations on the nature of reading, desire, and the impossibility of fully knowing another."
+summary: "Walt Whitman’s \"Whoever You Are Holding Me Now in Hand\" personifies the book as the poet himself. It intimately warns the reader that the text resists easy possession, meditating on desire, reading, and the impossibility of fully knowing another."
 categories:
 - Poetry
 draft: false
