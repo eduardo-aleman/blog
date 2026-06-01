@@ -30,25 +30,25 @@ The surviving architecture offers a vivid glimpse into Delphi's dual role as a r
 * **The Temple of Apollo:** The Temple of Apollo was the religious heart of the sanctuary. While only a handful of Doric columns remain standing today, this terrace once housed the inner sanctum (*adyton*) where the Oracle spoke. Inscribed on its walls were the foundational tenets of Greek philosophy, including *"Know thyself"* and *"Nothing in excess."*
 
 <p align="center">
-  <img src="/images/posts/delphi/delphi_treasury_athenians.jpg" alt="The Treasury of the Athenians" width="300">
+  <img src="/images/posts/delphi/delphi_treasury_athenians.jpg" alt="The Treasury of the Athenians" width="340">
 </p>
 
 * **The Treasury of the Athenians:** Built to commemorate the Athenian victory at the Battle of Marathon, this finely restored marble structure housed the wealthy votive offerings and trophies dedicated to Apollo. It stands as a testament to how city-states used Delphi to project political power.
 
 <p align="center">
-  <img src="/images/posts/delphi/delphi_theater.jpg" alt="The Theater" width="300">
+  <img src="/images/posts/delphi/delphi_theater.jpg" alt="The Theater" width="340">
 </p>
 
 * **The Theater:** Higher up the slope sits a magnificent 5,000-seat theater offering panoramic views of the valley. It served as the venue for the musical and dramatic contests of the **Pythian Games**, a precursor to the modern Olympics that celebrated artistic achievement alongside athletic excellence.
 
 <p align="center">
-  <img src="/images/posts/delphi/delphi_stadium.jpg" alt="The Stadium" width="300">
+  <img src="/images/posts/delphi/delphi_stadium.jpg" alt="The Stadium" width="340">
 </p>
 
 * **The Stadium:** Located even further up the mountain slope lies the stadium, one of the best-preserved in Greece. It hosted the athletic competitions of the **Pythian Games**, showcasing the physical strength and endurance of competitors from across the Greek world.
 
 <p align="center">
-  <img src="/images/posts/delphi/delphi_tholos.jpg" alt="The Tholos at the Sanctuary of Athena Pronaia" width="300">
+  <img src="/images/posts/delphi/delphi_tholos.jpg" alt="The Tholos at the Sanctuary of Athena Pronaia" width="340">
 </p>
 
 * **The Tholos at the Sanctuary of Athena Pronaia:** Situated slightly apart from the main complex, this iconic circular structure is a masterpiece of classical architecture. Though its exact function remains a mystery, its three re-erected Doric columns against the mountain backdrop form the quintessential image of Delphi.
