@@ -6,8 +6,7 @@ tags: ["history", "greece", "archaeology", "travel"]
 categories: ["Ancient Civilizations"]
 summary: "Perched dramatically on the slopes of Mount Parnassus, Delphi was the spiritual heart of the ancient Greek world. Discover its history, the myth of the Oracle, and the ruins that remain today."
 description: "Perched dramatically on the slopes of Mount Parnassus, Delphi was the spiritual heart of the ancient Greek world. Discover its history, the myth of the Oracle, and the ruins that remain today."
-image: "/images/posts/delphi/delphi.jpg"
-image_caption: "Memory of my visit on the month of October of 2011"
+image: "/images/posts/delphi/delphi_apollo_temple.jpg"
 ---
 
 ## The Navel of the Ancient World
@@ -25,7 +24,7 @@ Today, the ruins of Delphi form one of the most evocative archaeological sites i
 The surviving architecture offers a vivid glimpse into Delphi's dual role as a religious epicenter and a competitive arena:
 
 <p align="center">
-  <img src="/images/posts/delphi/delphi_apollo_temple.jpg" alt="The Temple of Apollo" width="300">
+  <img src="/images/posts/delphi/delphi.jpg" alt="The Temple of Apollo" width="300">
 </p>
 
 * **The Temple of Apollo:** The Temple of Apollo was the religious heart of the sanctuary. While only a handful of Doric columns remain standing today, this terrace once housed the inner sanctum (*adyton*) where the Oracle spoke. Inscribed on its walls were the foundational tenets of Greek philosophy, including *"Know thyself"* and *"Nothing in excess."*
