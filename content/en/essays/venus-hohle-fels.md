@@ -8,7 +8,7 @@ categories: ["Prehistory"]
 tags: ["paleolithic", "archaeology", "figurative art", "swabian jura", "aurignacian", "mediterranean prehistory"]
 image: "/images/posts/venus-hohle-fels/Venus_from_Hohle_Fels.png"
 image_alt: "The Venus of Hohle Fels, a small ivory figurine carved approximately 40,000 years ago, photographed against a black background"
-image_caption: "Venus from Hohle Fels © URMU — Museum of Prehistory, Blaubeuren at https://ice-age-europe.eu/visit-us/museum-of-prehistory-blaubeuren.html"
+image_caption: "Venus from Hohle Fels © URMU — Museum of Prehistory, Blaubeuren"
 focal_point: "Center"
 ---
 
