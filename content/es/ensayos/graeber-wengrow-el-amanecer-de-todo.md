@@ -42,7 +42,7 @@ La prehistoria comenzó hace unos 200,000 años, pero los autores David Graeber 
 - _Conciencia política:_ Esto demuestra que los humanos no eran prisioneros de sus estructuras sociales; eran capaces de cambiar de sistema político por voluntad propia.
 - _Monumentalismo sin Estado:_ Hallazgos como _Göbekli Tepe_ demuestran que se pueden realizar grandes obras de ingeniería sin necesidad de una autoridad centralizada o agricultura a gran escala.
 
-Capítulo 4: Las tres libertades fundamentales
+## Capítulo 4: Las tres libertades fundamentales
 
 Los autores proponen que la historia humana se basa en la pérdida de tres libertades básicas que casi todos los pueblos antiguos poseían:
 
@@ -51,3 +51,5 @@ Los autores proponen que la historia humana se basa en la pérdida de tres liber
 3. _La libertad de crear órdenes sociales nuevos:_ La capacidad de imaginar y poner en práctica otras formas de vivir.
 
 > _Reflexión final:_ > Siguiendo la guía de críticos indígenas como Kandiaronk, debemos abordar la evidencia del pasado con nuevos ojos para recuperar la imaginación política que hemos perdido.
+
+Continuará...
