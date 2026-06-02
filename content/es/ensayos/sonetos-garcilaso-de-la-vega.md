@@ -1,6 +1,6 @@
 ---
 title: "Sonetos"
-date: '2026-05-30'
+date: '2026-01-14'
 summary: Los sonetos de Garcilaso de la Vega (Toledo, c. 1501 – Niza, 1536) representan la cumbre del petrarquismo en lengua castellana y la introducción definitiva de las formas métricas italianas en la poesía española. Escritos en su mayoría durante la década de 1520, los treinta y ocho sonetos que se le atribuyen —los primeros veintinueve publicados en 1543 como apéndice de las obras de Juan Boscán, a cargo de su viuda— exploran con maestría sin igual los temas del amor no correspondido, la ausencia, la belleza fugaz y la muerte, todo ello bajo la larga sombra de Petrarca y los clásicos latinos que Garcilaso frecuentó durante su estancia en Nápoles.
 description: Los sonetos de Garcilaso de la Vega (Toledo, c. 1501 – Niza, 1536) representan la cumbre del petrarquismo en lengua castellana y la introducción definitiva de las formas métricas italianas en la poesía española. Escritos en su mayoría durante la década de 1520, los treinta y ocho sonetos que se le atribuyen —los primeros veintinueve publicados en 1543 como apéndice de las obras de Juan Boscán, a cargo de su viuda— exploran con maestría sin igual los temas del amor no correspondido, la ausencia, la belleza fugaz y la muerte, todo ello bajo la larga sombra de Petrarca y los clásicos latinos que Garcilaso frecuentó durante su estancia en Nápoles.
 categories:
