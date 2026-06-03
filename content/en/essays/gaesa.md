@@ -74,7 +74,7 @@ Perhaps the most damaging finding for Havana's own narrative is that the relatio
 
 **The corporate exodus is real and accelerating.** On May 1, Trump signed an executive order imposing secondary sanctions targeting companies doing business with GAESA. Several firms originating from Canada, Spain, Panama, and Mexico either pulled out of Cuba or are expected to. "We've never seen this kind of pressure," said Max Heizlish, an ex-Treasury official who specialized in Cuba sanctions. Iberostar severed ties with Gaviota on June 1; Blue Diamond Resorts pulled out of Cuba altogether. In the first four months of 2026, a record low number of tourists arrived in Cuba — almost 56% fewer compared to the same period last year.
 
-**Castro family influence has been structurally preserved through leadership succession.** GAESA was created by Raúl Castro, led for 26 years by his son-in-law, and is currently overseen by his grandson. Flight records show that Raúl Guillermo Rodríguez Castro and GAESA president Ania Guillermina Lastres flew together on a private jet to Panama in 2024, where GAESA has registered multiple companies to operate outside U.S. sanctions reach.
+**Castro family influence has been structurally preserved through leadership succession.** GAESA was created by Raúl Castro, led for 26 years by his son-in-law, and is currently overseen by his grandson. Flight records show that Raúl Guillermo Rodríguez Castro and GAESA president Ania Guillermina Lastres flew together on a private jet to Panama in 2024, where GAESA has registered multiple companies to operate outside US sanctions reach.
 
 ## What Is Disputed or Unverified
 
