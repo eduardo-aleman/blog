@@ -3,6 +3,7 @@ title: 'GAESA: State Within a State, or Revolutionary Lifeline?'
 date: '2026-06-02'
 summary: "A documented analysis of Cuba's military conglomerate GAESA — separating corroborated evidence from disputed claims, and tracing the connections between leaked financial records, U.S. sanctions strategy, and the life imprisonment of a former economy minister."
 draft: false
+math: false
 type: posts
 categories:
   - Cuba
@@ -88,9 +89,9 @@ Perhaps the most damaging finding for Havana's own narrative is that the relatio
 
 **The $18 billion figure is real but requires careful interpretation.** A leak published by the *Miami Herald* established that GAESA held approximately $18 billion in current assets as of March 2024 — but not all of this amount is excess cash reserve; rather, it reflects the size of GAESA's enterprises and their strong presence in key sectors such as tourism, trade, and finance. Rubio's framing — that this represents a hidden slush fund stolen from the Cuban people — is rhetorically effective but analytically imprecise. Cuba's embassy in the UK called the figure inflated by 24 times, which is also demonstrably wrong given the leaked data. Both sides are misrepresenting the same underlying numbers.
 
-**The “not a penny to the people” claim overstates the case.** The Cuban government's June 2 statement lists concrete social investments — over 10,000 homes constructed, investment in the Felton thermoelectric plant, hydraulic infrastructure, clinic and school repairs. These are specific, checkable claims that no independent reporting has directly refuted. What is undisputed is that GAESA's full financial relationship to the Cuban state budget is opaque — though as the leaked documents reveal, opacity understates the problem. The conglomerate was not merely withholding transfers from the state; it was receiving them.
+**The "not a penny to the people" claim overstates the case.** The Cuban government's June 2 statement lists concrete social investments — over 10,000 homes constructed, investment in the Felton thermoelectric plant, hydraulic infrastructure, clinic and school repairs. These are specific, checkable claims that no independent reporting has directly refuted. What is undisputed is that GAESA's full financial relationship to the Cuban state budget is opaque — though as the leaked documents reveal, opacity understates the problem. The conglomerate was not merely withholding transfers from the state; it was receiving them.
 
-**Whether GAESA operates “against” the state or simply “parallel” to it is more ambiguous than either side admits.** Vidal's analysis suggests the more accurate framing: the Government Program's silence on GAESA reflects not only a technical problem, but also a political choice. Incorporating the conglomerate into a stabilization program would imply redefining the structure of economic and military power — something those who designed the Government Program know they cannot touch. That is a description of dangerous institutional capture, not a rogue actor operating independently of the state. GAESA did not seize Cuba from the outside. It grew inside the revolutionary project until it became larger than the project itself.
+**Whether GAESA operates "against" the state or simply "parallel" to it is more ambiguous than either side admits.** Vidal's analysis suggests the more accurate framing: the Government Program's silence on GAESA reflects not only a technical problem, but also a political choice. Incorporating the conglomerate into a stabilization program would imply redefining the structure of economic and military power — something those who designed the Government Program know they cannot touch. That is a description of dangerous institutional capture, not a rogue actor operating independently of the state. GAESA did not seize Cuba from the outside. It grew inside the revolutionary project until it became larger than the project itself.
 
 ---
 
