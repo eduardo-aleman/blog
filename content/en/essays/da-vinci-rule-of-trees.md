@@ -28,16 +28,16 @@ In simpler terms, if you take a tree trunk, slice it horizontally, and measure i
 
 ### The Mathematics Behind It
 
-When a "mother" branch splits into smaller "daughter" branches, the total cross-sectional area is conserved. Because the area of a circle is proportional to the square of its diameter ($A \propto d^2$), the rule can be expressed mathematically as:
+When a "mother" branch splits into smaller "daughter" branches, the total cross-sectional area is conserved. Because the area of a circle is proportional to the square of its diameter (\(A \propto d^2\)), the rule can be expressed mathematically as:
 
 $$D^2 = d_1^2 + d_2^2 + \dots + d_n^2$$
 
 Where:
 
-- **$D$** is the diameter of the parent branch or trunk.
-- **$d_1, d_2, \dots, d_n$** are the diameters of the resulting branches after the split.
+- **\(D\)** is the diameter of the parent branch or trunk.
+- **\(d_1, d_2, \dots, d_n\)** are the diameters of the resulting branches after the split.
 
-If a trunk splits into exactly two equal branches, each branch won't be half the thickness of the trunk—instead, their diameters scale down by a factor of roughly $1/\sqrt{2}$ (about 70% of the trunk's thickness) to keep the total area the same. This creates a recursive, **fractal-like structure** that gives trees their organic, balanced look.
+If a trunk splits into exactly two equal branches, each branch won't be half the thickness of the trunk—instead, their diameters scale down by a factor of roughly \(1/\sqrt{2}\) (about 70% of the trunk's thickness) to keep the total area the same. This creates a recursive, **fractal-like structure** that gives trees their organic, balanced look.
 
 ---
 
