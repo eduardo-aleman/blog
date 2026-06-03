@@ -1,7 +1,7 @@
 ---
 title: 'GAESA: State Within a State, or Revolutionary Lifeline?'
 date: '2026-06-02'
-summary: 'A documented analysis of Cuba's military conglomerate GAESA — separating corroborated evidence from disputed claims, and tracing the connections between leaked financial records, U.S. sanctions strategy, and the life imprisonment of a former economy minister.'
+summary: "A documented analysis of Cuba's military conglomerate GAESA — separating corroborated evidence from disputed claims, and tracing the connections between leaked financial records, U.S. sanctions strategy, and the life imprisonment of a former economy minister."
 draft: false
 type: posts
 categories:
