@@ -7,6 +7,7 @@ type: posts
 categories: [Editorial]
 tags: [Classical Antiquity, Archaeology, British Museum, Halicarnassus, Caria, Mausoleum, Greece]
 image: '/images/posts/mausoleum-halicarnassus/colossal_marble_horse.jpg'
+focal_point: "10% 10%"
 image_alt: 'Colossal marble horse from the quadriga atop the Mausoleum at Halicarnassus, now in the British Museum'
 image_caption: 'A colossal marble horse, once part of the quadriga crowning the Mausoleum at Halicarnassus, c. 350 BCE. British Museum, London. Photograph by the author, April 2026.'
 toc: true
