@@ -1,7 +1,7 @@
 ---
 title: 'The Undying Monument: Artemisia, the Mausoleum of Halicarnassus, and the Nineteenth-Century Excavation That Brought It to Light'
 date: '2026-06-03'
-summary: 'An account of Artemisia II of Caria, the architectural genius of the Mausoleum at Halicarnassus, and how Charles Thomas Newton's 1856–1857 excavation transported its surviving sculptures to the British Museum.'
+summary: "An account of Artemisia II of Caria, the architectural genius of the Mausoleum at Halicarnassus, and how Charles Thomas Newton's 1856–1857 excavation transported its surviving sculptures to the British Museum."
 draft: false
 type: posts
 categories: [Editorial]
