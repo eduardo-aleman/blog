@@ -9,7 +9,7 @@ tags: [Classical Antiquity, Archaeology, British Museum, Halicarnassus, Caria, M
 image: '/images/posts/mausoleum-halicarnassus/colossal_marble_horse.jpg'
 focal_point: "20% 20%"
 image_alt: 'Colossal marble horse from the quadriga atop the Mausoleum at Halicarnassus, now in the British Museum'
-image_caption: 'A colossal marble horse, once part of the quadriga crowning the Mausoleum at Halicarnassus, c. 350 BCE. British Museum, London. Photograph by the author, April 2026.'
+image_caption: 'A colossal marble horse, once part of the quadriga crowning the Mausoleum at Halicarnassus, c. 350 BCE. British Museum, London. Photograph by the author, March 2026.'
 toc: true
 author: 'Eduardo Alemán'
 slug: 'mausoleum-halicarnassus-british-museum'
@@ -19,7 +19,7 @@ There is a particular kind of historical vertigo that strikes a visitor entering
 
 ## Caria and Its Dynasty
 
-The photographs taken during an April visit to the British Museum capture objects that were once part of a single ensemble — one of the most ambitious building projects of the ancient Mediterranean world — commissioned in the middle of the fourth century BCE, at the height of what scholars call the Classical Greek period, roughly spanning from the Persian Wars in the early fifth century to the death of Alexander the Great in 323 BCE. It was an era that produced the Parthenon, the tragedies of Sophocles and Euripides, the philosophy of Plato and Aristotle, and a sculpture tradition of extraordinary naturalism and emotional range. The Mausoleum at Halicarnassus belongs at the apex of this tradition, though it was built not by Greeks but by Carians who had absorbed Greek culture so thoroughly that the line between imitation and innovation had long since dissolved.
+The photographs taken during an March visit to the British Museum capture objects that were once part of a single ensemble — one of the most ambitious building projects of the ancient Mediterranean world — commissioned in the middle of the fourth century BCE, at the height of what scholars call the Classical Greek period, roughly spanning from the Persian Wars in the early fifth century to the death of Alexander the Great in 323 BCE. It was an era that produced the Parthenon, the tragedies of Sophocles and Euripides, the philosophy of Plato and Aristotle, and a sculpture tradition of extraordinary naturalism and emotional range. The Mausoleum at Halicarnassus belongs at the apex of this tradition, though it was built not by Greeks but by Carians who had absorbed Greek culture so thoroughly that the line between imitation and innovation had long since dissolved.
 
 Caria was a territory in the southwestern corner of what is now Turkey, occupying the peninsula that juts into the Aegean between the islands of Rhodes and Cos. Charles Thomas Newton, writing in his *History of Discoveries at Halicarnassus, Cnidus and Branchidae* — the foundational account of the nineteenth-century excavation — devotes his opening chapter to the region's complicated ethnic and cultural genealogy, tracing its Phoenician, Carian, Lelegean, and eventually Greek settler populations. The coastal cities of Caria, Newton notes, were subject to successive waves of conquest — Lydian, then Persian — yet retained a character shaped as much by local dynastic ambition as by any imperial power. By the time of the Hecatomnid dynasty in the fourth century, a family of native Carian origin had managed to consolidate control of the region as hereditary satraps — provincial governors — nominally subordinate to the Persian crown but in practice operating with the independence of kings. Their capital was Halicarnassus, modern Bodrum, a naturally sheltered harbor city that Mausolus transformed, over the course of his long reign, into one of the most architecturally ambitious cities in the eastern Mediterranean.
 
@@ -75,12 +75,12 @@ What Newton's expedition recovered was not the burial goods — those had gone i
 
 ## The Photographs: Fragments of a Wonder
 
-The photographs taken during an April visit to the British Museum show four objects that were once part of a single architectural and sculptural system. Each repays close attention.
+The photographs taken during an March visit to the British Museum show four objects that were once part of a single architectural and sculptural system. Each repays close attention.
 
 ### The Colossal Marble Horse
 
 ![Colossal marble horse from the quadriga atop the Mausoleum at Halicarnassus, c. 350 BCE, British Museum](/images/posts/mausoleum-halicarnassus/colossal_marble_horse.jpg)
-*Colossal marble horse, once part of the quadriga crowning the Mausoleum at Halicarnassus, c. 350 BCE. The bridle still retains its metal fittings. British Museum, London. Photograph by the author, April 2026.*
+*Colossal marble horse, once part of the quadriga crowning the Mausoleum at Halicarnassus, c. 350 BCE. The bridle still retains its metal fittings. British Museum, London. Photograph by the author, March 2026.*
 
 The largest and most immediately commanding object in the images is the colossal marble horse — a fragment of the upper body and head of one of the four horses that drew the quadriga at the summit of the Mausoleum, some forty-three meters above the ground. The horse is displayed on a modern metal armature that places its head approximately four meters from the gallery floor, and still it dominates the space. The scale alone communicates the ambition of the original design: these horses, seen from street level in ancient Halicarnassus, would have been nearly invisible in their individual detail but would have generated an unmistakable silhouette against the sky — the universal symbol of royal power and divine victory.
 
@@ -91,7 +91,7 @@ The figure was sculpted in the workshop tradition associated with Pytheos, the a
 ### The Amazon Frieze
 
 ![Sections of the Amazon frieze from the Mausoleum at Halicarnassus, c. 350 BCE, British Museum](/images/posts/mausoleum-halicarnassus/amazonomachy_frieze.jpg)
-*Two sections of the Amazonomachy frieze from the outer wall of the Mausoleum's podium, c. 350 BCE. At left, a centaur is visible beside a Greek warrior; at center and right, Amazons and Greeks engage in close combat. British Museum, London. Photograph by the author, April 2026.*
+*Two sections of the Amazonomachy frieze from the outer wall of the Mausoleum's podium, c. 350 BCE. At left, a centaur is visible beside a Greek warrior; at center and right, Amazons and Greeks engage in close combat. British Museum, London. Photograph by the author, March 2026.*
 
 These two adjacent slabs of relief sculpture formed part of the *Amazonomachy* — the mythological battle between Greek warriors and the Amazons, a race of female warriors from the steppes who appear repeatedly in Greek art as a metaphor for the struggle between civilization and its threatening outside. The Amazon frieze ran around the outer wall of the Mausoleum's podium, and scholars believe it was carved by the studio of Scopas, who was assigned the eastern face of the building. The slabs shown in the photograph represent a westward-running section of the composition.
 
@@ -102,7 +102,7 @@ Newton recovered these slabs both from the soil of the excavation and, crucially
 ### The Marble Lion
 
 ![Colossal marble lion from the Mausoleum at Halicarnassus, c. 350 BCE, British Museum](/images/posts/mausoleum-halicarnassus/colossal_marble_lion.jpg)
-*One of the colossal marble lions that flanked the approach stairway of the Mausoleum, c. 350 BCE. The animal is rendered with a physical presence that suggests direct observation of living lions. British Museum, London. Photograph by the author, April 2026.*
+*One of the colossal marble lions that flanked the approach stairway of the Mausoleum, c. 350 BCE. The animal is rendered with a physical presence that suggests direct observation of living lions. British Museum, London. Photograph by the author, March 2026.*
 
 The colossal marble lion is one of approximately twenty such figures that originally flanked the processional approach to the Mausoleum, standing guard along the stairway that led up through the podium toward the building's outer colonnaded gallery. It is displayed on a low stone pedestal in the corner of the Mausoleum Room, and its scale — roughly life-size, perhaps very slightly larger — combined with the physical energy still evident in the posture creates an impression of tremendous contained force. The lion stands with its head slightly raised and turned, mouth open and showing teeth, mane rendered in carefully differentiated ridges and waves that suggest both the texture of real fur and a formalized system of linear rhythms derived from earlier Archaic conventions.
 
@@ -113,7 +113,7 @@ The lion in Classical Greek sculpture is always a charged political symbol — a
 ### The Colossal Portraits: Mausolus and Artemisia
 
 ![Colossal marble statues identified as Mausolus and Artemisia, c. 350 BCE, British Museum](/images/posts/mausoleum-halicarnassus/mausolus_artemisia.jpg)
-*Two colossal marble portrait statues identified by scholars as Mausolus (right) and Artemisia (left), c. 350 BCE. Each stands approximately three meters in height. Their positions near the summit of the Mausoleum made them the largest free-standing figures in the sculptural program. British Museum, London. Photograph by the author, April 2026.*
+*Two colossal marble portrait statues identified by scholars as Mausolus (right) and Artemisia (left), c. 350 BCE. Each stands approximately three meters in height. Their positions near the summit of the Mausoleum made them the largest free-standing figures in the sculptural program. British Museum, London. Photograph by the author, March 2026.*
 
 These two colossal figures, approximately three meters in height, are the most emotionally affecting objects in the Mausoleum Room. They have been identified by the majority of scholars — though the identification is not universally accepted — as the portrait statues of Mausolus and Artemisia that stood at the apex of the monument, either within or immediately beside the quadriga on the summit platform. They are the royal pair themselves, translated into marble at a scale that would have made them, at forty-three meters above the ground, almost impossible to identify in their individual features, but unmistakable as human presences crowning the pyramid.
 
@@ -135,7 +135,7 @@ The correspondence with Pliny deserves emphasis. Pliny the Elder, writing in the
 
 The British Museum's Mausoleum Room holds the largest single collection of surviving material from the monument. It includes sections of the Amazon frieze and the chariot-battle frieze, the colossal portrait statues traditionally identified as Mausolus and Artemisia, the great marble horse from the quadriga, multiple lions, fragments of the architectural structure, and the broken chariot wheel. A smaller number of pieces remain in Turkey, including fragments in the Bodrum Castle museum and at the Mausoleum site itself, where the foundations are visible and a small site museum preserves additional finds. Danish archaeological campaigns between 1966 and 1976 continued and substantially extended Newton's work, clarifying the site's stratigraphy and recovering further fragments, many of which remain unpublished.
 
-What the photographs taken in April bring back is not primarily information — though they carry information in abundance — but something closer to testimony. These objects have been looked at for two and a half millennia. They were looked at by ancient Carians and Greeks who came to honor or simply to marvel at the monument their queen had built. They were looked at by Crusader knights who embedded them in walls for purely structural reasons. They were looked at by Newton and his team, who lifted them from the ground and recorded their positions and dimensions with scrupulous care. They are looked at today by museum visitors who may or may not know whose ashes once lay in the chamber below them.
+What the photographs taken in March bring back is not primarily information — though they carry information in abundance — but something closer to testimony. These objects have been looked at for two and a half millennia. They were looked at by ancient Carians and Greeks who came to honor or simply to marvel at the monument their queen had built. They were looked at by Crusader knights who embedded them in walls for purely structural reasons. They were looked at by Newton and his team, who lifted them from the ground and recorded their positions and dimensions with scrupulous care. They are looked at today by museum visitors who may or may not know whose ashes once lay in the chamber below them.
 
 Artemisia II died around 351 BCE, two years after Mausolus, consumed by her grief or by whatever biological process she would have called by a different name. She never saw the monument completed. The sculptors finished it without her. The ashes were placed in the chamber. The stairway was filled with rubble, the animals laid across the steps, the monolithic stone block lowered into the entrance. And for seventeen hundred years, give or take the depredations of earthquakes and knights and anonymous midnight thieves, the Mausoleum stood over Halicarnassus — the most famous tomb in the ancient world, which taught the world the very word for a tomb of ambition — advertising in marble and bronze and polychrome stone the grief of a woman who loved her brother, and the pride of a dynasty that believed, for a little while, that architecture could defeat time.
 
