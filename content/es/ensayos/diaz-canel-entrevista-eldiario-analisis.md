@@ -2,10 +2,10 @@
 title: "Díaz-Canel en elDiario.es: radiografía y lectura crítica"
 date: '2026-06-05'
 summary: "El presidente cubano concedió el 3 de junio de 2026 una entrevista al diario español elDiario.es en la que expuso el impacto acumulado del embargo estadounidense sobre la población de la isla. Un análisis crítico del documento revela tanto la solidez empírica de algunas de sus denuncias como las omisiones estructurales de un discurso diseñado para una audiencia europea progresista."
-draft: true
+draft: false
 type: posts
 categories:
-  - Análisis
+  - Cuba
 tags:
   - Cuba
   - Díaz-Canel
