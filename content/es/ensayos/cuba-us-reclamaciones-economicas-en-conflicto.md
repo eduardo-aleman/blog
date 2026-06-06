@@ -17,7 +17,7 @@ tags:
   - derecho internacional
   - reclamaciones de propiedad
   - geopolítica
-image: 'static/images/posts/cuba-us-reclamaciones-economicas-en-conflicto/plaza_de_la_revolucion.JPG'
+image: '/images/posts/cuba-us-reclamaciones-economicas-en-conflicto/plaza_de_la_revolucion.JPG'
 image_alt: 'Plaza de la Revolución en la Habana, Cuba'
 image_caption: 'Plaza de la Revolución en la Habana, Cuba'
 slug: 'cuba-us-reclamaciones-economicas-en-conflicto'
