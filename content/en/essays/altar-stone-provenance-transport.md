@@ -19,7 +19,7 @@ tags:
   - megalith
 image: '/images/posts/altar-stone-provenance-transport/cover.jpg'
 image_alt: 'The Altar Stone lying recumbent beneath the fallen trilithon at Stonehenge'
-image_caption: 'The Altar Stone lying recumbent beneath the fallen trilithon at Stonehenge'
+image_caption: 'The Altar Stone lying recumbent beneath the fallen trilithon at Stonehenge. The Altar Stone is a central megalith at Stonehenge known as Stone 80. It is a massive, flat slab of purplish-green micaceous sandstone measuring roughly 4.9 meters by 1 meter, currently lying recumbent and pinned beneath the fallen sarsen upright and lintel of the Great Trilithon.The Altar Stone is unique compared to the rest of the monument and has a fascinating geological and archaeological history. For centuries, it was believed to be from Wales, but landmark geological analysis revealed it actually originated from the Orcadian Basin in northeast Scotland. This means it traveled over 450 miles, a mind-boggling feat for the Neolithic builders. While early theories assumed the stone was transported by human effort, recent research suggests it could have been carried most of the way from Scotland to the North Sea by a glacier before being transported by humans. It is nearly completely embedded in the earth and covered by the fallen members of the Great Trilithon (specifically Stone 55 and Lintel 156). The sheer weight of these fallen sarsen stones has pressed it into the ground, leaving only a portion of its top surface visible. The name "Altar Stone" was given to it by Inigo Jones in the 1620s, as he speculated on its function as a ceremonial altar.'
 slug: 'altar-stone-provenance-transport'
 ---
 
