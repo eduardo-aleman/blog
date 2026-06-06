@@ -77,4 +77,8 @@ For now, the Caithness coast stands as the most probable homeland of Stonehenge'
 
 ---
 
+<p align="center"><img src="/images/posts/altar-stone-provenance-transport/stonehenge_diagram.jpg" alt="A plan view of exposed megaliths at Stonehenge. The provenance for each type of building block is indicated."></p>
+
+---
+
 *Source: Anthony J. I. Clarke et al., "From Highlands to Henge: Refining the Provenance and Transport Pathways of Stonehenge's Altar Stone," Journal of Quaternary Science (June 2026). https://doi.org/10.1002/jqs.70080*
