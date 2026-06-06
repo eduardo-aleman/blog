@@ -49,3 +49,9 @@ Aunque el mandatario manifiesta disposición al diálogo "sin condicionamientos"
 *ElDiario.es* formula interrogantes oportunos sobre los fallos de planificación interna y los ecos del 11J, pero carece de la incisividad necesaria para repreguntar ante las respuestas evasivas. Una entrevista de este calibre a un jefe de Estado en momentos de máxima tensión nacional exigía insistencia en las zonas más opacas del relato oficial: la situación de los presos políticos, las restricciones a la libertad de prensa y, de manera crucial, el éxodo migratorio sin precedentes que desangra al país, con más de un millón de cubanos que han abandonado la isla desde 2021.
 
 La entrevista es, en definitiva, un documento político de primer orden proyectado hacia una audiencia específica. No invalida los datos que ofrece, pero exige al lector la misma vigilancia crítica que cualquier texto diseñado para persuadir tanto como para informar.
+
+---
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"><iframe src="https://geo.dailymotion.com/player.html?video=xad60zy"style="width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden; border:none;"allowfullscreentitle="Dailymotion Video Player"allow="web-share"></iframe></div>
+
+---
