@@ -13,7 +13,6 @@ tags:
   - sanciones
   - Trump
   - España
-  - elDiario.es
   - geopolítica
 image: /images/posts/diaz-canel-entrevista-eldiario-analisis/cover.jpg
 image_alt: "Miguel Díaz-Canel, presidente de Cuba"
