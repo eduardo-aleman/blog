@@ -198,8 +198,6 @@ La reparación principal no es monetaria. Es la que, paradójicamente, más bene
 * Rodriguez, Andrea, y Associated Press. "Cuba Begins to Restore Power After Third Nationwide Collapse." *Fortune,* 22 de marzo de 2026.
 * Saltman, Max, y Gonzalo Zegarra. "The $9 Billion Issue at the Heart of US-Cuba Tensions." *CNN,* 4 de junio de 2026.
 
----
-
 ## Notas
 
 [^1]: Max Saltman y Gonzalo Zegarra, "The $9 Billion Issue at the Heart of US-Cuba Tensions", *CNN*, 4 de junio de 2026.
