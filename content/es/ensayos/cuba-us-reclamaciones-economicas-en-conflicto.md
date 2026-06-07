@@ -157,6 +157,49 @@ La reparación principal no es monetaria. Es la que, paradójicamente, más bene
 
 ---
 
+## Bibliografía seleccionada
+
+**Fuentes primarias y documentos oficiales**
+
+* Orden Ejecutiva 14,XXX, "Addressing Threats to the United States by the Government of Cuba", 29 de enero de 2026.
+* Cuban Liberty and Democratic Solidarity (Libertad) Act of 1996 (Helms-Burton Act), Pub. L. No. 104-114.
+* Comisión de Derecho Internacional, *Artículos sobre la Responsabilidad del Estado por Hechos Internacionalmente Ilícitos* (2001).
+* Resolución 1803 (XVII) de la Asamblea General de la ONU, "Soberanía permanente sobre los recursos naturales" (1962).
+* Resolución 80/4 de la Asamblea General de la ONU, "Necesidad de poner fin al bloqueo económico, comercial y financiero impuesto por los Estados Unidos de América contra Cuba" (2025).
+* Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos, "UN Experts Condemn US Executive Order Imposing Fuel Blockade on Cuba", comunicado de prensa, febrero de 2026.
+* Comisión de Adjudicación de Reclamaciones Extranjeras de los EE. UU., *Cuban Claims Program* (Título V, Ley de Adjudicación de Reclamaciones Internacionales de 1949, modificada).
+
+**Libros**
+
+* Crawford, James. *The International Law Commission's Articles on State Responsibility.* Cambridge: Cambridge University Press, 2002.
+* Pérez Jr., Louis A. *Cuba and the United States: Ties of Singular Intimacy.* 3.ª ed. Athens: University of Georgia Press, 2003.
+* Pérez-Stable, Marifeli. *The Cuban Revolution: Origins, Course, and Legacy.* 3.ª ed. Oxford: Oxford University Press, 2012.
+* Quirk, Robert E. *Fidel Castro.* Nueva York: Norton, 1993.
+* Roy, Joaquín. *Cuba, the United States, and the Helms-Burton Doctrine: International Reactions.* Gainesville: University Press of Florida, 2000.
+* Schoultz, Lars. *That Infernal Little Cuban Republic: The United States and the Cuban Revolution.* Chapel Hill: University of North Carolina Press, 2009.
+* White, Nigel D. *The Cuban Embargo under International Law: El Bloqueo.* Londres: Routledge, 2016.
+
+**Artículos de revistas y documentos de trabajo**
+
+* "Identifying the Effect of the US Embargo on the Cuban Economy: A Comment on Bastos et al." arXiv:2604.19627, 21 de abril de 2026.
+* Vidal, Pavel. "Impact of Sanctions Policy Shifts: A Case Study of the United States and Cuba, 1994–2020." *Journal of International Development* 37 (2025): 540–553.
+
+**Informes y análisis de políticas**
+
+* Proyecto de Construcción de Capacidades de Cuba de la Facultad de Derecho de Columbia (Horizonte Cubano). "What Effects Do US Sanctions Have on the Cuban Economy?" 2024.
+* Council on Foreign Relations. "Trump's Maximum Pressure Campaign on Cuba, Explained." 31 de marzo de 2026.
+* Cuba Study Group. *Without Power, There Is No Country.* Marzo de 2026.
+* "The United States-Cuba Oil Embargo and International Law." *Just Security,* 29 de abril de 2026.
+* "Weaponizing Necessity: Fuel Blockade and the US Economic Warfare Against Cuba." *Verfassungsblog,* 7 de abril de 2026.
+* Oficina de Washington para América Latina (WOLA). "Understanding the Failure of the US Embargo on Cuba." Enero de 2025.
+
+**Periodismo**
+
+* Rodriguez, Andrea, y Associated Press. "Cuba Begins to Restore Power After Third Nationwide Collapse." *Fortune,* 22 de marzo de 2026.
+* Saltman, Max, y Gonzalo Zegarra. "The $9 Billion Issue at the Heart of US-Cuba Tensions." *CNN,* 4 de junio de 2026.
+
+---
+
 ## Notas
 
 [^1]: Max Saltman y Gonzalo Zegarra, "The $9 Billion Issue at the Heart of US-Cuba Tensions", *CNN*, 4 de junio de 2026.
@@ -224,44 +267,3 @@ La reparación principal no es monetaria. Es la que, paradójicamente, más bene
 [^32]: La comparación con Vietnam de Torres se cita en Saltman y Zegarra, "The $9 Billion Issue", 4 de junio de 2026.
 
 ---
-
-## Bibliografía seleccionada
-
-**Fuentes primarias y documentos oficiales**
-
-* Orden Ejecutiva 14,XXX, "Addressing Threats to the United States by the Government of Cuba", 29 de enero de 2026.
-* Cuban Liberty and Democratic Solidarity (Libertad) Act of 1996 (Helms-Burton Act), Pub. L. No. 104-114.
-* Comisión de Derecho Internacional, *Artículos sobre la Responsabilidad del Estado por Hechos Internacionalmente Ilícitos* (2001).
-* Resolución 1803 (XVII) de la Asamblea General de la ONU, "Soberanía permanente sobre los recursos naturales" (1962).
-* Resolución 80/4 de la Asamblea General de la ONU, "Necesidad de poner fin al bloqueo económico, comercial y financiero impuesto por los Estados Unidos de América contra Cuba" (2025).
-* Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos, "UN Experts Condemn US Executive Order Imposing Fuel Blockade on Cuba", comunicado de prensa, febrero de 2026.
-* Comisión de Adjudicación de Reclamaciones Extranjeras de los EE. UU., *Cuban Claims Program* (Título V, Ley de Adjudicación de Reclamaciones Internacionales de 1949, modificada).
-
-**Libros**
-
-* Crawford, James. *The International Law Commission's Articles on State Responsibility.* Cambridge: Cambridge University Press, 2002.
-* Pérez Jr., Louis A. *Cuba and the United States: Ties of Singular Intimacy.* 3.ª ed. Athens: University of Georgia Press, 2003.
-* Pérez-Stable, Marifeli. *The Cuban Revolution: Origins, Course, and Legacy.* 3.ª ed. Oxford: Oxford University Press, 2012.
-* Quirk, Robert E. *Fidel Castro.* Nueva York: Norton, 1993.
-* Roy, Joaquín. *Cuba, the United States, and the Helms-Burton Doctrine: International Reactions.* Gainesville: University Press of Florida, 2000.
-* Schoultz, Lars. *That Infernal Little Cuban Republic: The United States and the Cuban Revolution.* Chapel Hill: University of North Carolina Press, 2009.
-* White, Nigel D. *The Cuban Embargo under International Law: El Bloqueo.* Londres: Routledge, 2016.
-
-**Artículos de revistas y documentos de trabajo**
-
-* "Identifying the Effect of the US Embargo on the Cuban Economy: A Comment on Bastos et al." arXiv:2604.19627, 21 de abril de 2026.
-* Vidal, Pavel. "Impact of Sanctions Policy Shifts: A Case Study of the United States and Cuba, 1994–2020." *Journal of International Development* 37 (2025): 540–553.
-
-**Informes y análisis de políticas**
-
-* Proyecto de Construcción de Capacidades de Cuba de la Facultad de Derecho de Columbia (Horizonte Cubano). "What Effects Do US Sanctions Have on the Cuban Economy?" 2024.
-* Council on Foreign Relations. "Trump's Maximum Pressure Campaign on Cuba, Explained." 31 de marzo de 2026.
-* Cuba Study Group. *Without Power, There Is No Country.* Marzo de 2026.
-* "The United States-Cuba Oil Embargo and International Law." *Just Security,* 29 de abril de 2026.
-* "Weaponizing Necessity: Fuel Blockade and the US Economic Warfare Against Cuba." *Verfassungsblog,* 7 de abril de 2026.
-* Oficina de Washington para América Latina (WOLA). "Understanding the Failure of the US Embargo on Cuba." Enero de 2025.
-
-**Periodismo**
-
-* Rodriguez, Andrea, y Associated Press. "Cuba Begins to Restore Power After Third Nationwide Collapse." *Fortune,* 22 de marzo de 2026.
-* Saltman, Max, y Gonzalo Zegarra. "The $9 Billion Issue at the Heart of US-Cuba Tensions." *CNN,* 4 de junio de 2026.
