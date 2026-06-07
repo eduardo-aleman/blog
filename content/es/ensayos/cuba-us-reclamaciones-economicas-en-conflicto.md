@@ -1,5 +1,5 @@
 ---
-title: "Sesenta y cinco años de daño recíproco: Las reclamaciones económicas en conflicto entre Cuba y los Estados Unidos"
+title: "Las reclamaciones económicas en conflicto entre Cuba y los Estados Unidos"
 date: '2026-06-06'
 draft: false
 type: posts
