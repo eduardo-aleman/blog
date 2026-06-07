@@ -9,7 +9,7 @@ tags: ["paleolithic", "archaeology", "figurative art", "swabian jura", "aurignac
 image: "/images/posts/venus-hohle-fels/Venus_from_Hohle_Fels.png"
 image_alt: "The Venus of Hohle Fels, a small ivory figurine carved approximately 40,000 years ago, photographed against a black background"
 image_caption: "Venus from Hohle Fels © URMU — Museum of Prehistory, Blaubeuren"
-focal_point: "Top"
+focal_point: "Center"
 ---
 
 The story of human art and self-expression is far older than civilization. Deep within the European Upper Paleolithic lies the origin of figurative depiction — a threshold marked by a single, extraordinary object: the Venus of Hohle Fels. Standing as the oldest undisputed representation of a human being ever discovered, this miniature statuette carved from woolly mammoth ivory offers an unparalleled window onto the cognitive, symbolic, and cultural world of early *Homo sapiens*.
