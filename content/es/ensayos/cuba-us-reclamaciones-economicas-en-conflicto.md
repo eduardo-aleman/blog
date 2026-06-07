@@ -266,4 +266,3 @@ La reparación principal no es monetaria. Es la que, paradójicamente, más bene
 
 [^32]: La comparación con Vietnam de Torres se cita en Saltman y Zegarra, "The $9 Billion Issue", 4 de junio de 2026.
 
----
