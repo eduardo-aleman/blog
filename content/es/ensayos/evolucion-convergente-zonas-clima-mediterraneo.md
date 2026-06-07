@@ -18,7 +18,7 @@ tags:
   - mallee
   - biogeografía
   - botánica
-image: '/images/posts/evolucion-convergente-zonas-clima-mediterraneo/cover.jpg'
+image: '/images/posts/evolucion-convergente-zonas-clima-mediterraneo/cubierta.jpg'
 image_alt: 'cinco zonas de clima mediterráneo'
 slug: 'evolucion-convergente-zonas-clima-mediterraneo'
 ---
