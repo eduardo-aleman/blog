@@ -1,6 +1,6 @@
 ---
 title: "Whoever You Are Holding Me Now in Hand"
-date: '2026-05-24'
+date: '2026-01-08'
 summary: "Walt Whitman’s \"Whoever You Are Holding Me Now in Hand\" personifies the book as the poet himself. It intimately warns the reader that the text resists easy possession, meditating on desire, reading, and the impossibility of fully knowing another."
 categories:
 - Poetry

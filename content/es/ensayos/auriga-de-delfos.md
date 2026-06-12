@@ -1,7 +1,7 @@
 ---
 title: "La Auriga de Delfos y el estilo severo"
 slug: "auriga-de-delfos-estilo-severo"
-date: 2026-01-14
+date: 2026-01-17
 draft: false
 description: "Análisis de la Auriga de Delfos como ejemplo del estilo severo, el período de transición entre la escultura griega arcaica y la clásica plena."
 summary: "Análisis de la Auriga de Delfos como ejemplo del estilo severo, el período de transición entre la escultura griega arcaica y la clásica plena."
