@@ -18,7 +18,7 @@ tags:
 image: "/images/posts/gaesa/trinidad_cuba.jpg"
 focal_point: "center"
 image_caption: "Cobblestone street in Trinidad, Cuba"
-image_alt: "Cobblestone street in Trinidad, Cuba"
+image_alt: "Cobblestone street in Trinidad, Cuba. Photo is mine."
 ---
 
 The Cuban military conglomerate known as GAESA has moved from the shadows to the center of geopolitical confrontation in a matter of weeks. As U.S. sanctions tighten and foreign hotel chains exit the island, competing narratives have hardened into something resembling a propaganda war. The *Financial Times*, the *New York Times*, the *Miami Herald*, and a leaked trove of internal financial documents have all added texture to the story — but so has Havana's own June 2 public defense of the conglomerate, one of the most expansive statements the Cuban government has ever made about it. And then there is the case of Alejandro Gil — former economy minister, once Díaz-Canel's closest economic adviser, now serving life in prison — whose prosecution, tried entirely behind closed doors, may tell us more about GAESA's true nature than any sanctions package or government press release. Here is what the evidence actually shows, and where it runs out.

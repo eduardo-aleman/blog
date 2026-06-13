@@ -15,7 +15,7 @@ categories:
 author: ""
 slug: "ninety-miles-and-counting"
 image: "/images/posts/cuba-news-analysis-2026-05-27/la_habana_2007.jpg"
-image_caption: "View from the steps of the Havana Capitol."
+image_caption: "View from the steps of the Havana Capitol. Photo is mine."
 ---
 
 America's maximum pressure campaign against Cuba has achieved something remarkable: it has made the island's misery someone else's problem. Cuban migrants who once streamed toward the U.S. border---down 99 percent from the Biden years---now move south instead, flooding Brazil, Mexico, and Uruguay with asylum claims. Brazil alone absorbed more than 41,000 Cuban applicants in 2025, nearly double the previous year; Cubans now make up 55 percent of all asylum-seekers there. Mexico issued humanitarian visitor cards to Cubans at a rate that jumped from 23 percent of its total in 2024 to 78 percent this year. Washington has redirected the pressure without relieving it, and the bill is landing in capitals that have little reason to be grateful.

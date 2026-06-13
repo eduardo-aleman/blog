@@ -11,7 +11,7 @@ tags:
   - Granma
   - Diplomacy
 image: "/images/posts/granma-cia-aid-thaw/la_habana.jpg"
-image_caption: "La Habana, Cuba. Memoria de mi visita en el 2026."
+image_caption: "La Habana, Cuba. Photo is mine."
 ---
 
 On May 14, 2026, **Granma**—the official voice of the Central Committee of the Communist Party of Cuba—published two reports that represent a significant pivot in the government's public posture toward the United States. Together, they outline a new strategy: public engagement with Washington’s security apparatus alongside a conditional acceptance of humanitarian aid.

@@ -19,7 +19,7 @@ tags:
   - geopolítica
 image: '/images/posts/cuba-us-reclamaciones-economicas-en-conflicto/plaza_de_la_revolucion.JPG'
 image_alt: 'Plaza de la Revolución en la Habana, Cuba'
-image_caption: 'Plaza de la Revolución en la Habana, Cuba'
+image_caption: 'Plaza de la Revolución en la Habana, Cuba. Foto del autor.'
 slug: 'cuba-us-reclamaciones-economicas-en-conflicto'
 ---
 

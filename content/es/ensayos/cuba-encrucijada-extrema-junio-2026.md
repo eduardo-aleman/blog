@@ -18,7 +18,7 @@ tags:
   - Marco Rubio
   - Helms-Burton
 image: '/images/posts/cuba/santa_clara_parque_vidal.jpeg'
-image_caption: 'Niños cubanos en el parque Vidal de Santa Clara'
+image_caption: 'Niños cubanos en el parque Vidal de Santa Clara. Foto del autor.'
 image_alt: 'Niños cubanos en el parque Vidal de Santa Clara'
 focal_point: ''
 ---

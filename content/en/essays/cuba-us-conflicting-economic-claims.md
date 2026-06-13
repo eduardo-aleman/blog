@@ -19,7 +19,7 @@ tags:
     - geopolitics
 image: '/images/posts/cuba-us-reclamaciones-economicas-en-conflicto/plaza_de_la_revolucion.JPG'
 image_alt: 'Plaza de la Revolución in Havana, Cuba'
-image_caption: 'Plaza de la Revolución in Havana, Cuba'
+image_caption: 'Plaza de la Revolución in Havana, Cuba. Photo is mine.'
 slug: 'cuba-us-conflicting-economic-claims'
 ---
 

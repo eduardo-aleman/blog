@@ -15,7 +15,7 @@ categories:
 author: ""
 slug: "a-noventa-millas"
 image: "/images/posts/cuba-news-analysis-2026-05-27/la_habana_2007.jpg"
-image_caption: "Vista desde las escalinatas del Capitolio de La Habana."
+image_caption: "Vista desde las escalinatas del Capitolio de La Habana. Foto del autor."
 ---
 
 La campaña de presión máxima de Estados Unidos contra Cuba ha logrado algo notable: ha convertido la miseria de la isla en el problema de otros. Los migrantes cubanos que antes llegaban en masa a la frontera estadounidense ---hoy un 99 por ciento menos que durante los años de Biden--- ahora se dirigen al sur, desbordando con solicitudes de asilo Brasil, México y Uruguay. Solo Brasil absorbió más de 41.000 solicitudes cubanas en 2025, casi el doble que el año anterior; los cubanos representan ya el 55 por ciento de todos los solicitantes de asilo en ese país. México emitió tarjetas de visitante humanitario a cubanos en una proporción que saltó del 23 por ciento de su total en 2024 al 78 por ciento este año. Washington ha redirigido la presión sin aliviarla, y la factura está llegando a capitales que tienen pocos motivos para agradecerlo.

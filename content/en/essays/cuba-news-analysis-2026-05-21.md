@@ -36,7 +36,7 @@ summary: >
   campaign with parallels to the Trump administration's earlier action against
   Venezuela.
 image: "/images/posts/cuba-news-analysis-2026-05-21/Vought_OS2U-3_Kingfisher.JPG"
-image_caption: "Vought OS2U-3 Kingfisher aircraft, a military seaplane used by the regime of Fulgencio Batista, displayed at the Museum of the Revolution in Havana, Cuba. It was captured and repurposed by rebel troops. The aircraft is located in the outdoor pavilion area, often referred to as the Granma Memorial area of the museum complex."
+image_caption: "Vought OS2U-3 Kingfisher aircraft, a military seaplane used by the regime of Fulgencio Batista, displayed at the Museum of the Revolution in Havana, Cuba. It was captured and repurposed by rebel troops. The aircraft is located in the outdoor pavilion area, often referred to as the Granma Memorial area of the museum complex. Photo is mine."
 ---
 
 ## At a glance

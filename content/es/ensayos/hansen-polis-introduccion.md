@@ -10,7 +10,7 @@ tags:
   - democracia antigua
   - traducción
 image: "/images/posts/hansen-polis-introduccion/acropolis.jpg"
-image_caption: "Acrópolis de Atenas: una ciudadela histórica situada sobre un promontorio rocoso que domina la ciudad de Atenas, Grecia. El sitio alberga varias estructuras antiguas de gran importancia, destacando especialmente el Partenón, el gran templo columnado visible en la cima. Polis (plural: poleis) refers to a self-governing city-state, while acropolis comes from akro (highest/edge) and polis (city). Memoria de mi visita en el 2007."
+image_caption: "Acrópolis de Atenas: una ciudadela histórica situada sobre un promontorio rocoso que domina la ciudad de Atenas, Grecia. El sitio alberga varias estructuras antiguas de gran importancia, destacando especialmente el Partenón, el gran templo columnado visible en la cima. Foto del autor."
 ---
 
 ## Para John Crook

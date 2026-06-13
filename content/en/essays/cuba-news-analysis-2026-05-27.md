@@ -25,7 +25,7 @@ tags:
   - USS Nimitz
   - Caribbean
 image: "/images/posts/cuba-news-analysis-2026-05-27/plaza_havana.jpg"
-image_caption: "José Martí Memorial, located in the Plaza de la Revolución in Havana, Cuba"
+image_caption: "José Martí Memorial, located in the Plaza de la Revolución in Havana, Cuba. Photo is mine."
 ---
 
 The three days between May 25 and May 27, 2026, did not produce a war. They produced something more characteristic of how modern wars begin: a public inventory of the pieces. Politico, citing a defense official, laid out the Pentagon's regional posture and the timeline pressure on the deployed force. Cuba's foreign minister stood at the United Nations Security Council and read the names of what would be lost. The _New York Times_ described kitchens in Santiago de Cuba where charcoal and Styrofoam have replaced cooking gas. And on Wednesday afternoon, at a Cabinet meeting in the White House, Secretary of State Marco Rubio repeated the formulation that has become this administration's working thesis: "Having a failed state 90 miles from our shores is a threat to the national security of the United States."
