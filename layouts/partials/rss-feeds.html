@@ -24,7 +24,7 @@
 {{ $epoch := time.AsTime "1970-01-01T00:00:00Z" }}
 {{ $lang  := site.Language.Lang }}
 
-{{ with hugo.Data.feeds }}
+{{ with site.Data.feeds }}
   {{ if .sections }}
     {{ $heading := index .heading $lang | default (index .heading "en") | default "Dispatches" }}
     <section class="feeds-section" aria-label="{{ $heading }}">
