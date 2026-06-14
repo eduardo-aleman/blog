@@ -3,7 +3,6 @@ title: "Reading Capital: The Commodity and the Two-Fold Character of Labor"
 date: '2026-06-12'
 draft: false
 type: posts
-category: editorial
 summary: "The first entry in a section-by-section reading of Marx's Capital. We begin where he does, with the commodity and the labor behind it — use-value and value, socially necessary labor time, and the split between concrete and abstract labor — and set the major objections and replies side by side. These opening pages are the most contested in the history of economics, and almost everything in the thousand that follow is already loaded into them."
 description: "A plain-language guide to Chapter One, Sections 1 and 2 of Marx's Capital: use-value and value, the labor theory of value, socially necessary labor time, and concrete versus abstract labor, with the central critiques and Marxist defenses laid out clearly."
 categories:
