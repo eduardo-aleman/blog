@@ -14,7 +14,7 @@ tags:
   - political economy
   - value
   - economics
-image: /images/posts/reading-capital-commodity-and-labor/cover.jpg
+image: /images/posts/reading-capital-commodity-and-labor/cover_matsys.jpg
 image_alt: "Title page of an early edition of Karl Marx's Das Kapital"
 image_caption: "Title page of the first volume of Das Kapital (1867)."
 toc: true
