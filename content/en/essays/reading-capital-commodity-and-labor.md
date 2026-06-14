@@ -17,7 +17,7 @@ tags:
   - economics
 image: /images/posts/reading-capital-commodity-and-labor/cover.jpg
 image_alt: "Title page of an early edition of Karl Marx's Das Kapital"
-image_caption: "Title page of the first volume of *Das Kapital* (1867)."
+image_caption: "Title page of the first volume of Das Kapital (1867)."
 toc: true
 slug: reading-capital-commodity-and-labor
 ---
