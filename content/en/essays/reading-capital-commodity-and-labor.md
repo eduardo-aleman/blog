@@ -1,6 +1,6 @@
 ---
 title: "Reading Capital: The Commodity and the Two-Fold Character of Labor"
-date: '2026-06-13'
+date: '2026-06-12'
 draft: false
 type: posts
 category: editorial
