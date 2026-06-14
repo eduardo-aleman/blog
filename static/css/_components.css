@@ -775,3 +775,103 @@
   border-top: 1px solid var(--border);
   padding-top: var(--space-xl);
 }
+/* ====== DISPATCHES (HOMEPAGE RSS FEEDS) ======
+   Rendered by partials/rss-feeds.html from data/feeds.toml. Mirrors the
+   essays grid: single column up to 1024px, then 1fr 1.4fr 1fr with a wider
+   editorial middle. Constrained to the same 1200px as .essays-grid-section
+   so the columns — and the separating top rule — line up with the posts. */
+
+.feeds-section {
+  max-width: 1200px;
+  margin: var(--space-3xl) auto 0 auto;
+  padding-top: var(--space-2xl);
+  border-top: 1px solid var(--border);
+}
+
+.feeds-section__heading {
+  margin: 0 0 var(--space-2xl) 0;
+  font-family: var(--serif-primary);
+  font-size: var(--step-2);
+  font-weight: 600;
+  text-align: center;
+  letter-spacing: 0.01em;
+  color: var(--text);
+}
+
+/* Single column by default (mobile + tablet), matching .essays-grid. */
+.feeds-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--space-xl);
+}
+
+/* Three columns on desktop, wider editorial middle — mirrors .essays-grid. */
+@media (min-width: 1024px) {
+  .feeds-grid {
+    grid-template-columns: 1fr 1.4fr 1fr;
+    gap: var(--space-2xl);
+    align-items: start;
+  }
+}
+
+.feed-category__title {
+  margin: 0 0 var(--space-md) 0;
+  padding-bottom: var(--space-sm);
+  border-bottom: 1px solid var(--border);
+  font-family: var(--serif-primary);
+  font-size: var(--step-1);
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  color: var(--text);
+}
+
+/* Remove list bullets and default indentation. */
+.feed-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.feed-item {
+  padding: var(--space-sm) 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.feed-item:last-child {
+  border-bottom: 0;
+}
+
+.feed-item__link {
+  display: block;
+  font-family: var(--serif-primary);
+  font-size: var(--step-0);
+  line-height: 1.3;
+  color: var(--text);
+  text-decoration: none;
+  transition: color var(--transition-normal);
+}
+
+.feed-item__link:hover {
+  color: var(--accent);
+}
+
+.feed-item__meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.35rem 0.6rem;
+  margin-top: 0.3rem;
+  font-family: var(--sans-meta);
+  font-size: var(--step--1);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--muted);
+}
+
+.feed-item__source {
+  font-weight: 500;
+}
+
+.feed-item__date {
+  white-space: nowrap;
+}

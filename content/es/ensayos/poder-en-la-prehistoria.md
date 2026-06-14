@@ -2,7 +2,6 @@
 title: "¿Cómo funcionaba el poder en la prehistoria? Más allá de reyes y ejércitos"
 date: 2026-05-30
 draft: false
-lang: es
 tags:
   - prehistoria
   - arqueología

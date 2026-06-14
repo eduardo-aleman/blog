@@ -1,0 +1,179 @@
+# =============================================================================
+# data/feeds.toml
+# -----------------------------------------------------------------------------
+# Drives the homepage "Dispatches" section, per language. The same file feeds
+# both the English (/en) and Spanish (/es) homepages; the `lang` field on each
+# feed decides where it appears.
+#
+# STRUCTURE
+#   [heading]                       bilingual section heading
+#   [[sections]]                    one category
+#     id        = "..."             stable id (used for the anchor + CSS hook)
+#     limit     = 6                 max items shown (newest first)
+#     [sections.title]              bilingual category title
+#       en / es
+#     [[sections.feeds]]            one source
+#       name = "..."                small label shown under each headline
+#       url  = "..."                RSS/Atom URL
+#       lang = "en" | "es"          show only on that homepage; omit = both
+#
+# FEED TYPES
+#   native   — the publication's own RSS feed (clean, direct article links).
+#   gnews    — a Google News search feed. `q=site:DOMAIN` pulls *only* that
+#              outlet; add topic words to filter a general-interest site.
+#              Links are news.google.com redirects. Locale: en -> hl=en-US
+#              gl=US ceid=US:en ; es -> hl=es gl=ES ceid=ES:es.
+#
+# A dead or empty feed is skipped at build time and named in a `warnf` line in
+# your `hugo serve` output — watch there to spot any URL that needs adjusting.
+# =============================================================================
+
+[heading]
+  en = "Dispatches"
+  es = "Despachos"
+
+# -----------------------------------------------------------------------------
+# CUBA — all major newspapers via Google News (English on /en, Spanish on /es)
+# -----------------------------------------------------------------------------
+[[sections]]
+  id    = "cuba"
+  limit = 6
+  [sections.title]
+    en = "Cuba"
+    es = "Cuba"
+
+  [[sections.feeds]]
+    name = "Google News"
+    lang = "en"
+    url  = "https://news.google.com/rss/search?q=Cuba+when:7d&hl=en-US&gl=US&ceid=US:en"
+  [[sections.feeds]]
+    name = "Google News"
+    lang = "es"
+    url  = "https://news.google.com/rss/search?q=Cuba+when:7d&hl=es-419&gl=US&ceid=US:es-419"
+
+# -----------------------------------------------------------------------------
+# INDEPENDENT LEFT PRESS — English outlets on /en, Spanish outlets on /es
+# -----------------------------------------------------------------------------
+[[sections]]
+  id    = "left-press"
+  limit = 6
+  [sections.title]
+    en = "Independent Left Press"
+    es = "Prensa de Izquierda Independiente"
+
+  # --- English (native feeds) ---
+  [[sections.feeds]]
+    name = "Democracy Now"
+    lang = "en"
+    url  = "https://www.democracynow.org/democracynow.rss"
+  [[sections.feeds]]
+    name = "Jacobin"
+    lang = "en"
+    url  = "https://jacobin.com/feed"
+  [[sections.feeds]]
+    name = "Drop Site News"
+    lang = "en"
+    url  = "https://www.dropsitenews.com/feed"
+  [[sections.feeds]]
+    name = "The Intercept"
+    lang = "en"
+    url  = "https://theintercept.com/feed/"
+  [[sections.feeds]]
+    name = "+972 Magazine"
+    lang = "en"
+    url  = "https://www.972mag.com/feed/"
+  [[sections.feeds]]
+    name = "Truthout"
+    lang = "en"
+    url  = "https://truthout.org/feed/"
+  [[sections.feeds]]
+    name = "Monthly Review"
+    lang = "en"
+    url  = "https://mronline.org/feed/"
+
+  # --- Spanish ---
+  [[sections.feeds]]                         # native
+    name = "elDiario.es"
+    lang = "es"
+    url  = "https://www.eldiario.es/rss/"
+  [[sections.feeds]]                         # native (general edition)
+    name = "El Salto"
+    lang = "es"
+    url  = "https://www.elsaltodiario.com/general/feed"
+  [[sections.feeds]]                         # gnews site:
+    name = "Público"
+    lang = "es"
+    url  = "https://news.google.com/rss/search?q=site:publico.es+when:7d&hl=es&gl=ES&ceid=ES:es"
+  [[sections.feeds]]                         # gnews site:
+    name = "CTXT"
+    lang = "es"
+    url  = "https://news.google.com/rss/search?q=site:ctxt.es+when:14d&hl=es&gl=ES&ceid=ES:es"
+  [[sections.feeds]]                         # gnews site:
+    name = "La Izquierda Diario"
+    lang = "es"
+    url  = "https://news.google.com/rss/search?q=site:izquierdadiario.es+when:14d&hl=es&gl=ES&ceid=ES:es"
+  [[sections.feeds]]                         # gnews site:
+    name = "Le Monde Diplomatique"
+    lang = "es"
+    url  = "https://news.google.com/rss/search?q=site:mondiplo.com+when:14d&hl=es&gl=ES&ceid=ES:es"
+  [[sections.feeds]]                         # gnews site:
+    name = "Wambra"
+    lang = "es"
+    url  = "https://news.google.com/rss/search?q=site:wambra.ec+when:14d&hl=es-419&gl=US&ceid=US:es-419"
+  [[sections.feeds]]                         # gnews site:
+    name = "Revista Crisis"
+    lang = "es"
+    url  = "https://news.google.com/rss/search?q=site:revistacrisis.com.ar+when:14d&hl=es-419&gl=US&ceid=US:es-419"
+  # Café Kyoto (YouTube): handle-based feeds aren't supported — YouTube needs
+  # the channel_id. Open the channel, View Source, search "channelId" (a UC…
+  # string), then uncomment and paste it below.
+  # [[sections.feeds]]
+  #   name = "Café Kyoto"
+  #   lang = "es"
+  #   url  = "https://www.youtube.com/feeds/videos.xml?channel_id=UCxxxxxxxxxxxxxxxxxxxxxx"
+
+# -----------------------------------------------------------------------------
+# ARCHAEOLOGY & ANTIQUITY — five English sources on /en, Spanish sources on /es
+# -----------------------------------------------------------------------------
+[[sections]]
+  id    = "archaeology"
+  limit = 6
+  [sections.title]
+    en = "Archaeology & Antiquity"
+    es = "Arqueología y Antigüedad"
+
+  # --- English ---
+  [[sections.feeds]]                         # native WordPress category feed
+    name = "HeritageDaily"
+    lang = "en"
+    url  = "https://www.heritagedaily.com/category/archaeology-news/feed/"
+  [[sections.feeds]]                         # gnews site:
+    name = "Archaeology"
+    lang = "en"
+    url  = "https://news.google.com/rss/search?q=site:archaeology.org+when:30d&hl=en-US&gl=US&ceid=US:en"
+  [[sections.feeds]]                         # gnews site: + topic filter
+    name = "The Art Newspaper"
+    lang = "en"
+    url  = "https://news.google.com/rss/search?q=site:theartnewspaper.com+(archaeology+OR+antiquities)+when:30d&hl=en-US&gl=US&ceid=US:en"
+  [[sections.feeds]]                         # gnews site: + topic filter
+    name = "Smithsonian"
+    lang = "en"
+    url  = "https://news.google.com/rss/search?q=site:smithsonianmag.com+archaeology+when:30d&hl=en-US&gl=US&ceid=US:en"
+  [[sections.feeds]]                         # gnews site:
+    name = "Antiquity"
+    lang = "en"
+    url  = "https://news.google.com/rss/search?q=site:antiquity.ac.uk+when:90d&hl=en-US&gl=US&ceid=US:en"
+
+  # --- Spanish ---
+  [[sections.feeds]]                         # gnews site: + topic filter
+    name = "National Geographic"
+    lang = "es"
+    url  = "https://news.google.com/rss/search?q=site:historia.nationalgeographic.com.es+arqueolog%C3%ADa+when:30d&hl=es&gl=ES&ceid=ES:es"
+  [[sections.feeds]]                         # gnews site:
+    name = "Desperta Ferro"
+    lang = "es"
+    url  = "https://news.google.com/rss/search?q=site:despertaferro-ediciones.com+when:90d&hl=es&gl=ES&ceid=ES:es"
+  [[sections.feeds]]                         # gnews site:
+    name = "SEHA"
+    lang = "es"
+    url  = "https://news.google.com/rss/search?q=site:seha.es+when:90d&hl=es&gl=ES&ceid=ES:es"

@@ -1,0 +1,124 @@
+{{/*
+  layouts/partials/rss-feeds.html
+  --------------------------------------------------------------------------
+  Build-time RSS aggregator. Reads data/feeds.toml, fetches each feed with
+  resources.GetRemote, parses the XML, merges + de-duplicates items per
+  category, sorts newest-first, and renders a static list (max `limit` items).
+
+  Bilingual: heading + section titles are looked up by the current site
+  language ($lang). A feed tagged `lang` renders only on the matching
+  homepage; an untagged feed renders on every language.
+
+  Robust to messy feeds. XML -> Go is irregular across publishers:
+   - a channel with one <item> unmarshals to a single map, not a slice;
+     we coerce `item` to a slice before ranging.
+   - repeated <title>/<link>/<pubDate> unmarshal to slices; we take the
+     first scalar element of each.
+   - a dead or malformed feed is skipped (logged via warnf), never fatal.
+
+  Hugo >= 0.141 (Resource.Err removed -> `try`); Hugo's template fork has no
+  `{{ else with }}`, so branching uses a nested `with`. Tested target: 0.162.
+  --------------------------------------------------------------------------
+*/}}
+
+{{ $epoch := time.AsTime "1970-01-01T00:00:00Z" }}
+{{ $lang  := site.Language.Lang }}
+
+{{ with hugo.Data.feeds }}
+  {{ if .sections }}
+    {{ $heading := index .heading $lang | default (index .heading "en") | default "Dispatches" }}
+    <section class="feeds-section" aria-label="{{ $heading }}">
+      <h2 class="feeds-section__heading">{{ $heading }}</h2>
+
+      <div class="feeds-grid">
+        {{ range .sections }}
+          {{ $section := . }}
+          {{ $title := index .title $lang | default (index .title "en") | default .id }}
+          {{ $limit := .limit | default 6 }}
+          {{ $items := slice }}
+          {{ $seen  := dict }}
+
+          {{ range .feeds }}
+            {{/* Skip feeds tagged for a different language; untagged = all. */}}
+            {{ if or (not .lang) (eq .lang $lang) }}
+              {{ $feedName := .name }}
+              {{ $fetch := try (resources.GetRemote .url) }}
+              {{ if $fetch.Err }}
+                {{ warnf "rss-feeds: could not fetch %q (%s)" $feedName $fetch.Err }}
+              {{ else }}
+                {{ with $fetch.Value }}
+                  {{ $parsed := try (transform.Unmarshal .) }}
+                  {{ if $parsed.Err }}
+                    {{ warnf "rss-feeds: could not parse %q (%s)" $feedName $parsed.Err }}
+                  {{ else }}
+                    {{ with $parsed.Value.channel }}
+                      {{/* Coerce a single <item> map into a one-element slice. */}}
+                      {{ with .item }}
+                        {{ $list := . }}
+                        {{ if not (reflect.IsSlice $list) }}{{ $list = slice $list }}{{ end }}
+                        {{ range $list }}
+                          {{/* Normalize fields that may arrive as slices. */}}
+                          {{ $link := .link }}
+                          {{ if reflect.IsSlice $link }}{{ $link = index $link 0 }}{{ end }}
+
+                          {{ if and $link (not (index $seen $link)) }}
+                            {{ $seen = merge $seen (dict $link true) }}
+
+                            {{ $ttl := .title }}
+                            {{ if reflect.IsSlice $ttl }}{{ $ttl = index $ttl 0 }}{{ end }}
+                            {{ $ttl = $ttl | default "" }}
+
+                            {{ $pub := .pubDate }}
+                            {{ if reflect.IsSlice $pub }}{{ $pub = index $pub 0 }}{{ end }}
+
+                            {{ $t := $epoch }}
+                            {{ with $pub }}
+                              {{ $tp := try (time.AsTime .) }}
+                              {{ if not $tp.Err }}{{ $t = $tp.Value }}{{ end }}
+                            {{ end }}
+
+                            {{ $items = $items | append (dict
+                                "title"  ($ttl | htmlUnescape)
+                                "link"   $link
+                                "source" $feedName
+                                "date"   $t
+                                "unix"   $t.Unix
+                            ) }}
+                          {{ end }}
+                        {{ end }}
+                      {{ end }}
+                    {{ end }}
+                  {{ end }}
+                {{ end }}
+              {{ end }}
+            {{ end }}
+          {{ end }}
+
+          {{ $items = first $limit (sort $items "unix" "desc") }}
+
+          {{ if $items }}
+            <div class="feed-category" id="feed-{{ $section.id }}">
+              <h3 class="feed-category__title">{{ $title }}</h3>
+              <ul class="feed-list">
+                {{ range $items }}
+                  <li class="feed-item">
+                    <a class="feed-item__link"
+                       href="{{ .link }}"
+                       target="_blank" rel="noopener noreferrer">{{ .title }}</a>
+                    <div class="feed-item__meta">
+                      <span class="feed-item__source">{{ .source }}</span>
+                      {{ if gt .unix $epoch.Unix }}
+                        <time class="feed-item__date"
+                              datetime="{{ .date.Format "2006-01-02" }}">{{ .date.Format "Jan 2" }}</time>
+                      {{ end }}
+                    </div>
+                  </li>
+                {{ end }}
+              </ul>
+            </div>
+          {{ end }}
+        {{ end }}
+      </div>
+    </section>
+  {{ end }}
+{{ end }}
