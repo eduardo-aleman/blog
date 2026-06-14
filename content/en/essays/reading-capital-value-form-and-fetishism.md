@@ -15,7 +15,7 @@ tags:
   - commodity fetishism
   - political economy
   - economics
-image: /images/posts/reading-capital-value-form-and-fetishism/cover.jpg
+image: /images/posts/reading-capital/cover_matsys.jpg
 image_alt: "Quentin Matsys's The Money Changer and His Wife at the Louvre"
 image_caption: "Quentin Matsys's The Money Changer and His Wife at the Louvre"
 toc: true
