@@ -105,13 +105,6 @@
                     <a class="feed-item__link"
                        href="{{ .link }}"
                        target="_blank" rel="noopener noreferrer">{{ .title }}</a>
-                    <div class="feed-item__meta">
-                      <span class="feed-item__source">{{ .source }}</span>
-                      {{ if gt .unix $epoch.Unix }}
-                        <time class="feed-item__date"
-                              datetime="{{ .date.Format "2006-01-02" }}">{{ .date.Format "Jan 2" }}</time>
-                      {{ end }}
-                    </div>
                   </li>
                 {{ end }}
               </ul>
