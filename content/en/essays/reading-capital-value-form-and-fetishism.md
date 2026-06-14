@@ -1,6 +1,6 @@
 ---
 title: "Reading Capital: The Form of Value and the Fetishism of Commodities"
-date: '2026-06-13'
+date: '2026-01-21'
 draft: false
 type: posts
 summary: "The second entry in a section-by-section reading of Marx's Capital. Having found labor inside the commodity, Marx now asks how invisible value ever becomes visible — a chain of small logical steps that leads to money — and then pulls back the curtain on the whole arrangement in his famous account of commodity fetishism. Section 3 is the hardest stretch in the chapter and Section 4 the most beloved; together they finish Marx's portrait of the commodity, with the central objections and replies set side by side."

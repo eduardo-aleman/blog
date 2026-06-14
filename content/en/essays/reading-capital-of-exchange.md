@@ -1,6 +1,6 @@
 ---
 title: "Reading Capital: Of Exchange"
-date: '2026-06-14'
+date: '2026-01-22'
 draft: false
 type: posts
 summary: "The third entry in a section-by-section reading of Marx's Capital. Chapter Two sets the commodities in motion and introduces the people who carry them. It is one of the shortest chapters in the book, but it does two distinctive things: it derives the legal person — owner, contract, rights-bearing individual — from the bare fact of exchange, and it tells the story of how money is actually born, as something a whole society stumbles into without meaning to. The major objections this time come from the anthropology of money and the theory of law."
