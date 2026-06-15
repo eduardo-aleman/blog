@@ -12,7 +12,7 @@ tags:
   - "Iran"
   - "United States"
   - "Strait of Hormuz"
-  - "nuclear nonproliferation"
+  - "Nuclear Nonproliferation"
   - "Middle East"
 image: "/images/posts/us-iran-deal-arithmetic-of-nothing/cover.jpg"
 image_alt: "Characterized by barren, rugged limestone peaks rising up to 2,000 meters (6,500 feet) to form dramatic, fjord-like coastal inlets, the Musandam Peninsula juts directly into the strategic Strait of Hormuz, which connects the Persian Gulf with the Gulf of Oman between Iran, Oman, and the United Arab Emirates. As a political exclave of Oman separated from the rest of its country by the UAE, the peninsula's northernmost city of Khasab sits just 65 kilometers (40 miles) across the water from the Iranian city of Bandar Abbas. The local economy is driven primarily by traditional industries like fishing, agriculture, and shipbuilding. This striking geography and its surrounding waters were beautifully captured in a true-color image by the MODIS instrument on NASA’s Terra satellite on December 6, 2018."
