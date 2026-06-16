@@ -1,6 +1,6 @@
 ---
 title: "Reading Capital: The General Formula for Capital"
-date: '2026-01-22'
+date: '2026-01-24'
 draft: false
 type: posts
 summary: "The fifth entry in a section-by-section reading of Marx's Capital, and the first of Part Two. Here money stops serving exchange and begins serving itself: a person lays out money not to buy something to use but to end with more money than he began with. The result is capital — value in motion, self-expanding, endless — and the human capitalist is demoted to its conscious instrument. The chapter ends by setting a trap, the riddle of where the increment comes from, which the next chapter must spring. Critiques this time run from methodological individualism to Schumpeter's growth engine."
