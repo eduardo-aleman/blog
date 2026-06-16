@@ -1,7 +1,7 @@
 ---
 title: "G7 Opens at Évian as Trump's Iran Deal Overshadows France's Economic Agenda"
 date: '2026-06-15'
-draft: true
+draft: false
 type: posts
 summary: "World leaders gathered in Évian-les-Bains on Monday for the 52nd G7 summit, where France's carefully built agenda on macroeconomic imbalances, critical minerals and artificial intelligence was overtaken by the preliminary U.S.–Iran agreement President Trump announced on the eve of the meeting. A news report on what is on the table at Évian, topic by topic — and on the deal that drew a defiant response from Prime Minister Netanyahu and cautious, undisclosed-terms skepticism on Capitol Hill."
 description: "News coverage of the 2026 G7 summit at Évian-les-Bains, France (15–17 June 2026): the official agenda — the Middle East and the U.S.–Iran ceasefire, more balanced economic growth, economic security and critical minerals, Ukraine, the future of AI, and development partnerships — addressed item by item, with reaction from Benjamin Netanyahu, the U.S. Congress, and the June 15 New York Times editorial."
