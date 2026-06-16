@@ -1,6 +1,6 @@
 ---
 title: "Leonardo da Vinci's Rule of Trees"
-date: 2026-01-27
+date: 2025-11-08
 tags:
   - leonardo da vinci
   - botany
