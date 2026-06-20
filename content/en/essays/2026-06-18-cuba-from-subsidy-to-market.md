@@ -18,8 +18,8 @@ tags:
   - National Assembly
   - dollarization
 image: /images/posts/cuba-from-subsidy-to-market/cover.jpg
-image_alt: "Cuban Prime Minister Manuel Marrero Cruz during his address at the third extraordinary session of the 10th Legislature of the National Assembly of People's Power. Photo: Abel Padrón Padilla/Cubadebate."
-image_caption: "Cuban Prime Minister Manuel Marrero Cruz during his address at the third extraordinary session of the 10th Legislature of the National Assembly of People's Power. Photo: Abel Padrón Padilla/Cubadebate."
+image_alt: "Deputies of Cuba's National Assembly of People's Power in session at the Palacio de Convenciones in Havana."
+image_caption: "The Third Extraordinary Session of the Tenth Legislature, Havana, 18 June 2026."
 toc: true
 slug: from-subsidy-to-market-cuba
 ---
@@ -37,6 +37,8 @@ The second admission was diagnostic, and arguably more damaging to the regime's 
 ## The scope of the turn
 
 The architecture of the package is best understood not axis by axis but as a coordinated retreat of the state from three functions it had monopolized: ownership, allocation, and price.
+
+{{< figure src="/images/posts/cuba-from-subsidy-to-market/reforms-diagram-en.svg" alt="Diagram of Cuba's June 2026 reforms grouped by the state's retreat from ownership, allocation, and price, with U.S. secondary sanctions as the binding constraint" caption="The package at a glance: the Cuban state retreats from ownership, allocation, and price—courting the very capital that U.S. sanctions are positioned to repel." >}}
 
 On ownership, the state enterprise is to be remade. It gains real autonomy to set its own wages and prices, to invest financially, to keep more of its after-tax profit—and, decisively, it is to be converted into a commercial company issuing shares. The state will define its stake sector by sector, keeping a majority only in those it deems strategic; elsewhere, cooperatives, private firms, and natural persons—Cuban or foreign, resident or in the diaspora—may buy in. A national program will inventory and title state assets at market value so they can serve as bankable collateral or be leased to private and foreign operators. In parallel, the private sector is unbound: firms may exceed one hundred workers, organize as joint-stock corporations, hold stakes in more than one company, and a single person may now own several. Foreign direct investment is invited straight into private firms and SMEs, with surface rights extended to ninety-nine years and the obligatory state hiring intermediary abolished.
 

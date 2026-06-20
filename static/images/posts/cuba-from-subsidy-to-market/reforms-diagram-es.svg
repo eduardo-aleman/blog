@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-label="Diagrama de las reformas economicas cubanas de junio de 2026 agrupadas por la retirada del Estado de la propiedad, la asignacion y el precio.">
+<rect x="4" y="4" width="992" height="692" rx="14" fill="#f5f1e8" stroke="#e2dac9" stroke-width="2"/>
+<text x="40" y="58" font-family="Georgia, 'Times New Roman', serif" font-size="36" font-weight="700" fill="#8a2a2a">Del subsidio al mercado</text>
+<text x="40" y="88" font-size="16" fill="#4a463e">La retirada del Estado cubano de la propiedad, la asignación y el precio</text>
+<text x="40" y="112" font-size="12" fill="#8a8275" letter-spacing="1.2">176 MEDIDAS  ·  23 EJES  ·  ASAMBLEA NACIONAL  ·  18 DE JUNIO DE 2026</text>
+<line x1="40" y1="128" x2="960" y2="128" stroke="#d8cfba" stroke-width="1.5"/>
+<rect x="40" y="150" width="290" height="52" rx="8" fill="#8a2a2a"/>
+<text x="185" y="178" text-anchor="middle" font-size="16" font-weight="700" letter-spacing="2" fill="#ffffff">PROPIEDAD</text>
+<text x="185" y="194" text-anchor="middle" font-size="12.5" font-style="italic" fill="#f3ece0">La empresa se abre</text>
+<rect x="44" y="227" width="9" height="9" rx="2" fill="#8a2a2a"/>
+<text x="64" y="236" font-size="12" fill="#33302a">Empresas estatales → sociedades por acciones,</text>
+<text x="64" y="251" font-size="12" fill="#5c574c">con venta a capital privado y extranjero</text>
+<rect x="44" y="289" width="9" height="9" rx="2" fill="#8a2a2a"/>
+<text x="64" y="298" font-size="12" fill="#33302a">Las firmas privadas pueden superar los 100</text>
+<text x="64" y="313" font-size="12" fill="#5c574c">trabajadores y ser sociedades anónimas</text>
+<rect x="44" y="351" width="9" height="9" rx="2" fill="#8a2a2a"/>
+<text x="64" y="360" font-size="12" fill="#33302a">Capital extranjero y de la diáspora puede</text>
+<text x="64" y="375" font-size="12" fill="#5c574c">comprar acciones de empresas y mipymes</text>
+<rect x="44" y="413" width="9" height="9" rx="2" fill="#8a2a2a"/>
+<text x="64" y="422" font-size="12" fill="#33302a">Derechos de superficie de hasta 99 años;</text>
+<text x="64" y="437" font-size="12" fill="#5c574c">se suprime la entidad empleadora estatal</text>
+<rect x="355" y="150" width="290" height="52" rx="8" fill="#2f5d62"/>
+<text x="500" y="178" text-anchor="middle" font-size="16" font-weight="700" letter-spacing="2" fill="#ffffff">ASIGNACIÓN</text>
+<text x="500" y="194" text-anchor="middle" font-size="12.5" font-style="italic" fill="#f3ece0">El plan cede ante el mercado</text>
+<rect x="359" y="227" width="9" height="9" rx="2" fill="#2f5d62"/>
+<text x="379" y="236" font-size="12" fill="#33302a">Banca privada y extranjera bajo el BCC;</text>
+<text x="379" y="251" font-size="12" fill="#5c574c">casas de cambio privadas con licencia</text>
+<rect x="359" y="289" width="9" height="9" rx="2" fill="#2f5d62"/>
+<text x="379" y="298" font-size="12" fill="#33302a">Subastas de divisas y devaluación gradual:</text>
+<text x="379" y="313" font-size="12" fill="#5c574c">las empresas que no la soporten se liquidan</text>
+<rect x="359" y="351" width="9" height="9" rx="2" fill="#2f5d62"/>
+<text x="379" y="360" font-size="12" fill="#33302a">La planificación emite señales de precios,</text>
+<text x="379" y="375" font-size="12" fill="#5c574c">no cuotas físicas de recursos</text>
+<rect x="359" y="413" width="9" height="9" rx="2" fill="#2f5d62"/>
+<text x="379" y="422" font-size="12" fill="#33302a">Se profundiza la dolarización parcial;</text>
+<text x="379" y="437" font-size="12" fill="#5c574c">remesas por agentes privados de última milla</text>
+<rect x="670" y="150" width="290" height="52" rx="8" fill="#8a6a1f"/>
+<text x="815" y="178" text-anchor="middle" font-size="16" font-weight="700" letter-spacing="2" fill="#ffffff">PRECIO</text>
+<text x="815" y="194" text-anchor="middle" font-size="12.5" font-style="italic" fill="#f3ece0">El Estado deja de fijarlo</text>
+<rect x="674" y="227" width="9" height="9" rx="2" fill="#8a6a1f"/>
+<text x="694" y="236" font-size="12" fill="#33302a">Se abandonan los topes generales de precios</text>
+<text x="694" y="251" font-size="12" fill="#5c574c">(admitido: provocaban escasez)</text>
+<rect x="674" y="289" width="9" height="9" rx="2" fill="#8a6a1f"/>
+<text x="694" y="298" font-size="12" fill="#33302a">Subsidios: del producto a la persona,</text>
+<text x="694" y="313" font-size="12" fill="#5c574c">vía un nuevo Fondo de Protección Social</text>
+<rect x="674" y="351" width="9" height="9" rx="2" fill="#8a6a1f"/>
+<text x="694" y="360" font-size="12" fill="#33302a">Se introduce el IVA de forma gradual,</text>
+<text x="694" y="375" font-size="12" fill="#5c574c">sostenido por la factura electrónica</text>
+<rect x="674" y="413" width="9" height="9" rx="2" fill="#8a6a1f"/>
+<text x="694" y="422" font-size="12" fill="#33302a">La canasta normada cede a ventas controladas</text>
+<text x="694" y="437" font-size="12" fill="#5c574c">sin subsidio; precios agrícolas liberados</text>
+<rect x="40" y="486" width="920" height="150" rx="10" fill="#2b2b28"/>
+<rect x="40" y="486" width="920" height="4" rx="2" fill="#8a2a2a"/>
+<text x="64" y="522" font-size="13" font-weight="700" letter-spacing="2.5" fill="#d9a441">LA RESTRICCIÓN DECISIVA</text>
+<text x="64" y="550" font-size="13.5" fill="#ece6da">Las reformas cortejan al capital privado, extranjero y de la diáspora — mientras las sanciones secundarias de EE. UU. (O.E. 14404), la orden</text>
+<text x="64" y="574" font-size="13.5" fill="#ece6da">energética y la designación como patrocinador del terrorismo están en condiciones de repelerlo. La implementación toca 148 normas</text>
+<text x="64" y="598" font-size="13.5" fill="#ece6da">jurídicas y 32 instrumentos nuevos: el «qué» está aprobado; el «cómo» sigue sin escribirse.</text>
+</svg>

@@ -18,8 +18,8 @@ tags:
   - Asamblea Nacional
   - dolarización
 image: /images/posts/cuba-from-subsidy-to-market/cover.jpg
-image_alt: "El Primer Ministro de Cuba, Manuel Marrero Cruz, durante su intervención en la tercera Sesión Extraordinaria de la Asamblea Nacional del Poder Popular en su X Legislatura. Foto: Abel Padrón Padilla/ Cubadebate."
-image_caption: "El Primer Ministro de Cuba, Manuel Marrero Cruz, durante su intervención en la tercera Sesión Extraordinaria de la Asamblea Nacional del Poder Popular en su X Legislatura. Foto: Abel Padrón Padilla/ Cubadebate."
+image_alt: "Diputados de la Asamblea Nacional del Poder Popular de Cuba reunidos en el Palacio de Convenciones de La Habana."
+image_caption: "Tercera Sesión Extraordinaria de la X Legislatura, La Habana, 18 de junio de 2026."
 toc: true
 slug: del-subsidio-al-mercado-cuba
 ---
@@ -37,6 +37,8 @@ La segunda confesión fue diagnóstica, y acaso más lesiva para el relato del p
 ## El alcance del giro
 
 La arquitectura del paquete se entiende mejor no eje por eje, sino como una retirada coordinada del Estado de tres funciones que había monopolizado: la propiedad, la asignación y el precio.
+
+{{< figure src="/images/posts/cuba-from-subsidy-to-market/reforms-diagram-es.svg" alt="Diagrama de las reformas cubanas de junio de 2026 agrupadas por la retirada del Estado de la propiedad, la asignación y el precio, con las sanciones secundarias de EE. UU. como restricción decisiva" caption="El paquete de un vistazo: el Estado cubano se retira de la propiedad, la asignación y el precio, cortejando al capital que las sanciones de EE. UU. están en condiciones de repeler." >}}
 
 En materia de propiedad, la empresa estatal se rehace. Gana autonomía real para fijar sus salarios y precios, para invertir financieramente, para retener una mayor parte de su utilidad después de impuestos y, de manera decisiva, se transforma en sociedad mercantil que emite acciones. El Estado definirá su participación sector por sector, conservando la mayoría solo en los que considere estratégicos; en el resto podrán entrar cooperativas, empresas privadas y personas naturales —cubanas o extranjeras, residentes o de la diáspora—. Un programa nacional inventariará y titulará los activos estatales a valor de mercado para que sirvan de garantía colateral o se arrienden a operadores privados y foráneos. En paralelo, el sector privado queda desatado: las empresas podrán superar los cien trabajadores, organizarse como sociedades anónimas, tener participación en más de una compañía, y una misma persona poseer varias. Se invita a la inversión extranjera directa a entrar en las empresas privadas y en las mipymes, con derechos de superficie de hasta noventa y nueve años y la supresión de la entidad empleadora estatal obligatoria.
 

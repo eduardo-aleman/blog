@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-label="Diagram of Cuba's June 2026 economic reforms grouped by the state's retreat from ownership, allocation, and price.">
+<rect x="4" y="4" width="992" height="692" rx="14" fill="#f5f1e8" stroke="#e2dac9" stroke-width="2"/>
+<text x="40" y="58" font-family="Georgia, 'Times New Roman', serif" font-size="36" font-weight="700" fill="#8a2a2a">From Subsidy to Market</text>
+<text x="40" y="88" font-size="16" fill="#4a463e">The retreat of the Cuban state from ownership, allocation, and price</text>
+<text x="40" y="112" font-size="12" fill="#8a8275" letter-spacing="1.2">176 MEASURES  ·  23 AXES  ·  NATIONAL ASSEMBLY  ·  18 JUNE 2026</text>
+<line x1="40" y1="128" x2="960" y2="128" stroke="#d8cfba" stroke-width="1.5"/>
+<rect x="40" y="150" width="290" height="52" rx="8" fill="#8a2a2a"/>
+<text x="185" y="178" text-anchor="middle" font-size="16" font-weight="700" letter-spacing="2" fill="#ffffff">OWNERSHIP</text>
+<text x="185" y="194" text-anchor="middle" font-size="12.5" font-style="italic" fill="#f3ece0">The firm is opened</text>
+<rect x="44" y="227" width="9" height="9" rx="2" fill="#8a2a2a"/>
+<text x="64" y="236" font-size="12" fill="#33302a">State firms become joint-stock companies,</text>
+<text x="64" y="251" font-size="12" fill="#5c574c">with shares sold to private &amp; foreign buyers</text>
+<rect x="44" y="289" width="9" height="9" rx="2" fill="#8a2a2a"/>
+<text x="64" y="298" font-size="12" fill="#33302a">Private firms may exceed 100 workers</text>
+<text x="64" y="313" font-size="12" fill="#5c574c">and incorporate as share companies</text>
+<rect x="44" y="351" width="9" height="9" rx="2" fill="#8a2a2a"/>
+<text x="64" y="360" font-size="12" fill="#33302a">Foreign &amp; diaspora capital may buy into</text>
+<text x="64" y="375" font-size="12" fill="#5c574c">Cuban enterprises and SMEs directly</text>
+<rect x="44" y="413" width="9" height="9" rx="2" fill="#8a2a2a"/>
+<text x="64" y="422" font-size="12" fill="#33302a">Surface rights extended up to 99 years;</text>
+<text x="64" y="437" font-size="12" fill="#5c574c">the state hiring intermediary is abolished</text>
+<rect x="355" y="150" width="290" height="52" rx="8" fill="#2f5d62"/>
+<text x="500" y="178" text-anchor="middle" font-size="16" font-weight="700" letter-spacing="2" fill="#ffffff">ALLOCATION</text>
+<text x="500" y="194" text-anchor="middle" font-size="12.5" font-style="italic" fill="#f3ece0">Plan yields to market</text>
+<rect x="359" y="227" width="9" height="9" rx="2" fill="#2f5d62"/>
+<text x="379" y="236" font-size="12" fill="#33302a">Private &amp; foreign banks under BCC rules;</text>
+<text x="379" y="251" font-size="12" fill="#5c574c">licensed private exchange houses</text>
+<rect x="359" y="289" width="9" height="9" rx="2" fill="#2f5d62"/>
+<text x="379" y="298" font-size="12" fill="#33302a">Currency auctions and staged devaluation:</text>
+<text x="379" y="313" font-size="12" fill="#5c574c">firms that can't withstand it are liquidated</text>
+<rect x="359" y="351" width="9" height="9" rx="2" fill="#2f5d62"/>
+<text x="379" y="360" font-size="12" fill="#33302a">Planning sends price signals,</text>
+<text x="379" y="375" font-size="12" fill="#5c574c">not physical resource quotas</text>
+<rect x="359" y="413" width="9" height="9" rx="2" fill="#2f5d62"/>
+<text x="379" y="422" font-size="12" fill="#33302a">Partial dollarization deepened;</text>
+<text x="379" y="437" font-size="12" fill="#5c574c">remittances via private last-mile agents</text>
+<rect x="670" y="150" width="290" height="52" rx="8" fill="#8a6a1f"/>
+<text x="815" y="178" text-anchor="middle" font-size="16" font-weight="700" letter-spacing="2" fill="#ffffff">PRICE</text>
+<text x="815" y="194" text-anchor="middle" font-size="12.5" font-style="italic" fill="#f3ece0">The state stops setting it</text>
+<rect x="674" y="227" width="9" height="9" rx="2" fill="#8a6a1f"/>
+<text x="694" y="236" font-size="12" fill="#33302a">General price caps abandoned</text>
+<text x="694" y="251" font-size="12" fill="#5c574c">(admitted to cause shortages)</text>
+<rect x="674" y="289" width="9" height="9" rx="2" fill="#8a6a1f"/>
+<text x="694" y="298" font-size="12" fill="#33302a">Subsidies shift from products to people,</text>
+<text x="694" y="313" font-size="12" fill="#5c574c">via a new Social Protection Fund</text>
+<rect x="674" y="351" width="9" height="9" rx="2" fill="#8a6a1f"/>
+<text x="694" y="360" font-size="12" fill="#33302a">Value-added tax phased in,</text>
+<text x="694" y="375" font-size="12" fill="#5c574c">backed by electronic invoicing</text>
+<rect x="674" y="413" width="9" height="9" rx="2" fill="#8a6a1f"/>
+<text x="694" y="422" font-size="12" fill="#33302a">Ration basket gives way to controlled,</text>
+<text x="694" y="437" font-size="12" fill="#5c574c">unsubsidized sales; farm prices freed</text>
+<rect x="40" y="486" width="920" height="150" rx="10" fill="#2b2b28"/>
+<rect x="40" y="486" width="920" height="4" rx="2" fill="#8a2a2a"/>
+<text x="64" y="522" font-size="13" font-weight="700" letter-spacing="2.5" fill="#d9a441">THE BINDING CONSTRAINT</text>
+<text x="64" y="550" font-size="13.5" fill="#ece6da">Reforms court private, foreign, and diaspora capital — while U.S. secondary sanctions (E.O. 14404), the energy order, and the</text>
+<text x="64" y="574" font-size="13.5" fill="#ece6da">terrorism listing are positioned to repel it. Implementation touches 148 legal norms and 32 new instruments:</text>
+<text x="64" y="598" font-size="13.5" fill="#ece6da">the “what” is approved; the “how” remains unwritten.</text>
+</svg>
