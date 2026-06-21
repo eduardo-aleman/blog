@@ -19,7 +19,7 @@ tags:
   - instituciones
 image: '/images/posts/cuba/fusterlandia.JPG'
 image_alt: 'Fusterlandia, un extenso proyecto de arte en mosaico en el barrio Jaimanitas de La Habana, Cuba'
-image_caption: 'Fusterlandia, un extenso proyecto de arte en mosaico en el barrio Jaimanitas de La Habana, Cuba.'
+image_caption: 'Fusterlandia, un extenso proyecto de arte en mosaico en el barrio Jaimanitas de La Habana, Cuba. La foto es mía.'
 toc: true
 slug: 'cuba-shleifer-acemoglu-junio-2026'
 ---
