@@ -1,7 +1,7 @@
 ---
 title: 'Primero el mercado, ¿después la libertad? Cuba entre Shleifer y Acemoglu'
 date: '2026-06-21'
-draft: true
+draft: false
 type: posts
 summary: 'El 18 de junio de 2026, la Asamblea Nacional cubana aprobó 176 medidas que convierten empresas estatales en sociedades por acciones, abren la banca al capital privado y equiparan a la diáspora con el inversor extranjero. El paquete reabre, sobre el terreno más improbable, el gran debate de la economía política contemporánea: el que enfrenta a Andrei Shleifer —privatizar rápido, democratizar después— con Daron Acemoglu, para quien ningún derecho de propiedad vale más que la restricción política que lo respalda. Este ensayo expone ambas teorías en su versión más fuerte, las somete al laboratorio postsoviético y, contra mi costumbre, toma partido.'
 description: 'Las reformas económicas cubanas de junio de 2026, leídas a través del debate entre Andrei Shleifer y Daron Acemoglu sobre el orden de las reformas: estilo legal frente a poder político, el modelo de Asia Oriental, el precedente de Polonia y Rusia, el papel de GAESA y la pregunta de la secuenciación. Con una conclusión que toma partido.'
@@ -82,9 +82,9 @@ Y sobre ese cuadro se proyecta la sombra de GAESA. El Grupo de Administración E
 
 No todo es uniformemente sombrío, y la honestidad obliga a registrar las grietas de luz. Díaz-Canel convocó, de forma inédita, a un grupo asesor que incluye a economistas críticos y no oficialistas —Omar Everleny, Juan Triana, Julio Carranza—, viejos defensores de la reforma de mercado; es una apertura consultiva real en un sistema alérgico a la disidencia técnica. La equiparación del cubano del exterior con el inversor extranjero responde a una demanda histórica de la diáspora. Y en el margen, muchas medidas —la casa de cambio privada, el agente de remesas, el servicentro privado, la mipyme sin techo de empleados— pueden aliviar de verdad la escasez cotidiana de una población exhausta. Eso no es nada. Para el cubano que hoy hace cola por combustible o no encuentra divisa, importa. Pero aliviar la escasez en el mostrador y transformar la estructura del poder económico son cosas distintas, y la segunda es la que decide si dentro de una década habrá un tigre o una cleptocracia.
 
-## Conclusión: tomar partido
+## Conclusión
 
-Mi costumbre, en estas páginas, es sostener dos interpretaciones a la vez y dejar que el lector navegue entre ellas. Aquí no lo haré, porque la pregunta admite respuesta y porque el caso cubano la fuerza. Tomo partido: en la configuración concreta de Cuba, Acemoglu tiene razón, y Shleifer se equivoca en lo que más importa.
+Mi costumbre, en estas páginas, es sostener dos interpretaciones a la vez y dejar que el lector navegue entre ellas. Aquí no lo haré, porque la pregunta admite respuesta y porque el caso cubano la fuerza. En la configuración concreta de Cuba, Acemoglu tiene razón, y Shleifer se equivoca en lo que más importa.
 
 Conviene ser preciso sobre el alcance de ese veredicto, porque no es una victoria por puntos. Shleifer acierta en sus observaciones técnicas: la privatización caso por caso es, en efecto, lenta y vulnerable a la corrupción; el capital humano cubano es real; la diáspora es un activo genuino. Si el desacuerdo fuera solo sobre el método de venta, habría que darle parte de razón. Pero el desacuerdo no es sobre el método: es sobre la secuencia. Y en la secuencia, la evidencia es contundente. El laboratorio de Polonia y Rusia muestra que la velocidad no determina el desenlace; lo determina la existencia de una restricción política que el poder no controle. Cuba no tiene ninguna: ni urna, ni juez independiente, ni prensa, ni ancla externa, ni una Asamblea capaz de decir no, ni —lo más grave— un conglomerado militar sometido a auditoría. Tiene exactamente la combinación —activos valiosos, monopolio político intacto, opacidad institucionalizada— que en todos los precedentes conocidos produce oligarquía, no mercado.
 
