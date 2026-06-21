@@ -17,7 +17,7 @@ tags:
   - transición postsoviética
   - capitalismo de compadrazgo
   - instituciones
-image: '/images/posts/cuba/fusterlandia.jpg'
+image: '/images/posts/cuba/fusterlandia.JPG'
 image_alt: 'Fusterlandia, un extenso proyecto de arte en mosaico en el barrio Jaimanitas de La Habana, Cuba'
 image_caption: 'Fusterlandia, un extenso proyecto de arte en mosaico en el barrio Jaimanitas de La Habana, Cuba.'
 toc: true
