@@ -94,6 +94,6 @@ Lo más probable, por tanto, no es el tigre caribeño que prometen los optimista
 
 ¿Significa esto que Cuba debía no reformar? No. Significa que reformó en el orden equivocado. La advertencia de Acemoglu no es un argumento contra el mercado; es un argumento sobre su cimiento. Para que la apertura de junio de 2026 no degenere en piñata, harían falta tres cosas que el paquete no contempla y que el sistema no puede ofrecer sin dejar de ser lo que es: un poder judicial capaz de fallar contra el Estado, una legislatura que sea algo más que un órgano de ratificación, y la sujeción de GAESA a la auditoría pública de la que hoy está exenta. Sin esas tres restricciones, las 176 medidas no construirán una economía de mercado. Construirán, con eficiencia notable, a sus oligarcas.
 
----
+> Inclusive economic institutions require secure property rights and economic opportunities not just for the elite but for a broad cross-section of society.
 
-*Las reformas analizadas fueron presentadas el 18 de junio de 2026 ante la Tercera Sesión Extraordinaria de la Asamblea Nacional del Poder Popular y aprobadas ese mismo día. Datos sobre el contenido del paquete, la estructura de GAESA y las advertencias de Carlos Saladrigas, contrastados en AFP/El Tiempo, 14ymedio, CiberCuba y La Tercera (18–20 de junio de 2026). El debate teórico remite a la obra de Andrei Shleifer y Rafael La Porta sobre orígenes legales, a «Por qué fracasan los países» de Daron Acemoglu y James A. Robinson, y a la tipología de órdenes de acceso de Douglass North, John Wallis y Barry Weingast.*
+Acemoglu, Daron., Robinson, James A.. Why Nations Fail: The Origins of Power, Prosperity, and Poverty. United Kingdom: Crown, 2012.
