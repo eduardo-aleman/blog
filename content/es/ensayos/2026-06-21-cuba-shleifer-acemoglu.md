@@ -94,6 +94,6 @@ Lo más probable, por tanto, no es el tigre caribeño que prometen los optimista
 
 ¿Significa esto que Cuba debía no reformar? No. Significa que reformó en el orden equivocado. La advertencia de Acemoglu no es un argumento contra el mercado; es un argumento sobre su cimiento. Para que la apertura de junio de 2026 no degenere en piñata, harían falta tres cosas que el paquete no contempla y que el sistema no puede ofrecer sin dejar de ser lo que es: un poder judicial capaz de fallar contra el Estado, una legislatura que sea algo más que un órgano de ratificación, y la sujeción de GAESA a la auditoría pública de la que hoy está exenta. Sin esas tres restricciones, las 176 medidas no construirán una economía de mercado. Construirán, con eficiencia notable, a sus oligarcas.
 
-> Para que las instituciones económicas sean inclusivas, se requieren derechos de propiedad seguros y oportunidades económicas no solo para la élite, sino para un amplio sector de la sociedad.
+> Las instituciones económicas inclusivas requieren derechos de propiedad seguros y oportunidades económicas no solo para la élite, sino para un amplio espectro de la sociedad.
 
 Acemoglu, Daron., Robinson, James A.. Why Nations Fail: The Origins of Power, Prosperity, and Poverty. United Kingdom: Crown, 2012.
