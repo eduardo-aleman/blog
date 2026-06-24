@@ -25,7 +25,7 @@ image: "/images/posts/cuba-state-department-1961/sorensen_schlesinger_r-12-havan
 image_caption: "Photo taken during a conference commemorating the 40th anniversary of the Cuban Missile Crisis. The event was held in Havana, Cuba, and included former military personnel and officials from the United States, Russia, and Cuba who were involved in the 1962 crisis. The individuals pictured are Kennedy advisers Theodore C. Sorensen (left) and Arthur M. Schlesinger, Jr. (right). They are visiting the San Cristobal missile site, the location of a R-12 (SS-4 'Sandal'). Arthur Schlesinger was one of the architects of the U.S. Department of State pamphlet 'Cuba'."
 ---
 
-> **Editor's note:** This is a transcription of a 36-page pamphlet released by the U.S. Department of State on April 3, 1961, roughly two weeks before the Bay of Pigs invasion. Source: [declassified and approved for release 2012/08/03, CIA-RDP85-00664R000700200001-2](https://www.cia.gov/readingroom/docs/CIA-RDP85-00664R000700200001-2.pdf). Also, [Cuba](https://www.google.com/books/edition/Cuba/fTEPztHy1TQC). United States: Department of State, Office of Public Services, Bureau of Public Affairs, 1961.
+> **Note:** This is a transcription of a 36-page pamphlet released by the U.S. Department of State on April 3, 1961, roughly two weeks before the Bay of Pigs invasion. Source: [declassified and approved for release 2012/08/03, CIA-RDP85-00664R000700200001-2](https://www.cia.gov/readingroom/docs/CIA-RDP85-00664R000700200001-2.pdf). Also, [Cuba](https://www.google.com/books/edition/Cuba/fTEPztHy1TQC). United States: Department of State, Office of Public Services, Bureau of Public Affairs, 1961.
 
 ---
 
