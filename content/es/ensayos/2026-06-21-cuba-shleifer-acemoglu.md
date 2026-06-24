@@ -94,7 +94,7 @@ Lo más probable, por tanto, no es el tigre caribeño que prometen los optimista
 
 ¿Significa esto que Cuba debía no reformar? No. La advertencia de Acemoglu no es un argumento contra el mercado; es un argumento sobre su cimiento. Para que la apertura de junio de 2026 no degenere en piñata, harían falta tres cosas que el paquete no contempla y que el sistema no puede ofrecer sin dejar de ser lo que es: un poder judicial capaz de fallar contra el Estado, una legislatura que sea algo más que un órgano de ratificación, y la sujeción de GAESA a la auditoría pública de la que hoy está exenta. Sin esas tres restricciones, las 176 medidas no construirán una economía de mercado. Construirán, con eficiencia notable, a sus oligarcas.
 
-Está por ver además como reacciona el gobierno estadounidense. El embargo a tenido un impacto sistemático y demoledor en la economía cubana desde el derrumbe del socialismo a finales del siglo pasado. Hoy en día, el bloqueo energético, constituye un acto de crueldad y castigo colectivo contra un pueblo entero. Esto no puede dejar de señalarse.
+Está por ver, además, cómo reacciona el gobierno estadounidense. El embargo ha tenido un impacto sistemático y demoledor en la economía cubana desde el derrumbe del socialismo a finales del siglo pasado. Hoy en día, el bloqueo energético constituye un acto de crueldad y castigo colectivo contra un pueblo entero. Esto no puede dejar de señalarse.
 
 > Las instituciones económicas inclusivas requieren derechos de propiedad seguros y oportunidades económicas no solo para la élite, sino para un amplio espectro de la sociedad.
 
