@@ -17,6 +17,8 @@ I recently reopened *The Captive Mind* by Czesław Miłosz, a scathing indictmen
 
 Totalitarian narratives restrict thought and imagination while extracting, in a staggered yet insidious manner, moral concessions. It is true that humans in Western democratic societies are also forced to concede, but the narratives at least come fragmented, not quite matching one another. The mind can choose to remain unfixed.
 
-In Trump's USA, dark forces unite to fix the mind. The puzzle is almost complete. A new grand narrative has begun, assembled with images of protesters being murdered by masked federal officers, MAGA, white supremacy, deportations, and the grotesque, guttural sounds of the neo-Christian zombies on podcasts and the media. One cannot forget that both real and symbolic violence make the mind captive.
+In Trump's USA, dark forces unite to fix the mind. The puzzle is almost complete. A new grand narrative has begun, assembled with images of protesters being murdered by masked federal officers, abductions, MAGA, white supremacy, deportations, massive incarceration, and the grotesque, guttural sounds of the zombies via podcasts and youtube. One cannot forget that both real and symbolic violence make the mind captive.
 
-This is where post-WWII Eastern Europe and today's America begin to converge. We descend into Miłosz's nightmarish tales. The rabbit hole we purchased with fear comes handy. To avoid fixation, we isolate, while compensating with excessive imagination, AI exchanges, and a trip once a month to the bar in a Waymo.
+This is where post-WWII Eastern Europe and today's America begin to converge. We descend into one of Miłosz's nightmarish anecdotes. The rabbit hole we purchased with fear comes handy. To avoid fixation, we isolate more, yet compensate with excessive imagination, AI exchanges, and a trip once a month to the bar in a Waymo. We descend, waiting for grace, one more time.
+
+At the bar, a young man asks what I do. I tell him that I am on a mission to liberate minds, to quiet zombies, come out of the rabit hole, avoid abduction, and stop society's descend into totalitarism. He laughs.
