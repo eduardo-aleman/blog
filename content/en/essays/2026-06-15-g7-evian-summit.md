@@ -69,6 +69,3 @@ France's third priority — reforming international development partnerships —
 
 The leaders are expected to issue several statements over the course of the summit, which closes on June 17, after which the United States takes over the G7 presidency for 2027. The more consequential date may be Friday, when the United States and Iran are due to sign their agreement in Switzerland and the 60-day clock on nuclear negotiations begins — and when the world will learn whether the terms match the framework Mr. Trump described, or the more modest accord his critics, at home and in Jerusalem, expect.
 
----
-
-*This is a developing story; the summit runs through June 17, 2026, and its leaders' statements had not been finalized at the time of writing. Reporting drawn from the European Council, the Élysée, the Council on Foreign Relations, the Banque de France, CNN, NPR, Al Jazeera, The Times of Israel, The Jerusalem Post, PBS, The Hill, Reuters and AP wire coverage, and the June 15, 2026 New York Times editorial.*
