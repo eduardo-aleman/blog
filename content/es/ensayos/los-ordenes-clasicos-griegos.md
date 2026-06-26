@@ -5,7 +5,7 @@ summary: "Análisis histórico y estético de los tres órdenes arquitectónicos
 date: 2026-02-11
 tags: [arquitectura, historia, grecia-clasica, vitruvio, historia-del-arte]
 categories: [Arquitectura, Historia]
-image: "/images/posts/los_ordenes_clasicos_griegos/Detalle_del_friso_del_tesoro_de_los_sifniose_en_Delfos.webp"
+image: "/images/posts/los-ordenes-clasicos-griegos/Detalle_del_friso_del_tesoro_de_los_sifnios_en_Delfos.webp"
 image_caption: "Detallada escultura en relieve de mármol procedente del Tesoro de los Sifnios, situado en el Santuario de Apolo en Delfos. La escena representa una «Gigantomaquia», es decir, la batalla entre los dioses griegos y los Gigantes. La sección específica que se muestra incluye a Apolo y Artemisa atacando a un gigante, con un guerrero caído visible en la parte inferior. Esta obra de arte data de aproximadamente el 530-525 a. C. y se conserva en el Museo Arqueológico de Delfos. Constituye un ejemplo paradigmático del arte griego arcaico, conocido por su intrincado detallismo y por las posturas sincronizadas de las figuras. Memoria de mi viaje a Delfos en el 2007."
 ---
 
@@ -15,13 +15,13 @@ De acuerdo con Vitruvio, el mismo Doro que era hijo de Helén o Heleno, el hombr
 
 > "Como querían erigir este templo con columnas, y no sabían las proporciones adecuadas de ellas, ni sabían la forma en que debían construirse, para que al mismo tiempo fueran aptas para soportar el peso sobre ellas, y para producir un efecto hermoso, midieron el pie de un hombre, y encontrando su longitud la sexta parte de su altura, dieron a la columna una proporción similar, es decir, hicieron su altura, incluyendo el capitel, seis veces el espesor de la eje, medido en la base. Así, el orden dórico obtuvo su proporción, su fuerza y su belleza de la figura humana."
 
-![La Acrópolis](/images/posts/los_ordenes_clasicos_griegos/Acropolis.webp)
+![La Acrópolis](/images/posts/los-ordenes-clasicos-griegos/Acropolis.webp)
 
 Las columnas de la Acrópolis representativas del orden dórico. Foto del autor.
 
 Después del dórico, según Vitruvio, el orden jónico fue inventado por los atenienses al construirse el templo de Diana. Esta vez midiéndose el pies de una mujer y haciendo las columnas "ocho veces más gruesas que la altura". Se adicionó la basa "a modo de zapato" y a los capiteles se les adicionó volutas, "como cabellos rizados".
 
-![El Erecteón o Erecteion](/images/posts/los_ordenes_clasicos_griegos/Erechtheion.webp)
+![El Erecteón o Erecteion](/images/posts/los-ordenes-clasicos-griegos/Erechtheion.webp)
 
 Las columnas de el Erecteón o Erecteion representativas del orden jónico. Foto del autor.
 
@@ -31,7 +31,7 @@ Finalmente, nos dice Vitrubio, aparece el orden corintio, el cual es de mejor gu
 
 Las columnas corintias poseen entonces hojas de acanto y flores de ábaco en su capitel, son más esbeltas en representación de la figura de una muchacha, y cada detalle es exquisita y delicadamente proporcional.
 
-![Las columnas del templo de Zeus Olímpico en Atenas](/images/posts/los_ordenes_clasicos_griegos/El_templo_de_Zeus_en_Atenas.webp)
+![Las columnas del templo de Zeus Olímpico en Atenas](/images/posts/los-ordenes-clasicos-griegos/El_templo_de_Zeus_en_Atenas.webp)
 
 Las columnas del templo de Zeus Olímpico en Atenas representativas del orden corintio. Foto del autor.
 
