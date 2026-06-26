@@ -58,8 +58,8 @@
   id    = "left-press"
   limit = 6
   [sections.title]
-    en = "Independent Left Press"
-    es = "Prensa de Izquierda Independiente"
+    en = "Independent Press"
+    es = "Prensa Independiente"
 
   # --- English (native feeds) ---
   [[sections.feeds]]
