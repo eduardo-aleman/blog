@@ -130,10 +130,10 @@
       </div>
     </section>
 
+    {{ partial "numbered-pagination.html" $paginator }}
     <!-- Dispatches: RSS aggregation by topic — below the posts, above the nav -->
     {{ partial "rss-feeds.html" . }}
-
-    {{ partial "numbered-pagination.html" $paginator }}
+    
   {{ end }}
 </div>
 {{ end }}
