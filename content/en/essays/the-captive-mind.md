@@ -11,7 +11,7 @@ tags:
   - Czesław Miłosz
   - Totalitarianism
 slug: 'the-captive-mind'
-image: /images/posts/the-captive-mind/cover.jpg
+image: /images/posts/the-captive-mind/cover.png
 image_alt: "Cover of The Captive Mind by Nobel Prize winner Czesław Miłosz, published by Vintage International"
 image_caption: "Published in 1953, The Captive Mind by Polish author Czesław Miłosz is a landmark psychological and cultural analysis of how totalitarianism seduces and compromises the intellectual class. Drawing heavily on his firsthand experiences in Nazi-occupied Warsaw and as a cultural attaché for post-war, Soviet-controlled Poland, Miłosz explores why many Eastern European thinkers willingly submitted to Stalinist orthodoxy. He uses vivid conceptual metaphors, such as the fictional, pacifying \"Murti-Bing\" pill, and the Islamic concept of \"Ketman\"—the practice of maintaining a deceptive double life by masking one's true thoughts behind public conformity. Through detailed, anonymized case studies of four contemporary writers, Miłosz illustrates the deep moral distortions, self-delusion, and soul-crushing costs of ideological capitulation, creating a universal and enduring warning against the loss of individual intellectual freedom."
 ---
