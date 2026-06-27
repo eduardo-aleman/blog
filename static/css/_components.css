@@ -416,7 +416,7 @@
 
 .essays-grid {
   display: grid;
-  grid-template-columns: 1fr 1.4fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
   gap: var(--space-2xl);
   margin-bottom: var(--space-4xl);
 }
@@ -777,8 +777,8 @@
 }
 /* ====== DISPATCHES (HOMEPAGE RSS FEEDS) ======
    Rendered by partials/rss-feeds.html from data/feeds.toml. Mirrors the
-   essays grid: single column up to 1024px, then 1fr 1.4fr 1fr with a wider
-   editorial middle. Constrained to the same 1200px as .essays-grid-section
+   essays grid: single column up to 1024px, then three equal columns.
+   Constrained to the same 1200px as .essays-grid-section
    so the columns — and the separating top rule — line up with the posts. */
 
 .feeds-section {
@@ -805,10 +805,10 @@
   gap: var(--space-xl);
 }
 
-/* Three columns on desktop, wider editorial middle — mirrors .essays-grid. */
+/* Three equal columns on desktop — mirrors .essays-grid. */
 @media (min-width: 1024px) {
   .feeds-grid {
-    grid-template-columns: 1fr 1.4fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     gap: var(--space-2xl);
     align-items: start;
   }
