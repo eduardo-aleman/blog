@@ -66,7 +66,3 @@ The deepest point cuts against celebration entirely. The damaged nuclear sites a
 So unless the coming sixty days produce what prior rounds could not, the most plausible reading is sobering: the United States has paid in lives, oil shocks, billions in released assets, and a strengthened adversary to buy itself a pause before the third iteration — while handing Iran a coercive card it will hold over every future negotiation.
 
 Yes, we are celebrating a return to the prior status quo. Except Iran returns to it richer, holding new leverage, with American forces pulling back from its borders; and the United States returns to it having proven that decapitating the leadership does not break the regime's will. That is not nothing achieved. On the dimension that mattered most, it is worse than nothing.
-
----
-
-*This is a developing story. The agreement is to be signed June 19 in Geneva; the fourteen-point memorandum of understanding has not been officially published, and the figures above rest substantially on Iranian sources. Drawn from reporting by the Associated Press, The Wall Street Journal, The Washington Post, Al Jazeera, The New York Times, The Jerusalem Post, Agence France-Presse, and Iran's Mehr news agency, June 14–15, 2026.*
