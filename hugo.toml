@@ -26,15 +26,6 @@ timeZone = 'America/Los_Angeles'
 # Languages configuration
 [languages]
 
-  [languages.en]
-    label = 'English'
-    locale = 'en-us'
-    weight = 2
-    contentDir = 'content/en'
-    
-    [languages.en.params]
-      description = 'Editorial writing, essays, and translations'
-
   [languages.es]
     label = 'Español'
     locale = 'es'
@@ -43,6 +34,16 @@ timeZone = 'America/Los_Angeles'
     
     [languages.es.params]
       description = 'Escritura editorial, ensayos y traducciones'
+  
+  
+  [languages.en]
+    label = 'English'
+    locale = 'en-us'
+    weight = 2
+    contentDir = 'content/en'
+    
+    [languages.en.params]
+      description = 'Editorial writing, essays, and translations' 
 
 # Markup settings
 [markup]
