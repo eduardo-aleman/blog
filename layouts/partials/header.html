@@ -1,27 +1,40 @@
 <header class="site-header">
   <div class="container">
-    <!-- Brand / Title -->
-    <a href="{{ .Site.BaseURL }}" class="nav-brand">
+    <!-- Brand / Title — language-aware homepage -->
+    <a href="{{ .Site.Home.RelPermalink }}" class="nav-brand">
       {{ .Site.Title }}
     </a>
 
     <!-- Navigation Actions (right side) -->
     <div class="nav-actions">
-      <!-- Archive Link -->
-      {{ $archivePath := cond (eq .Lang "es") "archivo" "archive" }}
+      <!-- Archive Link — relLangURL prefixes the current language exactly once -->
+      {{ $archivePath := cond (eq .Lang "es") "archivo/" "archive/" }}
       {{ $archiveLabel := cond (eq .Lang "es") "Archivo" "Archive" }}
-      <a href="{{ .Site.BaseURL }}{{ .Lang }}/{{ $archivePath }}/" class="header-nav-link">
+      <a href="{{ $archivePath | relLangURL }}" class="header-nav-link">
         {{ $archiveLabel }}
       </a>
 
       <!-- Language Switcher (en/es only) -->
       <div class="lang-switcher">
-        {{ $currentLang := .Page.Lang }}
+        {{ $currentLang := .Lang }}
+
+        {{/* Prefer the translation of the current page; fall back to the
+             other language's homepage when no translation exists. */}}
+        {{ $enURL := "" }}
+        {{ $esURL := "" }}
+        {{ range .AllTranslations }}
+          {{ if eq .Language.Lang "en" }}{{ $enURL = .RelPermalink }}{{ end }}
+          {{ if eq .Language.Lang "es" }}{{ $esURL = .RelPermalink }}{{ end }}
+        {{ end }}
+        {{ range site.Home.AllTranslations }}
+          {{ if and (not $enURL) (eq .Language.Lang "en") }}{{ $enURL = .RelPermalink }}{{ end }}
+          {{ if and (not $esURL) (eq .Language.Lang "es") }}{{ $esURL = .RelPermalink }}{{ end }}
+        {{ end }}
 
         {{ if eq $currentLang "en" }}
           <span class="lang-switch active" aria-current="page">en</span>
         {{ else }}
-          <a href="/" class="lang-switch">en</a>
+          <a href="{{ $enURL }}" class="lang-switch" hreflang="en" lang="en">en</a>
         {{ end }}
 
         <span class="lang-switcher__separator">/</span>
@@ -29,7 +42,7 @@
         {{ if eq $currentLang "es" }}
           <span class="lang-switch active" aria-current="page">es</span>
         {{ else }}
-          <a href="/es/" class="lang-switch">es</a>
+          <a href="{{ $esURL }}" class="lang-switch" hreflang="es" lang="es">es</a>
         {{ end }}
       </div>
 
@@ -45,8 +58,6 @@
 {{/*
   MathJax: only load on pages that opt in.
   Enable per page by adding `math: true` to the front matter.
-  NOTE: For best performance, consider moving this partial call into your
-  <head> partial (e.g. head.html or baseof.html) rather than after <header>.
 */}}
 {{ if .Params.math }}
   {{ partial "mathjack.html" . }}
