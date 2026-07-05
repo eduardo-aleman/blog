@@ -19,17 +19,17 @@
         {{ $currentLang := .Page.Lang }}
 
         {{ if eq $currentLang "en" }}
-          <span class="lang-switch active" aria-current="page">es</span>
+          <span class="lang-switch active" aria-current="page">en</span>
         {{ else }}
-          <a href="/" class="lang-switch">es</a>
+          <a href="/" class="lang-switch">en</a>
         {{ end }}
 
         <span class="lang-switcher__separator">/</span>
 
         {{ if eq $currentLang "es" }}
-          <span class="lang-switch active" aria-current="page">en</span>
+          <span class="lang-switch active" aria-current="page">es</span>
         {{ else }}
-          <a href="/en/" class="lang-switch">en</a>
+          <a href="/es/" class="lang-switch">es</a>
         {{ end }}
       </div>
 
