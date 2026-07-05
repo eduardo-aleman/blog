@@ -1,6 +1,6 @@
 baseURL = 'https://blog.ealeman.com/'
 title = 'Eduardo Alemán - Blog'
-defaultContentLanguage = 'en'
+defaultContentLanguage = 'es'
 defaultContentLanguageInSubdir = true
 enableRobotsTXT = true
 enableSitemap = true
@@ -29,7 +29,7 @@ timeZone = 'America/Los_Angeles'
   [languages.en]
     label = 'English'
     locale = 'en-us'
-    weight = 1
+    weight = 2
     contentDir = 'content/en'
     
     [languages.en.params]
@@ -38,7 +38,7 @@ timeZone = 'America/Los_Angeles'
   [languages.es]
     label = 'Español'
     locale = 'es'
-    weight = 2
+    weight = 1
     contentDir = 'content/es'
     
     [languages.es.params]
