@@ -15,7 +15,7 @@ tags:
   - Atenas
 image: "/images/posts/tucidides/pericles_roman_copy_british_museum.png"
 focal_point: "10% 10%" # X and Y coordinates of the exact focal spot
-image_caption: "Thucydides held a deep intellectual admiration for Pericles, famously declaring him \"the first man of Athens\". In Book 2 of his History, Thucydides explicitly praises Pericles' unique ability to lead the volatile democratic assembly (the demos) through reason and respect rather than through flattery or deception. He notes that under Pericles, Athens was \"in name a democracy, but in fact governed by its first citizen.\" Pericles' Funeral Oration, recorded by Thucydides in Book 2 was delivered in 431 BCE to honor the first Athenian soldiers fallen in the Peloponnesian War. The speech serves as a timeless defense of democracy and open society. Pericles emphasizes that Athens is a model for others because its government favors the many instead of the few, offering equal justice under the law. He notes that poverty is no bar to civic contribution, and that Athenians enjoy a private freedom that makes them unique. He contrasts Athens' open, intellectually vibrant society with the closed, rigid militarism of their Spartan rivals. Thucydides pairs his portrayal of Periclean heights with deep tragedy. Immediately following the lofty ideals of the Funeral Oration, Thucydides details the horrific Plague of Athens (430 BCE). The plague decimated the city's population, eroded its moral fiber, and ultimately claimed the life of Pericles himself in 429 BCE. Thucydides uses this transition to contrast Pericles' steady guidance with the chaotic, self-serving demagogues who succeeded him and ultimately led Athens to its ruin."
+image_caption: "Tucídides sentía una profunda admiración intelectual por Pericles, a quien calificó célebremente como «el primer hombre de Atenas». En el Libro II de su Historia, Tucídides elogia explícitamente la capacidad singular de Pericles para dirigir la volátil asamblea democrática (el demos) mediante la razón y el respeto, en lugar de recurrir a la adulación o el engaño. Señala que, bajo el mandato de Pericles, Atenas era «una democracia de nombre, pero gobernada de hecho por su primer ciudadano». El discurso fúnebre de Pericles, recogido por Tucídides en el Libro II, fue pronunciado en el año 431 a. C. para honrar a los primeros soldados atenienses caídos en la Guerra del Peloponeso. Dicho discurso constituye una defensa atemporal de la democracia y de la sociedad abierta. Pericles subraya que Atenas es un modelo para los demás porque su gobierno favorece a la mayoría frente a la minoría, ofreciendo igualdad de justicia ante la ley. Destaca que la pobreza no impide la participación cívica y que los atenienses gozan de una libertad privada que los hace únicos. Asimismo, contrapone la sociedad abierta e intelectualmente vibrante de Atenas al militarismo cerrado y rígido de sus rivales espartanos. Tucídides vincula el retrato de la grandeza de la era de Pericles con una profunda tragedia. Inmediatamente después de exponer los elevados ideales del discurso fúnebre, Tucídides relata los horrores de la peste de Atenas (430 a. C.). La epidemia diezmó la población de la ciudad, socavó su fibra moral y, finalmente, acabó con la vida del propio Pericles en el año 429 a. C. Tucídides utiliza esta transición para contrastar la dirección firme de Pericles con la actuación de los demagogos caóticos y egoístas que le sucedieron y que, a la postre, condujeron a Atenas a la ruina."
 ---
 
 ## El hombre y su circunstancia
@@ -71,63 +71,3 @@ Puedes leer el Libro I en esta misma edición, con notas del traductor y materia
 → [Libro I de la *Historia de la guerra del Peloponeso*](https://ealeman.com/tucidides/historias/libro-1/)
 
 La edición completa (Libros I–II) está disponible libremente en Internet Archive bajo licencia Creative Commons [Atribución-SinDerivados 4.0 Internacional](https://creativecommons.org/licenses/by-nd/4.0/): [archive.org](https://archive.org/details/tucidides.-historia-de-la-guerra-del-peloponeso-1.-libros-i-ii-g-1990/mode/2up).
-
----
-
-## Bibliografía selecta
-
-Alberti, G. B., ed. *Thucydidis Historiae*. 3 vols. Roma: Istituto Polygraphico dello Stato, 1972–2000. Disponible en archive.org.
-
-Balot, Ryan K., Sara Forsdyke y Edith Foster, eds. *The Oxford Handbook of Thucydides*. Nueva York: Oxford University Press, 2017.
-
-Connor, W. R. *Thucydides*. Princeton: Princeton University Press, 1984.
-
-Crane, Gregory. *The Blinded Eye: Thucydides and the New Written Word*. Lanham, MD: Rowman and Littlefield, 1996.
-
-———. *The Ancient Simplicity: Thucydides and the Limits of Political Realism*. Berkeley: University of California Press, 1998.
-
-de Romilly, Jacqueline. *Histoire et raison chez Thucydide*. 2.ª ed. París: Les Belles Lettres, 1967.
-
-———. *The Mind of Thucydides*. Trad. Elizabeth Trapnell Rawlings. Ed. Hunter R. Rawlings III y Jeffrey Rusten. Ithaca: Cornell University Press, 2012. (1.ª ed. en francés, 1956.)
-
-———. *Thucydides and Athenian Imperialism*. Trad. Philip Thody. Oxford University Press. Reimpr. Salem, NH: Ayer, 1988.
-
-de Ste. Croix, G. E. M. *The Origins of the Peloponnesian War*. Oxford: Clarendon Press, 1972.
-
-Dover, K. J. *Thucydides*. Greece and Rome: New Surveys in the Classics 7. Oxford: Clarendon Press, 1973.
-
-Finley, J. H. *Thucydides*. Cambridge, MA: Harvard University Press, 1942. Reimpr. Ann Arbor: University of Michigan Press, 1963.
-
-Gomme, A. W., Antony Andrewes y K. J. Dover. *A Historical Commentary on Thucydides*. 5 vols. Oxford: Oxford University Press, 1945–1981.
-
-Hornblower, Simon. *Thucydides*. Londres: Duckworth, 1987. Disponible en archive.org.
-
-Kagan, Donald. *The Outbreak of the Peloponnesian War*. Cornell University Press, 1969 [reimpr. 1987].
-
-———. *The Archidamian War*. Cornell University Press, 1974 [reimpr. 1997].
-
-———. *The Peace of Nicias and the Sicilian Expedition*. Cornell University Press, 1981 [reimpr. 2001].
-
-———. *The Fall of the Athenian Empire*. Cornell University Press, 1987 [reimpr. 2001].
-
-Palmer, Michael. *Love of Glory and the Common Good: Aspects of the Political Thought of Thucydides*. Lanham, MD: Rowman and Littlefield, 1992.
-
-Parry, Adam. *Logos and Ergon in Thucydides*. Con introducción de Donald Kagan. Salem, NH: Ayer, 1981.
-
-Pouncey, Peter. *The Necessities of War: A Study of Thucydides' Pessimism*. Nueva York: Columbia University Press, 1980.
-
-Price, Jonathan J. *Thucydides and Internal War*. Cambridge: Cambridge University Press, 2001.
-
-Pritchett, W. K. *Thucydides' Pentekontaetia and Other Essays*. Amsterdam: J. C. Gieben, 1995.
-
-Proctor, Dennis. *The Experience of Thucydides*. Warminster: Aris and Phillips, 1980.
-
-Rawlings, Hunter R., III. *The Structure of Thucydides' History*. Princeton: Princeton University Press, 1981.
-
-Rengakos, Antonios, Antonis Tsakmakis, L. Canfora y E. J. Bakker. *Brill's Companion to Thucydides*. Leiden: Brill, 2006.
-
-Strassler, Robert B., ed. *The Landmark Thucydides: A Comprehensive Guide to the Peloponnesian War*. Nueva York: Free Press, 1998.
-
-Torres Esbarranch, Juan José, ed. y trad. *Tucídides. Historia de la guerra del Peloponeso. Libros I–II*. Madrid: Gredos, 1990.
-
-Woodruff, Paul, ed. y trad. *The Essential Thucydides: On Justice, Power, and Human Nature*. Hackett Publishing, 2021.
