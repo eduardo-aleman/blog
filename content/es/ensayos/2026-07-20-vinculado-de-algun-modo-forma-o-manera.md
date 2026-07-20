@@ -1,0 +1,52 @@
+---
+type: posts
+category: editorial
+categories:
+  - Editorial
+  - Geopolítica
+tags:
+  - Cuba
+  - relaciones Cuba-Estados Unidos
+  - Departamento de Estado
+  - Marco Rubio
+  - propaganda
+  - Guerra Fría
+  - política exterior
+  - cambio de régimen
+date: '2026-07-20'
+draft: false
+slug: vinculado-de-algun-modo-forma-o-manera
+title: "Vinculado, de algún modo, forma o manera"
+summary: "El nuevo informe del Departamento de Estado sobre Cuba engrapa una historia documentada de la Guerra Fría a un presente indocumentado, y le pide al lector que no repare en la costura. Su frase más reveladora es la cláusula evasiva que ocupa su centro: una afirmación causal diseñada para ser infalsable, publicada en el momento exacto en que Washington necesita un pretexto."
+description: "Análisis editorial del informe del Departamento de Estado «Cuba: The Capital of 21st Century Communism», que examina cómo la historia verificada del espionaje de la Guerra Fría se emplea para blanquear afirmaciones infalsables sobre la izquierda estadounidense contemporánea, y qué revela el momento de su publicación sobre su verdadera función."
+image: /images/posts/linked-in-some-way-shape-or-form/cover.jpg
+image_alt: "Edificio del Departamento de Estado de los Estados Unidos en Washington, D.C."
+image_caption: "El edificio Harry S. Truman, sede del Departamento de Estado de los Estados Unidos, Washington, D.C."
+toc: false
+---
+
+El lunes, el Departamento de Estado publicó un informe de cien páginas titulado «Cuba: The Capital of 21st Century Communism», presentado por el secretario Marco Rubio con la declaración de que el pueblo estadounidense merece conocer la historia completa del espionaje y la subversión cubanos. El titular que el documento está construido para generar — y la única parte que la mayoría llegará a conocer — es que La Habana está detrás de la izquierda estadounidense: detrás de Black Lives Matter, de los Socialistas Democráticos de América, de Antifa, de las protestas por George Floyd, del activismo universitario. Ese titular no es lo que el informe demuestra. Es lo que el informe insinúa, mediante una arquitectura retórica que vale la pena desmontar precisamente porque muy pocos de sus lectores abrirán el documento lo suficiente como para verla.
+
+El informe son, en realidad, dos documentos engrapados. El primero es una historia genuinamente documentada: Ana Belén Montes en la Agencia de Inteligencia de Defensa, el medio siglo de Víctor Manuel Rocha como agente cubano dentro del aparato de política exterior, Kendall Myers en el propio Departamento de Estado, los viajes de la Brigada Venceremos a la isla desde 1969, el entrenamiento cubano de guerrillas durante la Guerra Fría y su asilo a fugitivos estadounidenses, Assata Shakur la más célebre entre ellos. Casi nada de esto es nuevo; casi todo fue dirimido en tribunales, audiencias congresionales y archivos desclasificados hace décadas, y las notas del informe remiten a transcripciones de audiencias de 1973 y a periodismo publicado, no a inteligencia fresca. El segundo documento es un conjunto de afirmaciones sobre el presente: que las organizaciones progresistas de hoy constituyen «uno de los vectores de influencia extranjera hostil más grandes, sofisticados y peligrosos de la historia estadounidense moderna». El engrapado es todo el método: el peso probatorio del primer documento debe sentirse — sin transferirse jamás — bajo el segundo.
+
+La costura se asoma en una sola frase, la que será citada en todas partes y examinada en ninguna:
+
+> Muchas de las convulsiones más significativas de la historia política estadounidense reciente — desde los disturbios por George Floyd hasta el ascenso de Antifa y la explosión del activismo proterrorista en los campus universitarios — pueden vincularse, de algún modo, forma o manera, a la influencia cubana.
+
+Léase despacio. «Vincularse, de algún modo, forma o manera» no es un hallazgo; es una póliza de seguro. Una afirmación así de resguardada no puede ser falsa porque no puede ser puesta a prueba. Con el mismo criterio, la Revolución estadounidense puede vincularse, de algún modo, forma o manera, a la influencia francesa, y la derecha estadounidense de la Guerra Fría al anticomunismo de los emigrados europeos. La genealogía intelectual es real — las ideas viajan, y La Habana dedicó décadas a cultivar precisamente ese tráfico —, pero la genealogía no es operación, y la influencia no es control. La frase escenifica una causalidad sin comprometerse con ninguna.
+
+El propio informe concede el punto en la sección dedicada a su blanco políticamente más útil. Los Socialistas Democráticos de América, reconoce, no fueron fundados como fachada de la inteligencia cubana ni están controlados por agentes cubanos «per se»; su delito es que sus convicciones coinciden hoy con los intereses de La Habana «por decisión propia». Despojado del registro ominoso, queda esto: una organización estadounidense de afiliación abierta sostiene una posición política — la normalización, el fin del embargo — que un gobierno extranjero también sostiene, anuncia públicamente sus delegaciones y se reúne a la vista de todos con funcionarios de un Estado con el que Estados Unidos mantiene agravios. El informe trata la propia transparencia como algo siniestro, y se demora en hoteles de cinco estrellas y restaurantes finos como si la calidad del alojamiento fuera la calidad de la prueba. Pero la oposición al embargo no es una posición marginal importada del exterior; ha sido la de mayorías abrumadoras en la Asamblea General de la ONU durante tres décadas y la de mayorías consistentes del propio público estadounidense en las encuestas. Cuando la coincidencia con la preferencia declarada de un gobierno extranjero se convierte en el estándar probatorio de la subversión, ese estándar incrimina a la mitad de cualquier democracia en cualquier momento.
+
+El pasaje sobre Black Lives Matter opera la misma conversión. El informe afirma que los líderes del movimiento se pusieron firmemente del lado del gobierno cubano y en contra de los manifestantes durante las protestas de julio de 2021. Lo que la organización publicó en realidad fue un comunicado que culpaba a la política estadounidense de la penuria económica de la isla y elogiaba la solidaridad histórica de Cuba con las luchas de liberación negra — un comunicado legítimamente criticado en su momento, también desde la izquierda, por su silencio ante la represión estatal de unos manifestantes mayoritariamente afrocubanos. Un comunicado sesgado es una falla política; no es coordinación con un servicio de inteligencia extranjero. El método del informe disuelve esa distinción a propósito, porque la distinción es precisamente lo que separa las malas opiniones, que una sociedad libre metaboliza, de la agencia extranjera, contra la cual un Estado puede actuar legalmente.
+
+Hay además una contradicción estructural que el informe no puede resolver porque necesita ambas mitades. Cuba es descrita, en el mismo documento, como un Estado crónicamente fallido cuya economía se tambalea al borde del colapso — y como la capital ideológica de una red hemisférica tan potente que dirige las convulsiones más significativas de la vida política estadounidense. La isla padece hoy apagones continuos, racionamiento de combustible y el éxodo de aproximadamente un cuarto de su población desde 2021; su principal patrocinador fue decapitado por fuerzas estadounidenses en enero y sus importaciones de petróleo estranguladas por bloqueo desde entonces. Un régimen así de postrado no puede ser, a la vez, el titiritero de la sociedad civil estadounidense. La contradicción no es descuido. El estilo paranoico exige siempre un enemigo lo bastante débil para ser derrocado y lo bastante omnipotente para justificar el derrocamiento, y el informe suministra ambos a demanda.
+
+Lo cual nos lleva al momento de la publicación, el hecho menos negable del documento. Llega a los siete meses de una campaña de presión que ha incluido la captura de Nicolás Maduro, un bloqueo naval del suministro petrolero cubano, una emergencia nacional declarada que designa a la isla como amenaza extraordinaria, más de doscientas sanciones y las advertencias públicas del presidente: «hagan un trato, antes de que sea demasiado tarde» en enero, y la semana pasada, en Fox News, que «van a pasar muchas cosas en Cuba en los próximos meses». Los gobiernos que preparan acciones coercitivas producen papeles como este; es un género con linaje propio, del Libro Blanco sobre El Salvador de 1981 a los expedientes de 2002. La función del género no es informar sino predicar el terreno: dejar constancia, antes de la acción, de un documento que luego podrá citarse como su justificación.
+
+Y el informe cumple una segunda función, doméstica y de una franqueza inédita: es una publicación del Departamento de Estado que nombra a los adversarios políticos del gobierno en ejercicio — el DSA, entre cuyos miembros figura hoy el alcalde de Nueva York; BLM; los organizadores contra el ICE; el National Lawyers Guild; Code Pink — como nodos de influencia extranjera hostil. Piénsese lo que se piense de cualquiera de estas organizaciones, la maniobra misma debe reconocerse por lo que es. Designar la disidencia interna como instrumento de un enemigo extranjero figura entre los reflejos más antiguos del poder estatal, y Estados Unidos tiene su propia historia al respecto, de las redadas de Palmer al COINTELPRO. Un documento de política exterior que funciona a la vez como lista de enemigos internos no está describiendo la subversión. Está practicando una política para la cual la subversión es el salvoconducto.
+
+Nada de esto exige fingir que el Estado cubano es inocente de su historia o benévolo con su pueblo. El espionaje fue real; el asilo a los fugitivos fue real; la represión de los manifestantes de 2021 fue real y continúa. Pero la conclusión del informe no se sigue de sus pruebas, y sus autores parecen saberlo: la cláusula evasiva en su centro es la confesión. Para el lector que solo verá el titular, la destilación es esta: un gobierno que se prepara para actuar contra Cuba ha publicado cien páginas en las que todo lo verificado es viejo y todo lo nuevo es inverificable, y le ha pedido a la frase «de algún modo, forma o manera» que cargue con la diferencia.
+
+---
+
+*Fuentes: Departamento de Estado de los EE. UU., «Cuba: The Capital of 21st Century Communism» (20 de julio de 2026); Reuters; CNBC; Al Jazeera; PBS NewsHour; Foreign Policy; Fox News (enero–julio de 2026).*
