@@ -1,6 +1,6 @@
 ---
 title: "La batalla del bosque de Teutoburgo (9 d.C.)"
-date: 2026-09-26
+date: 2026-09-20
 authors: ["Analecta Stoa"]
 categories: ["Historia romana"]
 tags: ["Teutoburgo", "Varo", "Arminio", "Augusto", "Germania", "Kalkriese", "Legiones", "Clades Variana"]
