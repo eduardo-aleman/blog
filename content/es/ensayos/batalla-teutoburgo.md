@@ -10,7 +10,7 @@ ShowToc: true
 TocOpen: false
 draft: false
 cover:
-  image: "/images/posts/cover.jpg"
+  image: "/images/posts/batalla-teutoburgo/cover.jpg"
   alt: "Cenotafio del centurión Marco Celio, caído en la guerra de Varo"
   caption: "Cenotafio de Marco Celio, centurión de la legión XVIII, caído *bello Variano* (CIL XIII 8648). Hallado en Xanten; LVR-LandesMuseum, Bonn."
 ---
