@@ -9,10 +9,9 @@ summary: "Vida, obra y legado de Publio Cornelio Tácito, el historiador del pri
 ShowToc: true
 TocOpen: false
 draft: false
-cover:
-  image: "/images/posts/tacito-anales/cover.jpg"
-  alt: "Folio del Codex Mediceus de los Anales de Tácito, Biblioteca Medicea Laurenziana, Florencia"
-  caption: "Codex Mediceus I (Plut. 68.1), siglo IX, único testimonio de los libros I–VI de los *Anales*. Biblioteca Medicea Laurenziana, Florencia."
+image: '/images/posts/tacito-anales/cover.jpg'
+alt: 'Folio del Codex Mediceus de los Anales de Tácito, Biblioteca Medicea Laurenziana, Florencia'
+caption: 'Codex Mediceus I (Plut. 68.1), siglo IX, único testimonio de los libros I–VI de los *Anales*. Biblioteca Medicea Laurenziana, Florencia.'
 ---
 
 > **Publio Cornelio Tácito**, *Anales* (*Ab excessu divi Augusti*), ca. 115–120 d.C.

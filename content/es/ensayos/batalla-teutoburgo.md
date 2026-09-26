@@ -9,10 +9,9 @@ summary: "La destrucción de tres legiones de Publio Quintilio Varo a manos de A
 ShowToc: true
 TocOpen: false
 draft: false
-cover:
-  image: "/images/posts/batalla-teutoburgo/cover.jpg"
-  alt: "Cenotafio del centurión Marco Celio, caído en la guerra de Varo"
-  caption: "Cenotafio de Marco Celio, centurión de la legión XVIII, caído *bello Variano* (CIL XIII 8648). Hallado en Xanten; LVR-LandesMuseum, Bonn."
+image: '/images/posts/batalla-teutoburgo/cover.jpg'
+alt: 'Cenotafio del centurión Marco Celio, caído en la guerra de Varo'
+caption: 'Cenotafio de Marco Celio, centurión de la legión XVIII, caído *bello Variano* (CIL XIII 8648). Hallado en Xanten; LVR-LandesMuseum, Bonn.'
 ---
 
 > **La *clades Variana***, septiembre del año 9 d.C.
