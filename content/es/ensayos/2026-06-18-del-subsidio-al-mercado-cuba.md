@@ -1,7 +1,7 @@
 ---
 title: "Del subsidio al mercado: el giro de Cuba hacia el capital"
 date: '2026-06-18'
-draft: false
+draft: true
 type: posts
 summary: "El 18 de junio la Asamblea Nacional aprobó 176 medidas económicas que, en conjunto, constituyen la apertura al mercado más profunda que Cuba ha intentado desde 1959. Esta es una disección de su alcance, de las confesiones que las acompañaron, de sus consecuencias inmediatas y una conjetura sobre cómo responderá Washington a una mercantilización que sus propias sanciones están en condiciones de asfixiar."
 description: "El 18 de junio la Asamblea Nacional aprobó 176 medidas económicas que, en conjunto, constituyen la apertura al mercado más profunda que Cuba ha intentado desde 1959. Esta es una disección de su alcance, de las confesiones que las acompañaron, de sus consecuencias inmediatas y una conjetura sobre cómo responderá Washington a una mercantilización que sus propias sanciones están en condiciones de asfixiar."

@@ -1,7 +1,7 @@
 ---
 title: 'Primero el mercado, ¿después la libertad? Cuba entre Shleifer y Acemoglu'
 date: '2026-06-21'
-draft: false
+draft: true
 type: posts
 summary: 'El 18 de junio de 2026, la Asamblea Nacional cubana aprobó 176 medidas que convierten empresas estatales en sociedades por acciones, abren la banca al capital privado y equiparan a la diáspora con el inversor extranjero. El paquete reabre, sobre el terreno más improbable, el gran debate de la economía política contemporánea: el que enfrenta a Andrei Shleifer —privatizar rápido, democratizar después— con Daron Acemoglu, para quien ningún derecho de propiedad vale más que la restricción política que lo respalda. Este ensayo expone ambas teorías en su versión más fuerte, las somete al laboratorio postsoviético y, contra mi costumbre, toma partido.'
 description: 'Las reformas económicas cubanas de junio de 2026, leídas a través del debate entre Andrei Shleifer y Daron Acemoglu sobre el orden de las reformas: estilo legal frente a poder político, el modelo de Asia Oriental, el precedente de Polonia y Rusia, el papel de GAESA y la pregunta de la secuenciación. Con una conclusión que toma partido.'

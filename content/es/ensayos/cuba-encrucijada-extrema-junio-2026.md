@@ -1,7 +1,7 @@
 ---
 title: 'La encrucijada extrema de Cuba'
 date: '2026-06-04'
-draft: false
+draft: true
 type: posts
 summary: 'En junio de 2026, Cuba enfrenta la confluencia más devastadora de presiones económicas, judiciales y geopolíticas desde 1959. Sanciones personalizadas a la cúpula gobernante, la desbandada de las cadenas hoteleras internacionales, un fallo histórico de la Corte Suprema sobre propiedades confiscadas y la reconfiguración de las alianzas globales configuran un escenario de colapso sin precedentes.'
 description: 'En junio de 2026, Cuba enfrenta la confluencia más devastadora de presiones económicas, judiciales y geopolíticas desde 1959. Sanciones personalizadas a la cúpula gobernante, la desbandada de las cadenas hoteleras internacionales, un fallo histórico de la Corte Suprema sobre propiedades confiscadas y la reconfiguración de las alianzas globales configuran un escenario de colapso sin precedentes.'

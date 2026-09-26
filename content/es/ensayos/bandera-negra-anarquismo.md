@@ -1,7 +1,7 @@
 ---
 title: 'La bandera negra del anarquismo'
 date: '2026-01-25'
-draft: false
+draft: true
 type: posts
 summary: 'Paul Goodman lee la ola de protesta estudiantil de 1968 —de Columbia a París— como la expresión de una filosofía política que la prensa no acierta a nombrar: el anarquismo. Un ensayo sobre la espontaneidad de las bases, la democracia participativa y las contradicciones de una Nueva Izquierda que invoca a Mao y a los cuadros sin reconocer su propia tendencia libertaria.'
 description: 'Traducción del ensayo de Paul Goodman, aparecido en The New York Times Magazine el 14 de julio de 1968, sobre el anarquismo latente en la protesta estudiantil, la democracia participativa frente a la formación de cuadros, y las tensiones entre activistas, hippies y la Nueva Izquierda.'

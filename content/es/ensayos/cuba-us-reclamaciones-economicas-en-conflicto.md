@@ -1,7 +1,7 @@
 ---
 title: "Las reclamaciones económicas en conflicto entre Cuba y los Estados Unidos"
 date: '2026-06-06'
-draft: false
+draft: true
 type: posts
 summary: "Los Estados Unidos poseen una reclamación legítima, aunque metodológicamente inflada, derivada de las nacionalizaciones cubanas de 1959-1960. Cuba posee una contrarreclamación sustancialmente mayor, jurídicamente reconocible, derivada de sesenta y cinco años de coerción económica integral. En términos netos, el saldo equitativo se inclina sustancialmente a favor de Cuba. El bloqueo petrolero de 2026 cruza el umbral del castigo colectivo y elimina cualquier defensa de proporcionalidad restante que Washington pudiera invocar."
 description: "Los Estados Unidos poseen una reclamación legítima, aunque metodológicamente inflada, derivada de las nacionalizaciones cubanas de 1959-1960. Cuba posee una contrarreclamación sustancialmente mayor, jurídicamente reconocible, derivada de sesenta y cinco años de coerción económica integral. En términos netos, el saldo equitativo se inclina sustancialmente a favor de Cuba. El bloqueo petrolero de 2026 cruza el umbral del castigo colectivo y elimina cualquier defensa de proporcionalidad restante que Washington pudiera invocar."

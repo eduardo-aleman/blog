@@ -14,7 +14,7 @@ tags:
   - política exterior
   - cambio de régimen
 date: '2026-07-20'
-draft: false
+draft: true
 slug: vinculado-de-algun-modo-forma-o-manera
 title: "Vinculado, de algún modo, forma o manera"
 summary: "El nuevo informe del Departamento de Estado sobre Cuba engrapa una historia documentada de la Guerra Fría a un presente indocumentado, y le pide al lector que no repare en la costura. Su frase más reveladora es la cláusula evasiva que ocupa su centro: una afirmación causal diseñada para ser infalsable, publicada en el momento exacto en que Washington necesita un pretexto."

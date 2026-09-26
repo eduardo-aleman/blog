@@ -1,7 +1,7 @@
 ---
 title: "Una paz que parece derrota: el acuerdo Estados Unidos–Irán y la aritmética de la nada"
 date: '2026-06-14'
-draft: false
+draft: true
 type: posts
 summary: "En el balance estratégico, Estados Unidos libró una guerra de cuatro meses y se compró un regreso al punto de partida: menos la sangre, más un adversario fortalecido. Medida contra sus propios objetivos declarados, la celebración es interna y política, no estratégica."
 description: "Una evaluación de última hora del acuerdo entre Estados Unidos e Irán. Frente a los objetivos declarados de la guerra —el programa nuclear, los misiles, las milicias aliadas—, Washington logró poco, mientras Teherán sale con una palanca probada sobre el estrecho de Ormuz y la cuestión nuclear central apenas aplazada sesenta días."
