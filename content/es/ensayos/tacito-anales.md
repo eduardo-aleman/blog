@@ -10,7 +10,7 @@ ShowToc: true
 TocOpen: false
 draft: false
 cover:
-  image: "/codex_mediceus_tacito.jpg"
+  image: "/images/posts/tacito-anales/cover.jpg"
   alt: "Folio del Codex Mediceus de los Anales de Tácito, Biblioteca Medicea Laurenziana, Florencia"
   caption: "Codex Mediceus I (Plut. 68.1), siglo IX, único testimonio de los libros I–VI de los *Anales*. Biblioteca Medicea Laurenziana, Florencia."
 ---
