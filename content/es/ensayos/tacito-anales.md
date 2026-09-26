@@ -84,9 +84,9 @@ La traducción más destacada en lengua española, y la que reproducimos en este
 
 ---
 
-## TEXTO COMPLETO
+## TEXTO COMPLETO DEL LIBRO I
 
-<!-- Insertar aquí el texto de la traducción de Moralejo -->
+[Tácito. Anales. Libros I-VI. Edición de José Luis Moralejo, Biblioteca Clásica Gredos, vol. 19, Gredos, 1979.](https://ealeman.com/tacito/anales/libro-1/)
 
 ---
 
