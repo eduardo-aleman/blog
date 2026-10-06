@@ -5,7 +5,7 @@ authors: ["Tácito"]
 categories: ["Historia romana"]
 tags: ["Tácito", "Anales", "Principado", "Julio-Claudios", "Historiografía latina", "Moralejo"]
 series: ["Tácito"]
-summary: "Vida, obra y legado de Publio Cornelio Tácito, el historiador del principado, con la traducción de los Anales de José Luis Moralejo."
+summary: "Vida, obra y legado de Publio Cornelio Tácito, el historiador del principado, con la traducción del Libro I de los Anales de José Luis Moralejo."
 ShowToc: true
 TocOpen: false
 draft: false
