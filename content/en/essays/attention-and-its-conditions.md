@@ -13,7 +13,7 @@ tags:
   - Simone Weil
   - political economy
   - attention
-image: "/images/posts/attention-and-its-conditions/cover.jpg"
+image: "/images/posts/attention-and-its-conditions/cover.png"
 ---
 
 There is an objection that shadows every ethics of character, and it becomes especially pointed when we read Iris Murdoch. Her moral philosophy places attention at the center of the moral life: the slow, patient effort to see other people and the world as they really are, against the distortions of a self-protective ego. Goodness, for Murdoch, is largely a matter of inner vision, and the moral life happens mostly in the quiet spaces between explicit choices.
