@@ -27,7 +27,7 @@ Many people call the Presocratics the first masters of rational thought. Jonatha
 
 This claim deserves a closer look, because it is wrong in two ways at once. Reason did not suddenly switch on in sixth-century Miletus. People had been thinking carefully and systematically for thousands of years before Thales was born. And the supposed clean break with myth — the moment when natural events stopped being the moods of gods and became the workings of law — is much less clean than the story requires. A good deal of what we admire in these men is a portrait their modern readers painted, looking back across 2,500 years for an ancestor who resembled them.
 
-And yet, when all of that is granted, something stubborn remains. Something did change in the Greek texts. It is not the thing the textbooks usually name, and it survives both the oldest attack on it, Aristotle's, and the newest. This essay tries to say plainly what it was. Throughout, I quote the fragments from the edition by André Laks and Glenn W. Most, the nine-volume *Early Greek Philosophy* that has now become the standard. I give their bold "D" numbers along with the older Diels–Kranz "B" numbers that most readers still recognize.
+And yet, when all of that is granted, something stubborn remains. Something did change in the Greek texts. It is not the thing the textbooks usually name, and it survives both the oldest attack on it, Aristotle's, and the newest. This essay tries to say plainly what it was.
 
 ## Reason Did Not Begin in Miletus
 
